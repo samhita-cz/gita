@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -1417,31 +1417,31 @@ body.sand-mode .comment b {
 <body>
   <div class="song-topbar" id="song-topbar">
     <div class="song-topbar-inner">
-      <a class="back-link" href="index.html" aria-label="Zpět na seznam">
+      <a class="back-link" href="index.html" aria-label="Back to list">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
           <line x1="20" y1="12" x2="4" y2="12"></line>
           <polyline points="10 18 4 12 10 6"></polyline>
         </svg>
       </a>    
       
-      <div class="topbar-title" id="topbar-title">Načítám…</div>
+      <div class="topbar-title" id="topbar-title">Loading…</div>
       
       <div class="topbar-actions">
-        <button class="icon-btn audio-btn" type="button" id="audio-toggle" aria-label="Nahrávky">
+        <button class="icon-btn audio-btn" type="button" id="audio-toggle" aria-label="Recordings">
           ♬<span class="audio-text">Chanting</span>
-        </button>        <button class="icon-btn" type="button" onclick="changeSize(-2)" aria-label="Zmenšit písmo">A−</button>
-        <button class="icon-btn" type="button" onclick="changeSize(2)" aria-label="Zvětšit písmo">A+</button>
+        </button>        <button class="icon-btn" type="button" onclick="changeSize(-2)" aria-label="Decrease font size">A−</button>
+        <button class="icon-btn" type="button" onclick="changeSize(2)" aria-label="Increase font size">A+</button>
         
-        <button class="icon-btn desktop-only" type="button" id="col-toggle-btn" onclick="toggleColumns()" title="Přepnout sloupce">◫</button>
+        <button class="icon-btn desktop-only" type="button" id="col-toggle-btn" onclick="toggleColumns()" title="Toggle columns">◫</button>
         
-        <button class="icon-btn" type="button" onclick="toggleDarkMode()" title="Přepnout vzhled">🌙</button>
+        <button class="icon-btn" type="button" onclick="toggleDarkMode()" title="Switch theme">🌙</button>
         <button class="icon-btn" type="button" id="more-menu-btn" style="font-size: 20px;">⋮</button>
     
         <div id="more-menu-dropdown" class="more-menu-dropdown">
           
           <div style="text-align: center; padding-bottom: 10px;">
             <span class="menu-label" style="display: block; margin-bottom: 5px;">Akordy</span>
-            <button class="grid-btn" id="toggle-chords" title="Zobrazit/skrýt akordy" style="margin: 0 auto;">C</button>
+            <button class="grid-btn" id="toggle-chords" title="Show or hide chords" style="margin: 0 auto;">C</button>
           </div>
     
           <div id="transpose-section" class="transpose-section">
@@ -1460,20 +1460,20 @@ body.sand-mode .comment b {
     </div>
     </div>
   
-    <div class="audio-drawer" id="audio-drawer" aria-label="Audio nahrávky">
+    <div class="audio-drawer" id="audio-drawer" aria-label="Audio recordings">
       <div class="audio-list" id="audio-list"></div>
       <audio id="audio-player" controls></audio>
     </div>
   </div>
 <div id="page">
-  <div id="loading">Načítám písničku…</div>
-  <div id="error">Písničku se nepodařilo načíst. Zkontroluj URL.</div>
+  <div id="loading">Loading lecture…</div>
+  <div id="error">Could not load the lecture. Check the URL.</div>
   <div id="chord-app" style="display:none;"></div>
 </div>
 
 <div class="scroll-nav">
-  <button class="scroll-btn" onclick="navigateLecture(-1)" title="Předchozí verš">⏴</button>
-  <button class="scroll-btn" onclick="navigateLecture(1)" title="Další verš">⏵</button>
+  <button class="scroll-btn" onclick="navigateLecture(-1)" title="Previous lecture">⏴</button>
+  <button class="scroll-btn" onclick="navigateLecture(1)" title="Next lecture">⏵</button>
 </div>
 
 <script>
@@ -1753,7 +1753,7 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
         item.className = 'audio-item';
         
         // Zkusí použít label, nebo title. Pokud nic není, napíše "Nahrávka 1"
-        const title = a.label || a.title || (audioList.length === 1 ? 'Přehrát nahrávku' : `Nahrávka ${idx + 1}`);
+        const title = a.label || a.title || (audioList.length === 1 ? 'Play recording' : `Recording ${idx + 1}`);
         
         item.innerHTML = `<span class="audio-item-title">${title}</span><span class="audio-item-meta">▶</span>`;
         item.onclick = () => {
@@ -2032,7 +2032,7 @@ if (window.currentSongObj) {
         html += `
             <div class="analysis-container">
                 <div class="analysis-header" onclick="toggleAnalysis()" style="font-size: ${currentFontSize * 0.8}px;">
-                    <span>🔆 Komentáře a odkazy</span>
+                    <span>🔆 Notes and links</span>
                     <span id="analysis-arrow">${analysisOpen ? "▲" : "▼"}</span>
                 </div>
                 <div id="analysis-content" class="analysis-content" style="display: ${analysisOpen ? 'block' : 'none'}; font-size: ${currentFontSize * 0.9}px;">${formattedAnalysis}</div>
@@ -2089,7 +2089,7 @@ window.toggleAnalysis = function() {
         console.error(err);
       });
   } else {
-    document.getElementById('loading').innerHTML = "Chybí název písničky v URL.";
+    document.getElementById('loading').innerHTML = "Missing lecture name in the URL.";
   }
   
   })();
@@ -2185,7 +2185,7 @@ async function navigateLecture(direction) {
                 // Ostatní parametry jako 'audio' se vygenerují znovu při načtení stránky
                 window.location.href = `song.html?s=${encodeURIComponent(nextPath)}`;
             } else {
-                alert(direction > 0 ? "Jste na konci Bhagavadgíty." : "Jste na úplném začátku.");
+                alert(direction > 0 ? "You are at the end of the Bhagavad Gita." : "You are at the very beginning.");
             }
         } else {
             console.error("Chyba: Aktuální cesta '" + currentPath + "' nebyla v songs.json nalezena.");

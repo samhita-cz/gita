@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="cs">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -938,58 +938,58 @@ body.sand-mode .filter-pill strong {
       <div class="header-inner">
         <div class="header-text">
           <h1>Bhagavad Gita - SwaSarva</h1>
-          <div class="last-update" id="last-update">Aktualizováno: —</div>
+          <div class="last-update" id="last-update">Updated: —</div>
         </div>
         <div class="header-actions">
-          <button class="icon-btn" type="button" onclick="toggleDarkMode()" title="Přepnout tmavý režim" style="margin-right: 8px; font-size: 20px; background: none; border: none; cursor: pointer;">🌙</button>
+          <button class="icon-btn" type="button" onclick="toggleDarkMode()" title="Switch theme" style="margin-right: 8px; font-size: 20px; background: none; border: none; cursor: pointer;">🌙</button>
           
-          <button class="menu-btn" id="menu-btn" type="button" aria-label="Otevřít menu" aria-haspopup="dialog" aria-controls="sidebar">⋯</button>
+          <button class="menu-btn" id="menu-btn" type="button" aria-label="Open menu" aria-haspopup="dialog" aria-controls="sidebar">⋯</button>
         </div>
       </div>
     </header>
     <div id="search-wrap">
       <div class="search-shell">
         <input id="search" type="search" placeholder="Find a lecture containing a verse (e.g. 3.26)" oninput="filterSongs()" />
-        <button id="search-clear" class="search-clear-btn" type="button" aria-label="Vymazat hledání" onclick="clearSearch()">✕</button>
+        <button id="search-clear" class="search-clear-btn" type="button" aria-label="Clear search" onclick="clearSearch()">✕</button>
       </div>
     </div>
   </div>
 
 <div id="active-filter"></div>
 
-<div id="loading">Načítám písničky...</div>
+<div id="loading">Loading lectures...</div>
 <ul id="song-list"></ul>
-<div id="no-results">Žádná písničká nenalezena.</div>
+<div id="no-results">No lectures found.</div>
 
-<footer>Zpěvník • GitHub Pages</footer>
+<footer>Songbook • GitHub Pages</footer>
 
 <div id="sidebar-backdrop" onclick="closeSidebar()"></div>
 <aside id="sidebar" role="dialog" aria-modal="true" aria-label="Menu">
   <div class="sidebar-header">
     <div class="sidebar-title">Menu</div>
-    <button class="sidebar-close" type="button" aria-label="Zavřít menu" onclick="closeSidebar()">✕</button>
+    <button class="sidebar-close" type="button" aria-label="Close menu" onclick="closeSidebar()">✕</button>
   </div>
   <div class="sidebar-content">
-    <section class="sidebar-section" aria-label="Řazení">
-      <h3>Řazení</h3>
+    <section class="sidebar-section" aria-label="Sort by">
+      <h3>Sort by</h3>
       <div class="sidebar-buttons">
-        <button id="sort-az" class="pill-btn is-active" type="button" onclick="setSortMode('az')">Abeceda</button>
-        <button id="sort-unstudied" class="pill-btn" type="button" onclick="setSortMode('unstudied')">Ke studiu</button>
+        <button id="sort-az" class="pill-btn is-active" type="button" onclick="setSortMode('az')">A-Z</button>
+        <button id="sort-unstudied" class="pill-btn" type="button" onclick="setSortMode('unstudied')">Unstudied</button>
       </div>
     </section>
 
-    <section class="sidebar-section" aria-label="Kategorie">
-      <h3>Kategorie</h3>
+    <section class="sidebar-section" aria-label="Chapters">
+      <h3>Chapters</h3>
       <div class="category-list" id="category-list"></div>
     </section>
   </div>
 
   <div class="sidebar-footer">
-    <a class="sidebar-logo" href="https://www.samhita.cz" target="_blank" rel="noopener noreferrer" aria-label="Otevřít web Samhita">
+    <a class="sidebar-logo" href="https://www.samhita.cz" target="_blank" rel="noopener noreferrer" aria-label="Open Samhita website">
       <img src="assets/logo_top.png" alt="Samhita" />
       <span>www.samhita.cz</span>
     </a>
-    <span id="sidebar-last-update">Aktualizováno: —</span>
+    <span id="sidebar-last-update">Updated: —</span>
   </div>
 </aside>
 
@@ -1067,7 +1067,7 @@ const CATEGORY_ORDER = [
   'Chapter 16 — daivasura sampad vibhāga yoga',
   'Chapter 17 — śraddhātraya vibhāga yoga',
   'Chapter 18 — mokṣa sannyāsa yoga',
-  'Odkazy'
+  'Links'
 ];
 
 // Načteme songs.json
@@ -1096,7 +1096,7 @@ fetch('songs.json')
   })
   .catch(error => {
     console.error('Chyba při načítání písniček:', error);
-    document.getElementById('loading').innerHTML = 'Chyba při načítání písniček 😢';
+    document.getElementById('loading').innerHTML = 'Error loading lectures.';
   });
 
 // Datum a čas poslední úpravy zpěvníku (podle souboru songs.json)
@@ -1114,7 +1114,7 @@ async function renderLastUpdate() {
     if (Number.isNaN(d.getTime())) return;
     
     // Zde je přidáno nastavení pro čas
-    const formatted = new Intl.DateTimeFormat('cs-CZ', { 
+    const formatted = new Intl.DateTimeFormat('en-GB', { 
       year: 'numeric', 
       month: '2-digit', 
       day: '2-digit',
@@ -1123,10 +1123,10 @@ async function renderLastUpdate() {
       second: '2-digit'
     }).format(d);
     
-    if (el) el.textContent = `Aktualizováno: ${formatted}`;
-    if (el2) el2.textContent = `Aktualizováno: ${formatted}`;
+    if (el) el.textContent = `Updated: ${formatted}`;
+    if (el2) el2.textContent = `Updated: ${formatted}`;
   } catch (error) {
-    console.error("Chyba při načítání data aktualizace:", error);
+    console.error("Error loading update date:", error);
   }
 }
 
@@ -1211,7 +1211,7 @@ function renderSongs(list) {
                onchange="toggleStudied(event, '${song.file}')" 
                ${localStorage.getItem('studied_' + song.file) === 'true' ? 'checked' : ''}>
         
-        <label for="chk-${song.file}" class="song-icon-label" style="margin-left: 16px;" onclick="event.stopPropagation();" title="Označit jako prostudované">
+        <label for="chk-${song.file}" class="song-icon-label" style="margin-left: 16px;" onclick="event.stopPropagation();" title="Mark as studied">
           <span class="icon-symbol">🔆</span>
         </label>
         
@@ -1372,7 +1372,7 @@ function renderActiveFilter() {
   wrap.innerHTML = `
     <span class="filter-pill">
       Filtr: <strong>${categoryFilter}</strong>
-      <button class="filter-clear" type="button" aria-label="Zrušit filtr" onclick="clearCategoryFilter()">✕</button>
+      <button class="filter-clear" type="button" aria-label="Clear filter" onclick="clearCategoryFilter()">✕</button>
     </span>
   `;
 }

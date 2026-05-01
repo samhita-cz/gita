@@ -1,7 +1,7 @@
-{title: Odkazy }
+{title: Links }
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Odkazy}
+{category: Links}
 {tags: }
 # 
 
