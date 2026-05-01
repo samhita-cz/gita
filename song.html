@@ -1169,8 +1169,8 @@ body.dark-mode {
 }
 
 body.dark-mode .song-topbar {
-  background-color: #2c2825 !important;
-  border-bottom: 1px solid #403c38 !important;
+  background-color: #1a2a40 !important; /* Noční modrá */
+  border-bottom: 1px solid #2c4c7e !important;
 }
 
 body.dark-mode .topbar-title,
@@ -1238,10 +1238,14 @@ body.sand-mode .chorus-label,
 body.sand-mode .song-tempo,
 body.sand-mode .song-capo,
 body.sand-mode .song-time,
-body.sand-mode .topbar-title,
-body.sand-mode #topbar-title,
 body.sand-mode .shift-display {
   color: #4a3b32 !important;
+}
+
+/* Bílý text v modré liště pro pískový režim */
+body.sand-mode .topbar-title,
+body.sand-mode #topbar-title {
+  color: #ffffff !important;
 }
 
 body.sand-mode .song-subtitle {
@@ -1253,8 +1257,8 @@ body.sand-mode .chord {
 }
 
 body.sand-mode .song-topbar {
-  background-color: #eaddc5 !important;
-  border-bottom: 1px solid #d4c2a5 !important;
+  background-color: #1f3a5f !important; /* Námořnická modrá (jako na indexu) */
+  border-bottom: 1px solid #142844 !important;
 }
 
 body.sand-mode .topbar-actions button,
@@ -1344,6 +1348,7 @@ body.sand-mode .comment strong,
 body.sand-mode .comment b {
   color: #8a4e46 !important;
 }
+
 </style>
 <script>
   // Tato funkce provede veškerou magii
@@ -1423,7 +1428,7 @@ body.sand-mode .comment b {
       
       <div class="topbar-actions">
         <button class="icon-btn audio-btn" type="button" id="audio-toggle" aria-label="Nahrávky">
-          🎶<span class="audio-text">Chanting</span>
+          ♬<span class="audio-text">Chanting</span>
         </button>        <button class="icon-btn" type="button" onclick="changeSize(-2)" aria-label="Zmenšit písmo">A−</button>
         <button class="icon-btn" type="button" onclick="changeSize(2)" aria-label="Zvětšit písmo">A+</button>
         
@@ -1484,13 +1489,13 @@ body.sand-mode .comment b {
     
     if (theme === 'dark') {
       document.body.classList.add('dark-mode');
-      if (themeBtn) themeBtn.textContent = '☕'; // Z tmavého do pískového
+      if (themeBtn) themeBtn.textContent = '🌙'; // Z tmavého do pískového
     } else if (theme === 'sand') {
       document.body.classList.add('sand-mode');
-      if (themeBtn) themeBtn.textContent = '☀️'; // Z pískového do světlého
+      if (themeBtn) themeBtn.textContent = '🪷'; // Z pískového do světlého
     } else {
       // Světlý režim
-      if (themeBtn) themeBtn.textContent = '🌙'; // Ze světlého do tmy
+      if (themeBtn) themeBtn.textContent = '☀️'; // Ze světlého do tmy
     }
     
     localStorage.setItem('samhita_theme', theme);
