@@ -74,8 +74,8 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गव: || 5||
 युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् |
 सौभद्रो द्रौपदेयाश्च सर्व एव महारथा: || 6||
-  
-atra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi
+
+Tatra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi
 yuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ
 dhṛiṣhṭaketuśhchekitānaḥ kāśhirājaśhcha vīryavān
 purujit kuntibhojaśhcha śhaibyaśhcha nara-puṅgavaḥ
@@ -97,8 +97,6 @@ Powerful Yudhāmanyu, brave Uttamaujā, Subhadrā’s son, and the sons of Draup
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-7.mp3
 
-__Having named some of the foremost heroes of the Pandava Army, Duryodhana mentions the names of warriors on his side__
-
 अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम |
 नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते || 7||
 
@@ -109,6 +107,8 @@ asmākam—ours; tu—but; viśhiṣhṭāḥ—special; ye—who; tān—them; 
 {eov}
 
 {sot}
+(Having named some of the foremost heroes of the Pandava Army, Duryodhana mentions the names of warriors on his side)
+
 O best of the twice-born, let me also recount to you the leaders of my own army, those distinguished amongst ourselves. I shall name them, that you may know them all:
 {eot}
 
@@ -139,8 +139,6 @@ And many other heroes besides, armed with many weapons, each well skilled in bat
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-10.mp3
 
-Having named the various warriors on both sides Duryodhana now declares that his own army is superior.
-
 अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् |
 पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् || 10||
 
@@ -151,6 +149,8 @@ aparyāptam—unlimited; tat—that; asmākam—ours; balam—strength; bhīṣh
 {eov}
 
 {sot}
+(Having named the various warriors on both sides Duryodhana now declares that his own army is superior.)
+
 But this army of ours, protected by Bhishma, is unlimited, and that army of theirs, protected by Bhima, is limited.
 {eot}
 
@@ -192,8 +192,6 @@ Bhishma the grandsire, the glorious, the oldest of the Kurus, gave forth a lion-
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-13.mp3
 
-__Following the example of Bhishma, other heroes blew the conches, and drums, trumpets, and horns were sounded.__
-
 तत: शङ्खाश्च भेर्यश्च पणवानकगोमुखा: |
 सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् || 13||
 
@@ -204,6 +202,7 @@ tataḥ—thereafter; śhaṅkhāḥ—conches; cha—and; bheryaḥ—bugles; c
 {eov}
 
 {sot}
+(Following the example of Bhishma, other heroes blew the conches, and drums, trumpets, and horns were sounded.)
 Then conchs and kettle-drums, tabors and trumpets and cow-horns suddenly blared forth; and the sound was stupendous.
 {eot}
 

@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>057. Chapter 4 Verses 35-37</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.35</div>
+            <div class="devanagari">यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।<br>येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ।। 35।।</div>
+            <div class="iast">yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava<br>yena bhūtānyaśheṣheṇa drakṣhyasyātmanyatho mayi</div>
+            <div class="glossary"><b>yat</b>—which; <b>jñātvā</b>—having known; <b>na</b>—never; <b>punaḥ</b>—again; <b>moham</b>—delusion; <b>evam</b>—like this; <b>yāsyasi</b>—you shall get; <b>pāṇḍava</b>—Arjun, the son of Pandu; <b>yena</b>—by this; <b>bhūtāni</b>—living beings; <b>aśheṣhāṇi</b>—all; <b>drakṣhyasi</b>—you will see; <b>ātmani</b>—within me (Shree Krishna); <b>atho</b>—that is to say; <b>mayi</b>—in me</div>
+            <div class="translation">O Arjuna! Having obtained this knowledge, you will not thus be deluded again and by this Knowledge, you will see all beings in your Self and also in Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.36</div>
+            <div class="devanagari">अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: ।<br>सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ।। 36।।</div>
+            <div class="iast">api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛit-tamaḥ<br>sarvaṁ jñāna-plavenaiva vṛijinaṁ santariṣhyasi</div>
+            <div class="glossary"><b>api</b>—even; <b>chet</b>—if; <b>asi</b>—you are; <b>pāpebhyaḥ</b>—sinners; <b>sarvebhyaḥ</b>—of all; <b>pāpa-kṛit-tamaḥ</b>—most sinful; <b>sarvam</b>—all; <b>jñāna-plavena</b>—by the boat of divine knowledge; <b>eva</b>—certainly; <b>vṛijinam</b>—sin; <b>santariṣhyasi</b>—you shall cross over</div>
+            <div class="translation">Even if you are the most sinful of all sinners you shall cross all sin by the raft of Knowledge.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.37</div>
+            <div class="devanagari">यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।<br>ज्ञानाग्नि: सर्वकर्माणि भस्मसात्कुरुते तथा ।। 37।।</div>
+            <div class="iast">yathaidhānsi samiddho ’gnir bhasma-sāt kurute ’rjuna<br>jñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā</div>
+            <div class="glossary"><b>yathā</b>—as; <b>edhānsi</b>—firewood; <b>samiddhaḥ</b>—blazing; <b>agniḥ</b>—fire; <b>bhasma-sāt</b>—to ashes; <b>kurute</b>—turns; <b>arjuna</b>—Arjun; <b>jñāna-agniḥ</b>—the fire of knowledge; <b>sarva-karmāṇi</b>—all reactions from material activities; <b>bhasma-sāt</b>—to ashes; <b>kurute</b>—it turns; <b>tathā</b>—similarly</div>
+            <div class="translation">O Arjuna! Just as blazing fire reduces wood to ashes, even so, the fire of, Knowledge destroys all actions.</div>
+        </div>
+        
+</body>
+</html>

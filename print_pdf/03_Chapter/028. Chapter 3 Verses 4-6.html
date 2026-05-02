@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 3 — karma yoga</div>
+        <h1>028. Chapter 3 Verses 4-6</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.4</div>
+            <div class="devanagari">न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।<br>न च संन्यसनादेव सिद्धिं समधिगच्छति ।। 4।।</div>
+            <div class="iast">na karmaṇām anārambhān naiṣhkarmyaṁ puruṣho ’śhnute<br>na cha sannyasanād eva siddhiṁ samadhigachchhati</div>
+            <div class="glossary"><b>na</b>—not; <b>karmaṇām</b>—of actions; <b>anārambhāt</b>—by abstaining from; <b>naiṣhkarmyam</b>—freedom from karmic reactions; <b>puruṣhaḥ</b>—a person; <b>aśhnute</b>—attains; <b>na</b>—not; <b>cha</b>—and; <b>sannyasanāt</b>—by renunciation; <b>eva</b>—only; <b>siddhim</b>—perfection; <b>samadhigachchhati</b>—attains</div>
+            <div class="translation">Man does not match the actionless state of Brahman by mere non-performance of work, nor does he attain perfection by renunciation only.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.5</div>
+            <div class="devanagari">न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।<br>कार्यते ह्यवश: कर्म सर्व: प्रकृतिजैर्गुणै: ।। 5।।</div>
+            <div class="iast">na hi kaśhchit kṣhaṇam api jātu tiṣhṭhatyakarma-kṛit<br>kāryate hyavaśhaḥ karma sarvaḥ prakṛiti-jair guṇaiḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>hi</b>—certainly; <b>kaśhchit</b>—anyone; <b>kṣhaṇam</b>—a moment; <b>api</b>—even; <b>jātu</b>—ever; <b>tiṣhṭhati</b>—can remain; <b>akarma-kṛit</b>—without action; <b>kāryate</b>—are performed; <b>hi</b>—certainly; <b>avaśhaḥ</b>—helpless; <b>karma</b>—work; <b>sarvaḥ</b>—all; <b>prakṛiti-jaiḥ</b>—born of material nature; <b>guṇaiḥ</b>—by the qualities</div>
+            <div class="translation">No one can live even for a moment without doing work. Everyone without his will is made to do work by the qualities born of Prakriti.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.6</div>
+            <div class="devanagari">कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।<br>इन्द्रियार्थान्विमूढात्मा मिथ्याचार: स उच्यते ।। 6।।</div>
+            <div class="iast">karmendriyāṇi sanyamya ya āste manasā smaran<br>indriyārthān vimūḍhātmā mithyāchāraḥ sa uchyate</div>
+            <div class="glossary"><b>karma-indriyāṇi</b>—the organs of action; <b>sanyamya</b>—restrain; <b>yaḥ</b>—who; <b>āste</b>—remain; <b>manasā</b>—in the mind; <b>smaran</b>—to remember; <b>indriya-arthān</b>—sense objects; <b>vimūḍha-ātmā</b>—the deluded; <b>mithyā-āchāraḥ</b>—hypocrite; <b>saḥ</b>—they; <b>uchyate</b>—are called</div>
+            <div class="translation">The man of deluded understanding who restraining the organs of the action sits contemplating the sense objects with the mind is called a hypocrite.</div>
+        </div>
+        
+</body>
+</html>

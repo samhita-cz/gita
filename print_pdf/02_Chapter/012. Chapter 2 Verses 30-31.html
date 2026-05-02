@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>012. Chapter 2 Verses 30-31</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.30</div>
+            <div class="devanagari">देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।<br>तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ।। 30।।</div>
+            <div class="iast">dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata<br>tasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi</div>
+            <div class="glossary"><b>dehī</b>—the soul that dwells within the body; <b>nityam</b>—always; <b>avadhyaḥ</b>—immortal; <b>ayam</b>—this soul; <b>dehe</b>—in the body; <b>sarvasya</b>—of everyone; <b>bhārata</b>—descendant of Bharat, Arjun; <b>tasmāt</b>—therefore; <b>sarvāṇi</b>—for all; <b>bhūtāni</b>—living entities; <b>na</b>—not; <b>tvam</b>—you; <b>śhochitum</b>—mourn; <b>arhasi</b>—should</div>
+            <div class="translation">O Arjuna! The Self existing in the body of all beings is never slain. So it is not right for you to grieve for any creature.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.31</div>
+            <div class="devanagari">स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि ।<br>धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते ।। 31।।</div>
+            <div class="iast">swa-dharmam api chāvekṣhya na vikampitum arhasi<br>dharmyāddhi yuddhāch chhreyo ’nyat kṣhatriyasya na vidyate</div>
+            <div class="glossary"><b>swa-dharmam</b>—one’s duty in accordance with the Vedas; <b>api</b>—also; <b>cha</b>—and; <b>avekṣhya</b>—considering; <b>na</b>—not; <b>vikampitum</b>—to waver; <b>arhasi</b>—should; <b>dharmyāt</b>—for righteousness; <b>hi</b>—indeed; <b>yuddhāt</b>—than fighting; <b>śhreyaḥ</b>—better; <b>anyat</b>—another; <b>kṣhatriyasya</b>—of a warrior; <b>na</b>—not; <b>vidyate</b>—exists</div>
+            <div class="translation">And moreover, considering your own duty, you should not waver, for, there is nothing higher for a Kshatriya than a righteous war.</div>
+        </div>
+        
+</body>
+</html>

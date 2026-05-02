@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>046. Chapter 4 Verses 9-10</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.9</div>
+            <div class="devanagari">जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वत: ।<br>त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ।। 9।।</div>
+            <div class="iast">janma karma cha me divyam evaṁ yo vetti tattvataḥ<br>tyaktvā dehaṁ punar janma naiti mām eti so ’rjuna</div>
+            <div class="glossary"><b>janma</b>—birth; <b>karma</b>—activities; <b>cha</b>—and; <b>me</b>—of mine; <b>divyam</b>—divine; <b>evam</b>—thus; <b>yaḥ</b>—who; <b>vetti</b>—know; <b>tattvataḥ</b>—in truth; <b>tyaktvā</b>—having abandoned; <b>deham</b>—the body; <b>punaḥ</b>—again; <b>janma</b>—birth; <b>na</b>—never; <b>eti</b>—takes; <b>mām</b>—to me; <b>eti</b>—comes; <b>saḥ</b>—he; <b>arjuna</b>—Arjun</div>
+            <div class="translation">Those who understand the divine nature of My birth and activities, O Arjun, upon leaving the body, do not have to take birth again, but come to My eternal abode.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.10</div>
+            <div class="devanagari">वीतरागभयक्रोधा मन्मया मामुपाश्रिता: ।<br>बहवो ज्ञानतपसा पूता मद्भावमागता: ।। 10।।</div>
+            <div class="iast">vīta-rāga-bhaya-krodhā man-mayā mām upāśhritāḥ<br>bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ</div>
+            <div class="glossary"><b>vīta</b>—free from; <b>rāga</b>—attachment; <b>bhaya</b>—fear; <b>krodhāḥ</b>—anger; <b>mat-mayā</b>—completely absorbed in me; <b>mām</b>—in me; <b>upāśhritāḥ</b>—taking refuge (of); <b>bahavaḥ</b>—many (persons); <b>jñāna</b>—of knowledge; <b>tapasā</b>—by the fire of knowledge; <b>pūtāḥ</b>—purified; <b>mat-bhāvam</b>—my divine love; <b>āgatāḥ</b>—attained</div>
+            <div class="translation">Free from desire, fear, and hatred, absorbed in Me, taking refuge in Me, many purified by the penance of knowledge have attained Me.</div>
+        </div>
+        
+</body>
+</html>

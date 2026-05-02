@@ -1,0 +1,191 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>002. Chapter 2 Verses 1-10 </h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.1</div>
+            <div class="devanagari">सञ्जय उवाच ।<br>तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।<br>विषीदन्तमिदं वाक्यमुवाच मधुसूदन: ।। 1।।</div>
+            <div class="iast">sañjaya uvācha<br>taṁ tathā kṛipayāviṣhṭamaśhru pūrṇākulekṣhaṇam<br>viṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ</div>
+            <div class="glossary"><b>sañjayaḥ uvācha</b>—Sanjay said; <b>tam</b>—to him (Arjun); <b>tathā</b>—thus; <b>kṛipayā</b>—with pity; <b>āviṣhṭam</b>—filled; <b>aśhrupūrṇākulekṣhaṇam</b>—with eyes blurred with tears; <b>viṣhīdantam</b>—grief-stricken; <b>idam vākyam</b>—these words; <b>uvācha</b>—said; <b>madhusūdanaḥ</b>—Krishna</div>
+            <div class="translation">In this manner, when Arjuna was plunged in a state of despondency, with eyes blurred with tears, Lord Krishna addressed these words to him.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.2</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् ।<br>अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ।। 2।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>kutastvā kaśhmalamidaṁ viṣhame samupasthitam<br>anārya-juṣhṭamaswargyam akīrti-karam arjuna</div>
+            <div class="glossary"><b>Arjuna</b>—O Arjuna!; <b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>kutaḥ</b>—wherefrom; <b>tvā</b>—to you; <b>kaśhmalam</b>—dejection; <b>idam</b>—this; <b>viṣhame</b>—in this hour of peril; <b>samupasthitam</b>—taken hold; <b>anāryajuṣhṭam</b>—unworthy; <b>aswargyam</b>—heaven-excluding; <b>akīrti-karam</b>—shameful</div>
+            <div class="translation">The Lord said: O Arjuna! Whence, in this critical situation, has this mental dejection takes hold of you, shameful and Heaven-excluding?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.3</div>
+            <div class="devanagari">क्लैब्यं मा स्म गम: पार्थ नैतत्त्वय्युपपद्यते ।<br>क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ।। 3।।</div>
+            <div class="iast">klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate<br>kṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa</div>
+            <div class="glossary"><b>klaibyam</b>—impotence; <b>mā sma gamaḥ</b>—do not yield to; <b>pārtha</b>—O Arjuna!; <b>etat</b>—this; <b>tvayi</b>—to you; <b>na upapadyate</b>—is not fit; <b>kṣhudram</b>—mean; <b>hṛidaya-daurbalyaṁ</b>—weak-heartedness; <b>tyaktvā</b>—giving up; <b>uttiṣhṭha</b>—arise; <b>param-tapa</b>—scorcher of enemies</div>
+            <div class="translation">O Arjuna! Do not yield to impotence. It does not befit you. Cast off this wretched weakness of heart. Arise, O scorcher of enemies!</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.4</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन ।<br>इषुभि: प्रतियोत्स्यामि पूजार्हावरिसूदन ।। 4।।</div>
+            <div class="iast">arjuna uvācha<br>kathaṁ bhīṣhmam ahaṁ sankhye droṇaṁ cha madhusūdana<br>iṣhubhiḥ pratiyotsyāmi pūjārhāvari-sūdana</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>katham</b>—how; <b>bhīṣhmam</b>—Bheeshma; <b>aham</b>—I; <b>sankhye</b>—in battle; <b>droṇam</b>—Dronacharya; <b>cha</b>—and; <b>madhu-sūdana</b>—Shree Krishn, slayer of the Madhu demon; <b>iṣhubhiḥ</b>—with arrows; <b>pratiyotsyāmi</b>—shall I shoot; <b>pūjā-arhau</b>—worthy of worship; <b>ari-sūdana</b>—destroyer of enemies</div>
+            <div class="translation">Arjuna Said: O Krishna! Bhishma and Drona are my teachers fit to be worshipped. How can I attack them with arrows in the battle?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.5</div>
+            <div class="devanagari">गुरूनहत्वा हि महानुभावान्<br>श्रेयो भोक्तुं भैक्ष्यमपीह लोके ।<br>हत्वार्थकामांस्तु गुरूनिहैव<br>भुञ्जीय भोगान् रुधिरप्रदिग्धान् ।। 5।।</div>
+            <div class="iast">gurūnahatvā hi mahānubhāvān<br>śhreyo bhoktuṁ bhaikṣhyamapīha loke<br>hatvārtha-kāmāṁstu gurūnihaiva<br>bhuñjīya bhogān rudhira-pradigdhān</div>
+            <div class="glossary"><b>gurūn</b>—teachers; <b>ahatvā</b>—not killing; <b>hi</b>—certainly; <b>mahā-anubhāvān</b>—noble elders; <b>śhreyaḥ</b>—better; <b>bhoktum</b>—to enjoy life; <b>bhaikṣhyam</b>—by begging; <b>api</b>—even; <b>iha loke</b>—in this world; <b>hatvā</b>—killing; <b>artha</b>—gain; <b>kāmān</b>—desiring; <b>tu</b>—but; <b>gurūn</b>—noble elders; <b>iha</b>—in this world; <b>eva</b>—certainly; <b>bhuñjīya</b>—enjoy; <b>bhogān</b>—pleasures; <b>rudhira</b>—blood; <b>pradigdhān</b>—tainted with</div>
+            <div class="translation">It would be better, indeed, to live on alms in this world rather than to slay these high-souled teachers. But if I kill them, even here I shall enjoy wealth and desires stained with their blood.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.6</div>
+            <div class="devanagari">न चैतद्विद्म: कतरन्नो गरीयो<br>यद्वा जयेम यदि वा नो जयेयु: ।<br>यानेव हत्वा न जिजीविषाम<br>स्तेऽवस्थिता: प्रमुखे धार्तराष्ट्रा: ।। 6।।</div>
+            <div class="iast">na chaitadvidmaḥ kataranno garīyo<br>yadvā jayema yadi vā no jayeyuḥ<br>yāneva hatvā na jijīviṣhāmas<br>te ’vasthitāḥ pramukhe dhārtarāṣhṭrāḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>cha</b>—and; <b>etat</b>—this; <b>vidmaḥ</b>—we know; <b>katarat</b>—which; <b>naḥ</b>—for us; <b>garīyaḥ</b>—is preferable; <b>yat vā</b>—whether; <b>jayema</b>—we may conquer; <b>yadi</b>—if; <b>vā</b>—or; <b>naḥ</b>—us; <b>jayeyuḥ</b>—they may conquer; <b>yān</b>—whom; <b>eva</b>—certainly; <b>hatvā</b>—after killing; <b>na</b>—not; <b>jijīviṣhāmaḥ</b>—we desire to live; <b>te</b>—they; <b>avasthitāḥ</b>—are standing; <b>pramukhe</b>—before us; <b>dhārtarāṣhṭrāḥ</b>—the sons of Dhritarashtra</div>
+            <div class="translation">We do not know which would be the better for us: that we should conquer them or they should conquer us. Arrayed against us stand the very sons of Dhritarāshtra, after slaying whom we should not wish to live.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.7</div>
+            <div class="devanagari">कार्पण्यदोषोपहतस्वभाव:<br>पृच्छामि त्वां धर्मसम्मूढचेता: ।<br>यच्छ्रेय: स्यान्निश्चितं ब्रूहि तन्मे<br>शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ।। 7।।</div>
+            <div class="iast">kārpaṇya-doṣhopahata-svabhāvaḥ<br>pṛichchhāmi tvāṁ dharma-sammūḍha-chetāḥ<br>yach-chhreyaḥ syānniśhchitaṁ brūhi tanme<br>śhiṣhyaste ’haṁ śhādhi māṁ tvāṁ prapannam</div>
+            <div class="glossary"><b>kārpaṇya-doṣha</b>—the flaw of cowardice; <b>upahata</b>—besieged; <b>sva-bhāvaḥ</b>—nature; <b>pṛichchhāmi</b>—I am asking; <b>tvām</b>—to you; <b>dharma</b>—duty; <b>sammūḍha</b>—confused; <b>chetāḥ</b>—in heart; <b>yat</b>—what; <b>śhreyaḥ</b>—best; <b>syāt</b>—may be; <b>niśhchitam</b>—decisively; <b>brūhi</b>—tell; <b>tat</b>—that; <b>me</b>—to me; <b>śhiṣhyaḥ</b>—disciple; <b>te</b>—your; <b>aham</b>—I; <b>śhādhi</b>—please instruct; <b>mām</b>—me; <b>tvām</b>—unto you; <b>prapannam</b>—surrendered</div>
+            <div class="translation">(O Krishna!) My mind is distracted by the taint of pity and I am ignorant of what my duty is, and so, I ask you to teach me what is good for me. I am your disciple. I take refuge in you.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.8</div>
+            <div class="devanagari">न हि प्रपश्यामि ममापनुद्याद्<br>यच्छोकमुच्छोषणमिन्द्रियाणाम् ।<br>अवाप्य भूमावसपत्नमृद्धं<br>राज्यं सुराणामपि चाधिपत्यम् ।। 8।।</div>
+            <div class="iast">na hi prapaśhyāmi mamāpanudyād<br>yach-chhokam uchchhoṣhaṇam-indriyāṇām<br>avāpya bhūmāv-asapatnamṛiddhaṁ<br>rājyaṁ surāṇāmapi chādhipatyam</div>
+            <div class="glossary"><b>na</b>—not; <b>hi</b>—certainly; <b>prapaśhyāmi</b>—I see; <b>mama</b>—my; <b>apanudyāt</b>—drive away; <b>yat</b>—which; <b>śhokam</b>—anguish; <b>uchchhoṣhaṇam</b>—is drying up; <b>indriyāṇām</b>—of the senses; <b>avāpya</b>—after achieving; <b>bhūmau</b>—on the earth; <b>asapatnam</b>—unrivalled; <b>ṛiddham</b>—prosperous; <b>rājyam</b>—kingdom; <b>surāṇām</b>—like the celestial gods; <b>api</b>—even; <b>cha</b>—also; <b>ādhipatyam</b>—sovereignty</div>
+            <div class="translation">I can find no means to drive away this grief which is drying up my senses. I will not be able to dispel it even if I win a prosperous, unrivaled kingdom on earth with sovereignty like the demigods in heaven.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.9</div>
+            <div class="devanagari">सञ्जय उवाच ।<br>एवमुक्त्वा हृषीकेशं गुडाकेश: परन्तप ।<br>न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ।। 9।।</div>
+            <div class="iast">sañjaya uvācha<br>evam-uktvā hṛiṣhīkeśhaṁ guḍākeśhaḥ parantapa<br>na yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha</div>
+            <div class="glossary"><b>sañjayaḥ uvācha</b>—Sanjay said; <b>evam</b>—thus; <b>uktvā</b>—having spoken; <b>hṛiṣhīkeśham</b>—to Shree Krishna, the master of the mind and senses; <b>guḍākeśhaḥ</b>—Arjun, the conquerer of sleep; <b>parantapaḥ</b>—Arjun, the chastiser of the enemies; <b>na yotsye</b>—I shall not fight; <b>iti</b>—thus; <b>govindam</b>—Krishna, the giver of pleasure to the senses; <b>uktvā</b>—having addressed; <b>tūṣhṇīm</b>—silent; <b>babhūva</b>—became ha</div>
+            <div class="translation">Sanjaya Said: Having spoke thus, Arjuna, the destroyer of foes, finally said to Lord Krishna, “I will not fight” and became silent.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.10</div>
+            <div class="devanagari">तमुवाच हृषीकेश: प्रहसन्निव भारत ।<br>सेनयोरुभयोर्मध्ये विषीदन्तमिदं वच: ।। 10।।</div>
+            <div class="iast">tam-uvācha hṛiṣhīkeśhaḥ prahasanniva bhārata<br>senayorubhayor-madhye viṣhīdantam-idaṁ vachaḥ</div>
+            <div class="glossary"><b>tam</b>—to him; <b>uvācha</b>—said; <b>hṛiṣhīkeśhaḥ</b>—Shree Krishna, the master of mind and senses; <b>prahasan</b>—smilingly; <b>iva</b>—as if; <b>bhārata</b>—Dhritarashtra, descendant of Bharat; <b>senayoḥ</b>—of the armies; <b>ubhayoḥ</b>—of both; <b>madhye</b>—in the midst of; <b>viṣhīdantam</b>—to the grief-stricken; <b>idam</b>—this; <b>vachaḥ</b>—words</div>
+            <div class="translation">O king Dhritarashtra! Seeing Arjuna lamenting in the middle of two armies, Lord Krishna, as if laughing loud, spoke these words.</div>
+        </div>
+        
+</body>
+</html>

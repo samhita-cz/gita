@@ -1,0 +1,463 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>Bhagavad Gita - Chapter 4</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    <div class='lecture-title'>043. Chapter 4 Verses 1-3</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.1</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।<br>विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ।। 1।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>imaṁ vivasvate yogaṁ proktavān aham avyayam<br>vivasvān manave prāha manur ikṣhvākave ’bravīt</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord Shree Krishna said; <b>imam</b>—this; <b>vivasvate</b>—to the Sun God; <b>yogam</b>—the science of Yog; <b>proktavān</b>—taught; <b>aham</b>—I; <b>avyayam</b>—eternal; <b>vivasvān</b>—Sun God; <b>manave</b>—to Manu, the original progenitor of humankind; <b>prāha</b>—told; <b>manuḥ</b>—Manu; <b>ikṣhvākave</b>—to Ikshvaku, first king of the Solar dynasty; <b>abravīt</b>—instructed</div>
+            <div class="translation">The Blessed Lord said: This imperishable Yoga of action (and the wisdom arising from it) I taught to Vivasvan (the Sun) at the beginning of creation. Vivasvan taught it to his son Manu, and Manu to his son Ikshvaku.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.2</div>
+            <div class="devanagari">एवं परम्पराप्राप्तमिमं राजर्षयो विदु: ।<br>स कालेनेह महता योगो नष्ट: परन्तप ।। 2।।</div>
+            <div class="iast">evaṁ paramparā-prāptam imaṁ rājarṣhayo viduḥ<br>sa kāleneha mahatā yogo naṣhṭaḥ parantapa</div>
+            <div class="glossary"><b>evam</b>—thus; <b>paramparā</b>—in a continuous tradition; <b>prāptam</b>—received; <b>imam</b>—this (science); <b>rāja-ṛiṣhayaḥ</b>—the saintly kings; <b>viduḥ</b>—understood; <b>saḥ</b>—that; <b>kālena</b>—with the long passage of time; <b>iha</b>—in this world; <b>mahatā</b>—great; <b>yogaḥ</b>—the science of Yog; <b>naṣhṭaḥ</b>—lost; <b>parantapa</b>—Arjun, the scorcher of foes</div>
+            <div class="translation">O Arjuna! The royal sages know this (yoga) which was handed down in regular succession from generation to generation. But by long lapse of time, this Yoga was lost to the world.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.3</div>
+            <div class="devanagari">स एवायं मया तेऽद्य योग: प्रोक्त: पुरातन: ।<br>भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ।। 3।।</div>
+            <div class="iast">sa evāyaṁ mayā te ’dya yogaḥ proktaḥ purātanaḥ<br>bhakto ’si me sakhā cheti rahasyaṁ hyetad uttamam</div>
+            <div class="glossary"><b>saḥ</b>—that; <b>eva</b>—certainly; <b>ayam</b>—this; <b>mayā</b>—by me; <b>te</b>—unto you; <b>adya</b>—today; <b>yogaḥ</b>—the science of Yog; <b>proktaḥ</b>—reveal; <b>purātanaḥ</b>—ancient; <b>bhaktaḥ</b>—devotee; <b>asi</b>—you are; <b>me</b>—my; <b>sakhā</b>—friend; <b>cha</b>—and; <b>iti</b>—therefore; <b>rahasyam</b>—secret; <b>hi</b>—certainly; <b>etat</b>—this; <b>uttamam</b>—supreme</div>
+            <div class="translation">This same ancient Yoga has now been taught by Me, for you are My devotee and friend. It is indeed the supreme secret.</div>
+        </div>
+        <div class='lecture-title'>044. Chapter 4 Verses 4-6</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.4</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>अपरं भवतो जन्म परं जन्म विवस्वत: ।<br>कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ।। 4।।</div>
+            <div class="iast">arjuna uvācha<br>aparaṁ bhavato janma paraṁ janma vivasvataḥ<br>katham etad vijānīyāṁ tvam ādau proktavān iti</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>aparam</b>—later; <b>bhavataḥ</b>—your; <b>janma</b>—birth; <b>param</b>—prior; <b>janma</b>—birth; <b>vivasvataḥ</b>—Vivasvan, the Sun God; <b>katham</b>—how; <b>etat</b>—this; <b>vijānīyām</b>—am I to understand; <b>tvam</b>—you; <b>ādau</b>—in the beginning; <b>proktavān</b>—taught; <b>iti</b>—thus</div>
+            <div class="translation">Arjuna said: Later was your birth, earlier the birth of Vivasvan (Sun); how then am I to understand that you taught it to him in the beginning?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.5</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>बहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।<br>तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ।। 5।।*</div>
+            <div class="iast">śhrī bhagavān uvācha<br>bahūni me vyatītāni janmāni tava chārjuna<br>tānyahaṁ veda sarvāṇi na tvaṁ vettha parantapa</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>bahūni</b>—many; <b>me</b>—of mine; <b>vyatītāni</b>—have passed; <b>janmāni</b>—births; <b>tava</b>—of yours; <b>cha</b>—and; <b>arjuna</b>—Arjun; <b>tāni</b>—them; <b>aham</b>—I; <b>veda</b>—know; <b>sarvāṇi</b>—all; <b>na</b>—not; <b>tvam</b>—you; <b>vettha</b>—know; <b>parantapa</b>—Arjun, the scorcher of foes</div>
+            <div class="translation">The Lord said: O Arjuna! Many births of Mine have passed as well as yours. I know them all but you know them not.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.6</div>
+            <div class="devanagari">अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् ।<br>प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ।। 6।।</div>
+            <div class="iast">ajo ’pi sannavyayātmā bhūtānām īśhvaro ’pi san<br>prakṛitiṁ svām adhiṣhṭhāya sambhavāmyātma-māyayā</div>
+            <div class="glossary"><b>ajaḥ</b>—unborn; <b>api</b>—although; <b>san</b>—being so; <b>avyaya ātmā</b>—Imperishable nature; <b>bhūtānām</b>—of (all) beings; <b>īśhvaraḥ</b>—the Lord; <b>api</b>—although; <b>san</b>—being; <b>prakṛitim</b>—nature; <b>svām</b>—of myself; <b>adhiṣhṭhāya</b>—situated; <b>sambhavāmi</b>—I manifest; <b>ātma-māyayā</b>—by my Yogmaya power</div>
+            <div class="translation">Though unborn and eternal in My being, the Lord and controller of all beings, controlling My own nature, I come into being by the power of My Maya-Sakti.</div>
+        </div>
+        <div class='lecture-title'>045. Chapter 4 Verses 7-8</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.7</div>
+            <div class="devanagari">यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।<br>अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ।। 7।।</div>
+            <div class="iast">yadā yadā hi dharmasya glānir bhavati bhārata<br>abhyutthānam adharmasya tadātmānaṁ sṛijāmyaham</div>
+            <div class="glossary"><b>yadā yadā</b>—whenever; <b>hi</b>—certainly; <b>dharmasya</b>—of righteousness; <b>glāniḥ</b>—decline; <b>bhavati</b>—is; <b>bhārata</b>—Arjun, descendant of Bharat; <b>abhyutthānam</b>—increase; <b>adharmasya</b>—of unrighteousness; <b>tadā</b>—at that time; <b>ātmānam</b>—self; <b>sṛijāmi</b>—manifest; <b>aham</b>—I</div>
+            <div class="translation">O Arjuna! Whenever there is a decline of righteousness and rise of evil, I manifest Myself.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.8</div>
+            <div class="devanagari">परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।<br>धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ।। 8।।</div>
+            <div class="iast">paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛitām<br>dharma-sansthāpanārthāya sambhavāmi yuge yuge</div>
+            <div class="glossary"><b>paritrāṇāya</b>—to protect; <b>sādhūnām</b>—the righteous; <b>vināśhāya</b>—to annihilate; <b>cha</b>—and; <b>duṣhkṛitām</b>—the wicked; <b>dharma</b>—the eternal religion; <b>sansthāpana-arthāya</b>—to reestablish; <b>sambhavāmi</b>—I appear; <b>yuge yuge</b>—age after age</div>
+            <div class="translation">For the protection of the good, for the destruction of the wicked, and for establishing Dharma, I take birth in every age.</div>
+        </div>
+        <div class='lecture-title'>046. Chapter 4 Verses 9-10</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.9</div>
+            <div class="devanagari">जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वत: ।<br>त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ।। 9।।</div>
+            <div class="iast">janma karma cha me divyam evaṁ yo vetti tattvataḥ<br>tyaktvā dehaṁ punar janma naiti mām eti so ’rjuna</div>
+            <div class="glossary"><b>janma</b>—birth; <b>karma</b>—activities; <b>cha</b>—and; <b>me</b>—of mine; <b>divyam</b>—divine; <b>evam</b>—thus; <b>yaḥ</b>—who; <b>vetti</b>—know; <b>tattvataḥ</b>—in truth; <b>tyaktvā</b>—having abandoned; <b>deham</b>—the body; <b>punaḥ</b>—again; <b>janma</b>—birth; <b>na</b>—never; <b>eti</b>—takes; <b>mām</b>—to me; <b>eti</b>—comes; <b>saḥ</b>—he; <b>arjuna</b>—Arjun</div>
+            <div class="translation">Those who understand the divine nature of My birth and activities, O Arjun, upon leaving the body, do not have to take birth again, but come to My eternal abode.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.10</div>
+            <div class="devanagari">वीतरागभयक्रोधा मन्मया मामुपाश्रिता: ।<br>बहवो ज्ञानतपसा पूता मद्भावमागता: ।। 10।।</div>
+            <div class="iast">vīta-rāga-bhaya-krodhā man-mayā mām upāśhritāḥ<br>bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ</div>
+            <div class="glossary"><b>vīta</b>—free from; <b>rāga</b>—attachment; <b>bhaya</b>—fear; <b>krodhāḥ</b>—anger; <b>mat-mayā</b>—completely absorbed in me; <b>mām</b>—in me; <b>upāśhritāḥ</b>—taking refuge (of); <b>bahavaḥ</b>—many (persons); <b>jñāna</b>—of knowledge; <b>tapasā</b>—by the fire of knowledge; <b>pūtāḥ</b>—purified; <b>mat-bhāvam</b>—my divine love; <b>āgatāḥ</b>—attained</div>
+            <div class="translation">Free from desire, fear, and hatred, absorbed in Me, taking refuge in Me, many purified by the penance of knowledge have attained Me.</div>
+        </div>
+        <div class='lecture-title'>047. Chapter 4 Verses 11-13</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.11</div>
+            <div class="devanagari">ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।<br>मम वर्त्मानुवर्तन्ते मनुष्या: पार्थ सर्वश: ।। 11।।</div>
+            <div class="iast">ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham<br>mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ</div>
+            <div class="glossary"><b>ye</b>—who; <b>yathā</b>—in whatever way; <b>mām</b>—unto me; <b>prapadyante</b>—surrender; <b>tān</b>—them; <b>tathā</b>—so; <b>eva</b>—certainly; <b>bhajāmi</b>—reciprocate; <b>aham</b>—I; <b>mama</b>—my; <b>vartma</b>—path; <b>anuvartante</b>—follow; <b>manuṣhyāḥ</b>—men; <b>pārtha</b>—Arjun, the son of Pritha; <b>sarvaśhaḥ</b>—in all respects</div>
+            <div class="translation">O Arjuna! In whatsoever form one seeks Me, I reach him in that form, for all mankind are but following the paths I laid down for them.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.12</div>
+            <div class="devanagari">काङ् क्षन्त: कर्मणां सिद्धिं यजन्त इह देवता: ।<br>क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ।। 12।।</div>
+            <div class="iast">kāṅkṣhantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ<br>kṣhipraṁ hi mānuṣhe loke siddhir bhavati karmajā</div>
+            <div class="glossary"><b>kāṅkṣhantaḥ</b>—desiring; <b>karmaṇām</b>—material activities; <b>siddhim</b>—success; <b>yajante</b>—worship; <b>iha</b>—in this world; <b>devatāḥ</b>—the celestial gods; <b>kṣhipram</b>—quickly; <b>hi</b>—certainly; <b>mānuṣhe</b>—in human society; <b>loke</b>—within this world; <b>siddhiḥ</b>—rewarding; <b>bhavati</b>—manifest; <b>karma-jā</b>—from material activities</div>
+            <div class="translation">Longing for success in action, in this world, (men) worship the deities. For success is quickly attained through action in this world of Man.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.13</div>
+            <div class="devanagari">चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागश: ।<br>तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ।। 13।।</div>
+            <div class="iast">chātur-varṇyaṁ mayā sṛiṣhṭaṁ guṇa-karma-vibhāgaśhaḥ<br>tasya kartāram api māṁ viddhyakartāram avyayam</div>
+            <div class="glossary"><b>chātuḥ-varṇyam</b>—the four categories of occupations; <b>mayā</b>—by me; <b>sṛiṣhṭam</b>—were created; <b>guṇa</b>—of quality; <b>karma</b>—and activities; <b>vibhāgaśhaḥ</b>—according to divisions; <b>tasya</b>—of that; <b>kartāram</b>—the creator; <b>api</b>—although; <b>mām</b>—me; <b>viddhi</b>—know; <b>akartāram</b>—non-doer; <b>avyayam</b>—unchangeable</div>
+            <div class="translation">The four castes were created by Me according to the division of gunas and karma. Though I am their Creator, yet know that I neither act nor change.</div>
+        </div>
+        <div class='lecture-title'>048. Chapter 4 Verses 14-17</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.14</div>
+            <div class="devanagari">न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा ।<br>इति मां योऽभिजानाति कर्मभिर्न स बध्यते ।। 14।।</div>
+            <div class="iast">na māṁ karmāṇi limpanti na me karma-phale spṛihā<br>iti māṁ yo ’bhijānāti karmabhir na sa badhyate</div>
+            <div class="glossary"><b>na</b>—not; <b>mām</b>—me; <b>karmāṇi</b>—activities; <b>limpanti</b>—taint; <b>na</b>—nor; <b>me</b>—my; <b>karma-phale</b>—the fruits of action; <b>spṛihā</b>—desire; <b>iti</b>—thus; <b>mām</b>—me; <b>yaḥ</b>—who; <b>abhijānāti</b>—knows; <b>karmabhiḥ</b>—result of action; <b>na</b>—never; <b>saḥ</b>—that person; <b>badhyate</b>—is bound</div>
+            <div class="translation">Actions do not taint Me, nor have I desire for the fruit of actions; He who knows Me thus is not bound by karma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.15</div>
+            <div class="devanagari">एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभि: ।<br>कुरु कर्मैव तस्मात्त्वं पूर्वै: पूर्वतरं कृतम् ।। 15।।</div>
+            <div class="iast">evaṁ jñātvā kṛitaṁ karma pūrvair api mumukṣhubhiḥ<br>kuru karmaiva tasmāttvaṁ pūrvaiḥ pūrvataraṁ kṛitam</div>
+            <div class="glossary"><b>evam</b>—thus; <b>jñātvā</b>—knowing; <b>kṛitam</b>—performed; <b>karma</b>—actions; <b>pūrvaiḥ</b>—of ancient times; <b>api</b>—indeed; <b>mumukṣhubhiḥ</b>—seekers of liberation; <b>kuru</b>—should perform; <b>karma</b>—duty; <b>eva</b>—certainly; <b>tasmāt</b>—therefore; <b>tvam</b>—you; <b>pūrvaiḥ</b>—of those ancient sages; <b>pūrva-taram</b>—in ancient times; <b>kṛitam</b>—performed</div>
+            <div class="translation">Thus knowing, the ancient spiritual aspirants performed the action. Therefore you shall do the same (desireless) action as performed by the ancients in older times.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.16</div>
+            <div class="devanagari">किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिता: ।<br>तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ।। 16।।</div>
+            <div class="iast">kiṁ karma kim akarmeti kavayo ’pyatra mohitāḥ<br>tat te karma pravakṣhyāmi yaj jñātvā mokṣhyase ’śhubhāt</div>
+            <div class="glossary"><b>kim</b>—what; <b>karma</b>—action; <b>kim</b>—what; <b>akarma</b>—inaction; <b>iti</b>—thus; <b>kavayaḥ</b>—the wise; <b>api</b>—even; <b>atra</b>—in this; <b>mohitāḥ</b>—are confused; <b>tat</b>—that; <b>te</b>—to you; <b>karma</b>—action; <b>pravakṣhyāmi</b>—I shall explain; <b>yat</b>—which; <b>jñātvā</b>—knowing; <b>mokṣhyase</b>—you may free yourself; <b>aśhubhāt</b>—from inauspiciousness</div>
+            <div class="translation">What is action, and what is not action? In this matter, even the wise are deluded. I will teach you that action knowing which you shall be liberated from evil.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.17</div>
+            <div class="devanagari">कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मण: ।<br>अकर्मणश्च बोद्धव्यं गहना कर्मणो गति: ।। 17।।</div>
+            <div class="iast">karmaṇo hyapi boddhavyaṁ boddhavyaṁ cha vikarmaṇaḥ<br>akarmaṇaśh cha boddhavyaṁ gahanā karmaṇo gatiḥ</div>
+            <div class="glossary"><b>karmaṇaḥ</b>—recommended action; <b>hi</b>—certainly; <b>api</b>—also; <b>boddhavyam</b>—should be known; <b>boddhavyam</b>—must understand; <b>cha</b>—and; <b>vikarmaṇaḥ</b>—forbidden action; <b>akarmaṇaḥ</b>—inaction; <b>cha</b>—and; <b>boddhavyam</b>—must understand; <b>gahanā</b>—profound; <b>karmaṇaḥ</b>—of action; <b>gatiḥ</b>—the true path</div>
+            <div class="translation">The nature of action (enjoined by the Sastras) and of wrong action (prohibited by the Sastras) and also of inaction should be known, because deep and difficult to understand is the path of action.</div>
+        </div>
+        <div class='lecture-title'>049. Chapter 4 Verse 18</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.18</div>
+            <div class="devanagari">कर्मण्यकर्म य: पश्येदकर्मणि च कर्म य: ।<br>स बुद्धिमान्मनुष्येषु स युक्त: कृत्स्नकर्मकृत् ।। 18।।</div>
+            <div class="iast">karmaṇyakarma yaḥ paśhyed akarmaṇi cha karma yaḥ<br>sa buddhimān manuṣhyeṣhu sa yuktaḥ kṛitsna-karma-kṛit</div>
+            <div class="glossary"><b>karmaṇi</b>—action; <b>akarma</b>—in inaction; <b>yaḥ</b>—who; <b>paśhyet</b>—see; <b>akarmaṇi</b>—inaction; <b>cha</b>—also; <b>karma</b>—action; <b>yaḥ</b>—who; <b>saḥ</b>—they; <b>buddhi-mān</b>—wise; <b>manuṣhyeṣhu</b>—amongst humans; <b>saḥ</b>—they; <b>yuktaḥ</b>—yogis; <b>kṛitsna-karma-kṛit</b>—performers all kinds of actions</div>
+            <div class="translation">Who sees action in inaction and inaction in action, he is the wise man, the yogi, the doer of all actions among men.</div>
+        </div>
+        <div class='lecture-title'>050. Chapter 4 Verse 19</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.19</div>
+            <div class="devanagari">यस्य सर्वे समारम्भा: कामसङ्कल्पवर्जिता: ।<br>ज्ञानाग्निदग्धकर्माणं तमाहु: पण्डितं बुधा: ।। 19।।</div>
+            <div class="iast">yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ<br>jñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ</div>
+            <div class="glossary"><b>yasya</b>—whose; <b>sarve</b>—every; <b>samārambhāḥ</b>—undertakings; <b>kāma</b>—desire for material pleasures; <b>saṅkalpa</b>—resolve; <b>varjitāḥ</b>—devoid of; <b>jñāna</b>—divine knowledge; <b>agni</b>—in the fire; <b>dagdha</b>—burnt; <b>karmāṇam</b>—actions; <b>tam</b>—him; <b>āhuḥ</b>—address; <b>paṇḍitam</b>—a sage; <b>budhāḥ</b>—the wise</div>
+            <div class="translation">He whose undertakings are all free from desire and volition, whose actions are burnt in the fire of knowledge, is called a sage by the wise.</div>
+        </div>
+        <div class='lecture-title'>051. Chapter 4 Verses 20-22</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.20</div>
+            <div class="devanagari">त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रय: ।<br>कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति स: ।। 20।।</div>
+            <div class="iast">tyaktvā karma-phalāsaṅgaṁ nitya-tṛipto nirāśhrayaḥ<br>karmaṇyabhipravṛitto ’pi naiva kiñchit karoti saḥ</div>
+            <div class="glossary"><b>tyaktvā</b>—having given up; <b>karma-phala-āsaṅgam</b>—attachment to the fruits of action; <b>nitya</b>—always; <b>tṛiptaḥ</b>—satisfied; <b>nirāśhrayaḥ</b>—without dependence; <b>karmaṇi</b>—in activities; <b>abhipravṛittaḥ</b>—engaged; <b>api</b>—despite; <b>na</b>—not; <b>eva</b>—certainly; <b>kiñchit</b>—anything; <b>karoti</b>—do; <b>saḥ</b>—that person</div>
+            <div class="translation">He who has given up attachment to the fruits of work, who is ever content, who does not depend upon anything, though engaged in action does not verily do anything.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.21</div>
+            <div class="devanagari">निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रह: ।<br>शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ।। 21।।</div>
+            <div class="iast">nirāśhīr yata-chittātmā tyakta-sarva-parigrahaḥ<br>śhārīraṁ kevalaṁ karma kurvan nāpnoti kilbiṣham</div>
+            <div class="glossary"><b>nirāśhīḥ</b>—free from expectations; <b>yata</b>—controlled; <b>chitta-ātmā</b>—mind and intellect; <b>tyakta</b>—having abandoned; <b>sarva</b>—all; <b>parigrahaḥ</b>—the sense of ownership; <b>śhārīram</b>—bodily; <b>kevalam</b>—only; <b>karma</b>—actions; <b>kurvan</b>—performing; <b>na</b>—never; <b>āpnoti</b>—incurs; <b>kilbiṣham</b>—sin</div>
+            <div class="translation">He who is free from hope, who is self-controlled, who has abandoned all possessions, though working merely with the body, does not incur sin.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.22</div>
+            <div class="devanagari">यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सर: ।<br>सम: सिद्धावसिद्धौ च कृत्वापि न निबध्यते ।। 22।।</div>
+            <div class="iast">yadṛichchhā-lābha-santuṣhṭo dvandvātīto vimatsaraḥ<br>samaḥ siddhāvasiddhau cha kṛitvāpi na nibadhyate</div>
+            <div class="glossary"><b>yadṛichchhā</b>—which comes of its own accord; <b>lābha</b>—gain; <b>santuṣhṭaḥ</b>—contented; <b>dvandva</b>—duality; <b>atītaḥ</b>—surpassed; <b>vimatsaraḥ</b>—free from envy; <b>samaḥ</b>—equipoised; <b>siddhau</b>—in success; <b>asiddhau</b>—failure; <b>cha</b>—and; <b>kṛitvā</b>—performing; <b>api</b>—even; <b>na</b>—never; <b>nibadhyate</b>—is bound</div>
+            <div class="translation">Content with whatsoever he gets without efforts, free from the pairs of opposites, free from malice, balanced in success and failure, though acting, he is not bound.</div>
+        </div>
+        <div class='lecture-title'>052. Chapter 4 Verses 23-24</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.23</div>
+            <div class="devanagari">गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतस: ।<br>यज्ञायाचरत: कर्म समग्रं प्रविलीयते ।। 23।।</div>
+            <div class="iast">gata-saṅgasya muktasya jñānāvasthita-chetasaḥ<br>yajñāyācharataḥ karma samagraṁ pravilīyate</div>
+            <div class="glossary"><b>gata-saṅgasya</b>—free from material attachments; <b>muktasya</b>—of the liberated; <b>jñāna-avasthita</b>—established in divine knowledge; <b>chetasaḥ</b>—whose intellect; <b>yajñāya</b>—as a sacrifice (to God); <b>ācharataḥ</b>—performing; <b>karma</b>—action; <b>samagram</b>—completely; <b>pravilīyate</b>—are free</div>
+            <div class="translation">Of the man who is devoid of attachment, who is liberated, whose mind is established in knowledge, the whole action performed in the spirit of sacrifice is dissolved.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.24</div>
+            <div class="devanagari">ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।<br>ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ।। 24।।</div>
+            <div class="iast">brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam<br>brahmaiva tena gantavyaṁ brahma-karma-samādhinā</div>
+            <div class="glossary"><b>brahma</b>—Brahman; <b>arpaṇam</b>—the ladle and other offerings; <b>brahma</b>—Brahman; <b>haviḥ</b>—the oblation; <b>brahma</b>—Brahman; <b>agnau</b>—in the sacrificial fire; <b>brahmaṇā</b>—by that person; <b>hutam</b>—offered; <b>brahma</b>—Brahman; <b>eva</b>—certainly; <b>tena</b>—by that; <b>gantavyam</b>—to be attained; <b>brahma</b>—Brahman; <b>karma</b>—offering; <b>samādhinā</b>—those completely absorbed in God-consciousness</div>
+            <div class="translation">The oblation is Brahman, the offerings are Brahman, the sacrifice is Brahman, and by absorption in action which is Brahman, Brahman alone shall be reached by him (by the sacrifice).</div>
+        </div>
+        <div class='lecture-title'>053. Chapter 4 Verses 25-28</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.25</div>
+            <div class="devanagari">दैवमेवापरे यज्ञं योगिन: पर्युपासते ।<br>ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ।। 25।।</div>
+            <div class="iast">daivam evāpare yajñaṁ yoginaḥ paryupāsate<br>brahmāgnāvapare yajñaṁ yajñenaivopajuhvati</div>
+            <div class="glossary"><b>daivam</b>—the celestial gods; <b>eva</b>—indeed; <b>apare</b>—others; <b>yajñam</b>—sacrifice; <b>yoginaḥ</b>—spiritual practioners; <b>paryupāsate</b>—worship; <b>brahma</b>—of the Supreme Truth; <b>agnau</b>—in the fire; <b>apare</b>—others; <b>yajñam</b>—sacrifice; <b>yajñena</b>—by sacrifice; <b>eva</b>—indeed; <b>upajuhvati</b>—offer</div>
+            <div class="translation">Some yogis perform sacrifice pertaining to the Gods only, others by the union of the self (jiva) with Brahman, offer the Jiva as sacrifice in the fire of Brahman.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.26</div>
+            <div class="devanagari">श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति ।<br>शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ।। 26।।</div>
+            <div class="iast">śhrotrādīnīndriyāṇyanye sanyamāgniṣhu juhvati<br>śhabdādīn viṣhayānanya indriyāgniṣhu juhvati</div>
+            <div class="glossary"><b>śhrotra-ādīni</b>—such as the hearing process; <b>indriyāṇi</b>—senses; <b>anye</b>—others; <b>sanyama</b>—restraint; <b>agniṣhu</b>—in the sacrficial fire; <b>juhvati</b>—sacrifice; <b>śhabda-ādīn</b>—sound vibration, etc; <b>viṣhayān</b>—objects of sense-gratification; <b>anye</b>—others; <b>indriya</b>—of the senses; <b>agniṣhu</b>—in the fire; <b>juhvati</b>—sacrifice</div>
+            <div class="translation">Others sacrifice the senses like the organ of hearing etc., in the fires of sense – restraint, and some others sacrifice the sense-objects like sound etc., in the fire of the senses.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.27</div>
+            <div class="devanagari">सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे ।<br>आत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ।। 27।।</div>
+            <div class="iast">sarvāṇīndriya-karmāṇi prāṇa-karmāṇi chāpare<br>ātma-sanyama-yogāgnau juhvati jñāna-dīpite</div>
+            <div class="glossary"><b>sarvāṇi</b>—all; <b>indriya</b>—the senses; <b>karmāṇi</b>—functions; <b>prāṇa-karmāṇi</b>—functions of the life breath; <b>cha</b>—and; <b>apare</b>—others; <b>ātma-sanyama yogāgnau</b>—in the fire of the controlled mind; <b>juhvati</b>—sacrifice; <b>jñāna-dīpite</b>—kindled by knowledge</div>
+            <div class="translation">Others sacrifice all the functions of the senses and the functions of the vital energy (prana) in the fire of the yoga of self-control, illumined by Knowledge.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.28</div>
+            <div class="devanagari">द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे ।<br>स्वाध्यायज्ञानयज्ञाश्च यतय: संशितव्रता: ।। 28।।</div>
+            <div class="iast">dravya-yajñās tapo-yajñā yoga-yajñās tathāpare<br>swādhyāya-jñāna-yajñāśh cha yatayaḥ sanśhita-vratāḥ</div>
+            <div class="glossary"><b>dravya-yajñāḥ</b>—offering one’s own wealth as sacrifice; <b>tapaḥ-yajñāḥ</b>—offering severe austerities as sacrifice; <b>yoga-yajñāḥ</b>—performance of eight-fold path of yogic practices as sacrifice; <b>tathā</b>—thus; <b>apare</b>—others; <b>swādhyāya</b>—cultivating knowledge by studying the scriptures; <b>jñāna-yajñāḥ</b>—those offer cultivation of transcendental knowledge as sacrifice; <b>cha</b>—also; <b>yatayaḥ</b>—these ascetics; <b>sanśhita-vratāḥ</b>—observing strict vows</div>
+            <div class="translation">Others offer wealth, austerity and Yoga as sacrifice and again others, the ascetics of rigid vows offer study and knowledge as sacrifice.</div>
+        </div>
+        <div class='lecture-title'>054. Chapter 4 Verses 29-30</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.29</div>
+            <div class="devanagari">अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।<br>प्राणापानगती रुद्ध्वा प्राणायामपरायणा: ।। 29।।</div>
+            <div class="iast">apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare<br>prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ</div>
+            <div class="glossary"><b>apāne</b>—the incoming breath; <b>juhvati</b>—offer; <b>prāṇam</b>—the outgoing breath; <b>prāṇe</b>—in the outgoing breath; <b>apānam</b>—incoming breath; <b>tathā</b>—also; <b>apare</b>—others; <b>prāṇa</b>—of the outgoing breath; <b>apāna</b>—and the incoming breath; <b>gatī</b>—movement; <b>ruddhvā</b>—blocking; <b>prāṇa-āyāma</b>—control of breath; <b>parāyaṇāḥ</b>—wholly devoted;</div>
+            <div class="translation">Some, again, constantly practising the regulation of prāna, offer the oblation of prāna into apāna, and apāna into prāna, or stop the passage of both prāna and apāna. Yet others, restricting their food, offer their prānas in the prānas.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.30</div>
+            <div class="devanagari">अपरे नियताहारा: प्राणान्प्राणेषु जुह्वति ।<br>सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषा: ।। 30।।</div>
+            <div class="iast">apare niyatāhārāḥ prāṇān prāṇeṣhu juhvati<br>sarve ’pyete yajña-vido yajña-kṣhapita-kalmaṣhāḥ</div>
+            <div class="glossary"><b>apare</b>—others; <b>niyata</b>—having controlled; <b>āhārāḥ</b>—food intake; <b>prāṇān</b>—life-breaths; <b>prāṇeṣhu</b>—life-energy; <b>juhvati</b>—sacrifice; <b>sarve</b>—all; <b>api</b>—also; <b>ete</b>—these; <b>yajña-vidaḥ</b>—knowers of sacrifices; <b>yajña-kṣhapita</b>—being cleansed by performances of sacrifices; <b>kalmaṣhāḥ</b>—of impurities</div>
+            <div class="translation">Others of regulated food, sacrifice the life – breaths in the life – breaths; all these also are are knowers of sacrifice whose sins are destroyed by sacrifice.</div>
+        </div>
+        <div class='lecture-title'>055. Chapter 4 Verses 31-32</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.31</div>
+            <div class="devanagari">यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।<br>नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्य: कुरुसत्तम ।। 31।।</div>
+            <div class="iast">yajña-śhiṣhṭāmṛita-bhujo yānti brahma sanātanam<br>nāyaṁ loko ’styayajñasya kuto ’nyaḥ kuru-sattama</div>
+            <div class="glossary"><b>yajña-śhiṣhṭa amṛita-bhujaḥ</b>—they partake of the nectarean remnants of sacrifice; <b>yānti</b>—go; <b>brahma</b>—the Absolute Truth; <b>sanātanam</b>—eternal; <b>na</b>—never; <b>ayam</b>—this; <b>lokaḥ</b>—planet; <b>asti</b>—is; <b>ayajñasya</b>—for one who performs no sacrifice; <b>kutaḥ</b>—how; <b>anyaḥ</b>—other (world); <b>kuru-sat-tama</b>—best of the Kurus, Arjun</div>
+            <div class="translation">Those who eat the remnants of sacrifice which is nectar, go to eternal Brahman; to the non- sacrificer, even this world is not, how then can he get a higher world?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.32</div>
+            <div class="devanagari">एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे ।<br>कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ।। 32।।</div>
+            <div class="iast">evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe<br>karma-jān viddhi tān sarvān evaṁ jñātvā vimokṣhyase</div>
+            <div class="glossary"><b>evam</b>—thus; <b>bahu-vidhāḥ</b>—various kinds of; <b>yajñāḥ</b>—sacrifices; <b>vitatāḥ</b>—have been described; <b>brahmaṇaḥ</b>—of the Vedas; <b>mukhe</b>—through the mouth; <b>karma-jān</b>—originating from works; <b>viddhi</b>—know; <b>tān</b>—them; <b>sarvān</b>—all; <b>evam</b>—thus; <b>jñātvā</b>—having known; <b>vimokṣhyase</b>—you shall be liberated</div>
+            <div class="translation">Thus various forms of sacrifice are spread out in the Vedas; know them all to be born of action; thus knowing you shall be liberated.</div>
+        </div>
+        <div class='lecture-title'>056. Chapter 4 Verses 33-34</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.33</div>
+            <div class="devanagari">श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञ: परन्तप ।<br>सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ।। 33।।</div>
+            <div class="iast">śhreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa<br>sarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate</div>
+            <div class="glossary"><b>śhreyān</b>—superior; <b>dravya-mayāt</b>—of material possessions; <b>yajñāt</b>—than the sacrifice; <b>jñāna-yajñaḥ</b>—sacrifice performed in knowledge; <b>parantapa</b>—subduer of enemies, Arjun; <b>sarvam</b>—all; <b>karma</b>—works; <b>akhilam</b>—all; <b>pārtha</b>—Arjun, the son of Pritha; <b>jñāne</b>—in knowledge; <b>parisamāpyate</b>—culminate</div>
+            <div class="translation">O scorcher of foes! Knowledge-sacrifice is superior to sacrifice performed with objects. All actions, O Arjuna, in their entirety, culminate in Knowledge.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.34</div>
+            <div class="devanagari">तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।<br>उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: ।। 34।।</div>
+            <div class="iast">tad viddhi praṇipātena paripraśhnena sevayā<br>upadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ</div>
+            <div class="glossary"><b>tat</b>—the truth; <b>viddhi</b>—try to learn; <b>praṇipātena</b>—by approaching a spiritual master; <b>paripraśhnena</b>—by humble inquiries; <b>sevayā</b>—by rendering service; <b>upadekṣhyanti</b>—can impart; <b>te</b>—unto you; <b>jñānam</b>—knowledge; <b>jñāninaḥ</b>—the enlightened; <b>tattva-darśhinaḥ</b>—those who have realized the truth</div>
+            <div class="translation">Know that (Knowledge) by long prostration, question, and service (to the master). The sages who have realised the truth will instruct you in that knowledge.</div>
+        </div>
+        <div class='lecture-title'>057. Chapter 4 Verses 35-37</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.35</div>
+            <div class="devanagari">यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।<br>येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ।। 35।।</div>
+            <div class="iast">yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava<br>yena bhūtānyaśheṣheṇa drakṣhyasyātmanyatho mayi</div>
+            <div class="glossary"><b>yat</b>—which; <b>jñātvā</b>—having known; <b>na</b>—never; <b>punaḥ</b>—again; <b>moham</b>—delusion; <b>evam</b>—like this; <b>yāsyasi</b>—you shall get; <b>pāṇḍava</b>—Arjun, the son of Pandu; <b>yena</b>—by this; <b>bhūtāni</b>—living beings; <b>aśheṣhāṇi</b>—all; <b>drakṣhyasi</b>—you will see; <b>ātmani</b>—within me (Shree Krishna); <b>atho</b>—that is to say; <b>mayi</b>—in me</div>
+            <div class="translation">O Arjuna! Having obtained this knowledge, you will not thus be deluded again and by this Knowledge, you will see all beings in your Self and also in Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.36</div>
+            <div class="devanagari">अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: ।<br>सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ।। 36।।</div>
+            <div class="iast">api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛit-tamaḥ<br>sarvaṁ jñāna-plavenaiva vṛijinaṁ santariṣhyasi</div>
+            <div class="glossary"><b>api</b>—even; <b>chet</b>—if; <b>asi</b>—you are; <b>pāpebhyaḥ</b>—sinners; <b>sarvebhyaḥ</b>—of all; <b>pāpa-kṛit-tamaḥ</b>—most sinful; <b>sarvam</b>—all; <b>jñāna-plavena</b>—by the boat of divine knowledge; <b>eva</b>—certainly; <b>vṛijinam</b>—sin; <b>santariṣhyasi</b>—you shall cross over</div>
+            <div class="translation">Even if you are the most sinful of all sinners you shall cross all sin by the raft of Knowledge.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.37</div>
+            <div class="devanagari">यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।<br>ज्ञानाग्नि: सर्वकर्माणि भस्मसात्कुरुते तथा ।। 37।।</div>
+            <div class="iast">yathaidhānsi samiddho ’gnir bhasma-sāt kurute ’rjuna<br>jñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā</div>
+            <div class="glossary"><b>yathā</b>—as; <b>edhānsi</b>—firewood; <b>samiddhaḥ</b>—blazing; <b>agniḥ</b>—fire; <b>bhasma-sāt</b>—to ashes; <b>kurute</b>—turns; <b>arjuna</b>—Arjun; <b>jñāna-agniḥ</b>—the fire of knowledge; <b>sarva-karmāṇi</b>—all reactions from material activities; <b>bhasma-sāt</b>—to ashes; <b>kurute</b>—it turns; <b>tathā</b>—similarly</div>
+            <div class="translation">O Arjuna! Just as blazing fire reduces wood to ashes, even so, the fire of, Knowledge destroys all actions.</div>
+        </div>
+        <div class='lecture-title'>058. Chapter 4 Verses 38-41</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.38</div>
+            <div class="devanagari">न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।<br>तत्स्वयं योगसंसिद्ध: कालेनात्मनि विन्दति ।। 38।।</div>
+            <div class="iast">na hi jñānena sadṛiśhaṁ pavitramiha vidyate<br>tatsvayaṁ yogasansiddhaḥ kālenātmani vindati</div>
+            <div class="glossary"><b>na</b>—not; <b>hi</b>—certainly; <b>jñānena</b>—with divine knowledge; <b>sadṛiśham</b>—like; <b>pavitram</b>—pure; <b>iha</b>—in this world; <b>vidyate</b>—exists; <b>tat</b>—that; <b>svayam</b>—oneself; <b>yoga</b>—practice of yog; <b>sansiddhaḥ</b>—he who has attained perfection; <b>kālena</b>—in course of time; <b>ātmani</b>—wihtin the heart; <b>vindati</b>—finds</div>
+            <div class="translation">Indeed there is nothing so pure as Knowledge in this world. He who is perfected in Nishkama Karma finds that wisdom by himself in Atma in due season.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.39</div>
+            <div class="devanagari">श्रद्धावान् लभते ज्ञानं तत्पर: संयतेन्द्रिय: ।<br>ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ।। 39।।</div>
+            <div class="iast">śhraddhāvānllabhate jñānaṁ tat-paraḥ sanyatendriyaḥ<br>jñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati</div>
+            <div class="glossary"><b>śhraddhāvān</b>—a faithful person; <b>labhate</b>—achieves; <b>jñānam</b>—divine knowledge; <b>tat-paraḥ</b>—devoted (to that); <b>sanyata</b>—controlled; <b>indriyaḥ</b>—senses; <b>jñānam</b>—transcendental knowledge; <b>labdhvā</b>—having achieved; <b>parām</b>—supreme; <b>śhāntim</b>—peace; <b>achireṇa</b>—without delay; <b>adhigachchhati</b>—attains</div>
+            <div class="translation">The man of faith, having Knowledge as his supreme goal having controlled the senses, obtains knowledge of Atma, and having obtained that enjoys everlasting peace.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.40</div>
+            <div class="devanagari">अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।<br>नायं लोकोऽस्ति न परो न सुखं संशयात्मन: ।। 40।।</div>
+            <div class="iast">ajñaśh chāśhraddadhānaśh cha sanśhayātmā vinaśhyati<br>nāyaṁ loko ’sti na paro na sukhaṁ sanśhayātmanaḥ</div>
+            <div class="glossary"><b>ajñaḥ</b>—the ignorant; <b>cha</b>—and; <b>aśhraddadhānaḥ</b>—without faith; <b>cha</b>—and; <b>sanśhaya</b>—skeptical; <b>ātmā</b>—a person; <b>vinaśhyati</b>—falls down; <b>na</b>—never; <b>ayam</b>—in this; <b>lokaḥ</b>—world; <b>asti</b>—is; <b>na</b>—not; <b>paraḥ</b>—in the next; <b>na</b>—not; <b>sukham</b>—happiness; <b>sanśhaya-ātmanaḥ</b>—for the skeptical soul</div>
+            <div class="translation">But the ignorant man, the faithless man, the doubting man goes to destruction. For the doubting self, there is no happiness either in this world or the next.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.41</div>
+            <div class="devanagari">योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् ।<br>आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ।। 41।।</div>
+            <div class="iast">yoga-sannyasta-karmāṇaṁ jñāna-sañchhinna-sanśhayam<br>ātmavantaṁ na karmāṇi nibadhnanti dhanañjaya</div>
+            <div class="glossary"><b>yoga-sannyasta-karmāṇam</b>—those who renounce ritualistic karm, dedicating their body, mind, and soul to God; <b>jñāna</b>—by knowledge; <b>sañchhinna</b>—dispelled; <b>sanśhayam</b>—doubts; <b>ātma-vantam</b>—situated in knowledge of the self; <b>na</b>—not; <b>karmāṇi</b>—actions; <b>nibadhnanti</b>—bind; <b>dhanañjaya</b>—Arjun, the conqueror of wealth</div>
+            <div class="translation">O Arjuna! Actions do not bind the man who has surrendered the fruits of karma by yoga, whose doubts are cleared by Knowledge, and who is firmly established in the Self.</div>
+        </div>
+        <div class='lecture-title'>059. Chapter 4 Verse 42 + Ch 4 Summary</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.42</div>
+            <div class="devanagari">तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मन: ।<br>छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ।। 42।।</div>
+            <div class="iast">tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ<br>chhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata</div>
+            <div class="glossary"><b>tasmāt</b>—therefore; <b>ajñāna-sambhūtam</b>—born of ignorance; <b>hṛit-stham</b>—situated in the heart; <b>jñāna</b>—of knowledge; <b>asinā</b>—with the sword; <b>ātmanaḥ</b>—of the self; <b>chhittvā</b>—cut asunder; <b>enam</b>—this; <b>sanśhayam</b>—doubt; <b>yogam</b>—in karm yog; <b>ātiṣhṭha</b>—take shelter; <b>uttiṣhṭha</b>—arise; <b>bhārata</b>—Arjun, descendant of Bharat</div>
+            <div class="translation">Therefore, with the sword of Knowledge cut asunder the doubt born of ignorance about the Self, dwelling in the heart and take refuge in Yoga. Arise, O Arjuna!</div>
+        </div>
+        <div class='lecture-title'>nazevsouboru</div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.</div>
+            <div class="devanagari">MP3VIVEKAVANI</div>
+            <div class="iast">DEVAGIASTSLOVNIK</div>
+            <div class="glossary"></div>
+            <div class="translation">TRANSLATION</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.</div>
+            <div class="devanagari">MP3VIVEKAVANI</div>
+            <div class="iast">DEVAGIASTSLOVNIK</div>
+            <div class="glossary"></div>
+            <div class="translation">TRANSLATION</div>
+        </div>
+        
+</body>
+</html>

@@ -2275,6 +2275,39 @@ async function navigateLecture(direction) {
       });
   }, 500);
 </script>
-
+<script>
+  // Skript počká, až se stránka načte a vykreslí
+  const checkExist = setInterval(function() {
+     const headerContainer = document.querySelector('.song-header');
+     
+     // Pokud se objevila hlavička písně a tlačítko tam ještě není
+     if (headerContainer && !document.querySelector('.pdf-link')) {
+        clearInterval(checkExist); // Přestaneme hledat
+        
+        // Získáme název souboru z adresy webu (např. ?file=04_Chapter/043...)
+        const urlParams = new URLSearchParams(window.location.search);
+        let fileName = urlParams.get('file');
+        
+        if (fileName) {
+            // Vytvoříme odkaz na PDF a přidáme mu tvé styly
+            const pdfBtn = document.createElement('a');
+            pdfBtn.href = `print_pdf/${fileName}.pdf`;
+            pdfBtn.className = 'pdf-link';
+            pdfBtn.target = '_blank';
+            pdfBtn.setAttribute('download', '');
+            
+            // Vnitřek tlačítka
+            pdfBtn.innerHTML = `
+                <div class="pdf-link-inner">
+                    <span>📥 Stáhnout PDF pro tisk</span>
+                </div>
+            `;
+            
+            // Vložíme hotové tlačítko na úplný konec hlavičky
+            headerContainer.appendChild(pdfBtn);
+        }
+     }
+  }, 300); // Kontroluje každou třetinu vteřiny
+</script>
 </body>
 </html>

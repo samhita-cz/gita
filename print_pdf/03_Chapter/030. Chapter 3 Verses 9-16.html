@@ -1,0 +1,167 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 3 — karma yoga</div>
+        <h1>030. Chapter 3 Verses 9-16</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.9</div>
+            <div class="devanagari">यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धन: ।<br>तदर्थं कर्म कौन्तेय मुक्तसङ्ग: समाचर ।। 9।।</div>
+            <div class="iast">yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ<br>tad-arthaṁ karma kaunteya mukta-saṅgaḥ samāchara</div>
+            <div class="glossary"><b>yajña-arthāt</b>—for the sake of sacrifice; <b>karmaṇaḥ</b>—than action; <b>anyatra</b>—else; <b>lokaḥ</b>—material world; <b>ayam</b>—this; <b>karma-bandhanaḥ</b>—bondage through one’s work; <b>tat</b>—that; <b>artham</b>—for the sake of; <b>karma</b>—action; <b>kaunteya</b>—Arjun, the son of Kunti; <b>mukta-saṅgaḥ</b>—free from attachment; <b>samāchara</b>—perform properly</div>
+            <div class="translation">O Arjuna! Works other than those performed for the sake of sacrifice (Yajna) binds this world. So perform work for sacrifice without attachment.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.10</div>
+            <div class="devanagari">सहयज्ञा: प्रजा: सृष्ट्वा पुरोवाच प्रजापति: ।<br>अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ।। 10।।</div>
+            <div class="iast">saha-yajñāḥ prajāḥ sṛiṣhṭvā purovācha prajāpatiḥ<br>anena prasaviṣhyadhvam eṣha vo ’stviṣhṭa-kāma-dhuk</div>
+            <div class="glossary"><b>saha</b>—along with; <b>yajñāḥ</b>—sacrifices; <b>prajāḥ</b>—humankind; <b>sṛiṣhṭvā</b>—created; <b>purā</b>—in beginning; <b>uvācha</b>—said; <b>prajā-patiḥ</b>—Brahma; <b>anena</b>—by this; <b>prasaviṣhyadhvam</b>—increase prosperity; <b>eṣhaḥ</b>—these; <b>vaḥ</b>—your; <b>astu</b>—shall be; <b>iṣhṭa-kāma-dhuk</b>—bestower of all wishes</div>
+            <div class="translation">Having created mankind together with yajna in the beginning, Brahma (Creator) said – “By this shall you propagate; it shall be to you the milk-cow of desires, the wish-fulfilling heavenly cow Kamadhenu.”</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.11</div>
+            <div class="devanagari">देवान्भावयतानेन ते देवा भावयन्तु व: ।<br>परस्परं भावयन्त: श्रेय: परमवाप्स्यथ ।। 11।।</div>
+            <div class="iast">devān bhāvayatānena te devā bhāvayantu vaḥ<br>parasparaṁ bhāvayantaḥ śhreyaḥ param avāpsyatha</div>
+            <div class="glossary"><b>devān</b>—celestial gods; <b>bhāvayatā</b>—will be pleased; <b>anena</b>—by these (sacrifices); <b>te</b>—those; <b>devāḥ</b>—celestial gods; <b>bhāvayantu</b>—will be pleased; <b>vaḥ</b>—you; <b>parasparam</b>—one another; <b>bhāvayantaḥ</b>—pleasing one another; <b>śhreyaḥ</b>—prosperity; <b>param</b>—the supreme; <b>avāpsyatha</b>—shall achieve</div>
+            <div class="translation">Nourish the Gods with Yajna, and they shall nourish you, and thus nourishing one another both men and Gods you shall attain the highest good.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.12</div>
+            <div class="devanagari">इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविता: ।<br>तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव स: ।। 12।।</div>
+            <div class="iast">iṣhṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ<br>tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ</div>
+            <div class="glossary"><b>iṣhṭān</b>—desired; <b>bhogān</b>—necessities of life; <b>hi</b>—certainly; <b>vaḥ</b>—unto you; <b>devāḥ</b>—the celestial gods; <b>dāsyante</b>—will grant; <b>yajña-bhāvitāḥ</b>—satisfied by sacrifice; <b>taiḥ</b>—by them; <b>dattān</b>—things granted; <b>apradāya</b>—without offering; <b>ebhyaḥ</b>—to them; <b>yaḥ</b>—who; <b>bhuṅkte</b>—enjoys; <b>stenaḥ</b>—thieves; <b>eva</b>—verily; <b>saḥ</b>—they</div>
+            <div class="translation">Nourished by sacrifice, the Gods, give you desirable enjoyments. He who enjoys objects given by the Gods without offering them is verily a thief.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.13</div>
+            <div class="devanagari">यज्ञशिष्टाशिन: सन्तो मुच्यन्ते सर्वकिल्बिषै: ।<br>भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ।। 13।।</div>
+            <div class="iast">yajña-śhiṣhṭāśhinaḥ santo muchyante sarva-kilbiṣhaiḥ<br>bhuñjate te tvaghaṁ pāpā ye pachantyātma-kāraṇāt</div>
+            <div class="glossary"><b>yajña-śhiṣhṭa</b>—of remnants of food offered in sacrifice; <b>aśhinaḥ</b>—eaters; <b>santaḥ</b>—saintly persons; <b>muchyante</b>—are released; <b>sarva</b>—all kinds of; <b>kilbiṣhaiḥ</b>—from sins; <b>bhuñjate</b>—enjoy; <b>te</b>—they; <b>tu</b>—but; <b>agham</b>—sins; <b>pāpāḥ</b>—sinners; <b>ye</b>—who; <b>pachanti</b>—cook (food); <b>ātma-kāraṇāt</b>—for their own sake</div>
+            <div class="translation">The righteous who offer food to the Gods in sacrifice and eat the remnants are freed from all sins. But those who cook food to satisfy their own needs, are sinners and verily eat sin.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.14-15</div>
+            <div class="devanagari">अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भव: ।<br>यज्ञाद्भवति पर्जन्यो यज्ञ: कर्मसमुद्भव: ।। 14।।<br>कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।<br>तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ।। 15।।</div>
+            <div class="iast">annād bhavanti bhūtāni parjanyād anna-sambhavaḥ<br>yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ<br>karma brahmodbhavaṁ viddhi brahmākṣhara-samudbhavam<br>tasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣhṭhitam</div>
+            <div class="glossary"><b>annāt</b>—from food; <b>bhavanti</b>—subsist; <b>bhūtāni</b>—living beings; <b>parjanyāt</b>—from rains; <b>anna</b>—of food grains; <b>sambhavaḥ</b>—production; <b>yajñāt</b>—from the performance of sacrifice; <b>bhavati</b>—becomes possible; <b>parjanyaḥ</b>—rain; <b>yajñaḥ</b>—performance of sacrifice; <b>karma</b>—prescribed duties; <b>samudbhavaḥ</b>—born of</div>
+            <div class="translation">Beings are born of food, food is produced from rain, rain arises from yajna, yajna is born of action, action arises from Vedas, Vedas are born from the Imperishable Paramatma; therefore know that the Supreme Being is established in the yajna.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.16</div>
+            <div class="devanagari">एवं प्रवर्तितं चक्रं नानुवर्तयतीह य: ।<br>अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ।। 16।।</div>
+            <div class="iast">evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ<br>aghāyur indriyārāmo moghaṁ pārtha sa jīvati</div>
+            <div class="glossary"><b>evam</b>—thus; <b>pravartitam</b>—set into motion; <b>chakram</b>—cycle; <b>na</b>—not; <b>anuvartayati</b>—follow; <b>iha</b>—in this life; <b>yaḥ</b>—who; <b>agha-āyuḥ</b>—sinful living; <b>indriya-ārāmaḥ</b>—for the delight of their senses; <b>mogham</b>—vainly; <b>pārtha</b>—Arjun, the son of Pritha; <b>saḥ</b>—they; <b>jīvati</b>—live</div>
+            <div class="translation">The man who does not follow the cycle thus set revolving is a sinner rejoicing in sense-pleasures and he lives in vain.</div>
+        </div>
+        
+</body>
+</html>

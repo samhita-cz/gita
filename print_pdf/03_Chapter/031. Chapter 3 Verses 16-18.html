@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 3 — karma yoga</div>
+        <h1>031. Chapter 3 Verses 16-18</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.16</div>
+            <div class="devanagari">एवं प्रवर्तितं चक्रं नानुवर्तयतीह य: ।<br>अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ।। 16।।</div>
+            <div class="iast">evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ<br>aghāyur indriyārāmo moghaṁ pārtha sa jīvati</div>
+            <div class="glossary"><b>evam</b>—thus; <b>pravartitam</b>—set into motion; <b>chakram</b>—cycle; <b>na</b>—not; <b>anuvartayati</b>—follow; <b>iha</b>—in this life; <b>yaḥ</b>—who; <b>agha-āyuḥ</b>—sinful living; <b>indriya-ārāmaḥ</b>—for the delight of their senses; <b>mogham</b>—vainly; <b>pārtha</b>—Arjun, the son of Pritha; <b>saḥ</b>—they; <b>jīvati</b>—live</div>
+            <div class="translation">The man who does not follow the cycle thus set revolving is a sinner rejoicing in sense-pleasures and he lives in vain.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.17</div>
+            <div class="devanagari">यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानव: ।<br>आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ।। 17।।</div>
+            <div class="iast">yas tvātma-ratir eva syād ātma-tṛiptaśh cha mānavaḥ<br>ātmanyeva cha santuṣhṭas tasya kāryaṁ na vidyate</div>
+            <div class="glossary"><b>yaḥ</b>—who; <b>tu</b>—but; <b>ātma-ratiḥ</b>—rejoice in the self; <b>eva</b>—certainly; <b>syāt</b>—is; <b>ātma-tṛiptaḥ</b>—self-satisfied; <b>cha</b>—and; <b>mānavaḥ</b>—human being; <b>ātmani</b>—in the self; <b>eva</b>—certainly; <b>cha</b>—and; <b>santuṣhṭaḥ</b>—satisfied; <b>tasya</b>—his; <b>kāryam</b>—duty; <b>na</b>—not; <b>vidyate</b>—exist</div>
+            <div class="translation">But he who rejoices, who is contented, who finds happiness in Atma only, has no work to perform.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.18</div>
+            <div class="devanagari">नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।<br>न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रय: ।। 18।।</div>
+            <div class="iast">naiva tasya kṛitenārtho nākṛiteneha kaśhchana<br>na chāsya sarva-bhūteṣhu kaśhchid artha-vyapāśhrayaḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>eva</b>—indeed; <b>tasya</b>—his; <b>kṛitena</b>—by discharge of duty; <b>arthaḥ</b>—gain; <b>na</b>—not; <b>akṛitena</b>—without discharge of duty; <b>iha</b>—here; <b>kaśhchana</b>—whatsoever; <b>na</b>—never; <b>cha</b>—and; <b>asya</b>—of that person; <b>sarva-bhūteṣhu</b>—among all living beings; <b>kaśhchit</b>—any; <b>artha</b>—necessity; <b>vyapāśhrayaḥ</b>—to depend upon</div>
+            <div class="translation">For him, there is in this world no interest whatsoever by work done or not done. He does not depend upon any being for any object.</div>
+        </div>
+        
+</body>
+</html>

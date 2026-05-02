@@ -1,0 +1,384 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 1 — arjuna viṣhāda yoga</div>
+        <h1>Bhagavad Gita - Chapter 1</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    <div class='lecture-title'>001. Chapter 1 Summary </div>
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.1</div>
+            <div class="devanagari">धृतराष्ट्र उवाच ।<br>धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।<br>मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ।।1।।</div>
+            <div class="iast">dhṛitarāśhtra uvācha<br>dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ<br>māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya</div>
+            <div class="glossary"><b>dhṛitarāśhtraḥ uvācha</b>—Dhritarashtra said; <b>dharma-kṣhetre</b>—the land of dharma; <b>kuru-kṣhetre</b>—at Kurukshetra; <b>samavetāḥ</b>—having gathered; <b>yuyutsavaḥ</b>—desiring to fight; <b>māmakāḥ</b>—my sons; <b>pāṇḍavāḥ</b>—the sons of Pandu; <b>cha</b>—and; <b>eva</b>—certainly; <b>kim</b>—what; <b>akurvata</b>—did they do; <b>sañjaya</b>—Sanjay</div>
+            <div class="translation">Dhritarashtra said: Having assembled on the holy plain in Kurukshetra desirous of fighting the battle, what did my people and the Pandavas do? O Sanjaya!</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.2</div>
+            <div class="devanagari">सञ्जय उवाच ।<br>दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।<br>आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।</div>
+            <div class="iast">sañjaya uvācha<br>dṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā<br>āchāryamupasaṅgamya rājā vachanamabravīt</div>
+            <div class="glossary"><b>sanjayaḥ uvācha</b>—Sanjay said; <b>dṛiṣhṭvā</b>—on observing; <b>tu</b>—but; <b>pāṇḍava-anīkam</b>—the Pandava army; <b>vyūḍham</b>—standing in a military formation; <b>duryodhanaḥ</b>—King Duryodhan; <b>tadā</b>—then; <b>āchāryam</b>—teacher; <b>upasaṅgamya</b>—approached; <b>rājā</b>—the king; <b>vachanam</b>—words; <b>abravīt</b>—spoke</div>
+            <div class="translation">Sanjaya said: On seeing the Pāndava army arrayed for battle, King Duryodhana went to his teacher and spoke these words:</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.3</div>
+            <div class="devanagari">पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।<br>व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ।। 3।।</div>
+            <div class="iast">paśhyaitāṁ pāṇḍu-putrāṇām āchārya mahatīṁ chamūm<br>vyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā</div>
+            <div class="glossary"><b>paśhya</b>—behold; <b>etām</b>—this; <b>pāṇḍu-putrāṇām</b>—of the sons of Pandu; <b>āchārya</b>—respected teacher; <b>mahatīm</b>—mighty; <b>chamūm</b>—army; <b>vyūḍhām</b>—arrayed in a military formation; <b>drupada-putreṇa</b>—son of Drupad, Dhrishtadyumna; <b>tava</b>—by your; <b>śhiṣhyeṇa</b>—disciple; <b>dhī-matā</b>—intelligent</div>
+            <div class="translation">O teacher, behold the great army of the sons of Pāndu arrayed by your talented disciple, the son of Drupada.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.4-6</div>
+            <div class="devanagari">अत्र शूरा महेष्वासा भीमार्जुनसमा युधि<br>युयुधानो विराटश्च द्रुपदश्च महारथ: ।। 4।।<br>धृष्टकेतुश्चेकितान: काशिराजश्च वीर्यवान् ।<br>पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गव: ।। 5।।<br>युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।<br>सौभद्रो द्रौपदेयाश्च सर्व एव महारथा: ।। 6।।</div>
+            <div class="iast">Tatra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi<br>yuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ<br>dhṛiṣhṭaketuśhchekitānaḥ kāśhirājaśhcha vīryavān<br>purujit kuntibhojaśhcha śhaibyaśhcha nara-puṅgavaḥ<br>yudhāmanyuśhcha vikrānta uttamaujāśhcha vīryavān<br>saubhadro draupadeyāśhcha sarva eva mahā-rathāḥ</div>
+            <div class="glossary"><b>atra</b>—here; <b>śhūrāḥ</b>—powerful warriors; <b>mahā-iṣhu-āsāḥ</b>—great bowmen; <b>bhīma-arjuna-samāḥ</b>—equal to Bheem and Arjun; <b>yudhi</b>—in military prowess; <b>yuyudhānaḥ</b>—Yuyudhan; <b>virāṭaḥ</b>—Virat; <b>cha</b>—and; <b>drupadaḥ</b>—Drupad; <b>cha</b>—also; <b>mahā-rathaḥ</b>—warriors who could single handedly match the strength of ten thousand ordinary warriors; <b>dhṛiṣhṭaketuḥ</b>—Dhrishtaketu; <b>chekitānaḥ</b>—Chekitan; <b>kāśhirājaḥ</b>—Kashiraj; <b>cha</b>—and; <b>vīrya-vān</b>—heroic; <b>purujit</b>—Purujit; <b>kuntibhojaḥ</b>—Kuntibhoj; <b>cha</b>—and; <b>śhaibyaḥ</b>—Shaibya; <b>cha</b>—and; <b>nara-puṅgavaḥ</b>—best of men; <b>yudhāmanyuḥ</b>—Yudhamanyu; <b>cha</b>—and; <b>vikrāntaḥ</b>—courageous; <b>uttamaujāḥ</b>—Uttamauja; <b>cha</b>—and; <b>vīrya-vān</b>—gallant; <b>saubhadraḥ</b>—the son of Subhadra; <b>draupadeyāḥ</b>—the sons of Draupadi; <b>cha</b>—and; <b>sarve</b>—all; <b>eva</b>—indeed; <b>mahā-rathāḥ</b>—warriors who could single handedly match the strength of ten thousand ordinary warriors</div>
+            <div class="translation">In that army are mighty archers and heroes, in battle equal to Bhima and Arjuna: Yuyudhāna, Virāta, and Drupada, each a mahāratha;
+
+Heroic Dhrishtaketu, Chekitāna, and the king of Kāśi; Purujit, Kuntibhoja, and Śaivya, all the best of men;
+
+Powerful Yudhāmanyu, brave Uttamaujā, Subhadrā’s son, and the sons of Draupadi - all mahārathas indeed.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.7</div>
+            <div class="devanagari">अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।<br>नायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ।। 7।।</div>
+            <div class="iast">asmākaṁ tu viśhiṣhṭā ye tānnibodha dwijottama<br>nāyakā mama sainyasya sanjñārthaṁ tānbravīmi te</div>
+            <div class="glossary"><b>asmākam</b>—ours; <b>tu</b>—but; <b>viśhiṣhṭāḥ</b>—special; <b>ye</b>—who; <b>tān</b>—them; <b>nibodha</b>—be informed; <b>dwija-uttama</b>—best of Brahmins; <b>nāyakāḥ</b>—principal generals; <b>mama</b>—our; <b>sainyasya</b>—of army; <b>sanjñā-artham</b>—for information; <b>tān</b>—them; <b>bravīmi</b>—I recount; <b>te</b>—unto you</div>
+            <div class="translation">(Having named some of the foremost heroes of the Pandava Army, Duryodhana mentions the names of warriors on his side)
+
+O best of the twice-born, let me also recount to you the leaders of my own army, those distinguished amongst ourselves. I shall name them, that you may know them all:</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.8-9</div>
+            <div class="devanagari">भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जय: ।<br>अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ।। 8।।<br>अन्ये च बहव: शूरा मदर्थे त्यक्तजीविता: ।<br>नानाशस्त्रप्रहरणा: सर्वे युद्धविशारदा: ।। 9।।</div>
+            <div class="iast">bhavānbhīṣhmaśhcha karṇaśhcha kṛipaśhcha samitiñjayaḥ<br>aśhvatthāmā vikarṇaśhcha saumadattis tathaiva cha<br>anye cha bahavaḥ śhūrā madarthe tyaktajīvitāḥ<br>nānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ</div>
+            <div class="glossary"><b>bhavān</b>—yourself; <b>bhīṣhmaḥ</b>—Bheeshma; <b>cha</b>—and; <b>karṇaḥ</b>—Karna; <b>cha</b>—and; <b>kṛipaḥ</b>—Kripa; <b>cha</b>—and; <b>samitim-jayaḥ</b>—victorious in battle; <b>aśhvatthāmā</b>—Ashvatthama; <b>vikarṇaḥ</b>—Vikarna; <b>cha</b>—and; <b>saumadattiḥ</b>—Bhurishrava; <b>tathā</b>—thus; <b>eva</b>—even; <b>cha</b>—also; <b>anye</b>—others; <b>cha</b>—also; <b>bahavaḥ</b>—many; <b>śhūrāḥ</b>—heroic warriors; <b>mat-arthe</b>—for my sake; <b>tyakta-jīvitāḥ</b>—prepared to lay down their lives; <b>nānā-śhastra-praharaṇāḥ</b>—equipped with various kinds of weapons; <b>sarve</b>—all; <b>yuddha-viśhāradāḥ</b>—skilled in the art of warfare</div>
+            <div class="translation">Yourself and Bhishma and Karna; Kripa, who is ever victorious in war; Aśvatthāmā, Vikarna, Jayadratha, and Somadatta’s son;
+
+And many other heroes besides, armed with many weapons, each well skilled in battle, and all resolved to lay down their lives to serve my cause.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.10</div>
+            <div class="devanagari">अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।<br>पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ।। 10।।</div>
+            <div class="iast">aparyāptaṁ tadasmākaṁ balaṁ bhīṣhmābhirakṣhitam<br>paryāptaṁ tvidameteṣhāṁ balaṁ bhīmābhirakṣhitam</div>
+            <div class="glossary"><b>aparyāptam</b>—unlimited; <b>tat</b>—that; <b>asmākam</b>—ours; <b>balam</b>—strength; <b>bhīṣhma</b>—by Grandsire Bheeshma; <b>abhirakṣhitam</b>—safely marshalled; <b>paryāptam</b>—limited; <b>tu</b>—but; <b>idam</b>—this; <b>eteṣhām</b>—their; <b>balam</b>—strength; <b>bhīma</b>—Bheem; <b>abhirakṣhitam</b>—carefully marshalled</div>
+            <div class="translation">(Having named the various warriors on both sides Duryodhana now declares that his own army is superior.)
+
+But this army of ours, protected by Bhishma, is unlimited, and that army of theirs, protected by Bhima, is limited.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.11</div>
+            <div class="devanagari">अयनेषु च सर्वेषु यथाभागमवस्थिता: ।<br>भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ।। 11।।</div>
+            <div class="iast">ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ<br>bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi</div>
+            <div class="glossary"><b>ayaneṣhu</b>—at the strategic points; <b>cha</b>—also; <b>sarveṣhu</b>—all; <b>yathā-bhāgam</b>—in respective position; <b>avasthitāḥ</b>—situated; <b>bhīṣhmam</b>—to Grandsire Bheeshma; <b>eva</b>—only; <b>abhirakṣhantu</b>—defend; <b>bhavantaḥ</b>—you; <b>sarve</b>—all; <b>eva hi</b>—even as</div>
+            <div class="translation">Now take your proper places in front of your marshalled troops and protect Bhishma alone.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.12</div>
+            <div class="devanagari">तस्य सञ्जनयन्हर्षं कुरुवृद्ध: पितामह: ।<br>सिंहनादं विनद्योच्चै: शङ्खं दध्मौ प्रतापवान् ।। 12।।</div>
+            <div class="iast">tasya sañjanayan harṣhaṁ kuru-vṛiddhaḥ pitāmahaḥ<br>siṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān</div>
+            <div class="glossary"><b>tasya</b>—his; <b>sañjanayan</b>—causing; <b>harṣham</b>—joy; <b>kuru-vṛiddhaḥ</b>—the grand old man of the Kuru dynasty (Bheeshma); <b>pitāmahaḥ</b>—grandfather; <b>sinha-nādam</b>—lion’s roar; <b>vinadya</b>—sounding; <b>uchchaiḥ</b>—very loudly; <b>śhaṅkham</b>—conch shell; <b>dadhmau</b>—blew; <b>pratāpa-vān</b>—the glorious</div>
+            <div class="translation">Bhishma the grandsire, the glorious, the oldest of the Kurus, gave forth a lion-roar and blew his conch, causing joy to Duryodhana.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.13</div>
+            <div class="devanagari">तत: शङ्खाश्च भेर्यश्च पणवानकगोमुखा: ।<br>सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ।। 13।।</div>
+            <div class="iast">tataḥ śhaṅkhāśhcha bheryaśhcha paṇavānaka-gomukhāḥ<br>sahasaivābhyahanyanta sa śhabdastumulo ’bhavat</div>
+            <div class="glossary"><b>tataḥ</b>—thereafter; <b>śhaṅkhāḥ</b>—conches; <b>cha</b>—and; <b>bheryaḥ</b>—bugles; <b>cha</b>—and; <b>paṇava-ānaka</b>—drums and kettledrums; <b>go-mukhāḥ</b>—trumpets; <b>sahasā</b>—suddenly; <b>eva</b>—indeed; <b>abhyahanyanta</b>—blared forth; <b>saḥ</b>—that; <b>śhabdaḥ</b>—sound; <b>tumulaḥ</b>—overwhelming; <b>abhavat</b>—was</div>
+            <div class="translation">(Following the example of Bhishma, other heroes blew the conches, and drums, trumpets, and horns were sounded.)
+Then conchs and kettle-drums, tabors and trumpets and cow-horns suddenly blared forth; and the sound was stupendous.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.14</div>
+            <div class="devanagari">तत: श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।<br>माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: ।। 14।।</div>
+            <div class="iast">tataḥ śhvetairhayairyukte mahati syandane sthitau<br>mādhavaḥ pāṇḍavaśhchaiva divyau śhaṅkhau pradadhmatuḥ</div>
+            <div class="glossary"><b>tataḥ</b>—then; <b>śhvetaiḥ</b>—by white; <b>hayaiḥ</b>—horses; <b>yukte</b>—yoked; <b>mahati</b>—glorious; <b>syandane</b>—chariot; <b>sthitau</b>—seated; <b>mādhavaḥ</b>—Shree Krishna, the husband of the goddess of fortune, Lakshmi; <b>pāṇḍavaḥ</b>—Arjun; <b>cha</b>—and; <b>eva</b>—also; <b>divyau</b>—Divine; <b>śhaṅkhau</b>—conch shells; <b>pradadhmatuḥ</b>—blew</div>
+            <div class="translation">Whereupon Mādhava and Pāndava, seated in their magnificent chariot yoked to white horses, also blew their celestial conchs.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.15-18</div>
+            <div class="devanagari">पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जय: ।<br>पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदर: ।। 15।।<br>अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिर: ।<br>नकुल: सहदेवश्च सुघोषमणिपुष्पकौ ।। 16।।<br>काश्यश्च परमेष्वास: शिखण्डी च महारथ: ।<br>धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित: ।। 17।।<br>द्रुपदो द्रौपदेयाश्च सर्वश: पृथिवीपते ।<br>सौभद्रश्च महाबाहु: शङ्खान्दध्मु: पृथक् पृथक् ।। 18।।</div>
+            <div class="iast">pāñchajanyaṁ hṛiṣhīkeśho devadattaṁ dhanañjayaḥ<br>pauṇḍraṁ dadhmau mahā-śhaṅkhaṁ bhīma-karmā vṛikodaraḥ<br>anantavijayaṁ rājā kuntī-putro yudhiṣhṭhiraḥ<br>nakulaḥ sahadevaśhcha sughoṣha-maṇipuṣhpakau<br>kāśhyaśhcha parameṣhvāsaḥ śhikhaṇḍī cha mahā-rathaḥ<br>dhṛiṣhṭadyumno virāṭaśhcha sātyakiśh chāparājitaḥ<br>drupado draupadeyāśhcha sarvaśhaḥ pṛithivī-pate<br>saubhadraśhcha mahā-bāhuḥ śhaṅkhāndadhmuḥ pṛithak pṛithak</div>
+            <div class="glossary"><b>pāñchajanyam</b>—the conch shell named Panchajanya; <b>hṛiṣhīka-īśhaḥ</b>—Shree Krishna, the Lord of the mind and senses; <b>devadattam</b>—the conch shell named Devadutta; <b>dhanañ-jayaḥ</b>—Arjun, winner of wealth; <b>pauṇḍram</b>—the conch named Paundra; <b>dadhmau</b>—blew; <b>mahā-śhaṅkham</b>—mighty conch; <b>bhīma-karmā</b>—one who performs herculean tasks; <b>vṛika-udaraḥ</b>—Bheem, the voracious eater; <b>ananta-vijayam</b>—the conch named Anantavijay; <b>rājā</b>—king; <b>kuntī-putraḥ</b>—son of Kunti; <b>yudhiṣhṭhiraḥ</b>—Yudhishthir; <b>nakulaḥ</b>—Nakul; <b>sahadevaḥ</b>—Sahadev; <b>cha</b>—and; <b>sughoṣha-maṇipuṣhpakau</b>—the conche shells named Sughosh and Manipushpak; <b>kāśhyaḥ</b>—King of Kashi; <b>cha</b>—and; <b>parama-iṣhu-āsaḥ</b>—the excellent archer; <b>śhikhaṇḍī</b>—Shikhandi; <b>cha</b>—also; <b>mahā-rathaḥ</b>—warriors who could single handedly match the strength of ten thousand ordinary warriors; <b>dhṛiṣhṭadyumnaḥ</b>—Dhrishtadyumna; <b>virāṭaḥ</b>—Virat; <b>cha</b>—and; <b>sātyakiḥ</b>—Satyaki; <b>cha</b>—and; <b>aparājitaḥ</b>—invincible; <b>drupadaḥ</b>—Drupad; <b>draupadeyāḥ</b>—the five sons of Draupadi; <b>cha</b>—and; <b>sarvaśhaḥ</b>—all; <b>pṛithivī-pate</b>—Ruler of the earth; <b>saubhadraḥ</b>—Abhimanyu, the son of Subhadra; <b>cha</b>—also; <b>mahā-bāhuḥ</b>—the mighty-armed; <b>śhaṅkhān</b>—conch shells; <b>dadhmuḥ</b>—blew; <b>pṛithak pṛithak</b>—individually</div>
+            <div class="translation">Hrishikeśa blew His conch, the Pānchajanya; Dhananjaya, the Devadatta; and Vrikodara, the doer of fearful deeds, blew his great conch, the Paundra. King Yudhishthira, the son of Kunti, blew his conch, the Anantavijaya; and Nakula and Sahadeva blew the Sughosha and the Manipushpaka. The great archer, the king of Kāśi; the great warrior Śikhandi; Dhristadyumna and Virāta; the unconquered Sātyaki; Drupada, and the sons of Draupadi, and the mighty son of Subhadrā, O Lord of the Earth, each blew his own conch.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.19</div>
+            <div class="devanagari">अरिया स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।<br>नभश्च पृथिवीं चैव तुमुलोऽभ्यनुनादयन् ।। 19।।</div>
+            <div class="iast">sa ghoṣho dhārtarāṣhṭrāṇāṁ hṛidayāni vyadārayat<br>nabhaśhcha pṛithivīṁ chaiva tumulo abhyanunādayan</div>
+            <div class="glossary"><b>saḥ</b>—that; <b>ghoṣhaḥ</b>—sound; <b>dhārtarāṣhṭrāṇām</b>—of Dhritarashtra’s sons; <b>hṛidayāni</b>—hearts; <b>vyadārayat</b>—shattered; <b>nabhaḥ</b>—the sky; <b>cha</b>—and; <b>pṛithivīm</b>—the earth; <b>cha</b>—and; <b>eva</b>—certainly; <b>tumulaḥ</b>—terrific sound; <b>abhyanunādayan</b>—thunderingSTslovnik</div>
+            <div class="translation">And that tumult, resounding through heaven and earth, rent the hearts of Dhritarāshtra’s followers.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.20</div>
+            <div class="devanagari">अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान् कपिध्वज: ।<br>प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ।।20।।<br>हृषीकेशं तदा वाक्यमिदमाह महीपते ।</div>
+            <div class="iast">atha vyavasthitān dṛiṣhṭvā dhārtarāṣhṭrān kapi-dhwajaḥ<br>pravṛitte śhastra-sampāte dhanurudyamya pāṇḍavaḥ<br>hṛiṣhīkeśhaṁ tadā vākyam idam āha mahī-pate</div>
+            <div class="glossary"><b>atha</b>—thereupon; <b>vyavasthitān</b>—arrayed; <b>dṛiṣhṭvā</b>—seeing; <b>dhārtarāṣhṭrān</b>—Dhritarashtra’s sons; <b>kapi-dwajaḥ</b>—the monkey bannered; <b>pravṛitte</b>—about to commence; <b>śhastra-sampāte</b>—to use the weapons; <b>dhanuḥ</b>—bow; <b>udyamya</b>—taking up; <b>pāṇḍavaḥ</b>—Arjun, the son of Pandu; <b>hṛiṣhīkeśham</b>—to Shree Krishna; <b>tadā</b>—at that time; <b>vākyam</b>—words; <b>idam</b>—these; <b>āha</b>—said; <b>mahī-pate</b>—king</div>
+            <div class="translation">O King! Now seeing the Kauravas arrayed in battle order and the discharge of weapons about to begin, Arjuna took up his bow and spoke these words to Lord Krishna.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.21-22</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ।। 21।।<br>यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ।<br>कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ।। 22।।</div>
+            <div class="iast">arjuna uvācha<br>senayor ubhayor madhye rathaṁ sthāpaya me ’chyuta<br>yāvadetān nirīkṣhe ’haṁ yoddhu-kāmān avasthitān<br>kairmayā saha yoddhavyam asmin raṇa-samudyame</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>senayoḥ</b>—armies; <b>ubhayoḥ</b>—both; <b>madhye</b>—in the middle; <b>ratham</b>—chariot; <b>sthāpaya</b>—place; <b>me</b>—my; <b>achyuta</b>—Shree Krishna, the infallible One; <b>yāvat</b>—as many as; <b>etān</b>—these; <b>nirīkṣhe</b>—look; <b>aham</b>—I; <b>yoddhu-kāmān</b>—for the battle; <b>avasthitān</b>—arrayed; <b>kaiḥ</b>—with whom; <b>mayā</b>—by me; <b>saha</b>—together; <b>yoddhavyam</b>—must fight; <b>asmin</b>—in this; <b>raṇa-samudyame</b>—great combat</div>
+            <div class="translation">Arjuna said: O Achyuta, between the two armies draw up my chariot, that I may behold those who stand there eager to fight, and may know, on the eve of battle, with whom I must contend.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.23</div>
+            <div class="devanagari">योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागता: ।<br>धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव: ।। 23।।</div>
+            <div class="iast">yotsyamānān avekṣhe ’haṁ ya ete ’tra samāgatāḥ<br>dhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ</div>
+            <div class="glossary"><b>yotsyamānān</b>—those who have come to fight; <b>avekṣhe aham</b>—I desire to see; <b>ye</b>—who; <b>ete</b>—those; <b>atra</b>—here; <b>samāgatāḥ</b>—assembled; <b>dhārtarāṣhṭrasya</b>—of Dhritarashtra’s son; <b>durbuddheḥ</b>—evil-minded; <b>yuddhe</b>—in the fight; <b>priya-chikīrṣhavaḥ</b>—wishing to please</div>
+            <div class="translation">I would observe these warriors assembled here for the battle wishing to please the evil-minded Duryodhana.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.24-25</div>
+            <div class="devanagari">सञ्जय उवाच ।<br>एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।<br>सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ।। 24।।<br>भीष्मद्रोणप्रमुखत: सर्वेषां च महीक्षिताम् ।<br>उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ।। 25।।</div>
+            <div class="iast">sañjaya uvācha<br>evam ukto hṛiṣhīkeśho guḍākeśhena bhārata<br>senayor ubhayor madhye sthāpayitvā rathottamam<br>bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām<br>uvācha pārtha paśhyaitān samavetān kurūn iti</div>
+            <div class="glossary"><b>sañjayaḥ uvācha</b>—Sanjay said; <b>evam</b>—thus; <b>uktaḥ</b>—addressed; <b>hṛiṣhīkeśhaḥ</b>—Shree Krishna, the Lord of the senses; <b>guḍākeśhena</b>—by Arjun, the conqueror of sleep; <b>bhārata</b>—descendant of Bharat; <b>senayoḥ</b>—armies; <b>ubhayoḥ</b>—the two; <b>madhye</b>—between; <b>sthāpayitvā</b>—having drawn; <b>ratha-uttamam</b>—magnificent chariot; <b>bhīṣhma</b>—Grandsire Bheeshma; <b>droṇa</b>—Dronacharya; <b>pramukhataḥ</b>—in the presence; <b>sarveṣhām</b>—all; <b>cha</b>—and; <b>mahī-kṣhitām</b>—other kings; <b>uvācha</b>—said; <b>pārtha</b>—Arjun, the son of Pritha; <b>paśhya</b>—behold; <b>etān</b>—these; <b>samavetān</b>—gathered; <b>kurūn</b>—descendants of Kuru; <b>iti</b>—thus</div>
+            <div class="translation">Sanjaya said: Advised thus by Arjuna Lord Krishna placed the noble chariot in the middle of the two armies, and in front of Bhishma and Drona, and all the Kings, and said: ‘O Arjuna! Behold those Kauravas gathered here.’</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.26</div>
+            <div class="devanagari">तत्रापश्यत्स्थितान् पार्थ: पितृ नथ पितामहान् ।<br>आचार्यान्मातुलान्भ्रातृ न्पुत्रान्पौत्रान्सखींस्तथा ।। 26।।<br>श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।</div>
+            <div class="iast">tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān<br>āchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā<br>śhvaśhurān suhṛidaśh chaiva senayor ubhayor api</div>
+            <div class="glossary"><b>tatra</b>—there; <b>apaśhyat</b>—saw; <b>sthitān</b>—stationed; <b>pārthaḥ</b>—Arjun; <b>pitṝīn</b>—fathers; <b>atha</b>—thereafter; <b>pitāmahān</b>—grandfathers; <b>āchāryān</b>—teachers; <b>mātulān</b>—maternal uncles; <b>bhrātṝīn</b>—brothers; <b>putrān</b>—sons; <b>pautrān</b>—grandsons; <b>sakhīn</b>—friends; <b>tathā</b>—also; <b>śhvaśhurān</b>—fathers-in-law; <b>suhṛidaḥ</b>—well-wishers; <b>cha</b>—and; <b>eva</b>—indeed; <b>senayoḥ</b>—armies; <b>ubhayoḥ</b>—in both armies; <b>api</b>—also</div>
+            <div class="translation">There Arjuna saw fathers, grand-fathers, teachers, uncles, brothers, sons, grandsons, companions, fathers-in-law, and friends in both the armies.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.27</div>
+            <div class="devanagari">तान्समीक्ष्य स कौन्तेय: सर्वान्बन्धूनवस्थितान् ।। 27।।<br>कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।</div>
+            <div class="iast">tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān<br>kṛipayā parayāviṣhṭo viṣhīdann idam abravīt</div>
+            <div class="glossary"><b>tān</b>—these; <b>samīkṣhya</b>—on seeing; <b>saḥ</b>—they; <b>kaunteyaḥ</b>—Arjun, the son of Kunti; <b>sarvān</b>—all; <b>bandhūn</b>—relatives; <b>avasthitān</b>—present; <b>kṛipayā</b>—by compassion; <b>parayā</b>—great; <b>āviṣhṭaḥ</b>—overwhelmed; <b>viṣhīdan</b>—deep sorrow; <b>idam</b>—this; <b>abravīt</b>—spoke</div>
+            <div class="translation">Casting his eyes on all these kinsmen stationed on opposing sides, the son of Kunti was overcome with deep pity and sorrowfully spoke.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.28-30</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ।। 28।।<br>सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।<br>वेपथुश्च शरीरे मे रोमहर्षश्च जायते ।। 29।।<br>गाण्डीवं स्रंसते हस्तात्त्वक्चै व परिदह्यते ।<br>न च शक्नोम्यवस्थातुं भ्रमतीव च मे मन: ।। 30।।</div>
+            <div class="iast">arjuna uvācha<br>dṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam<br>sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati<br>vepathuśh cha śharīre me roma-harṣhaśh cha jāyate<br>gāṇḍīvaṁ sraṁsate hastāt tvak chaiva paridahyate<br>na cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>dṛiṣhṭvā</b>—on seeing; <b>imam</b>—these; <b>sva-janam</b>—kinsmen; <b>kṛiṣhṇa</b>—Krishna; <b>yuyutsum</b>—eager to fight; <b>samupasthitam</b>—present; <b>sīdanti</b>—quivering; <b>mama</b>—my; <b>gātrāṇi</b>—limbs; <b>mukham</b>—mouth; <b>cha</b>—and; <b>pariśhuṣhyati</b>—is drying up; <b>vepathuḥ</b>—shuddering; <b>cha</b>—and; <b>śharīre</b>—on the body; <b>me</b>—my; <b>roma-harṣhaḥ</b>—standing of bodily hair on end; <b>cha</b>—also; <b>jāyate</b>—is happening; <b>gāṇḍīvam</b>—Arjun’s bow; <b>sraṁsate</b>—is slipping; <b>hastāt</b>—from (my) hand; <b>tvak</b>—skin; <b>cha</b>—and; <b>eva</b>—indeed; <b>paridahyate</b>—is burning all over; <b>na</b>—not; <b>cha</b>—and; <b>śhaknomi</b>—am able; <b>avasthātum</b>—remain steady; <b>bhramati iva</b>—whirling like; <b>cha</b>—and; <b>me</b>—my; <b>manaḥ</b>—mind;</div>
+            <div class="translation">Arjuna said: O Krishna, at the sight of these my kinsmen, assembled here eager to give battle, my limbs fail and my mouth is parched. My body is shaken and my hair stands on end. The bow Gāndiva slips from my hand and my skin is on fire. I cannot hold myself steady; my mind seems to whirl. O Keśava, I see omens of evil.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.31</div>
+            <div class="devanagari">निमित्तानि च पश्यामि विपरीतानि केशव ।<br>न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ।। 31।।</div>
+            <div class="iast">nimittāni cha paśhyāmi viparītāni keśhava<br>na cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave</div>
+            <div class="glossary"><b>nimittāni</b>—omens; <b>cha</b>—and; <b>paśhyāmi</b>—I see; <b>viparītāni</b>—misfortune; <b>keśhava</b>—Shree Krishna, killer of the Keshi demon; <b>na</b>—not; <b>cha</b>—also; <b>śhreyaḥ</b>—good; <b>anupaśhyāmi</b>—I foresee; <b>hatvā</b>—from killing; <b>sva-janam</b>—kinsmen; <b>āhave</b>—in battle</div>
+            <div class="translation">O Krishna! I see many ill-omens and I do not understand what good could come by killing my own people in battle.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.32</div>
+            <div class="devanagari">न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।<br>किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ।। 32।।</div>
+            <div class="iast">na kāṅkṣhe vijayaṁ kṛiṣhṇa na cha rājyaṁ sukhāni cha<br>kiṁ no rājyena govinda kiṁ bhogair jīvitena vā</div>
+            <div class="glossary"><b>na</b>—nor; <b>kāṅkṣhe</b>—do I desire; <b>vijayam</b>—victory; <b>kṛiṣhṇa</b>—Krishna; <b>na</b>—nor; <b>cha</b>—as well; <b>rājyam</b>—kingdom; <b>sukhāni</b>—happiness; <b>cha</b>—also; <b>kim</b>—what; <b>naḥ</b>—to us; <b>rājyena</b>—by kingdom; <b>govinda</b>—Krishna, he who gives pleasure to the senses, he who is fond of cows; <b>kim</b>—what?; <b>bhogaiḥ</b>—pleasures; <b>jīvitena</b>—life; <b>vā</b>—or;</div>
+            <div class="translation">O Krishna! I do not desire victory or kingdom or pleasures. Of what avail are these kingdom, enjoyment, or even life itself to us.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.33-34</div>
+            <div class="devanagari">येषामर्थे काङ्क्षितं नो राज्यं भोगा: सुखानि च ।<br>त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ।। 33।।<br>आचार्या: पितर: पुत्रास्तथैव च पितामहा: ।<br>मातुला: श्वशुरा: पौत्रा: श्याला: सम्बन्धिनस्तथा ।। 34।।</div>
+            <div class="iast">yeṣhām arthe kāṅkṣhitaṁ no rājyaṁ bhogāḥ sukhāni cha<br>ta ime ’vasthitā yuddhe prāṇāṁs tyaktvā dhanāni cha<br>āchāryāḥ pitaraḥ putrās tathaiva cha pitāmahāḥ<br>mātulāḥ śhvaśhurāḥ pautrāḥ śhyālāḥ sambandhinas tathā</div>
+            <div class="glossary"><b>yeṣhām</b>—for whose; <b>arthe</b>—sake; <b>kāṅkṣhitam</b>—coveted for; <b>naḥ</b>—by us; <b>rājyam</b>—kingdom; <b>bhogāḥ</b>—pleasures; <b>sukhāni</b>—happiness; <b>cha</b>—also; <b>te</b>—they; <b>ime</b>—these; <b>avasthitāḥ</b>—situated; <b>yuddhe</b>—for battle; <b>prāṇān</b>—lives; <b>tyaktvā</b>—giving up; <b>dhanāni</b>—wealth; <b>cha</b>—also; <b>āchāryāḥ</b>—teachers; <b>pitaraḥ</b>—fathers; <b>putrāḥ</b>—sons; <b>tathā</b>—as well; <b>eva</b>—indeed; <b>cha</b>—also; <b>pitāmahāḥ</b>—grandfathers; <b>mātulāḥ</b>—maternal uncles; <b>śhvaśhurāḥ</b>—fathers-in-law; <b>pautrāḥ</b>—grandsons; <b>śhyālāḥ</b>—brothers-in-law; <b>sambandhinaḥ</b>—kinsmen; <b>tathā</b>—as well;</div>
+            <div class="translation">Those for whose sake we desire kingdom, enjoyments, and pleasures—teachers, fathers, sons, grandfathers, maternal uncles, fathers-in law, brothers-in-law, grandsons and other relations are all standing here ready for battle, having abandoned their wealth and very life even.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.35</div>
+            <div class="devanagari">एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।<br>अपि त्रैलोक्यराज्यस्य हेतो: किं नु महीकृते ।। 35।।</div>
+            <div class="iast">etān na hantum ichchhāmi ghnato ’pi madhusūdana<br>api trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛite</div>
+            <div class="glossary"><b>etān</b>—these; <b>na</b>—not; <b>hantum</b>—to slay; <b>ichchhāmi</b>—I wish; <b>ghnataḥ</b>—killed; <b>api</b>—even though; <b>madhusūdana</b>—Shree Krishna, killer of the demon Madhu; <b>api</b>—even though; <b>trai-lokya-rājyasya</b>—dominion over three worlds; <b>hetoḥ</b>—for the sake of; <b>kim nu</b>—what to speak of; <b>mahī-kṛite</b>—for the earth</div>
+            <div class="translation">These, O Madhusudana, I would not kill, though they should kill me, even for the sake of sovereignty over the three worlds - how much less for this earth!</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.36</div>
+            <div class="devanagari">निहत्य धार्तराष्ट्रान्न: का प्रीति: स्याज्जनार्दन ।<br>पापमेवाश्रयेदस्मान्हत्वैतानाततायिन: ।। 36 ।।</div>
+            <div class="iast">nihatya dhārtarāṣhṭrān naḥ kā prītiḥ syāj janārdana<br>pāpam evāśhrayed asmān hatvaitān ātatāyinaḥ</div>
+            <div class="glossary"><b>nihatya</b>—by killing; <b>dhārtarāṣhṭrān</b>—the sons of Dhritarashtra; <b>naḥ</b>—our; <b>kā</b>—what; <b>prītiḥ</b>—pleasure; <b>syāt</b>—will there be; <b>janārdana</b>—he who looks after the public, Shree Krishna; <b>pāpam</b>—vices; <b>eva</b>—certainly; <b>āśhrayet</b>—must come upon; <b>asmān</b>—us; <b>hatvā</b>—by killing; <b>etān</b>—all these; <b>ātatāyinaḥ</b>—aggressors;</div>
+            <div class="translation">O Janārdana, what joy can be ours in killing these sons of Dhritarāshtra? Sin alone will possess us if we kill these felons.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.37</div>
+            <div class="devanagari">तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।<br>स्वजनं हि कथं हत्वा सुखिन: स्याम माधव ।। 37।।</div>
+            <div class="iast">tasmān nārhā vayaṁ hantuṁ dhārtarāṣhṭrān sa-bāndhavān<br>sva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava</div>
+            <div class="glossary"><b>tasmāt</b>—hence; <b>na</b>—never; <b>arhāḥ</b>—behoove; <b>vayam</b>—we; <b>hantum</b>—to kill; <b>dhārtarāṣhṭrān</b>—the sons of Dhritarashtra; <b>sva-bāndhavān</b>—along with friends; <b>sva-janam</b>—kinsmen; <b>hi</b>—certainly; <b>katham</b>—how; <b>hatvā</b>—by killing; <b>sukhinaḥ</b>—happy; <b>syāma</b>—will we become; <b>mādhava</b>—Shree Krishna, the husband of Yogmaya</div>
+            <div class="translation">Therefore we ought not to kill our kinsmen, the sons of Dhritarāshtra; for, O Mādhava, how can we ever be happy by killing our own people?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.38-39</div>
+            <div class="devanagari">यद्यप्येते न पश्यन्ति लोभोपहतचेतस: ।<br>कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ।। 38।।<br>कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् ।<br>कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ।। 39।।</div>
+            <div class="iast">yady apy ete na paśhyanti lobhopahata-chetasaḥ<br>kula-kṣhaya-kṛitaṁ doṣhaṁ mitra-drohe cha pātakam<br>kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum<br>kula-kṣhaya-kṛitaṁ doṣhaṁ prapaśhyadbhir janārdana</div>
+            <div class="glossary"><b>yadi api</b>—even though; <b>ete</b>—they; <b>na</b>—not; <b>paśhyanti</b>—see; <b>lobha</b>—greed; <b>upahata</b>—overpowered; <b>chetasaḥ</b>—thoughts; <b>kula-kṣhaya-kṛitam</b>—in annihilating their relatives; <b>doṣham</b>—fault; <b>mitra-drohe</b>—to wreak treachery upon friends; <b>cha</b>—and; <b>pātakam</b>—sin; <b>katham</b>—why; <b>na</b>—not; <b>jñeyam</b>—should be known; <b>asmābhiḥ</b>—we; <b>pāpāt</b>—from sin; <b>asmāt</b>—these; <b>nivartitum</b>—to turn away; <b>kula-kṣhaya</b>—killing the kindered; <b>kṛitam</b>—done; <b>doṣham</b>—crime; <b>prapaśhyadbhiḥ</b>—who can see; <b>janārdana</b>—he who looks after the public, Shree Krishna</div>
+            <div class="translation">Though they, their understanding overcome by greed, perceive no evil in the decay of families and no sin in hostility to friends, why, O Janārdana, should not we, who clearly perceive the evil in the decay of families, learn to refrain from this sin?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.40-42</div>
+            <div class="devanagari">कुलक्षये प्रणश्यन्ति कुलधर्मा: सनातना: ।<br>धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ।। 40।।<br>अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: ।<br>स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: ।। 41।।<br>सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।<br>पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया: ।। 42।।</div>
+            <div class="iast">kula-kṣhaye praṇaśhyanti kula-dharmāḥ sanātanāḥ<br>dharme naṣhṭe kulaṁ kṛitsnam adharmo ’bhibhavaty uta<br>adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ<br>strīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ<br>saṅkaro narakāyaiva kula-ghnānāṁ kulasya cha<br>patanti pitaro hy eṣhāṁ lupta-piṇḍodaka-kriyāḥ</div>
+            <div class="glossary"><b>kula-kṣhaye</b>—in the destruction of a dynasty; <b>praṇaśhyanti</b>—are vanquished; <b>kula-dharmāḥ</b>—family traditions; <b>sanātanāḥ</b>—eternal; <b>dharme</b>—religion; <b>naṣhṭe</b>—is destroyed; <b>kulam</b>—family; <b>kṛitsnam</b>—the whole; <b>adharmaḥ</b>—irreligion; <b>abhibhavati</b>—overcome; <b>uta</b>—indeed; <b>adharma</b>—irreligion; <b>abhibhavāt</b>—preponderance; <b>kṛiṣhṇa</b>—Shree Krishna; <b>praduṣhyanti</b>—become immoral; <b>kula-striyaḥ</b>—women of the family; <b>strīṣhu</b>—of women; <b>duṣhṭāsu</b>—immorality; <b>vārṣhṇeya</b>—descendant of Vrishni; <b>jāyate</b>—are born; <b>varṇa-saṅkaraḥ</b>—unwanted progeny; <b>saṅkaraḥ</b>—unwanted children; <b>narakāya</b>—hellish; <b>eva</b>—indeed; <b>kula-ghnānām</b>—for those who destroy the family; <b>kulasya</b>—of the family; <b>cha</b>—also; <b>patanti</b>—fall; <b>pitaraḥ</b>—ancestors; <b>hi</b>—verily; <b>eṣhām</b>—their; <b>lupta</b>—deprived of; <b>piṇḍodaka-kriyāḥ</b>—performances of sacrificial offerings</div>
+            <div class="translation">With the decay of a family, perish its dharmas, which have existed from time out of mind. With the ending of the dharmas, adharma overwhelms the whole family.
+
+When adharma overwhelms the family, O Krishna, the women of the family become corrupt; and when, O Krishna, the women are corrupt, there arises a mixing of castes.
+
+This mixture leads into hell the family itself as well as those who destroy it; for their ancestors fall, deprived of the offerings of rice-balls and water.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.43-44</div>
+            <div class="devanagari">दोषैरेतै: कुलघ्नानां वर्णसङ्करकारकै: ।<br>उत्साद्यन्ते जातिधर्मा: कुलधर्माश्च शाश्वता: ।। 43।।<br>उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।<br>नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ।। 44।।</div>
+            <div class="iast">doṣhair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ<br>utsādyante jāti-dharmāḥ kula-dharmāśh cha śhāśhvatāḥ<br>utsanna-kula-dharmāṇāṁ manuṣhyāṇāṁ janārdana<br>narake ‘niyataṁ vāso bhavatītyanuśhuśhruma</div>
+            <div class="glossary"><b>doṣhaiḥ</b>—through evil deeds; <b>etaiḥ</b>—these; <b>kula-ghnānām</b>—of those who destroy the family; <b>varṇa-saṅkara</b>—unwanted progeny; <b>kārakaiḥ</b>—causing; <b>utsādyante</b>—are ruined; <b>jāti-dharmāḥ</b>—social and family welfare activities; <b>kula-dharmāḥ</b>—family traditions; <b>cha</b>—and; <b>śhāśhvatāḥ</b>—eternal; <b>utsanna</b>—destroyed; <b>kula-dharmāṇām</b>—whose family traditions; <b>manuṣhyāṇām</b>—of such human beings; <b>janārdana</b>—he who looks after the public, Shree Krishna; <b>narake</b>—in hell; <b>aniyatam</b>—indefinite; <b>vāsaḥ</b>—dwell; <b>bhavati</b>—is; <b>iti</b>—thus; <b>anuśhuśhruma</b>—I have heard from the learned</div>
+            <div class="translation">By these evil deeds of the destroyers of families, which result in the mixing of castes, the eternal dharmas of caste and family are uprooted.
+
+We have heard it said, O Janārdana, that inevitably the men whose family dharmas are destroyed dwell in hell.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.45</div>
+            <div class="devanagari">अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।<br>यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यता: ।। 45।।</div>
+            <div class="iast">aho bata mahat pāpaṁ kartuṁ vyavasitā vayam<br>yad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ</div>
+            <div class="glossary"><b>aho</b>—alas; <b>bata</b>—horrible results; <b>mahat</b>—great; <b>pāpam</b>—sins; <b>kartum</b>—to perform; <b>vyavasitāḥ</b>—have decided; <b>vayam</b>—we; <b>yat</b>—because; <b>rājya-sukha-lobhena</b>—driven by the desire for kingly pleasure; <b>hantum</b>—to kill; <b>sva-janam</b>—kinsmen; <b>udyatāḥ</b>—intending;</div>
+            <div class="translation">Alas, we are resolved to commit a great sin, in that we are ready to slay our kinsmen to satisfy our greed for the pleasure of a kingdom!</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.46</div>
+            <div class="devanagari">यदि मामप्रतीकारमशस्त्रं शस्त्रपाणय: ।<br>धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ।। 46।।</div>
+            <div class="iast">yadi mām apratīkāram aśhastraṁ śhastra-pāṇayaḥ<br>dhārtarāṣhṭrā raṇe hanyus tan me kṣhemataraṁ bhavet</div>
+            <div class="glossary"><b>yadi</b>—if; <b>mām</b>—me; <b>apratīkāram</b>—unresisting; <b>aśhastram</b>—unarmed; <b>śhastra-pāṇayaḥ</b>—those with weapons in hand; <b>dhārtarāṣhṭrāḥ</b>—the sons of Dhritarashtra; <b>raṇe</b>—on the battlefield; <b>hanyuḥ</b>—shall kill; <b>tat</b>—that; <b>me</b>—to me; <b>kṣhema-taram</b>—better; <b>bhavet</b>—would be</div>
+            <div class="translation">Far better would it be for me if the sons of Dhritarāshtra, weapons in hand, should slay me in the battle, unarmed and unresisting.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 1.47</div>
+            <div class="devanagari">सञ्जय उवाच ।<br>एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत् ।<br>विसृज्य सशरं चापं शोकसंविग्नमानस: ।। 47।।</div>
+            <div class="iast">sañjaya uvācha<br>evam uktvārjunaḥ saṅkhye rathopastha upāviśhat<br>visṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ</div>
+            <div class="glossary"><b>sañjayaḥ uvācha</b>—Sanjay said; <b>evam uktvā</b>—speaking thus; <b>arjunaḥ</b>—Arjun; <b>saṅkhye</b>—in the battlefield; <b>ratha upasthe</b>—on the chariot; <b>upāviśhat</b>—sat; <b>visṛijya</b>—casting aside; <b>sa-śharam</b>—along with arrows; <b>chāpam</b>—the bow; <b>śhoka</b>—with grief; <b>saṁvigna</b>—distressed; <b>mānasaḥ</b>—mind</div>
+            <div class="translation">Sanjaya said: Arjuna, having spoken thus on the battlefield, cast aside his bow and arrow and sank down on his chariot-seat, his mind overcome with grief.</div>
+        </div>
+        
+</body>
+</html>

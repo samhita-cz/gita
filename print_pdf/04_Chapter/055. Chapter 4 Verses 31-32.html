@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>055. Chapter 4 Verses 31-32</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.31</div>
+            <div class="devanagari">यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।<br>नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्य: कुरुसत्तम ।। 31।।</div>
+            <div class="iast">yajña-śhiṣhṭāmṛita-bhujo yānti brahma sanātanam<br>nāyaṁ loko ’styayajñasya kuto ’nyaḥ kuru-sattama</div>
+            <div class="glossary"><b>yajña-śhiṣhṭa amṛita-bhujaḥ</b>—they partake of the nectarean remnants of sacrifice; <b>yānti</b>—go; <b>brahma</b>—the Absolute Truth; <b>sanātanam</b>—eternal; <b>na</b>—never; <b>ayam</b>—this; <b>lokaḥ</b>—planet; <b>asti</b>—is; <b>ayajñasya</b>—for one who performs no sacrifice; <b>kutaḥ</b>—how; <b>anyaḥ</b>—other (world); <b>kuru-sat-tama</b>—best of the Kurus, Arjun</div>
+            <div class="translation">Those who eat the remnants of sacrifice which is nectar, go to eternal Brahman; to the non- sacrificer, even this world is not, how then can he get a higher world?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.32</div>
+            <div class="devanagari">एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे ।<br>कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ।। 32।।</div>
+            <div class="iast">evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe<br>karma-jān viddhi tān sarvān evaṁ jñātvā vimokṣhyase</div>
+            <div class="glossary"><b>evam</b>—thus; <b>bahu-vidhāḥ</b>—various kinds of; <b>yajñāḥ</b>—sacrifices; <b>vitatāḥ</b>—have been described; <b>brahmaṇaḥ</b>—of the Vedas; <b>mukhe</b>—through the mouth; <b>karma-jān</b>—originating from works; <b>viddhi</b>—know; <b>tān</b>—them; <b>sarvān</b>—all; <b>evam</b>—thus; <b>jñātvā</b>—having known; <b>vimokṣhyase</b>—you shall be liberated</div>
+            <div class="translation">Thus various forms of sacrifice are spread out in the Vedas; know them all to be born of action; thus knowing you shall be liberated.</div>
+        </div>
+        
+</body>
+</html>

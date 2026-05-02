@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>014. Chapter 2 Verses 39-40</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.39</div>
+            <div class="devanagari">एषा तेऽभिहिता साङ्ख्ये<br>बुद्धिर्योगे त्विमां शृणु ।<br>बुद्ध्या युक्तो यया पार्थ<br>कर्मबन्धं प्रहास्यसि ।। 39।।</div>
+            <div class="iast">eṣhā te ’bhihitā sānkhye<br>buddhir yoge tvimāṁ śhṛiṇu<br>buddhyā yukto yayā pārtha<br>karma-bandhaṁ prahāsyasi</div>
+            <div class="glossary"><b>eṣhā</b>—hitherto; <b>te</b>—to you; <b>abhihitā</b>—explained; <b>sānkhye</b>—by analytical knowledge; <b>buddhiḥ yoge</b>—by the yog of intellect; <b>tu</b>—indeed; <b>imām</b>—this; <b>śhṛiṇu</b>—listen; <b>buddhyā</b>—by understanding; <b>yuktaḥ</b>—united; <b>yayā</b>—by which; <b>pārtha</b>—Arjun, the son of Pritha; <b>karma-bandham</b>—bondage of karma; <b>prahāsyasi</b>—you shall be released from</div>
+            <div class="translation">O Arjuna! So far the knowledge of Sankhya Yoga about Atma is declared. Now hear the knowledge of Karma Yoga, knowing which you shall cast off the bondage of work.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.40</div>
+            <div class="devanagari">नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते ।<br>स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् ।। 40।।</div>
+            <div class="iast">nehābhikrama-nāśho ’sti pratyavāyo na vidyate<br>svalpam apyasya dharmasya trāyate mahato bhayāt</div>
+            <div class="glossary"><b>na</b>—not; <b>iha</b>—in this; <b>abhikrama</b>—efforts; <b>nāśhaḥ</b>—loss; <b>asti</b>—there is; <b>pratyavāyaḥ</b>—adverse result; <b>na</b>—not; <b>vidyate</b>—is; <b>su-alpam</b>—a little; <b>api</b>—even; <b>asya</b>—of this; <b>dharmasya</b>—occupation; <b>trāyate</b>—saves; <b>mahataḥ</b>—from great; <b>bhayāt</b>—danger</div>
+            <div class="translation">In this, no effort is ever lost and no harm is ever done. Even very little of this dharma saves a man from the Great Fear.</div>
+        </div>
+        
+</body>
+</html>

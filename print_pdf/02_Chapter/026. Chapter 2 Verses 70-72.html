@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>026. Chapter 2 Verses 70-72</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.70</div>
+            <div class="devanagari">आपूर्यमाणमचलप्रतिष्ठं<br>समुद्रमाप: प्रविशन्ति यद्वत् ।<br>तद्वत्कामा यं प्रविशन्ति सर्वे<br>स शान्तिमाप्नोति न कामकामी ।। 70।।</div>
+            <div class="iast">āpūryamāṇam achala-pratiṣhṭhaṁ<br>samudram āpaḥ praviśhanti yadvat<br>tadvat kāmā yaṁ praviśhanti sarve<br>sa śhāntim āpnoti na kāma-kāmī</div>
+            <div class="glossary"><b>āpūryamāṇam</b>—filled from all sides; <b>achala-pratiṣhṭham</b>—undisturbed; <b>samudram</b>—ocean; <b>āpaḥ</b>—waters; <b>praviśhanti</b>—enter; <b>yadvat</b>—as; <b>tadvat</b>—likewise; <b>kāmāḥ</b>—desires; <b>yam</b>—whom; <b>praviśhanti</b>—enter; <b>sarve</b>—all; <b>saḥ</b>—that person; <b>śhāntim</b>—peace; <b>āpnoti</b>—attains; <b>na</b>—not; <b>kāma-kāmī</b>—one who strives to satisfy desires</div>
+            <div class="translation">As the ocean is filled with water flowing into it from all sides and remains immovable, so the man into whom all desires flow, but is not a bit affected attains peace and not the man who craves the desires.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.71</div>
+            <div class="devanagari">विहाय कामान्य: सर्वान्पुमांश्चरति नि:स्पृह: ।<br>निर्ममो निरहङ्कार: स शान्तिमधिगच्छति ।। 71।।</div>
+            <div class="iast">vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ<br>nirmamo nirahankāraḥ sa śhāntim adhigachchhati</div>
+            <div class="glossary"><b>vihāya</b>—giving up; <b>kāmān</b>—material desires; <b>yaḥ</b>—who; <b>sarvān</b>—all; <b>pumān</b>—a person; <b>charati</b>—lives; <b>niḥspṛihaḥ</b>—free from hankering; <b>nirmamaḥ</b>—without a sense of proprietorship; <b>nirahankāraḥ</b>—without egoism; <b>saḥ</b>—that person; <b>śhāntim</b>—perfect peace; <b>adhigachchhati</b>—attains</div>
+            <div class="translation">That man who lives completely free from desires, without longing, devoid of the sense of “I” and “mine,” attains peace.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.72</div>
+            <div class="devanagari">एषा ब्राह्मी स्थिति: पार्थ नैनां प्राप्य विमुह्यति ।<br>स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति ।। 72।।</div>
+            <div class="iast">eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati<br>sthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati</div>
+            <div class="glossary"><b>eṣhā</b>—such; <b>brāhmī sthitiḥ</b>—state of God-realisation; <b>pārtha</b>—Arjun, the son of Pritha; <b>na</b>—never; <b>enām</b>—this; <b>prāpya</b>—having attained; <b>vimuhyati</b>—is deluded; <b>sthitvā</b>—being established; <b>asyām</b>—in this; <b>anta-kāle</b>—at the hour of death; <b>api</b>—even; <b>brahma-nirvāṇam</b>—liberation from Maya; <b>ṛichchhati</b>—attains</div>
+            <div class="translation">Having obtained this Brahmi state man is not deluded. Being established in this even at the end of life man attains oneness with Brahman (Moksha).</div>
+        </div>
+        
+</body>
+</html>

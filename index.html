@@ -1368,12 +1368,35 @@ function renderActiveFilter() {
     wrap.innerHTML = '';
     return;
   }
+  
+  // Získáme všechny zobrazené písně a zjistíme z nich číslo kapitoly pro PDF
+  let chapterPdfBtn = '';
+  const firstSong = allSongs.find(s => s.category === categoryFilter);
+  
+  if (firstSong && firstSong.file) {
+      // Z cesty vysekne složku (např. z "01_Chapter/001..." dostane "01_Chapter")
+      const folderName = firstSong.file.split('/')[0]; 
+      // Vytáhne z názvu složky samotné číslo
+      const chapterMatch = folderName.match(/\d+/);
+      const chapterNum = chapterMatch ? parseInt(chapterMatch[0], 10) : folderName;
+      
+      const chapterPdfUrl = `print_pdf/${folderName}/Full_Chapter_${chapterNum}.pdf`;
+      
+      // Vygeneruje tlačítko
+      chapterPdfBtn = `
+        <a href="${chapterPdfUrl}" target="_blank" download class="filter-pill" style="background: #4da6ff; color: #fff; text-decoration: none; margin-left: 10px;">
+          📥 PDF celé kapitoly
+        </a>
+      `;
+  }
+
   wrap.style.display = 'block';
   wrap.innerHTML = `
     <span class="filter-pill">
       Filtr: <strong>${categoryFilter}</strong>
       <button class="filter-clear" type="button" aria-label="Clear filter" onclick="clearCategoryFilter()">✕</button>
     </span>
+    ${chapterPdfBtn}
   `;
 }
 

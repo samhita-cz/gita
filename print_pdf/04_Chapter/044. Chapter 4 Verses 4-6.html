@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>044. Chapter 4 Verses 4-6</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.4</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>अपरं भवतो जन्म परं जन्म विवस्वत: ।<br>कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ।। 4।।</div>
+            <div class="iast">arjuna uvācha<br>aparaṁ bhavato janma paraṁ janma vivasvataḥ<br>katham etad vijānīyāṁ tvam ādau proktavān iti</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>aparam</b>—later; <b>bhavataḥ</b>—your; <b>janma</b>—birth; <b>param</b>—prior; <b>janma</b>—birth; <b>vivasvataḥ</b>—Vivasvan, the Sun God; <b>katham</b>—how; <b>etat</b>—this; <b>vijānīyām</b>—am I to understand; <b>tvam</b>—you; <b>ādau</b>—in the beginning; <b>proktavān</b>—taught; <b>iti</b>—thus</div>
+            <div class="translation">Arjuna said: Later was your birth, earlier the birth of Vivasvan (Sun); how then am I to understand that you taught it to him in the beginning?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.5</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>बहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।<br>तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ।। 5।।*</div>
+            <div class="iast">śhrī bhagavān uvācha<br>bahūni me vyatītāni janmāni tava chārjuna<br>tānyahaṁ veda sarvāṇi na tvaṁ vettha parantapa</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>bahūni</b>—many; <b>me</b>—of mine; <b>vyatītāni</b>—have passed; <b>janmāni</b>—births; <b>tava</b>—of yours; <b>cha</b>—and; <b>arjuna</b>—Arjun; <b>tāni</b>—them; <b>aham</b>—I; <b>veda</b>—know; <b>sarvāṇi</b>—all; <b>na</b>—not; <b>tvam</b>—you; <b>vettha</b>—know; <b>parantapa</b>—Arjun, the scorcher of foes</div>
+            <div class="translation">The Lord said: O Arjuna! Many births of Mine have passed as well as yours. I know them all but you know them not.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.6</div>
+            <div class="devanagari">अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् ।<br>प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ।। 6।।</div>
+            <div class="iast">ajo ’pi sannavyayātmā bhūtānām īśhvaro ’pi san<br>prakṛitiṁ svām adhiṣhṭhāya sambhavāmyātma-māyayā</div>
+            <div class="glossary"><b>ajaḥ</b>—unborn; <b>api</b>—although; <b>san</b>—being so; <b>avyaya ātmā</b>—Imperishable nature; <b>bhūtānām</b>—of (all) beings; <b>īśhvaraḥ</b>—the Lord; <b>api</b>—although; <b>san</b>—being; <b>prakṛitim</b>—nature; <b>svām</b>—of myself; <b>adhiṣhṭhāya</b>—situated; <b>sambhavāmi</b>—I manifest; <b>ātma-māyayā</b>—by my Yogmaya power</div>
+            <div class="translation">Though unborn and eternal in My being, the Lord and controller of all beings, controlling My own nature, I come into being by the power of My Maya-Sakti.</div>
+        </div>
+        
+</body>
+</html>

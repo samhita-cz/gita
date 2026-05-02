@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>045. Chapter 4 Verses 7-8</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.7</div>
+            <div class="devanagari">यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।<br>अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ।। 7।।</div>
+            <div class="iast">yadā yadā hi dharmasya glānir bhavati bhārata<br>abhyutthānam adharmasya tadātmānaṁ sṛijāmyaham</div>
+            <div class="glossary"><b>yadā yadā</b>—whenever; <b>hi</b>—certainly; <b>dharmasya</b>—of righteousness; <b>glāniḥ</b>—decline; <b>bhavati</b>—is; <b>bhārata</b>—Arjun, descendant of Bharat; <b>abhyutthānam</b>—increase; <b>adharmasya</b>—of unrighteousness; <b>tadā</b>—at that time; <b>ātmānam</b>—self; <b>sṛijāmi</b>—manifest; <b>aham</b>—I</div>
+            <div class="translation">O Arjuna! Whenever there is a decline of righteousness and rise of evil, I manifest Myself.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.8</div>
+            <div class="devanagari">परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।<br>धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ।। 8।।</div>
+            <div class="iast">paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛitām<br>dharma-sansthāpanārthāya sambhavāmi yuge yuge</div>
+            <div class="glossary"><b>paritrāṇāya</b>—to protect; <b>sādhūnām</b>—the righteous; <b>vināśhāya</b>—to annihilate; <b>cha</b>—and; <b>duṣhkṛitām</b>—the wicked; <b>dharma</b>—the eternal religion; <b>sansthāpana-arthāya</b>—to reestablish; <b>sambhavāmi</b>—I appear; <b>yuge yuge</b>—age after age</div>
+            <div class="translation">For the protection of the good, for the destruction of the wicked, and for establishing Dharma, I take birth in every age.</div>
+        </div>
+        
+</body>
+</html>

@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>009. Chapter 2 Verse 23-25</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.23</div>
+            <div class="devanagari">नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावक: ।<br>न चैनं क्लेदयन्त्यापो न शोषयति मारुत: ।। 23।।</div>
+            <div class="iast">nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ<br>na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>enam</b>—this soul; <b>chhindanti</b>—shred; <b>śhastrāṇi</b>—weapons; <b>na</b>—nor; <b>enam</b>—this soul; <b>dahati</b>—burns; <b>pāvakaḥ</b>—fire; <b>na</b>—not; <b>cha</b>—and; <b>enam</b>—this soul; <b>kledayanti</b>—moisten; <b>āpaḥ</b>—water; <b>na</b>—nor; <b>śhoṣhayati</b>—dry; <b>mārutaḥ</b>—wind</div>
+            <div class="translation">Weapons cannot cut, fire cannot burn, water cannot wet, wind cannot dry up this Atma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.24</div>
+            <div class="devanagari">अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च ।<br>नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: ।। 24।।</div>
+            <div class="iast">achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha<br>nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ</div>
+            <div class="glossary"><b>achchhedyaḥ</b>—unbreakable; <b>ayam</b>—this soul; <b>adāhyaḥ</b>—incombustible; <b>ayam</b>—this soul; <b>akledyaḥ</b>—cannot be dampened; <b>aśhoṣhyaḥ</b>—cannot be dried; <b>eva</b>—indeed; <b>cha</b>—and; <b>nityaḥ</b>—everlasting; <b>sarva-gataḥ</b>—all-pervading; <b>sthāṇuḥ</b>—unalterable; <b>achalaḥ</b>—immutable; <b>ayam</b>—this soul; <b>sanātanaḥ</b>—primordial</div>
+            <div class="translation">The Atma cannot be cut, cannot be burnt, cannot be wetted, and also cannot be dried up. It is eternal, all-pervading, firm, immovable, and ancient.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.25</div>
+            <div class="devanagari">अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते ।<br>तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि ।। 25।।</div>
+            <div class="iast">avyakto ’yam achintyo ’yam avikāryo ’yam uchyate<br>tasmādevaṁ viditvainaṁ nānuśhochitum arhasi</div>
+            <div class="glossary"><b>avyaktaḥ</b>—unmanifested; <b>ayam</b>—this soul; <b>achintyaḥ</b>—inconceivable; <b>ayam</b>—this soul; <b>avikāryaḥ</b>—unchangeable; <b>ayam</b>—this soul; <b>uchyate</b>—is said; <b>tasmāt</b>—therefore; <b>evam</b>—thus; <b>viditvā</b>—having known; <b>enam</b>—this soul; <b>na</b>—not; <b>anuśhochitum</b>—to grieve; <b>arhasi</b>—befitting</div>
+            <div class="translation">This self is unknowable by the senses, unthinkable by the mind, and is not subject to any kind of change. Knowing this, you should not grieve.</div>
+        </div>
+        
+</body>
+</html>

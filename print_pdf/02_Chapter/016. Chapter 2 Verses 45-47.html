@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>016. Chapter 2 Verses 45-47</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.45</div>
+            <div class="devanagari">त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।<br>निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ।। 45।।</div>
+            <div class="iast">trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna<br>nirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān</div>
+            <div class="glossary"><b>trai-guṇya</b>—of the three modes of material nature; <b>viṣhayāḥ</b>—subject matter; <b>vedāḥ</b>—Vedic scriptures; <b>nistrai-guṇyaḥ</b>—above the three modes of material nature, transcendental; <b>bhava</b>—be; <b>arjuna</b>—Arjun; <b>nirdvandvaḥ</b>—free from dualities; <b>nitya-sattva-sthaḥ</b>—eternally fixed in truth; <b>niryoga-kṣhemaḥ</b>—unconcerned about gain and preservation; <b>ātma-vān</b>—situated in the self</div>
+            <div class="translation">The first part of the Vedas (Karma Kanda) deal with material things pertaining to the three Gunas. One should transcend the three Gunas, become free from the operation of the pairs of opposites, take refuge in the pure sattvic state, and firmly establish himself in Atma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.46</div>
+            <div class="devanagari">यावानर्थ उदपाने सर्वत: सम्प्लुतोदके ।<br>तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानत: ।। 46।।</div>
+            <div class="iast">yāvān artha udapāne sarvataḥ samplutodake<br>tāvānsarveṣhu vedeṣhu brāhmaṇasya vijānataḥ</div>
+            <div class="glossary"><b>yāvān</b>—whatever; <b>arthaḥ</b>—purpose; <b>uda-pāne</b>—a well of water; <b>sarvataḥ</b>—in all respects; <b>sampluta-udake</b>—by a large lake; <b>tāvān</b>—that many; <b>sarveṣhu</b>—in all; <b>vedeṣhu</b>—Vedas; <b>brāhmaṇasya</b>—one who realises the Absolute Truth; <b>vijānataḥ</b>—who is in complete knowledge</div>
+            <div class="translation">To an enlightened person who has known the Self, all the Vedas are of as much use as is a reservoir of water in a place where there is a flood.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.47</div>
+            <div class="devanagari">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ।। 47 ।।</div>
+            <div class="iast">karmaṇy-evādhikāras te mā phaleṣhu kadāchana<br>mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi</div>
+            <div class="glossary"><b>karmaṇi</b>—in prescribed duties; <b>eva</b>—only; <b>adhikāraḥ</b>—right; <b>te</b>—your; <b>mā</b>—not; <b>phaleṣhu</b>—in the fruits; <b>kadāchana</b>—at any time; <b>mā</b>—never; <b>karma-phala</b>—results of the activities; <b>hetuḥ</b>—cause; <b>bhūḥ</b>—be; <b>mā</b>—not; <b>te</b>—your; <b>saṅgaḥ</b>—attachment; <b>astu</b>—must be; <b>akarmaṇi</b>—in inaction</div>
+            <div class="translation">You have the right to work only, and not to the fruits of work. Let not the fruit of action be your motive, nor let your attachment be to inaction.</div>
+        </div>
+        
+</body>
+</html>

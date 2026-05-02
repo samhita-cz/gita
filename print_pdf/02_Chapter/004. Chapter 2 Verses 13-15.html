@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>004. Chapter 2 Verses 13-15</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.13</div>
+            <div class="devanagari">देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।<br>तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ।। 13।।</div>
+            <div class="iast">dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā<br>tathā dehāntara-prāptir dhīras tatra na muhyati</div>
+            <div class="glossary"><b>dehinaḥ</b>—of the embodied; <b>asmin</b>—in this; <b>yathā</b>—as; <b>dehe</b>—in the body; <b>kaumāram</b>—childhood; <b>yauvanam</b>—youth; <b>jarā</b>—old age; <b>tathā</b>—similarly; <b>deha-antara</b>—another body; <b>prāptiḥ</b>—achieves; <b>dhīraḥ</b>—the wise; <b>tatra</b>—thereupon; <b>na muhyati</b>—are not deluded</div>
+            <div class="translation">Just as the man in this body passes through the various stages of boyhood, youth, and old age, like so, he passes into another body after death. The wise know it and are not deluded.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.14</div>
+            <div class="devanagari">मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु: खदा: ।<br>आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ।। 14।।</div>
+            <div class="iast">mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ<br>āgamāpāyino ’nityās tans-titikṣhasva bhārata</div>
+            <div class="glossary"><b>mātrā-sparśhāḥ</b>—contact of the senses with the sense objects; <b>tu</b>—indeed; <b>kaunteya</b>—Arjun, the son of Kunti; <b>śhīta</b>—winter; <b>uṣhṇa</b>—summer; <b>sukha</b>—happiness; <b>duḥkha</b>—distress; <b>dāḥ</b>—give; <b>āgama</b>—come; <b>apāyinaḥ</b>—go; <b>anityāḥ</b>—non-permanent; <b>tān</b>—them; <b>titikṣhasva</b>—tolerate; <b>bhārata</b>—descendant of the Bharat</div>
+            <div class="translation">Contact of the senses with the objects produces heat and cold, pain and pleasure. These experiences come and go, and are impermanent. Endure them, O Arjuna!</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.15</div>
+            <div class="devanagari">यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ।<br>समदु:खसुखं धीरं सोऽमृतत्वाय कल्पते ।। 15।।</div>
+            <div class="iast">yaṁ hi na vyathayantyete puruṣhaṁ puruṣharṣhabha<br>sama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate</div>
+            <div class="glossary"><b>yam</b>—whom; <b>hi</b>—verily; <b>na</b>—not; <b>vyathayanti</b>—distressed; <b>ete</b>—these; <b>puruṣham</b>—person; <b>puruṣha-ṛiṣhabha</b>—the noblest amongst men, Arjun; <b>sama</b>—equipoised; <b>duḥkha</b>—distress; <b>sukham</b>—happiness; <b>dhīram</b>—steady; <b>saḥ</b>—that person; <b>amṛitatvāya</b>—for liberation; <b>kalpate</b>—becomes eligible</div>
+            <div class="translation">The firm man who is not affected by pain and pleasure, who remains equal-minded, surely is fit for immortality, O Arjuna, Chief of mortals!</div>
+        </div>
+        
+</body>
+</html>

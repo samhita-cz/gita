@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>011. Chapter 2 Verses 28-29</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.28</div>
+            <div class="devanagari">अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।<br>अव्यक्तनिधनान्येव तत्र का परिदेवना ।। 28।।</div>
+            <div class="iast">avyaktādīni bhūtāni vyakta-madhyāni bhārata<br>avyakta-nidhanānyeva tatra kā paridevanā</div>
+            <div class="glossary"><b>avyakta-ādīni</b>—unmanifest before birth; <b>bhūtāni</b>—created beings; <b>vyakta</b>—manifest; <b>madhyāni</b>—in the middle; <b>bhārata</b>—Arjun, scion of Bharat; <b>avyakta</b>—unmanifest; <b>nidhanāni</b>—on death; <b>eva</b>—indeed; <b>tatra</b>—therefore; <b>kā</b>—why; <b>paridevanā</b>—grieve</div>
+            <div class="translation">All beings are unmanifest in their beginning, O Bhārata, manifest in their middle state, and unmanifest again in their end. Why, then, lament for them?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.29</div>
+            <div class="devanagari">आश्चर्यवत्पश्यति कश्चिदेन<br>माश्चर्यवद्वदति तथैव चान्य: ।<br>आश्चर्यवच्चैनमन्य: शृ्णोति<br>श्रुत्वाप्येनं वेद न चैव कश्चित् ।। 29।।</div>
+            <div class="iast">āśhcharya-vat paśhyati kaśhchid enan<br>āśhcharya-vad vadati tathaiva chānyaḥ<br>āśhcharya-vach chainam anyaḥ śhṛiṇoti<br>śhrutvāpyenaṁ veda na chaiva kaśhchit</div>
+            <div class="glossary"><b>āśhcharya-vat</b>—as amazing; <b>paśhyati</b>—see; <b>kaśhchit</b>—someone; <b>enam</b>—this soul; <b>āśhcharya-vat</b>—as amazing; <b>vadati</b>—speak of; <b>tathā</b>—thus; <b>eva</b>—indeed; <b>cha</b>—and; <b>anyaḥ</b>—other; <b>āśhcharya-vat</b>—similarly amazing; <b>cha</b>—also; <b>enam</b>—this soul; <b>anyaḥ</b>—others; <b>śhṛiṇoti</b>—hear; <b>śhrutvā</b>—having heard; <b>api</b>—even; <b>enam</b>—this soul; <b>veda</b>—understand; <b>na</b>—not; <b>cha</b>—and; <b>eva</b>—even; <b>kaśhchit</b>—some</div>
+            <div class="translation">Some look on the Self as a wonder; some speak of It as a wonder; some hear of It as a wonder; still others, though hearing, do not understand It at all.</div>
+        </div>
+        
+</body>
+</html>

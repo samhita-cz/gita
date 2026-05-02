@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 3 — karma yoga</div>
+        <h1>032. Chapter 3 Verses 19-21</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.19</div>
+            <div class="devanagari">तस्मादसक्त: सततं कार्यं कर्म समाचर ।<br>असक्तो ह्याचरन्कर्म परमाप्नोति पूरुष: ।। 19।।</div>
+            <div class="iast">tasmād asaktaḥ satataṁ kāryaṁ karma samāchara<br>asakto hyācharan karma param āpnoti pūruṣhaḥ</div>
+            <div class="glossary"><b>tasmāt</b>—therefore; <b>asaktaḥ</b>—without attachment; <b>satatam</b>—constantly; <b>kāryam</b>—duty; <b>karma</b>—action; <b>samāchara</b>—perform; <b>asaktaḥ</b>—unattached; <b>hi</b>—certainly; <b>ācharan</b>—performing; <b>karma</b>—work; <b>param</b>—the Supreme; <b>āpnoti</b>—attains; <b>pūruṣhaḥ</b>—a person</div>
+            <div class="translation">Therefore that work which should be done, do it well always without attachment. He who performs all the prescribed duties in a detached spirit will attain the Supreme.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.20</div>
+            <div class="devanagari">कर्मणैव हि संसिद्धिमास्थिता जनकादय: ।<br>लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि ।। 20।।</div>
+            <div class="iast">karmaṇaiva hi sansiddhim āsthitā janakādayaḥ<br>loka-saṅgraham evāpi sampaśhyan kartum arhasi</div>
+            <div class="glossary"><b>karmaṇā</b>—by the performance of prescribed duties; <b>eva</b>—only; <b>hi</b>—certainly; <b>sansiddhim</b>—perfection; <b>āsthitāḥ</b>—attained; <b>janaka-ādayaḥ</b>—King Janak and other kings; <b>loka-saṅgraham</b>—for the welfare of the masses; <b>eva api</b>—only; <b>sampaśhyan</b>—considering; <b>kartum</b>—to perform; <b>arhasi</b>—you should;</div>
+            <div class="translation">King Janaka and others attained perfection by action. Even having in view the need to show the right path to the masses, you should work.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 3.21</div>
+            <div class="devanagari">यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: ।<br>स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ।। 21।।</div>
+            <div class="iast">yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ<br>sa yat pramāṇaṁ kurute lokas tad anuvartate</div>
+            <div class="glossary"><b>yat yat</b>—whatever; <b>ācharati</b>—does; <b>śhreṣhṭhaḥ</b>—the best; <b>tat tat</b>—that (alone); <b>eva</b>—certainly; <b>itaraḥ</b>—common; <b>janaḥ</b>—people; <b>saḥ</b>—they; <b>yat</b>—whichever; <b>pramāṇam</b>—standard; <b>kurute</b>—perform; <b>lokaḥ</b>—world; <b>tat</b>—that; <b>anuvartate</b>—pursues</div>
+            <div class="translation">What-so-ever a great man does, that other men do; whatever he sets up as the standard, that the world follows.</div>
+        </div>
+        
+</body>
+</html>

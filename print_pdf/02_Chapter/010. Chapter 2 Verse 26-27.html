@@ -1,0 +1,127 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>010. Chapter 2 Verse 26-27</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.26</div>
+            <div class="devanagari">अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।<br>तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ।। 26।।</div>
+            <div class="iast">atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛitam<br>tathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi</div>
+            <div class="glossary"><b>atha</b>—if, however; <b>cha</b>—and; <b>enam</b>—this soul; <b>nitya-jātam</b>—taking constant birth; <b>nityam</b>—always; <b>vā</b>—or; <b>manyase</b>—you think; <b>mṛitam</b>—dead; <b>tathā api</b>—even then; <b>tvam</b>—you; <b>mahā-bāho</b>—mighty-armed one, Arjun; <b>na</b>—not; <b>evam</b>—like this; <b>śhochitum</b>—grieve; <b>arhasi</b>—befitting</div>
+            <div class="translation">O mighty-armed Arjuna! Even if you think that Self is constantly born and dies, you should not grieve in this way.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.27</div>
+            <div class="devanagari">जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च ।<br>तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि ।। 27।।</div>
+            <div class="iast">jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha<br>tasmād aparihārye ’rthe na tvaṁ śhochitum arhasi</div>
+            <div class="glossary"><b>jātasya</b>—for one who has been born; <b>hi</b>—for; <b>dhruvaḥ</b>—certain; <b>mṛityuḥ</b>—death; <b>dhruvam</b>—certain; <b>janma</b>—birth; <b>mṛitasya</b>—for the dead; <b>cha</b>—and; <b>tasmāt</b>—therefore; <b>aparihārye arthe</b>—in this inevitable situation; <b>na</b>—not; <b>tvam</b>—you; <b>śhochitum</b>—lament; <b>arhasi</b>—befitting</div>
+            <div class="translation">For to that which is born, death is certain, and to that which is dead, birth is certain. Therefore you should not grieve over the unavoidable.</div>
+        </div>
+        
+</body>
+</html>

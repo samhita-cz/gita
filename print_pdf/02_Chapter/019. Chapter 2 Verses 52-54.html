@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 2 — sāṅkhya yoga</div>
+        <h1>019. Chapter 2 Verses 52-54</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.52</div>
+            <div class="devanagari">यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।<br>तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ।। 52।।</div>
+            <div class="iast">yadā te moha-kalilaṁ buddhir vyatitariṣhyati<br>tadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha</div>
+            <div class="glossary"><b>yadā</b>—when; <b>te</b>—your; <b>moha</b>—delusion; <b>kalilam</b>—quagmire; <b>buddhiḥ</b>—intellect; <b>vyatitariṣhyati</b>—crosses; <b>tadā</b>—then; <b>gantāsi</b>—you shall acquire; <b>nirvedam</b>—indifferent; <b>śhrotavyasya</b>—to what is yet to be heard; <b>śhrutasya</b>—to what has been heard; <b>cha</b>—and</div>
+            <div class="translation">When your mind has crossed the mire of delusion, you will achieve indifference regarding things already heard and things yet to be heard.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.53</div>
+            <div class="devanagari">श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला ।<br>समाधावचला बुद्धिस्तदा योगमवाप्स्यसि ।। 53।।</div>
+            <div class="iast">śhruti-vipratipannā te yadā sthāsyati niśhchalā<br>samādhāv-achalā buddhis tadā yogam avāpsyasi</div>
+            <div class="glossary"><b>śhruti-vipratipannā</b>—not allured by the fruitive sections of the Vedas; <b>te</b>—your; <b>yadā</b>—when; <b>sthāsyati</b>—remains; <b>niśhchalā</b>—steadfast; <b>samādhau</b>—in divine consciousness; <b>achalā</b>—steadfast; <b>buddhiḥ</b>—intellect; <b>tadā</b>—at that time; <b>yogam</b>—Yog; <b>avāpsyasi</b>—you will attain</div>
+            <div class="translation">When your intellect which is perplexed by hearing the various sastras becomes steady and immovable in ecstatic concentration, then you shall attain union with the Supreme Being.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 2.54</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव ।<br>स्थितधी: किं प्रभाषेत किमासीत व्रजेत किम् ।। 54।।</div>
+            <div class="iast">arjuna uvācha<br>sthita-prajñasya kā bhāṣhā samādhi-sthasya keśhava<br>sthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>sthita-prajñasya</b>—one with steady intellect; <b>kā</b>—what; <b>bhāṣhā</b>—talk; <b>samādhi-sthasya</b>—situated in divine consciousness; <b>keśhava</b>—Shree Krishna, killer of the Keshi Demon; <b>sthita-dhīḥ</b>—enlightened person; <b>kim</b>—what; <b>prabhāṣheta</b>—talks; <b>kim</b>—how; <b>āsīta</b>—sits; <b>vrajeta</b>—walks; <b>kim</b>—how</div>
+            <div class="translation">Arjuna said: O Krishna! What are the characteristics of a man of steady wisdom? How does the man merged in the super-conscious state, sit and move?</div>
+        </div>
+        
+</body>
+</html>

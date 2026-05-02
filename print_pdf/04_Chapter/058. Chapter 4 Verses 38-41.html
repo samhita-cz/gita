@@ -1,0 +1,143 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>058. Chapter 4 Verses 38-41</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.38</div>
+            <div class="devanagari">न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।<br>तत्स्वयं योगसंसिद्ध: कालेनात्मनि विन्दति ।। 38।।</div>
+            <div class="iast">na hi jñānena sadṛiśhaṁ pavitramiha vidyate<br>tatsvayaṁ yogasansiddhaḥ kālenātmani vindati</div>
+            <div class="glossary"><b>na</b>—not; <b>hi</b>—certainly; <b>jñānena</b>—with divine knowledge; <b>sadṛiśham</b>—like; <b>pavitram</b>—pure; <b>iha</b>—in this world; <b>vidyate</b>—exists; <b>tat</b>—that; <b>svayam</b>—oneself; <b>yoga</b>—practice of yog; <b>sansiddhaḥ</b>—he who has attained perfection; <b>kālena</b>—in course of time; <b>ātmani</b>—wihtin the heart; <b>vindati</b>—finds</div>
+            <div class="translation">Indeed there is nothing so pure as Knowledge in this world. He who is perfected in Nishkama Karma finds that wisdom by himself in Atma in due season.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.39</div>
+            <div class="devanagari">श्रद्धावान् लभते ज्ञानं तत्पर: संयतेन्द्रिय: ।<br>ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ।। 39।।</div>
+            <div class="iast">śhraddhāvānllabhate jñānaṁ tat-paraḥ sanyatendriyaḥ<br>jñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati</div>
+            <div class="glossary"><b>śhraddhāvān</b>—a faithful person; <b>labhate</b>—achieves; <b>jñānam</b>—divine knowledge; <b>tat-paraḥ</b>—devoted (to that); <b>sanyata</b>—controlled; <b>indriyaḥ</b>—senses; <b>jñānam</b>—transcendental knowledge; <b>labdhvā</b>—having achieved; <b>parām</b>—supreme; <b>śhāntim</b>—peace; <b>achireṇa</b>—without delay; <b>adhigachchhati</b>—attains</div>
+            <div class="translation">The man of faith, having Knowledge as his supreme goal having controlled the senses, obtains knowledge of Atma, and having obtained that enjoys everlasting peace.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.40</div>
+            <div class="devanagari">अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।<br>नायं लोकोऽस्ति न परो न सुखं संशयात्मन: ।। 40।।</div>
+            <div class="iast">ajñaśh chāśhraddadhānaśh cha sanśhayātmā vinaśhyati<br>nāyaṁ loko ’sti na paro na sukhaṁ sanśhayātmanaḥ</div>
+            <div class="glossary"><b>ajñaḥ</b>—the ignorant; <b>cha</b>—and; <b>aśhraddadhānaḥ</b>—without faith; <b>cha</b>—and; <b>sanśhaya</b>—skeptical; <b>ātmā</b>—a person; <b>vinaśhyati</b>—falls down; <b>na</b>—never; <b>ayam</b>—in this; <b>lokaḥ</b>—world; <b>asti</b>—is; <b>na</b>—not; <b>paraḥ</b>—in the next; <b>na</b>—not; <b>sukham</b>—happiness; <b>sanśhaya-ātmanaḥ</b>—for the skeptical soul</div>
+            <div class="translation">But the ignorant man, the faithless man, the doubting man goes to destruction. For the doubting self, there is no happiness either in this world or the next.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.41</div>
+            <div class="devanagari">योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् ।<br>आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ।। 41।।</div>
+            <div class="iast">yoga-sannyasta-karmāṇaṁ jñāna-sañchhinna-sanśhayam<br>ātmavantaṁ na karmāṇi nibadhnanti dhanañjaya</div>
+            <div class="glossary"><b>yoga-sannyasta-karmāṇam</b>—those who renounce ritualistic karm, dedicating their body, mind, and soul to God; <b>jñāna</b>—by knowledge; <b>sañchhinna</b>—dispelled; <b>sanśhayam</b>—doubts; <b>ātma-vantam</b>—situated in knowledge of the self; <b>na</b>—not; <b>karmāṇi</b>—actions; <b>nibadhnanti</b>—bind; <b>dhanañjaya</b>—Arjun, the conqueror of wealth</div>
+            <div class="translation">O Arjuna! Actions do not bind the man who has surrendered the fruits of karma by yoga, whose doubts are cleared by Knowledge, and who is firmly established in the Self.</div>
+        </div>
+        
+</body>
+</html>

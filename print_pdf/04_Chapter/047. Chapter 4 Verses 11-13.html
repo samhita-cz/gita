@@ -1,0 +1,135 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            font-family: 'Gentium Book Plus', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 18pt;
+            color: #4a3b32;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title:first-of-type {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-inside: avoid;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #4a3b32;
+            border-bottom: 1px solid #eee;
+            margin-bottom: 12pt;
+            font-size: 10pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 17pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: italic;
+            font-size: 11.5pt;
+            color: #333;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 9.5pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 3px solid #f0e6da;
+            padding-left: 12pt;
+            line-height: 1.4;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 12pt;
+            font-weight: 700;
+            color: #000;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 4 — jñāna yoga</div>
+        <h1>047. Chapter 4 Verses 11-13</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.11</div>
+            <div class="devanagari">ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।<br>मम वर्त्मानुवर्तन्ते मनुष्या: पार्थ सर्वश: ।। 11।।</div>
+            <div class="iast">ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham<br>mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ</div>
+            <div class="glossary"><b>ye</b>—who; <b>yathā</b>—in whatever way; <b>mām</b>—unto me; <b>prapadyante</b>—surrender; <b>tān</b>—them; <b>tathā</b>—so; <b>eva</b>—certainly; <b>bhajāmi</b>—reciprocate; <b>aham</b>—I; <b>mama</b>—my; <b>vartma</b>—path; <b>anuvartante</b>—follow; <b>manuṣhyāḥ</b>—men; <b>pārtha</b>—Arjun, the son of Pritha; <b>sarvaśhaḥ</b>—in all respects</div>
+            <div class="translation">O Arjuna! In whatsoever form one seeks Me, I reach him in that form, for all mankind are but following the paths I laid down for them.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.12</div>
+            <div class="devanagari">काङ् क्षन्त: कर्मणां सिद्धिं यजन्त इह देवता: ।<br>क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ।। 12।।</div>
+            <div class="iast">kāṅkṣhantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ<br>kṣhipraṁ hi mānuṣhe loke siddhir bhavati karmajā</div>
+            <div class="glossary"><b>kāṅkṣhantaḥ</b>—desiring; <b>karmaṇām</b>—material activities; <b>siddhim</b>—success; <b>yajante</b>—worship; <b>iha</b>—in this world; <b>devatāḥ</b>—the celestial gods; <b>kṣhipram</b>—quickly; <b>hi</b>—certainly; <b>mānuṣhe</b>—in human society; <b>loke</b>—within this world; <b>siddhiḥ</b>—rewarding; <b>bhavati</b>—manifest; <b>karma-jā</b>—from material activities</div>
+            <div class="translation">Longing for success in action, in this world, (men) worship the deities. For success is quickly attained through action in this world of Man.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 4.13</div>
+            <div class="devanagari">चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागश: ।<br>तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ।। 13।।</div>
+            <div class="iast">chātur-varṇyaṁ mayā sṛiṣhṭaṁ guṇa-karma-vibhāgaśhaḥ<br>tasya kartāram api māṁ viddhyakartāram avyayam</div>
+            <div class="glossary"><b>chātuḥ-varṇyam</b>—the four categories of occupations; <b>mayā</b>—by me; <b>sṛiṣhṭam</b>—were created; <b>guṇa</b>—of quality; <b>karma</b>—and activities; <b>vibhāgaśhaḥ</b>—according to divisions; <b>tasya</b>—of that; <b>kartāram</b>—the creator; <b>api</b>—although; <b>mām</b>—me; <b>viddhi</b>—know; <b>akartāram</b>—non-doer; <b>avyayam</b>—unchangeable</div>
+            <div class="translation">The four castes were created by Me according to the division of gunas and karma. Though I am their Creator, yet know that I neither act nor change.</div>
+        </div>
+        
+</body>
+</html>
