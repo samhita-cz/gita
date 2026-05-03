@@ -205,4 +205,22 @@ O king Dhritarashtra! Seeing Arjuna lamenting in the middle of two armies, Lord 
 
 ##########################################
 {start_of_analysis}
-***
+https://vivekavani.com/b2v1/
+
+https://vivekavani.com/b2v2/
+
+https://vivekavani.com/b2v3/
+
+https://vivekavani.com/b2v4/
+
+https://vivekavani.com/b2v5/
+
+https://vivekavani.com/b2v6/
+
+https://vivekavani.com/b2v7/
+
+https://vivekavani.com/b2v8/
+
+https://vivekavani.com/b2v9/
+
+https://vivekavani.com/b2v10/

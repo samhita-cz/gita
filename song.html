@@ -75,6 +75,17 @@ body.dark-mode .analysis-content {
     border-top-color: #5d5650;
 }
 
+body.dark-mode .analysis-content .inline-link {
+  color: #7fc0ff !important;
+  text-decoration-color: #7fc0ff;
+}
+
+body.dark-mode .analysis-content .inline-link:hover,
+body.dark-mode .analysis-content .inline-link:focus-visible {
+  color: #a8d6ff !important;
+  text-decoration-color: #a8d6ff;
+}
+
 body.dark-mode .pdf-link:hover, 
 body.dark-mode .analysis-header:hover {
     background-color: #504b46;
@@ -824,7 +835,7 @@ body.hide-chords .lyric-line {
 }
 
 /* Pokud má body třídu pro světlý režim (uprav název třídy podle tvého kódu) */
-body.light-mode, body:not(.dark-mode) { /* Přizpůsob podle toho, co reálně používáš */
+body.light-mode, body:not(.dark-mode):not(.sand-mode) { /* Přizpůsob podle toho, co reálně používáš */
   --menu-bg: #ffffff;
   --menu-border: #cccccc;
   --menu-item-bg: #f0f0f0;
@@ -1314,6 +1325,18 @@ body.sand-mode .analysis-header {
 
 body.sand-mode .analysis-header:hover {
   background-color: #d4c2a5 !important;
+}
+
+body.sand-mode .analysis-content {
+  background-color: #f4ecd8 !important;
+  border-top-color: #d4c2a5 !important;
+  color: #4a3b32 !important;
+}
+
+body.sand-mode .more-menu-dropdown {
+  background-color: #f4ecd8 !important;
+  border-color: #d4c2a5 !important;
+  color: #4a3b32 !important;
 }
 
 body.sand-mode .audio-drawer {
@@ -2068,7 +2091,7 @@ if (window.currentSongObj) {
         html += `
             <div class="analysis-container">
                 <div class="analysis-header" onclick="toggleAnalysis()" style="font-size: ${currentFontSize * 0.8}px;">
-                    <span>🔆 Notes and links</span>
+                    <span>🔆 Commentaries</span>
                     <span id="analysis-arrow">${analysisOpen ? "▲" : "▼"}</span>
                 </div>
                 <div id="analysis-content" class="analysis-content" style="display: ${analysisOpen ? 'block' : 'none'}; font-size: ${currentFontSize * 0.9}px;">${formattedAnalysis}</div>
