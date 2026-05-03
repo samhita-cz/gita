@@ -45,58 +45,66 @@
         }
         
         .lecture-title {
-            font-size: 18pt;
-            color: #4a3b32;
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
             margin: 0 0 30pt 0;
             padding-top: 10pt;
             border-bottom: 1px solid #4a3b32;
             page-break-before: always;
         }
 
-        .lecture-title:first-of-type {
+        .lecture-title.first-lecture-title {
             page-break-before: avoid;
             margin-top: 20pt;
         }
 
         .verse-block {
             margin-bottom: 45pt;
+            page-break-before: always;
             page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
         }
         
         .verse-number {
             font-weight: bold;
-            color: #4a3b32;
-            border-bottom: 1px solid #eee;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
             margin-bottom: 12pt;
-            font-size: 10pt;
+            font-size: 14pt;
             text-transform: uppercase;
         }
         .devanagari {
-            font-size: 17pt;
+            font-size: 15pt;
             margin-bottom: 10pt;
             line-height: 1.4;
             color: #000;
         }
         .iast {
-            font-style: italic;
-            font-size: 11.5pt;
-            color: #333;
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
             margin-bottom: 14pt;
         }
         .glossary {
-            font-size: 9.5pt;
+            font-size: 14pt;
             color: #000;
             margin-bottom: 14pt;
             text-align: justify;
-            border-left: 3px solid #f0e6da;
-            padding-left: 12pt;
-            line-height: 1.4;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
         }
         .glossary b { font-weight: 700; }
         .translation {
-            font-size: 12pt;
+            font-size: 17pt;
             font-weight: 700;
             color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
         }
     </style>
 </head>
@@ -106,8 +114,8 @@
         <h1>Bhagavad Gita - Chapter 2</h1>
         <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
     </div>
-    <div class='lecture-title'>002. Chapter 2 Verses 1-10 </div>
-        <div class="verse-block">
+    <div class='lecture-title first-lecture-title'>002. Chapter 2 Verses 1-10 </div>
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.1</div>
             <div class="devanagari">सञ्जय उवाच ।<br>तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् ।<br>विषीदन्तमिदं वाक्यमुवाच मधुसूदन: ।। 1।।</div>
             <div class="iast">sañjaya uvācha<br>taṁ tathā kṛipayāviṣhṭamaśhru pūrṇākulekṣhaṇam<br>viṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ</div>
@@ -187,7 +195,7 @@
             <div class="translation">O king Dhritarashtra! Seeing Arjuna lamenting in the middle of two armies, Lord Krishna, as if laughing loud, spoke these words.</div>
         </div>
         <div class='lecture-title'>003. Chapter 2 Verses 11-12 </div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.11</div>
             <div class="devanagari">श्रीभगवानुवाच ।<br>अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।<br>गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: ।। 11।।</div>
             <div class="iast">śhrī bhagavān uvācha<br>aśhochyān-anvaśhochas-tvaṁ prajñā-vādānśh cha bhāṣhase<br>gatāsūn-agatāsūnśh-cha nānuśhochanti paṇḍitāḥ</div>
@@ -203,7 +211,7 @@
             <div class="translation">Never was there a time when I did not exist, nor you, nor these kings of men. Never will there be a time hereafter when any of us shall cease to be.</div>
         </div>
         <div class='lecture-title'>004. Chapter 2 Verses 13-15</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.13</div>
             <div class="devanagari">देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा ।<br>तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ।। 13।।</div>
             <div class="iast">dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā<br>tathā dehāntara-prāptir dhīras tatra na muhyati</div>
@@ -227,7 +235,7 @@
             <div class="translation">The firm man who is not affected by pain and pleasure, who remains equal-minded, surely is fit for immortality, O Arjuna, Chief of mortals!</div>
         </div>
         <div class='lecture-title'>005. Chapter 2 Verse 16 </div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.16</div>
             <div class="devanagari">नासतो विद्यते भावो नाभावो विद्यते सत: ।<br>उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभि: ।। 16।।</div>
             <div class="iast">nāsato vidyate bhāvo nābhāvo vidyate sataḥ<br>ubhayorapi dṛiṣhṭo ’nta stvanayos tattva-darśhibhiḥ</div>
@@ -235,7 +243,7 @@
             <div class="translation">The unreal has no being, the real has no non-being. The final truth of these two has been seen indeed by those who have experienced the essence of things.</div>
         </div>
         <div class='lecture-title'>006. Chapter 2 Verses 17-18</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.17</div>
             <div class="devanagari">अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।<br>विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ।। 17।।</div>
             <div class="iast">avināśhi tu tadviddhi yena sarvam idaṁ tatam<br>vināśham avyayasyāsya na kaśhchit kartum arhati</div>
@@ -251,7 +259,7 @@
             <div class="translation">These bodies which belong to the real imperishable, unknowable Atma are said to be subject to an end; therefore fight, O Arjuna!</div>
         </div>
         <div class='lecture-title'>007. Chapter 2 Verse 19</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.19</div>
             <div class="devanagari">य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् ।<br>उभौ तौ न विजानीतो नायं हन्ति न हन्यते ।। 19।।</div>
             <div class="iast">ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam<br>ubhau tau na vijānīto nāyaṁ hanti na hanyate</div>
@@ -259,7 +267,7 @@
             <div class="translation">He who thinks that Atma slays, or he who thinks that Atma is Slain, both these do not know the Truth. Atma does not slay, nor is slain.</div>
         </div>
         <div class='lecture-title'>008. Chapter 2 Verse 20-22</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.20</div>
             <div class="devanagari">न जायते म्रियते वा कदाचि<br>नायं भूत्वा भविता वा न भूय: ।<br>अजो नित्य: शाश्वतोऽयं पुराणो<br>न हन्यते हन्यमाने शरीरे ।। 20।।</div>
             <div class="iast">na jāyate mriyate vā kadāchin<br>nāyaṁ bhūtvā bhavitā vā na bhūyaḥ<br>ajo nityaḥ śhāśhvato ’yaṁ purāṇo<br>na hanyate hanyamāne śharīre</div>
@@ -283,7 +291,7 @@
             <div class="translation">Just as a man casts off his worn-out clothes and puts on new ones so also the Self throws away its worn-out bodies and takes other fresh bodies.</div>
         </div>
         <div class='lecture-title'>009. Chapter 2 Verse 23-25</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.23</div>
             <div class="devanagari">नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावक: ।<br>न चैनं क्लेदयन्त्यापो न शोषयति मारुत: ।। 23।।</div>
             <div class="iast">nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ<br>na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ</div>
@@ -307,7 +315,7 @@
             <div class="translation">This self is unknowable by the senses, unthinkable by the mind, and is not subject to any kind of change. Knowing this, you should not grieve.</div>
         </div>
         <div class='lecture-title'>010. Chapter 2 Verse 26-27</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.26</div>
             <div class="devanagari">अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् ।<br>तथापि त्वं महाबाहो नैवं शोचितुमर्हसि ।। 26।।</div>
             <div class="iast">atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛitam<br>tathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi</div>
@@ -323,7 +331,7 @@
             <div class="translation">For to that which is born, death is certain, and to that which is dead, birth is certain. Therefore you should not grieve over the unavoidable.</div>
         </div>
         <div class='lecture-title'>011. Chapter 2 Verses 28-29</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.28</div>
             <div class="devanagari">अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत ।<br>अव्यक्तनिधनान्येव तत्र का परिदेवना ।। 28।।</div>
             <div class="iast">avyaktādīni bhūtāni vyakta-madhyāni bhārata<br>avyakta-nidhanānyeva tatra kā paridevanā</div>
@@ -339,7 +347,7 @@
             <div class="translation">Some look on the Self as a wonder; some speak of It as a wonder; some hear of It as a wonder; still others, though hearing, do not understand It at all.</div>
         </div>
         <div class='lecture-title'>012. Chapter 2 Verses 30-31</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.30</div>
             <div class="devanagari">देही नित्यमवध्योऽयं देहे सर्वस्य भारत ।<br>तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि ।। 30।।</div>
             <div class="iast">dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata<br>tasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi</div>
@@ -355,7 +363,7 @@
             <div class="translation">And moreover, considering your own duty, you should not waver, for, there is nothing higher for a Kshatriya than a righteous war.</div>
         </div>
         <div class='lecture-title'>013. Chapter 2 Verses 32-38</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.32</div>
             <div class="devanagari">यदृच्छया चोपपन्नं स्वर्गद्वारमपावृतम् ।<br>सुखिन: क्षत्रिया: पार्थ लभन्ते युद्धमीदृशम् ।। 32।।</div>
             <div class="iast">yadṛichchhayā chopapannaṁ swarga-dvāram apāvṛitam<br>sukhinaḥ kṣhatriyāḥ pārtha labhante yuddham īdṛiśham</div>
@@ -411,7 +419,7 @@
             <div class="translation">Having an equal mind in pain and pleasure, gain and loss, victory and defeat, engage in battle and thereby you will not incur sin.</div>
         </div>
         <div class='lecture-title'>014. Chapter 2 Verses 39-40</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.39</div>
             <div class="devanagari">एषा तेऽभिहिता साङ्ख्ये<br>बुद्धिर्योगे त्विमां शृणु ।<br>बुद्ध्या युक्तो यया पार्थ<br>कर्मबन्धं प्रहास्यसि ।। 39।।</div>
             <div class="iast">eṣhā te ’bhihitā sānkhye<br>buddhir yoge tvimāṁ śhṛiṇu<br>buddhyā yukto yayā pārtha<br>karma-bandhaṁ prahāsyasi</div>
@@ -427,7 +435,7 @@
             <div class="translation">In this, no effort is ever lost and no harm is ever done. Even very little of this dharma saves a man from the Great Fear.</div>
         </div>
         <div class='lecture-title'>015. Chapter 2 Verses 41-44</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.41</div>
             <div class="devanagari">व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन ।<br>बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम् ।। 41।।</div>
             <div class="iast">vyavasāyātmikā buddhir ekeha kuru-nandana<br>bahu-śhākhā hyanantāśh cha buddhayo ’vyavasāyinām</div>
@@ -447,7 +455,7 @@ They are full of desire, with heaven as their highest goal, leading to new birth
 The mind of such men who are drawn away by attachment to pleasure and wealth, cannot be concentrated to remain fixed in the ecstasy of divine contemplation.</div>
         </div>
         <div class='lecture-title'>016. Chapter 2 Verses 45-47</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.45</div>
             <div class="devanagari">त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन ।<br>निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् ।। 45।।</div>
             <div class="iast">trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna<br>nirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān</div>
@@ -471,7 +479,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">You have the right to work only, and not to the fruits of work. Let not the fruit of action be your motive, nor let your attachment be to inaction.</div>
         </div>
         <div class='lecture-title'>017. Chapter 2 Verses 47</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.47</div>
             <div class="devanagari">कर्मण्येवाधिकारस्ते मा फलेषु कदाचन ।<br>मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि ।। 47 ।।</div>
             <div class="iast">karmaṇy-evādhikāras te mā phaleṣhu kadāchana<br>mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi</div>
@@ -479,7 +487,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">You have the right to work only, and not to the fruits of work. Let not the fruit of action be your motive, nor let your attachment be to inaction.</div>
         </div>
         <div class='lecture-title'>018. Chapter 2 Verses 48-51</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.48</div>
             <div class="devanagari">योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय ।<br>सिद्ध्यसिद्ध्यो: समो भूत्वा समत्वं योग उच्यते ।। 48।।</div>
             <div class="iast">yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya<br>siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate</div>
@@ -511,7 +519,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">Wise men endowed with equanimity, having abandoned the fruits of action, go to the abode beyond all sorrow and evil.</div>
         </div>
         <div class='lecture-title'>019. Chapter 2 Verses 52-54</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.52</div>
             <div class="devanagari">यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति ।<br>तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च ।। 52।।</div>
             <div class="iast">yadā te moha-kalilaṁ buddhir vyatitariṣhyati<br>tadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha</div>
@@ -535,7 +543,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">Arjuna said: O Krishna! What are the characteristics of a man of steady wisdom? How does the man merged in the super-conscious state, sit and move?</div>
         </div>
         <div class='lecture-title'>020. Chapter 2 Verses 55-56</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.55</div>
             <div class="devanagari">श्रीभगवानुवाच ।<br>प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् ।<br>आत्मन्येवात्मना तुष्ट: स्थितप्रज्ञस्तदोच्यते ।। 55।।</div>
             <div class="iast">śhrī bhagavān uvācha<br>prajahāti yadā kāmān sarvān pārtha mano-gatān<br>ātmany-evātmanā tuṣhṭaḥ sthita-prajñas tadochyate</div>
@@ -551,7 +559,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">He whose mind is not troubled in sorrow, who does not hanker after pleasures and is free from attachment fear and hatred, is called the sage of steady wisdom.</div>
         </div>
         <div class='lecture-title'>021. Chapter 2 Verses 56-57</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.56</div>
             <div class="devanagari">दु:खेष्वनुद्विग्नमना: सुखेषु विगतस्पृह: ।<br>वीतरागभयक्रोध: स्थितधीर्मुनिरुच्यते ।। 56।।</div>
             <div class="iast">duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ<br>vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate</div>
@@ -567,7 +575,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">He who has no attachment to anything anywhere, who does not rejoice and hate when good and bad things happen, his wisdom is fixed and steady.</div>
         </div>
         <div class='lecture-title'>022. Chapter 2 Verses 58</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.58</div>
             <div class="devanagari">यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश: ।<br>इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ।। 58।।</div>
             <div class="iast">yadā sanharate chāyaṁ kūrmo ’ṅgānīva sarvaśhaḥ<br>indriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā</div>
@@ -575,7 +583,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">When the yogi, like the tortoise drawing back its limbs into its own shell, withdraws all the senses from the sense objects, his wisdom is firmly fixed.</div>
         </div>
         <div class='lecture-title'>023. Chapter 2 Verses 59-63</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.59</div>
             <div class="devanagari">विषया विनिवर्तन्ते निराहारस्य देहिन: ।<br>रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते ।। 59।।</div>
             <div class="iast">viṣhayā vinivartante nirāhārasya dehinaḥ<br>rasa-varjaṁ raso ’pyasya paraṁ dṛiṣhṭvā nivartate</div>
@@ -607,7 +615,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">As a man contemplates sense-objects, attachment for them arises, from attachment, desire for them will be born, from desire arises anger, from anger comes delusion, from delusion, comes loss of memory, from loss of memory, comes destruction of discrimination, and from destruction of discrimination he perishes.</div>
         </div>
         <div class='lecture-title'>024. Chapter 2 Verses 64-66</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.64</div>
             <div class="devanagari">रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् ।<br>आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ।। 64।।</div>
             <div class="iast">rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan<br>ātma-vaśhyair-vidheyātmā prasādam adhigachchhati</div>
@@ -631,7 +639,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">The man whose mind is not under his control has no Self-knowledge and no contemplation either. Without contemplation he can have no peace; and without peace, how can he have happiness?</div>
         </div>
         <div class='lecture-title'>025. Chapter 2 Verses 67-69</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.67</div>
             <div class="devanagari">इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते ।<br>तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि ।। 67।।</div>
             <div class="iast">indriyāṇāṁ hi charatāṁ yan mano ’nuvidhīyate<br>tadasya harati prajñāṁ vāyur nāvam ivāmbhasi</div>
@@ -655,7 +663,7 @@ The mind of such men who are drawn away by attachment to pleasure and wealth, ca
             <div class="translation">That which is, night to all beings, in it the sage is awake; where all beings are awake, that is the night for the sage who sees (the Self).</div>
         </div>
         <div class='lecture-title'>026. Chapter 2 Verses 70-72</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.70</div>
             <div class="devanagari">आपूर्यमाणमचलप्रतिष्ठं<br>समुद्रमाप: प्रविशन्ति यद्वत् ।<br>तद्वत्कामा यं प्रविशन्ति सर्वे<br>स शान्तिमाप्नोति न कामकामी ।। 70।।</div>
             <div class="iast">āpūryamāṇam achala-pratiṣhṭhaṁ<br>samudram āpaḥ praviśhanti yadvat<br>tadvat kāmā yaṁ praviśhanti sarve<br>sa śhāntim āpnoti na kāma-kāmī</div>

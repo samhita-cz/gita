@@ -45,58 +45,66 @@
         }
         
         .lecture-title {
-            font-size: 18pt;
-            color: #4a3b32;
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
             margin: 0 0 30pt 0;
             padding-top: 10pt;
             border-bottom: 1px solid #4a3b32;
             page-break-before: always;
         }
 
-        .lecture-title:first-of-type {
+        .lecture-title.first-lecture-title {
             page-break-before: avoid;
             margin-top: 20pt;
         }
 
         .verse-block {
             margin-bottom: 45pt;
+            page-break-before: always;
             page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
         }
         
         .verse-number {
             font-weight: bold;
-            color: #4a3b32;
-            border-bottom: 1px solid #eee;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
             margin-bottom: 12pt;
-            font-size: 10pt;
+            font-size: 14pt;
             text-transform: uppercase;
         }
         .devanagari {
-            font-size: 17pt;
+            font-size: 15pt;
             margin-bottom: 10pt;
             line-height: 1.4;
             color: #000;
         }
         .iast {
-            font-style: italic;
-            font-size: 11.5pt;
-            color: #333;
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
             margin-bottom: 14pt;
         }
         .glossary {
-            font-size: 9.5pt;
+            font-size: 14pt;
             color: #000;
             margin-bottom: 14pt;
             text-align: justify;
-            border-left: 3px solid #f0e6da;
-            padding-left: 12pt;
-            line-height: 1.4;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
         }
         .glossary b { font-weight: 700; }
         .translation {
-            font-size: 12pt;
+            font-size: 17pt;
             font-weight: 700;
             color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
         }
     </style>
 </head>
@@ -106,8 +114,8 @@
         <h1>Bhagavad Gita - Chapter 4</h1>
         <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
     </div>
-    <div class='lecture-title'>043. Chapter 4 Verses 1-3</div>
-        <div class="verse-block">
+    <div class='lecture-title first-lecture-title'>043. Chapter 4 Verses 1-3</div>
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.1</div>
             <div class="devanagari">श्रीभगवानुवाच ।<br>इमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।<br>विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ।। 1।।</div>
             <div class="iast">śhrī bhagavān uvācha<br>imaṁ vivasvate yogaṁ proktavān aham avyayam<br>vivasvān manave prāha manur ikṣhvākave ’bravīt</div>
@@ -131,7 +139,7 @@
             <div class="translation">This same ancient Yoga has now been taught by Me, for you are My devotee and friend. It is indeed the supreme secret.</div>
         </div>
         <div class='lecture-title'>044. Chapter 4 Verses 4-6</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.4</div>
             <div class="devanagari">अर्जुन उवाच ।<br>अपरं भवतो जन्म परं जन्म विवस्वत: ।<br>कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ।। 4।।</div>
             <div class="iast">arjuna uvācha<br>aparaṁ bhavato janma paraṁ janma vivasvataḥ<br>katham etad vijānīyāṁ tvam ādau proktavān iti</div>
@@ -155,7 +163,7 @@
             <div class="translation">Though unborn and eternal in My being, the Lord and controller of all beings, controlling My own nature, I come into being by the power of My Maya-Sakti.</div>
         </div>
         <div class='lecture-title'>045. Chapter 4 Verses 7-8</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.7</div>
             <div class="devanagari">यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।<br>अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ।। 7।।</div>
             <div class="iast">yadā yadā hi dharmasya glānir bhavati bhārata<br>abhyutthānam adharmasya tadātmānaṁ sṛijāmyaham</div>
@@ -171,7 +179,7 @@
             <div class="translation">For the protection of the good, for the destruction of the wicked, and for establishing Dharma, I take birth in every age.</div>
         </div>
         <div class='lecture-title'>046. Chapter 4 Verses 9-10</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.9</div>
             <div class="devanagari">जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वत: ।<br>त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ।। 9।।</div>
             <div class="iast">janma karma cha me divyam evaṁ yo vetti tattvataḥ<br>tyaktvā dehaṁ punar janma naiti mām eti so ’rjuna</div>
@@ -187,7 +195,7 @@
             <div class="translation">Free from desire, fear, and hatred, absorbed in Me, taking refuge in Me, many purified by the penance of knowledge have attained Me.</div>
         </div>
         <div class='lecture-title'>047. Chapter 4 Verses 11-13</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.11</div>
             <div class="devanagari">ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।<br>मम वर्त्मानुवर्तन्ते मनुष्या: पार्थ सर्वश: ।। 11।।</div>
             <div class="iast">ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham<br>mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ</div>
@@ -211,7 +219,7 @@
             <div class="translation">The four castes were created by Me according to the division of gunas and karma. Though I am their Creator, yet know that I neither act nor change.</div>
         </div>
         <div class='lecture-title'>048. Chapter 4 Verses 14-17</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.14</div>
             <div class="devanagari">न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा ।<br>इति मां योऽभिजानाति कर्मभिर्न स बध्यते ।। 14।।</div>
             <div class="iast">na māṁ karmāṇi limpanti na me karma-phale spṛihā<br>iti māṁ yo ’bhijānāti karmabhir na sa badhyate</div>
@@ -243,7 +251,7 @@
             <div class="translation">The nature of action (enjoined by the Sastras) and of wrong action (prohibited by the Sastras) and also of inaction should be known, because deep and difficult to understand is the path of action.</div>
         </div>
         <div class='lecture-title'>049. Chapter 4 Verse 18</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.18</div>
             <div class="devanagari">कर्मण्यकर्म य: पश्येदकर्मणि च कर्म य: ।<br>स बुद्धिमान्मनुष्येषु स युक्त: कृत्स्नकर्मकृत् ।। 18।।</div>
             <div class="iast">karmaṇyakarma yaḥ paśhyed akarmaṇi cha karma yaḥ<br>sa buddhimān manuṣhyeṣhu sa yuktaḥ kṛitsna-karma-kṛit</div>
@@ -251,7 +259,7 @@
             <div class="translation">Who sees action in inaction and inaction in action, he is the wise man, the yogi, the doer of all actions among men.</div>
         </div>
         <div class='lecture-title'>050. Chapter 4 Verse 19</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.19</div>
             <div class="devanagari">यस्य सर्वे समारम्भा: कामसङ्कल्पवर्जिता: ।<br>ज्ञानाग्निदग्धकर्माणं तमाहु: पण्डितं बुधा: ।। 19।।</div>
             <div class="iast">yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ<br>jñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ</div>
@@ -259,7 +267,7 @@
             <div class="translation">He whose undertakings are all free from desire and volition, whose actions are burnt in the fire of knowledge, is called a sage by the wise.</div>
         </div>
         <div class='lecture-title'>051. Chapter 4 Verses 20-22</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.20</div>
             <div class="devanagari">त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रय: ।<br>कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति स: ।। 20।।</div>
             <div class="iast">tyaktvā karma-phalāsaṅgaṁ nitya-tṛipto nirāśhrayaḥ<br>karmaṇyabhipravṛitto ’pi naiva kiñchit karoti saḥ</div>
@@ -283,7 +291,7 @@
             <div class="translation">Content with whatsoever he gets without efforts, free from the pairs of opposites, free from malice, balanced in success and failure, though acting, he is not bound.</div>
         </div>
         <div class='lecture-title'>052. Chapter 4 Verses 23-24</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.23</div>
             <div class="devanagari">गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतस: ।<br>यज्ञायाचरत: कर्म समग्रं प्रविलीयते ।। 23।।</div>
             <div class="iast">gata-saṅgasya muktasya jñānāvasthita-chetasaḥ<br>yajñāyācharataḥ karma samagraṁ pravilīyate</div>
@@ -299,7 +307,7 @@
             <div class="translation">The oblation is Brahman, the offerings are Brahman, the sacrifice is Brahman, and by absorption in action which is Brahman, Brahman alone shall be reached by him (by the sacrifice).</div>
         </div>
         <div class='lecture-title'>053. Chapter 4 Verses 25-28</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.25</div>
             <div class="devanagari">दैवमेवापरे यज्ञं योगिन: पर्युपासते ।<br>ब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ।। 25।।</div>
             <div class="iast">daivam evāpare yajñaṁ yoginaḥ paryupāsate<br>brahmāgnāvapare yajñaṁ yajñenaivopajuhvati</div>
@@ -331,7 +339,7 @@
             <div class="translation">Others offer wealth, austerity and Yoga as sacrifice and again others, the ascetics of rigid vows offer study and knowledge as sacrifice.</div>
         </div>
         <div class='lecture-title'>054. Chapter 4 Verses 29-30</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.29</div>
             <div class="devanagari">अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।<br>प्राणापानगती रुद्ध्वा प्राणायामपरायणा: ।। 29।।</div>
             <div class="iast">apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare<br>prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ</div>
@@ -347,7 +355,7 @@
             <div class="translation">Others of regulated food, sacrifice the life – breaths in the life – breaths; all these also are are knowers of sacrifice whose sins are destroyed by sacrifice.</div>
         </div>
         <div class='lecture-title'>055. Chapter 4 Verses 31-32</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.31</div>
             <div class="devanagari">यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।<br>नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्य: कुरुसत्तम ।। 31।।</div>
             <div class="iast">yajña-śhiṣhṭāmṛita-bhujo yānti brahma sanātanam<br>nāyaṁ loko ’styayajñasya kuto ’nyaḥ kuru-sattama</div>
@@ -363,7 +371,7 @@
             <div class="translation">Thus various forms of sacrifice are spread out in the Vedas; know them all to be born of action; thus knowing you shall be liberated.</div>
         </div>
         <div class='lecture-title'>056. Chapter 4 Verses 33-34</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.33</div>
             <div class="devanagari">श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञ: परन्तप ।<br>सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ।। 33।।</div>
             <div class="iast">śhreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa<br>sarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate</div>
@@ -379,7 +387,7 @@
             <div class="translation">Know that (Knowledge) by long prostration, question, and service (to the master). The sages who have realised the truth will instruct you in that knowledge.</div>
         </div>
         <div class='lecture-title'>057. Chapter 4 Verses 35-37</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.35</div>
             <div class="devanagari">यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।<br>येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ।। 35।।</div>
             <div class="iast">yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava<br>yena bhūtānyaśheṣheṇa drakṣhyasyātmanyatho mayi</div>
@@ -403,7 +411,7 @@
             <div class="translation">O Arjuna! Just as blazing fire reduces wood to ashes, even so, the fire of, Knowledge destroys all actions.</div>
         </div>
         <div class='lecture-title'>058. Chapter 4 Verses 38-41</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.38</div>
             <div class="devanagari">न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।<br>तत्स्वयं योगसंसिद्ध: कालेनात्मनि विन्दति ।। 38।।</div>
             <div class="iast">na hi jñānena sadṛiśhaṁ pavitramiha vidyate<br>tatsvayaṁ yogasansiddhaḥ kālenātmani vindati</div>
@@ -435,7 +443,7 @@
             <div class="translation">O Arjuna! Actions do not bind the man who has surrendered the fruits of karma by yoga, whose doubts are cleared by Knowledge, and who is firmly established in the Self.</div>
         </div>
         <div class='lecture-title'>059. Chapter 4 Verse 42 + Ch 4 Summary</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.42</div>
             <div class="devanagari">तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मन: ।<br>छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ।। 42।।</div>
             <div class="iast">tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ<br>chhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata</div>
@@ -443,7 +451,7 @@
             <div class="translation">Therefore, with the sword of Knowledge cut asunder the doubt born of ignorance about the Self, dwelling in the heart and take refuge in Yoga. Arise, O Arjuna!</div>
         </div>
         <div class='lecture-title'>nazevsouboru</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 4.</div>
             <div class="devanagari">MP3VIVEKAVANI</div>
             <div class="iast">DEVAGIASTSLOVNIK</div>

@@ -1350,32 +1350,50 @@ body.sand-mode .comment b {
 }
 
 .pdf-menu-btn {
-    display: flex;
+  display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 8px;
-    background: #164e86; /* Modrá barva */
-    color: white !important;
+  gap: 10px;
+  background: #f3f4f6;
+  color: #444 !important;
     text-decoration: none;
-    padding: 8px 15px;
-    border-radius: 6px;
+  padding: 6px 10px;
+  border-radius: 999px;
     font-family: sans-serif;
-    font-weight: bold;
-    font-size: 0.9em;
-    transition: background 0.2s;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 1.2;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
     margin: 0 auto;
     width: fit-content;
-    border: 1px solid #3d86cc;
+  border: 1px solid rgba(0, 0, 0, 0.06);
 }
 
 .pdf-menu-btn:hover {
-    background: #3d86cc;
+  background: #eceff3;
+  color: #333 !important;
 }
 
-/* Úprava pro Dark Mode, pokud ho používáš */
 body.dark-mode .pdf-menu-btn {
-    background: #1a2a40;
-    border-color: #4da6ff;
+  background: #33302d;
+  color: #e6e2dd !important;
+  border-color: #5d5650;
+}
+
+body.dark-mode .pdf-menu-btn:hover {
+  background: #3d3a37;
+  color: #e6e2dd !important;
+}
+
+body.sand-mode .pdf-menu-btn {
+  background: #eaddc5;
+  color: #4a3b32 !important;
+  border-color: #d4c2a5;
+}
+
+body.sand-mode .pdf-menu-btn:hover {
+  background: #dfd0b8;
+  color: #4a3b32 !important;
 }
 
 </style>
@@ -1468,9 +1486,8 @@ body.dark-mode .pdf-menu-btn {
         
         <div id="more-menu-dropdown" class="more-menu-dropdown">
           <div style="text-align: center; padding-bottom: 10px;">
-            <span class="menu-label" style="display: block; margin-bottom: 5px;">Download</span>
             <a href="#" id="pdf-sidebar-link" class="pdf-menu-btn" download target="_blank">
-              <span style="font-size: 1.2em;">📥</span> <b>PDF</b>
+              📥 PDF - this lecture
             </a>
           </div>
 

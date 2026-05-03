@@ -191,6 +191,21 @@ body.dark-mode .song-tag {
     display: none;
   }
 
+  .active-filter-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  @media (max-width: 700px) {
+    .active-filter-row {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+    }
+  }
+
   .filter-pill {
     display: inline-flex;
     align-items: center;
@@ -1381,19 +1396,21 @@ function renderActiveFilter() {
       const chapterPdfUrl = `print_pdf/${folderName}/Full_Chapter_${chapterNum}.pdf`;
 
       chapterPdfBtn = `
-        <a href="${chapterPdfUrl}" target="_blank" download class="filter-pill" style="background: #4da6ff; color: #fff; text-decoration: none; margin-left: 10px; border-color: #4da6ff;">
-          📥 PDF
+        <a href="${chapterPdfUrl}" target="_blank" download class="filter-pill" style="text-decoration: none;">
+          📥 PDF - this chapter
         </a>
       `;
   }
 
   wrap.style.display = 'block';
   wrap.innerHTML = `
-    <span class="filter-pill">
-      Filtr: <strong>${categoryFilter}</strong>
-      <button class="filter-clear" type="button" aria-label="Clear filter" onclick="clearCategoryFilter()">✕</button>
-    </span>
-    ${chapterPdfBtn}
+    <div class="active-filter-row">
+      <span class="filter-pill">
+        Filtr: <strong>${categoryFilter}</strong>
+        <button class="filter-clear" type="button" aria-label="Clear filter" onclick="clearCategoryFilter()">✕</button>
+      </span>
+      ${chapterPdfBtn}
+    </div>
   `;
 }
 

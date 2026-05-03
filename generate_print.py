@@ -61,58 +61,66 @@ HTML_TEMPLATE = """
         }}
         
         .lecture-title {{
-            font-size: 18pt;
-            color: #4a3b32;
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
             margin: 0 0 30pt 0;
             padding-top: 10pt;
             border-bottom: 1px solid #4a3b32;
             page-break-before: always;
         }}
 
-        .lecture-title:first-of-type {{
+        .lecture-title.first-lecture-title {{
             page-break-before: avoid;
             margin-top: 20pt;
         }}
 
         .verse-block {{
             margin-bottom: 45pt;
+            page-break-before: always;
             page-break-inside: avoid;
+        }}
+
+        .verse-block.first-verse {{
+            page-break-before: avoid;
         }}
         
         .verse-number {{
             font-weight: bold;
-            color: #4a3b32;
-            border-bottom: 1px solid #eee;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
             margin-bottom: 12pt;
-            font-size: 10pt;
+            font-size: 14pt;
             text-transform: uppercase;
         }}
         .devanagari {{
-            font-size: 17pt;
+            font-size: 15pt;
             margin-bottom: 10pt;
             line-height: 1.4;
             color: #000;
         }}
         .iast {{
-            font-style: italic;
-            font-size: 11.5pt;
-            color: #333;
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
             margin-bottom: 14pt;
         }}
         .glossary {{
-            font-size: 9.5pt;
+            font-size: 14pt;
             color: #000;
             margin-bottom: 14pt;
             text-align: justify;
-            border-left: 3px solid #f0e6da;
-            padding-left: 12pt;
-            line-height: 1.4;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
         }}
         .glossary b {{ font-weight: 700; }}
         .translation {{
-            font-size: 12pt;
+            font-size: 17pt;
             font-weight: 700;
             color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
         }}
     </style>
 </head>
@@ -136,7 +144,7 @@ def parse_pro_file(content):
     verse_matches = re.finditer(r'{sov:(?P<num>.*?)}(?P<body>.*?){eot}', content, re.DOTALL)
     
     html_verses = ""
-    for match in verse_matches:
+    for idx, match in enumerate(verse_matches):
         v_num = match.group('num').strip()
         body = match.group('body')
         
@@ -154,8 +162,10 @@ def parse_pro_file(content):
         translation_match = re.search(r'{sot}(.*)', body, re.DOTALL)
         translation = translation_match.group(1).strip() if translation_match else ""
 
+        verse_classes = "verse-block first-verse" if idx == 0 else "verse-block"
+
         html_verses += f"""
-        <div class="verse-block">
+        <div class="{verse_classes}">
             <div class="verse-number">{v_num}</div>
             <div class="devanagari">{devanagari.replace('|', '।').replace('\n', '<br>')}</div>
             <div class="iast">{iast.replace('\n', '<br>')}</div>
@@ -176,6 +186,7 @@ for root, dirs, files in os.walk(SOURCE_DIR):
     chapter_verses_html = ""
     chapter_category = ""
     folder_name = os.path.basename(root)
+    lecture_index = 0
 
     for file_name in files:
         if file_name.endswith(".pro"):
@@ -203,8 +214,10 @@ for root, dirs, files in os.walk(SOURCE_DIR):
                     print(f"OK: {file_name} -> HTML & PDF")
 
                     # Přidání do celku kapitoly
-                    lecture_heading = f"<div class='lecture-title'>{t}</div>"
+                    lecture_title_classes = "lecture-title first-lecture-title" if lecture_index == 0 else "lecture-title"
+                    lecture_heading = f"<div class='{lecture_title_classes}'>{t}</div>"
                     chapter_verses_html += lecture_heading + verses_html
+                    lecture_index += 1
                     if not chapter_category: chapter_category = cat
 
                 except Exception as e:

@@ -45,58 +45,66 @@
         }
         
         .lecture-title {
-            font-size: 18pt;
-            color: #4a3b32;
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
             margin: 0 0 30pt 0;
             padding-top: 10pt;
             border-bottom: 1px solid #4a3b32;
             page-break-before: always;
         }
 
-        .lecture-title:first-of-type {
+        .lecture-title.first-lecture-title {
             page-break-before: avoid;
             margin-top: 20pt;
         }
 
         .verse-block {
             margin-bottom: 45pt;
+            page-break-before: always;
             page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
         }
         
         .verse-number {
             font-weight: bold;
-            color: #4a3b32;
-            border-bottom: 1px solid #eee;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
             margin-bottom: 12pt;
-            font-size: 10pt;
+            font-size: 14pt;
             text-transform: uppercase;
         }
         .devanagari {
-            font-size: 17pt;
+            font-size: 15pt;
             margin-bottom: 10pt;
             line-height: 1.4;
             color: #000;
         }
         .iast {
-            font-style: italic;
-            font-size: 11.5pt;
-            color: #333;
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
             margin-bottom: 14pt;
         }
         .glossary {
-            font-size: 9.5pt;
+            font-size: 14pt;
             color: #000;
             margin-bottom: 14pt;
             text-align: justify;
-            border-left: 3px solid #f0e6da;
-            padding-left: 12pt;
-            line-height: 1.4;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
         }
         .glossary b { font-weight: 700; }
         .translation {
-            font-size: 12pt;
+            font-size: 17pt;
             font-weight: 700;
             color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
         }
     </style>
 </head>
@@ -106,8 +114,8 @@
         <h1>Bhagavad Gita - Chapter 3</h1>
         <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
     </div>
-    <div class='lecture-title'>027. Chapter 3 Verses 1-3</div>
-        <div class="verse-block">
+    <div class='lecture-title first-lecture-title'>027. Chapter 3 Verses 1-3</div>
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.1</div>
             <div class="devanagari">अर्जुन उवाच ।<br>ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।<br>तत्किं कर्मणि घोरे मां नियोजयसि केशव ।। 1।।</div>
             <div class="iast">arjuna uvācha<br>jyāyasī chet karmaṇas te matā buddhir janārdana<br>tat kiṁ karmaṇi ghore māṁ niyojayasi keśhava</div>
@@ -131,7 +139,7 @@
             <div class="translation">The Blessed Lord said: O sinless Arjuna! In ancient times two paths of spiritual description were spoken by me – the Jnana yoga for the followers of the path of knowledge, and Karma yoga for the followers of the path of action.</div>
         </div>
         <div class='lecture-title'>028. Chapter 3 Verses 4-6</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.4</div>
             <div class="devanagari">न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।<br>न च संन्यसनादेव सिद्धिं समधिगच्छति ।। 4।।</div>
             <div class="iast">na karmaṇām anārambhān naiṣhkarmyaṁ puruṣho ’śhnute<br>na cha sannyasanād eva siddhiṁ samadhigachchhati</div>
@@ -155,7 +163,7 @@
             <div class="translation">The man of deluded understanding who restraining the organs of the action sits contemplating the sense objects with the mind is called a hypocrite.</div>
         </div>
         <div class='lecture-title'>029. Chapter 3 Verses 7-8</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.7</div>
             <div class="devanagari">यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।<br>कर्मेन्द्रियै: कर्मयोगमसक्त: स विशिष्यते ।। 7।।</div>
             <div class="iast">yas tvindriyāṇi manasā niyamyārabhate ’rjuna<br>karmendriyaiḥ karma-yogam asaktaḥ sa viśhiṣhyate</div>
@@ -171,7 +179,7 @@
             <div class="translation">Doing the work prescribed by the Sastras is superior to inaction. By inaction, even maintenance of the body for you would not be possible</div>
         </div>
         <div class='lecture-title'>030. Chapter 3 Verses 9-16</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.9</div>
             <div class="devanagari">यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धन: ।<br>तदर्थं कर्म कौन्तेय मुक्तसङ्ग: समाचर ।। 9।।</div>
             <div class="iast">yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ<br>tad-arthaṁ karma kaunteya mukta-saṅgaḥ samāchara</div>
@@ -227,7 +235,7 @@
             <div class="translation">The man who does not follow the cycle thus set revolving is a sinner rejoicing in sense-pleasures and he lives in vain.</div>
         </div>
         <div class='lecture-title'>031. Chapter 3 Verses 16-18</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.16</div>
             <div class="devanagari">एवं प्रवर्तितं चक्रं नानुवर्तयतीह य: ।<br>अघायुरिन्द्रियारामो मोघं पार्थ स जीवति ।। 16।।</div>
             <div class="iast">evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ<br>aghāyur indriyārāmo moghaṁ pārtha sa jīvati</div>
@@ -251,7 +259,7 @@
             <div class="translation">For him, there is in this world no interest whatsoever by work done or not done. He does not depend upon any being for any object.</div>
         </div>
         <div class='lecture-title'>032. Chapter 3 Verses 19-21</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.19</div>
             <div class="devanagari">तस्मादसक्त: सततं कार्यं कर्म समाचर ।<br>असक्तो ह्याचरन्कर्म परमाप्नोति पूरुष: ।। 19।।</div>
             <div class="iast">tasmād asaktaḥ satataṁ kāryaṁ karma samāchara<br>asakto hyācharan karma param āpnoti pūruṣhaḥ</div>
@@ -275,7 +283,7 @@
             <div class="translation">What-so-ever a great man does, that other men do; whatever he sets up as the standard, that the world follows.</div>
         </div>
         <div class='lecture-title'>033. Chapter 3 Verses 22-26</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.22</div>
             <div class="devanagari">न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन ।<br>नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ।। 22।।</div>
             <div class="iast">na me pārthāsti kartavyaṁ triṣhu lokeṣhu kiñchana<br>nānavāptam avāptavyaṁ varta eva cha karmaṇi</div>
@@ -315,7 +323,7 @@
             <div class="translation">The wise man should not disturb and confuse the minds of the ignorant attached to action. By performing all actions with yogic equanimity, they should make the ignorant do accordingly.</div>
         </div>
         <div class='lecture-title'>034. Chapter 3 Verse 27</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.27</div>
             <div class="devanagari">प्रकृते: क्रियमाणानि गुणै: कर्माणि सर्वश: ।<br>अहङ्कारविमूढात्मा कर्ताहमिति मन्यते ।। 27।।</div>
             <div class="iast">prakṛiteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ<br>ahankāra-vimūḍhātmā kartāham iti manyate</div>
@@ -323,7 +331,7 @@
             <div class="translation">By the qualities of nature, actions are performed in all cases, but one whose mind is deluded by egoism thinks “I am the doer”.</div>
         </div>
         <div class='lecture-title'>035. Chapter 3 Verses 28-29</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.28</div>
             <div class="devanagari">तत्त्ववित्तु महाबाहो गुणकर्मविभागयो: ।<br>गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ।। 28।।</div>
             <div class="iast">tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ<br>guṇā guṇeṣhu vartanta iti matvā na sajjate</div>
@@ -339,7 +347,7 @@
             <div class="translation">The man of knowledge should not confuse the mind of those men of imperfect understanding who, deluded by the Gunas of Nature, are attached to action in the material world.</div>
         </div>
         <div class='lecture-title'>036. Chapter 3 Vers 30</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.30</div>
             <div class="devanagari">मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।<br>निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: ।। 30।।</div>
             <div class="iast">mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā<br>nirāśhīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ</div>
@@ -347,7 +355,7 @@
             <div class="translation">Renouncing all actions in Me with the mind fixed in Self, free from hope and egoism, fight without mental agitation.</div>
         </div>
         <div class='lecture-title'>037. Chapter 3 Vers 31</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.31</div>
             <div class="devanagari">ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवा: ।<br>श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभि: ।। 31।।</div>
             <div class="iast">ye me matam idaṁ nityam anutiṣhṭhanti mānavāḥ<br>śhraddhāvanto ’nasūyanto muchyante te ’pi karmabhiḥ</div>
@@ -355,7 +363,7 @@
             <div class="translation">Those men who, with faith and free from ill-will, practice this my teaching, are also freed from the bondage of action.</div>
         </div>
         <div class='lecture-title'>038. Chapter 3 Verses 32-34</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.32</div>
             <div class="devanagari">ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।<br>सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतस: ।। 32।।</div>
             <div class="iast">ye tvetad abhyasūyanto nānutiṣhṭhanti me matam<br>sarva-jñāna-vimūḍhāns tān viddhi naṣhṭān achetasaḥ</div>
@@ -379,7 +387,7 @@
             <div class="translation">In each of the senses abide attraction and repulsion for the objects of the senses. One should not come under their sway, for they are man’s enemies.</div>
         </div>
         <div class='lecture-title'>039. Chapter 3 Verses 35-37</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.35</div>
             <div class="devanagari">श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् ।<br>स्वधर्मे निधनं श्रेय: परधर्मो भयावह: ।। 35।।</div>
             <div class="iast">śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt<br>swa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ</div>
@@ -403,7 +411,7 @@
             <div class="translation">The Blessed Lord said: It is desire, it is anger, born of Rajoguna (the impulse of action), all-consuming and all-evil. Know this as the enemy here.</div>
         </div>
         <div class='lecture-title'>040. Chapter 3 Verses 38-39</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.38</div>
             <div class="devanagari">धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।<br>यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ।। 38।।</div>
             <div class="iast">dhūmenāvriyate vahnir yathādarśho malena cha<br>yatholbenāvṛito garbhas tathā tenedam āvṛitam</div>
@@ -419,7 +427,7 @@
             <div class="translation">O Arjuna! Knowledge of the Self is covered by this everlasting foe of the wise in the form of desire, insatiable like fire.</div>
         </div>
         <div class='lecture-title'>041. Chapter 3 Verses 40-42</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.40</div>
             <div class="devanagari">इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।<br>एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ।। 40।।</div>
             <div class="iast">indriyāṇi mano buddhir asyādhiṣhṭhānam uchyate<br>etair vimohayatyeṣha jñānam āvṛitya dehinam</div>
@@ -443,7 +451,7 @@
             <div class="translation">They say that the senses are superior (to the body), superior to the senses is the mind, superior to the mind is the intellect, but superior than the intellect is He (the Atman).</div>
         </div>
         <div class='lecture-title'>042. Chapter 3 Verse 43 - Ch3 Overview</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.43</div>
             <div class="devanagari">एवं बुद्धे: परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।<br>जहि शत्रुं महाबाहो कामरूपं दुरासदम् ।। 43।।</div>
             <div class="iast">evaṁ buddheḥ paraṁ buddhvā sanstabhyātmānam ātmanā<br>jahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam</div>
@@ -451,7 +459,7 @@
             <div class="translation">O mighty-armed Arjuna! Thus, having known what is greater than the intellect (i.e.) Atma, and restraining the mind by the intellect conquer the foe (kama) in the form of desire which is indeed hard to overcome.</div>
         </div>
         <div class='lecture-title'>nazevsouboru</div>
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 2.</div>
             <div class="devanagari">MP3VIVEKAVANI</div>
             <div class="iast">DEVAGIASTSLOVNIK</div>

@@ -45,58 +45,66 @@
         }
         
         .lecture-title {
-            font-size: 18pt;
-            color: #4a3b32;
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
             margin: 0 0 30pt 0;
             padding-top: 10pt;
             border-bottom: 1px solid #4a3b32;
             page-break-before: always;
         }
 
-        .lecture-title:first-of-type {
+        .lecture-title.first-lecture-title {
             page-break-before: avoid;
             margin-top: 20pt;
         }
 
         .verse-block {
             margin-bottom: 45pt;
+            page-break-before: always;
             page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
         }
         
         .verse-number {
             font-weight: bold;
-            color: #4a3b32;
-            border-bottom: 1px solid #eee;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
             margin-bottom: 12pt;
-            font-size: 10pt;
+            font-size: 14pt;
             text-transform: uppercase;
         }
         .devanagari {
-            font-size: 17pt;
+            font-size: 15pt;
             margin-bottom: 10pt;
             line-height: 1.4;
             color: #000;
         }
         .iast {
-            font-style: italic;
-            font-size: 11.5pt;
-            color: #333;
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
             margin-bottom: 14pt;
         }
         .glossary {
-            font-size: 9.5pt;
+            font-size: 14pt;
             color: #000;
             margin-bottom: 14pt;
             text-align: justify;
-            border-left: 3px solid #f0e6da;
-            padding-left: 12pt;
-            line-height: 1.4;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
         }
         .glossary b { font-weight: 700; }
         .translation {
-            font-size: 12pt;
+            font-size: 17pt;
             font-weight: 700;
             color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
         }
     </style>
 </head>
@@ -107,7 +115,7 @@
         <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
     </div>
     
-        <div class="verse-block">
+        <div class="verse-block first-verse">
             <div class="verse-number">Verse 3.30</div>
             <div class="devanagari">मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।<br>निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: ।। 30।।</div>
             <div class="iast">mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā<br>nirāśhīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ</div>
