@@ -1349,6 +1349,35 @@ body.sand-mode .comment b {
   color: #8a4e46 !important;
 }
 
+.pdf-menu-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: #164e86; /* Modrá barva */
+    color: white !important;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 6px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 0.9em;
+    transition: background 0.2s;
+    margin: 0 auto;
+    width: fit-content;
+    border: 1px solid #3d86cc;
+}
+
+.pdf-menu-btn:hover {
+    background: #3d86cc;
+}
+
+/* Úprava pro Dark Mode, pokud ho používáš */
+body.dark-mode .pdf-menu-btn {
+    background: #1a2a40;
+    border-color: #4da6ff;
+}
+
 </style>
 <script>
   // Tato funkce provede veškerou magii
@@ -1436,27 +1465,17 @@ body.sand-mode .comment b {
         
         <button class="icon-btn" type="button" onclick="toggleDarkMode()" title="Switch theme">🌙</button>
         <button class="icon-btn" type="button" id="more-menu-btn" style="font-size: 20px;">⋮</button>
-    
+        
         <div id="more-menu-dropdown" class="more-menu-dropdown">
-          
           <div style="text-align: center; padding-bottom: 10px;">
-            <span class="menu-label" style="display: block; margin-bottom: 5px;">Akordy</span>
-            <button class="grid-btn" id="toggle-chords" title="Show or hide chords" style="margin: 0 auto;">C</button>
+            <span class="menu-label" style="display: block; margin-bottom: 5px;">Download</span>
+            <a href="#" id="pdf-sidebar-link" class="pdf-menu-btn" download target="_blank">
+              <span style="font-size: 1.2em;">📥</span> <b>PDF</b>
+            </a>
           </div>
-    
-          <div id="transpose-section" class="transpose-section">
-            <hr class="menu-divider" style="margin: 5px 0 10px 0;">
-            <div class="menu-group" style="text-align: center;">
-              <span class="menu-label">Transpozice</span>
-              <div class="transpose-row" style="justify-content: center; margin-top: 5px;">
-                <button class="menu-btn" onclick="changeShift(-1)">♭</button>
-                <span class="shift-display-inline" id="shift-display" style="min-width: 24px; text-align: center; display: inline-block;">0</span>
-                <button class="menu-btn" onclick="changeShift(1)">♯</button>
-              </div>
-            </div>
-          </div>
-          
+
         </div>
+
     </div>
     </div>
   
@@ -2276,33 +2295,27 @@ async function navigateLecture(direction) {
   }, 500);
 </script>
 <script>
-  const checkExist = setInterval(function() {
-     const headerContainer = document.querySelector('.song-header');
+  // Počkáme, až se menu v prohlížeči vytvoří
+  const checkPdfMenu = setInterval(function() {
+     const pdfBtn = document.getElementById('pdf-sidebar-link');
      
-     if (headerContainer && !document.querySelector('.pdf-link')) {
-        clearInterval(checkExist); 
+     if (pdfBtn) {
+        clearInterval(checkPdfMenu); 
         
+        // Zjistíme název souboru z URL (parametr ?s= nebo ?file=)
         const urlParams = new URLSearchParams(window.location.search);
-        // Chytne adresu, ať už se tam píše ?file=... nebo ?s=...
-        let fileName = urlParams.get('file') || urlParams.get('s');
+        let fileName = urlParams.get('s') || urlParams.get('file');
         
         if (fileName) {
-            const pdfBtn = document.createElement('a');
+            // Nastavíme cestu k PDF ve složce print_pdf
             pdfBtn.href = `print_pdf/${fileName}.pdf`;
-            pdfBtn.className = 'pdf-link';
-            pdfBtn.target = '_blank';
-            pdfBtn.setAttribute('download', '');
-            
-            pdfBtn.innerHTML = `
-                <div class="pdf-link-inner">
-                    <span>📥 Stáhnout PDF pro tisk</span>
-                </div>
-            `;
-            
-            headerContainer.appendChild(pdfBtn);
+        } else {
+            // Pokud jméno souboru neznáme, sekci s PDF raději schováme
+            const parentDiv = pdfBtn.closest('div');
+            if (parentDiv) parentDiv.style.display = 'none';
         }
      }
-  }, 300);
+  }, 200);
 </script>
 </body>
 </html>
