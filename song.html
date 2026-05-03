@@ -5,8 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bhagavad Gita</title>
 <style>
-/* Skryje syrové odkazy na YT a Spotify, aby neproblikávaly před načtením přehrávače */
-a[href*="youtube.com"], a[href*="youtu.be"], a[href*="spotify.com"] {
+/* Skryje syrove odkazy na YT videa, aby neproblikavaly pred nactenim prehravace */
+a[href*="youtube.com/watch"],
+a[href*="youtu.be"] {
     display: none !important;
 }
 /* --- Sjednocený vzhled prvků pod písní --- */
@@ -418,6 +419,17 @@ body.dark-mode .analysis-header:hover {
 
 .inline-link:hover {
   color: #1f3a5f;
+}
+
+body.dark-mode .inline-link {
+  color: #7fc0ff !important;
+  text-decoration-color: #7fc0ff;
+}
+
+body.dark-mode .inline-link:hover,
+body.dark-mode .inline-link:focus-visible {
+  color: #a8d6ff !important;
+  text-decoration-color: #a8d6ff;
 }
 
   
@@ -1423,14 +1435,28 @@ body.sand-mode .pdf-menu-btn:hover {
 <script>
   // Tato funkce provede veškerou magii
   function transformMedia() {
-      const links = document.querySelectorAll('a:not(.media-processed)');
+      const links = document.querySelectorAll('#output-area a:not(.media-processed)');
       
       links.forEach(link => {
           const url = link.href;
-          const isYouTube = url.includes('youtube.com/watch') || url.includes('youtu.be/');
-          const isSpotify = url.includes('spotify.com');
+        let parsedUrl;
 
-          if (isYouTube || isSpotify) {
+        try {
+          parsedUrl = new URL(url);
+        } catch {
+          return;
+        }
+
+        const host = parsedUrl.hostname.replace('www.', '');
+        // Rules: YouTube video => embed; YouTube playlist => plain link.
+        // Spotify track/episode/album => embed; Spotify playlist/show => plain link.
+          const isYouTube = url.includes('youtube.com/watch') || url.includes('youtu.be/');
+        const isSpotify = host.includes('spotify.com');
+        const isSpotifyPlaylist = isSpotify && /\/playlist\//i.test(parsedUrl.pathname);
+        const isSpotifyShow = isSpotify && /\/show\//i.test(parsedUrl.pathname);
+          const isSpotifyEmbeddable = isSpotify && !isSpotifyPlaylist && !isSpotifyShow;
+
+          if (isYouTube || isSpotifyEmbeddable) {
               link.classList.add('media-processed');
               
               const container = document.createElement('div');
@@ -1449,7 +1475,7 @@ body.sand-mode .pdf-menu-btn:hover {
                               allowfullscreen>
                           </iframe>`;
                   }
-              } else if (isSpotify) {
+                } else if (isSpotifyEmbeddable) {
                   // Převede link na embed verzi
                   let embedUrl = url.includes('/embed/') ? url : url.replace('spotify.com/', 'spotify.com/embed/');
                   embedUrl = embedUrl.split('?')[0]; // Očista od balastu
