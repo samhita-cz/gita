@@ -6,6 +6,11 @@
 # 
 {sot: About this project:}
 A Bhagavad Gita study portal based on the lectures of Swami Sarvapriyananda. It features links to his lectures on YouTube and Spotify, the Sanskrit text with a glossary and translation, two versions of chanted verses (female and male voices), and PDF materials for printing individual sections as well as complete chapters.
+
+The lectures are still ongoing. As of May 2026, Swami is currently on Chapter 15 of 18, so it will take some time for the project to be completed.
+
+The project is open source and available on GitHub: 
+◈   https://github.com/vinkler-collab/bhagavad-gita
 {eot}
 
 {sov: Sources of this website}
