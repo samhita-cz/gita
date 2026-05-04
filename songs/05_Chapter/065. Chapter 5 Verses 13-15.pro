@@ -61,4 +61,8 @@ The Lord does not receive either the evil or good of anyone. Knowledge is envelo
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v13/
+
+https://vivekavani.com/b5v14/
+
+https://vivekavani.com/b5v15/

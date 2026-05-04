@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>087. Chapter 6 verses 33-35</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.33</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>योऽयं योगस्त्वया प्रोक्त: साम्येन मधुसूदन ।<br>एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ।। 33।।</div>
+            <div class="iast">arjuna uvācha<br>yo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana<br>etasyāhaṁ na paśhyāmi chañchalatvāt sthitiṁ sthirām</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>yaḥ</b>—which; <b>ayam</b>—this; <b>yogaḥ</b>—system of Yog; <b>tvayā</b>—by you; <b>proktaḥ</b>—described; <b>sāmyena</b>—by equanimity; <b>madhu-sūdana</b>—Shree Krishna, the killer of the demon named Madhu; <b>etasya</b>—of this; <b>aham</b>—I; <b>na</b>—do not; <b>paśhyāmi</b>—see; <b>chañchalatvāt</b>—due to restlessness; <b>sthitim</b>—situation; <b>sthirām</b>—steady</div>
+            <div class="translation">Arjuna said: The system of Yoga that you have described and attainable by equality of mind, O Madhusudana, appears impractical and unattainable to me, due to the restless mind.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.34</div>
+            <div class="devanagari">चञ्चलं हि मन: कृष्ण प्रमाथि बलवद्दृढम् ।<br>तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ।। 34।।</div>
+            <div class="iast">chañchalaṁ hi manaḥ kṛiṣhṇa pramāthi balavad dṛiḍham<br>tasyāhaṁ nigrahaṁ manye vāyor iva su-duṣhkaram</div>
+            <div class="glossary"><b>chañchalam</b>—restless; <b>hi</b>—certainly; <b>manaḥ</b>—mind; <b>kṛiṣhṇa</b>—Shree Krishna; <b>pramāthi</b>—turbulent; <b>bala-vat</b>—strong; <b>dṛiḍham</b>—obstinate; <b>tasya</b>—its; <b>aham</b>—I; <b>nigraham</b>—control; <b>manye</b>—think; <b>vāyoḥ</b>—of the wind; <b>iva</b>—like; <b>su-duṣhkaram</b>—difficult to perform</div>
+            <div class="translation">The mind is very restless, turbulent, strong, and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.35</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>असंशयं महाबाहो मनो दुर्निग्रहं चलम् ।<br>अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ।। 35।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>asanśhayaṁ mahā-bāho mano durnigrahaṁ chalam<br>abhyāsena tu kaunteya vairāgyeṇa cha gṛihyate</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—Lord Krishna said; <b>asanśhayam</b>—undoubtedly; <b>mahā-bāho</b>—mighty-armed one; <b>manaḥ</b>—the mind; <b>durnigraham</b>—difficult to restrain; <b>chalam</b>—restless; <b>abhyāsena</b>—by practice; <b>tu</b>—but; <b>kaunteya</b>—Arjun, the son of Kunti; <b>vairāgyeṇa</b>—by detachment; <b>cha</b>—and; <b>gṛihyate</b>—can be controlled</div>
+            <div class="translation">The Lord said: Doubtless, O mighty Arjuna, the mind is restless and hard to control; but by practice and by detachment, O son of Kunti, it can be restrained.</div>
+        </div>
+        
+</body>
+</html>

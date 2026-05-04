@@ -1,0 +1,129 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 5 — karma sanyāsa yoga</div>
+        <h1>060. Chapter 5 Verse 1</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.1</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।<br>यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ।। 1।।</div>
+            <div class="iast">arjuna uvācha<br>sannyāsaṁ karmaṇāṁ kṛiṣhṇa punar yogaṁ cha śhansasi<br>yach chhreya etayor ekaṁ tan me brūhi su-niśhchitam</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>sanyāsam</b>—renunciation; <b>karmaṇām</b>—of actions; <b>kṛiṣhṇa</b>—Shree Krishna; <b>punaḥ</b>—again; <b>yogam</b>—about karm yog; <b>cha</b>—also; <b>śhansasi</b>—You praise; <b>yat</b>—which; <b>śhreyaḥ</b>—more beneficial; <b>etayoḥ</b>—of the two; <b>ekam</b>—one; <b>tat</b>—that; <b>me</b>—unto me; <b>brūhi</b>—please tell; <b>su-niśhchitam</b>—conclusively</div>
+            <div class="translation">Arjuna Said: O Krishna! You praise renunciation of actions and again the yoga of action. Of these two which is s better? That one, tell me conclusively.</div>
+        </div>
+        
+</body>
+</html>

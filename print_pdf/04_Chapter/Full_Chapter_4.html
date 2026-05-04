@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <style>
         /* Definice strany pro WeasyPrint */
         @page {
@@ -13,7 +12,7 @@
             /* Automatické číslování stránek v patce */
             @bottom-center {
                 content: "Page " counter(page);
-                font-family: 'Gentium Book Plus', serif;
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
                 font-size: 9pt;
                 color: #888;
                 border-top: 0.5pt solid #eee;
@@ -23,7 +22,8 @@
         }
 
         body {
-            font-family: 'Gentium Book Plus', serif;
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
             line-height: 1.6;
             color: #1a1a1a;
             font-size: 11pt;
@@ -67,6 +67,8 @@
 
         .verse-block.first-verse {
             page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
         }
         
         .verse-number {
@@ -449,22 +451,6 @@
             <div class="iast">tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ<br>chhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata</div>
             <div class="glossary"><b>tasmāt</b>—therefore; <b>ajñāna-sambhūtam</b>—born of ignorance; <b>hṛit-stham</b>—situated in the heart; <b>jñāna</b>—of knowledge; <b>asinā</b>—with the sword; <b>ātmanaḥ</b>—of the self; <b>chhittvā</b>—cut asunder; <b>enam</b>—this; <b>sanśhayam</b>—doubt; <b>yogam</b>—in karm yog; <b>ātiṣhṭha</b>—take shelter; <b>uttiṣhṭha</b>—arise; <b>bhārata</b>—Arjun, descendant of Bharat</div>
             <div class="translation">Therefore, with the sword of Knowledge cut asunder the doubt born of ignorance about the Self, dwelling in the heart and take refuge in Yoga. Arise, O Arjuna!</div>
-        </div>
-        <div class='lecture-title'>nazevsouboru</div>
-        <div class="verse-block first-verse">
-            <div class="verse-number">Verse 4.</div>
-            <div class="devanagari">MP3VIVEKAVANI</div>
-            <div class="iast">DEVAGIASTSLOVNIK</div>
-            <div class="glossary"></div>
-            <div class="translation">TRANSLATION</div>
-        </div>
-        
-        <div class="verse-block">
-            <div class="verse-number">Verse 4.</div>
-            <div class="devanagari">MP3VIVEKAVANI</div>
-            <div class="iast">DEVAGIASTSLOVNIK</div>
-            <div class="glossary"></div>
-            <div class="translation">TRANSLATION</div>
         </div>
         
 </body>

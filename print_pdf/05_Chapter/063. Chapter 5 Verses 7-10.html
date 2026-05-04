@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 5 — karma sanyāsa yoga</div>
+        <h1>063. Chapter 5 Verses 7-10</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.7</div>
+            <div class="devanagari">योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: ।<br>सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ।। 7।।</div>
+            <div class="iast">yoga-yukto viśhuddhātmā vijitātmā jitendriyaḥ<br>sarva-bhūtātma-bhūtātmā kurvann api na lipyate</div>
+            <div class="glossary"><b>yoga-yuktaḥ</b>—united in consciousness with God; <b>viśhuddha-ātmā</b>—one with purified intellect; <b>vijita-ātmā</b>—one who has conquered the mind; <b>jita-indriyaḥ</b>—having conquered the senses; <b>sarva-bhūta-ātma-bhūta-ātmā</b>—one who sees the Soul of all souls in every living being; <b>kurvan</b>—performing; <b>api</b>—although; <b>na</b>—never; <b>lipyate</b>—entangled</div>
+            <div class="translation">He who is devoted to the yoga of action, with heart purified, with mind-controlled and senses subdued, though acting, is not tainted.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.8-9</div>
+            <div class="devanagari">नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।<br>पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ।। 8।।<br>प्रलपन्विसृजन्गृह्ण्न्नुन्मिषन्निमिषन्नपि ।<br>इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ।। 9।।</div>
+            <div class="iast">naiva kiñchit karomīti yukto manyeta tattva-vit<br>paśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan<br>pralapan visṛijan gṛihṇann unmiṣhan nimiṣhann api<br>indriyāṇīndriyārtheṣhu vartanta iti dhārayan</div>
+            <div class="glossary"><b>na</b>—not; <b>eva</b>—certainly; <b>kiñchit</b>—anything; <b>karomi</b>—I do; <b>iti</b>—thus; <b>yuktaḥ</b>—steadfast in karm yog; <b>manyeta</b>—thinks; <b>tattva-vit</b>—one who knows the truth; <b>paśhyan</b>—seeing; <b>śhṛiṇvan</b>—hearing; <b>spṛiśhan</b>—touching; <b>jighran</b>—smelling; <b>aśhnan</b>—eating; <b>gachchhan</b>—moving; <b>svapan</b>—sleeping; <b>śhvasan</b>—breathing; <b>pralapan</b>—talking; <b>visṛijan</b>—giving up; <b>gṛihṇan</b>—accepting; <b>unmiṣhan</b>—opening (the eyes); <b>nimiṣhan</b>—closing (the eyes); <b>api</b>—although; <b>indriyāṇi</b>—the senses; <b>indriya-artheṣhu</b>—in sense-objects; <b>vartante</b>—moving; <b>iti</b>—thus; <b>dhārayan</b>—convinced</div>
+            <div class="translation">The harmonised yogi who knows the essence of things, thinks “I do nothing”, seeing, hearing, touching, smelling, eating, moving, sleeping, breathing, speaking, giving, grasping, opening, and closing the eyelids even. He is convinced that the senses move among the objects of the senses.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.10</div>
+            <div class="devanagari">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: ।<br>लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।। 10।।</div>
+            <div class="iast">brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ<br>lipyate na sa pāpena padma-patram ivāmbhasā</div>
+            <div class="glossary"><b>brahmaṇi</b>—to God; <b>ādhāya</b>—dedicating; <b>karmāṇi</b>—all actions; <b>saṅgam</b>—attachment; <b>tyaktvā</b>—abandoning; <b>karoti</b>—performs; <b>yaḥ</b>—who; <b>lipyate</b>—is affected; <b>na</b>—never; <b>saḥ</b>—that person; <b>pāpena</b>—by sin; <b>padma-patram</b>—a lotus leaf; <b>iva</b>—like; <b>ambhasā</b>—by water</div>
+            <div class="translation">He who acts placing all actions in the eternal Brahman, giving up attachment, is unaffected by sin like the lotus by water.</div>
+        </div>
+        
+</body>
+</html>

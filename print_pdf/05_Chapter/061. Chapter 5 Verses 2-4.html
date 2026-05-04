@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 5 — karma sanyāsa yoga</div>
+        <h1>061. Chapter 5 Verses 2-4</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.2</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>संन्यास: कर्मयोगश्च नि:श्रेयसकरावुभौ ।<br>तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ।। 2।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>sannyāsaḥ karma-yogaśh cha niḥśhreyasa-karāvubhau<br>tayos tu karma-sannyāsāt karma-yogo viśhiṣhyate</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>sanyāsaḥ</b>—renunciation; <b>karma-yogaḥ</b>—working in devotion; <b>cha</b>—and; <b>niḥśhreyasa-karau</b>—lead to the supreme goal; <b>ubhau</b>—both; <b>tayoḥ</b>—of the two; <b>tu</b>—but; <b>karma-sanyāsāt</b>—renunciation of actions; <b>karma-yogaḥ</b>—working in devotion; <b>viśhiṣhyate</b>—is superior</div>
+            <div class="translation">Renunciation and Yoga of Action, both lead to the highest bliss. But of these two, Yoga of Action is superior to the renunciation of action.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.3</div>
+            <div class="devanagari">ज्ञेय: स नित्यसंन्यासी यो न द्वेष्टि न काङ् क्षति ।<br>निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ।। 3।।</div>
+            <div class="iast">jñeyaḥ sa nitya-sannyāsī yo na dveṣhṭi na kāṅkṣhati<br>nirdvandvo hi mahā-bāho sukhaṁ bandhāt pramuchyate</div>
+            <div class="glossary"><b>jñeyaḥ</b>—should be considered; <b>saḥ</b>—that person; <b>nitya</b>—always; <b>sanyāsī</b>—practising renunciation; <b>yaḥ</b>—who; <b>na</b>—never; <b>dveṣhṭi</b>—hate; <b>na</b>—nor; <b>kāṅkṣhati</b>—desire; <b>nirdvandvaḥ</b>—free from all dualities; <b>hi</b>—certainly; <b>mahā-bāho</b>—mighty-armed one; <b>sukham</b>—easily; <b>bandhāt</b>—from bondage; <b>pramuchyate</b>—is liberated</div>
+            <div class="translation">O Arjuna! He who neither hates nor desires should be known as of eternal renunciation; He who is not subject to the pairs of opposites is easily set free from bondage.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.4</div>
+            <div class="devanagari">साङ्ख्ययोगौ पृथग्बाला: प्रवदन्ति न पण्डिता: ।<br>एकमप्यास्थित: सम्यगुभयोर्विन्दते फलम् ।। 4।।</div>
+            <div class="iast">sānkhya-yogau pṛithag bālāḥ pravadanti na paṇḍitāḥ<br>ekamapyāsthitaḥ samyag ubhayor vindate phalam</div>
+            <div class="glossary"><b>sānkhya</b>—renunciation of actions; <b>yogau</b>—karm yog; <b>pṛithak</b>—different; <b>bālāḥ</b>—the ignorant; <b>pravadanti</b>—say; <b>na</b>—never; <b>paṇḍitāḥ</b>—the learned; <b>ekam</b>—in one; <b>api</b>—even; <b>āsthitaḥ</b>—being situated; <b>samyak</b>—completely; <b>ubhayoḥ</b>—of both; <b>vindate</b>—achieve; <b>phalam</b>—the result</div>
+            <div class="translation">Children, not the wise, say that Jnana yoga and karma yoga are distinct: He who is truly established in either of them obtains the fruit of both.</div>
+        </div>
+        
+</body>
+</html>

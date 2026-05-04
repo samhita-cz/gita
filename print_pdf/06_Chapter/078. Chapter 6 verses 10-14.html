@@ -1,0 +1,147 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>078. Chapter 6 verses 10-14</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.10</div>
+            <div class="devanagari">योगी युञ्जीत सततमात्मानं रहसि स्थित: ।<br>एकाकी यतचित्तात्मा निराशीरपरिग्रह: ।। 10।।</div>
+            <div class="iast">yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ<br>ekākī yata-chittātmā nirāśhīr aparigrahaḥ</div>
+            <div class="glossary"><b>yogī</b>—a yogi; <b>yuñjīta</b>—should remain engaged in meditation; <b>satatam</b>—constantly; <b>ātmānam</b>—self; <b>rahasi</b>—in seclusion; <b>sthitaḥ</b>—remaining; <b>ekākī</b>—alone; <b>yata-chitta-ātmā</b>—with a controlled mind and body; <b>nirāśhīḥ</b>—free from desires; <b>aparigrahaḥ</b>—free from desires for possessions</div>
+            <div class="translation">Alone, stationed in a solitary place, self-controlled, free from desire, and not receiving anything from others, the yogi (Practising Dhyanayoga) should unite the mind with Atma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.11-12</div>
+            <div class="devanagari">शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: ।<br>नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ।। 11।।<br>तत्रैकाग्रं मन: कृत्वा यतचित्तेन्द्रियक्रिय: ।<br>उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ।। 12।।</div>
+            <div class="iast">śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ<br>nātyuchchhritaṁ nāti-nīchaṁ chailājina-kuśhottaram<br>tatraikāgraṁ manaḥ kṛitvā yata-chittendriya-kriyaḥ<br>upaviśhyāsane yuñjyād yogam ātma-viśhuddhaye</div>
+            <div class="glossary"><b>śhuchau</b>—in a clean; <b>deśhe</b>—place; <b>pratiṣhṭhāpya</b>—having established; <b>sthiram</b>—steadfast; <b>āsanam</b>—seat; <b>ātmanaḥ</b>—his own; <b>na</b>—not; <b>ati</b>—too; <b>uchchhritam</b>—high; <b>na</b>—not; <b>ati</b>—too; <b>nīcham</b>—low; <b>chaila</b>—cloth; <b>ajina</b>—a deerskin; <b>kuśha</b>—kuśh grass; <b>uttaram</b>—one over the other; <b>tatra</b>—there; <b>eka-agram</b>—one-pointed; <b>manaḥ</b>—mind; <b>kṛitvā</b>—having made; <b>yata-chitta</b>—controlling the mind; <b>indriya</b>—senses; <b>kriyaḥ</b>—activities; <b>upaviśhya</b>—being seated; <b>āsane</b>—on the seat; <b>yuñjyāt yogam</b>—should strive to practice yog; <b>ātma viśhuddhaye</b>—for purification of the mind;</div>
+            <div class="translation">In a clean spot, a firm seat should be made, neither too high nor too low, and it should be covered by cloth, skin, and holy grass one over the other.
+
+There, being seated, having made the mind one-pointed, controlling the actions of the mind and the senses, let him practice Dhyana Yoga for self-purification.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.13-14</div>
+            <div class="devanagari">समं कायशिरोग्रीवं धारयन्नचलं स्थिर: ।<br>सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ।। 13।।<br>प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थित: ।<br>मन: संयम्य मच्चित्तो युक्त आसीत मत्पर: ।। 14।।</div>
+            <div class="iast">samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ<br>samprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan<br>praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ<br>manaḥ sanyamya mach-chitto yukta āsīta mat-paraḥ</div>
+            <div class="glossary"><b>samam</b>—straight; <b>kāya</b>—body; <b>śhiraḥ</b>—head; <b>grīvam</b>—neck; <b>dhārayan</b>—holding; <b>achalam</b>—unmoving; <b>sthiraḥ</b>—still; <b>samprekṣhya</b>—gazing; <b>nāsika-agram</b>—at the tip of the nose; <b>svam</b>—own; <b>diśhaḥ</b>—directions; <b>cha</b>—and; <b>anavalokayan</b>—not looking; <b>praśhānta</b>—serene; <b>ātmā</b>—mind; <b>vigata-bhīḥ</b>—fearless; <b>brahmachāri-vrate</b>—in the vow of celibacy; <b>sthitaḥ</b>—situated; <b>manaḥ</b>—mind; <b>sanyamya</b>—having controlled; <b>mat-chittaḥ</b>—meditate on me (Shree Krishna); <b>yuktaḥ</b>—engaged; <b>āsīta</b>—should sit; <b>mat-paraḥ</b>—having me as the supreme goal</div>
+            <div class="translation">Let him firmly hold the body, head and neck erect, and gazing on the tip of his nose, without looking around, let him sit, serene and fearless, established in the vow of celibacy, self-controlled and balanced, thinking of Me as the Supreme goal.</div>
+        </div>
+        
+</body>
+</html>

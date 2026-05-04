@@ -44,4 +44,6 @@ With mind unattached to external contacts he finds happiness in Atma and with mi
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v20/
+
+https://vivekavani.com/b5v21/

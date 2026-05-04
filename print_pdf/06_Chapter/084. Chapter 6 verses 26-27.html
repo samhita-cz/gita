@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>084. Chapter 6 verses 26-27</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.26</div>
+            <div class="devanagari">यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।<br>ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ।। 26।।</div>
+            <div class="iast">yato yato niśhcharati manaśh chañchalam asthiram<br>tatas tato niyamyaitad ātmanyeva vaśhaṁ nayet</div>
+            <div class="glossary"><b>yataḥ yataḥ</b>—whenever and wherever; <b>niśhcharati</b>—wanders; <b>manaḥ</b>—the mind; <b>chañchalam</b>—restless; <b>asthiram</b>—unsteady; <b>tataḥ tataḥ</b>—from there; <b>niyamya</b>—having restrained; <b>etat</b>—this; <b>ātmani</b>—on God; <b>eva</b>—certainly; <b>vaśham</b>—control; <b>nayet</b>—should bring</div>
+            <div class="translation">Whenever and wherever the restless and unsteady mind wanders, one should bring it back and continually focus it on God.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.27</div>
+            <div class="devanagari">प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।<br>उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ।। 27।।</div>
+            <div class="iast">praśhānta-manasaṁ hyenaṁ yoginaṁ sukham uttamam<br>upaiti śhānta-rajasaṁ brahma-bhūtam akalmaṣham</div>
+            <div class="glossary"><b>praśhānta</b>—peaceful; <b>manasam</b>—mind; <b>hi</b>—certainly; <b>enam</b>—this; <b>yoginam</b>—yogi; <b>sukham uttamam</b>—the highest bliss; <b>upaiti</b>—attains; <b>śhānta-rajasam</b>—whose passions are subdued; <b>brahma-bhūtam</b>—endowed with God-realization; <b>akalmaṣham</b>—without sin</div>
+            <div class="translation">Supreme Bliss comes to the yogi whose mind is completely tranquil and whose passions are quieted, who is free from stain and who has become one with Brahman.</div>
+        </div>
+        
+</body>
+</html>

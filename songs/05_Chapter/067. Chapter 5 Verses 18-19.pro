@@ -44,4 +44,6 @@ Even here (while living in this body) birth and death (samsara) are overcome by 
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v18/
+
+https://vivekavani.com/b5v19/

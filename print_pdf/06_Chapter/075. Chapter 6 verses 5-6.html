@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>075. Chapter 6 verses 5-6</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.5</div>
+            <div class="devanagari">उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।<br>आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मन: ।। 5।।</div>
+            <div class="iast">uddhared ātmanātmānaṁ nātmānam avasādayet<br>ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ</div>
+            <div class="glossary"><b>uddharet</b>—elevate; <b>ātmanā</b>—through the mind; <b>ātmānam</b>—the self; <b>na</b>—not; <b>ātmānam</b>—the self; <b>avasādayet</b>—degrade; <b>ātmā</b>—the mind; <b>eva</b>—certainly; <b>hi</b>—indeed; <b>ātmanaḥ</b>—of the self; <b>bandhuḥ</b>—friend; <b>ātmā</b>—the mind; <b>eva</b>—certainly; <b>ripuḥ</b>—enemy; <b>ātmanaḥ</b>—of the self</div>
+            <div class="translation">Let a man be lifted up by his own self; let him not lower himself; for he himself is his friend, and he himself is his enemy.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.6</div>
+            <div class="devanagari">बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: ।<br>अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् ।। 6।।</div>
+            <div class="iast">bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ<br>anātmanas tu śhatrutve vartetātmaiva śhatru-vat</div>
+            <div class="glossary"><b>bandhuḥ</b>—friend; <b>ātmā</b>—the mind; <b>ātmanaḥ</b>—for the person; <b>tasya</b>—of him; <b>yena</b>—by whom; <b>ātmā</b>—the mind; <b>eva</b>—certainly; <b>ātmanā</b>—for the person; <b>jitaḥ</b>—conquered; <b>anātmanaḥ</b>—of those with unconquered mind; <b>tu</b>—but; <b>śhatrutve</b>—for an enemy; <b>varteta</b>—remains; <b>ātmā</b>—the mind; <b>eva</b>—as; <b>śhatru-vat</b>—like an enemy</div>
+            <div class="translation">For those who have conquered the mind, it is their friend. For those who have failed to do so, the mind works like an enemy.</div>
+        </div>
+        
+</body>
+</html>

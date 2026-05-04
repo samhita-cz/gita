@@ -65,4 +65,8 @@ He who acts placing all actions in the eternal Brahman, giving up attachment, is
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v7/
+
+https://vivekavani.com/b5v8/
+
+https://vivekavani.com/b5v10/

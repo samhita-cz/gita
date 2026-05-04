@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <style>
         /* Definice strany pro WeasyPrint */
         @page {
@@ -13,7 +12,7 @@
             /* Automatické číslování stránek v patce */
             @bottom-center {
                 content: "Page " counter(page);
-                font-family: 'Gentium Book Plus', serif;
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
                 font-size: 9pt;
                 color: #888;
                 border-top: 0.5pt solid #eee;
@@ -23,7 +22,8 @@
         }
 
         body {
-            font-family: 'Gentium Book Plus', serif;
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
             line-height: 1.6;
             color: #1a1a1a;
             font-size: 11pt;
@@ -67,6 +67,8 @@
 
         .verse-block.first-verse {
             page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
         }
         
         .verse-number {
@@ -457,22 +459,6 @@
             <div class="iast">evaṁ buddheḥ paraṁ buddhvā sanstabhyātmānam ātmanā<br>jahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam</div>
             <div class="glossary"><b>evam</b>—thus; <b>buddheḥ</b>—than the intellect; <b>param</b>—superior; <b>buddhvā</b>—knowing; <b>sanstabhya</b>—subdue; <b>ātmānam</b>—the lower self (senses, mind, and intellect); <b>ātmanā</b>—by higher self (soul); <b>jahi</b>—kill; <b>śhatrum</b>—the enemy; <b>mahā-bāho</b>—mighty-armed one; <b>kāma-rūpam</b>—in the form of desire; <b>durāsadam</b>—formidable</div>
             <div class="translation">O mighty-armed Arjuna! Thus, having known what is greater than the intellect (i.e.) Atma, and restraining the mind by the intellect conquer the foe (kama) in the form of desire which is indeed hard to overcome.</div>
-        </div>
-        <div class='lecture-title'>nazevsouboru</div>
-        <div class="verse-block first-verse">
-            <div class="verse-number">Verse 2.</div>
-            <div class="devanagari">MP3VIVEKAVANI</div>
-            <div class="iast">DEVAGIASTSLOVNIK</div>
-            <div class="glossary"></div>
-            <div class="translation">TRANSLATION</div>
-        </div>
-        
-        <div class="verse-block">
-            <div class="verse-number">Verse 2.</div>
-            <div class="devanagari">MP3VIVEKAVANI</div>
-            <div class="iast">DEVAGIASTSLOVNIK</div>
-            <div class="glossary"></div>
-            <div class="translation">TRANSLATION</div>
         </div>
         
 </body>

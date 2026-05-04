@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 5 — karma sanyāsa yoga</div>
+        <h1>066. Chapter 5 Verses 16-17</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.16</div>
+            <div class="devanagari">ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: ।<br>तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ।। 16।।</div>
+            <div class="iast">jñānena tu tad ajñānaṁ yeṣhāṁ nāśhitam ātmanaḥ<br>teṣhām āditya-vaj jñānaṁ prakāśhayati tat param</div>
+            <div class="glossary"><b>jñānena</b>—by divine knowledge; <b>tu</b>—but; <b>tat</b>—that; <b>ajñānam</b>—ignorance; <b>yeṣhām</b>—whose; <b>nāśhitam</b>—has been destroyed; <b>ātmanaḥ</b>—of the self; <b>teṣhām</b>—their; <b>āditya-vat</b>—like the sun; <b>jñānam</b>—knowledge; <b>prakāśhayati</b>—illumines; <b>tat</b>—that; <b>param</b>—Supreme Entity</div>
+            <div class="translation">But for those whose ignorance is destroyed by the knowledge of Atma that Knowledge, like the sun, reveals the Supreme Brahman.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.17</div>
+            <div class="devanagari">तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: ।<br>गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषा: ।। 17।।</div>
+            <div class="iast">tad-buddhayas tad-ātmānas tan-niṣhṭhās tat-parāyaṇāḥ<br>gachchhantyapunar-āvṛittiṁ jñāna-nirdhūta-kalmaṣhāḥ</div>
+            <div class="glossary"><b>tat-buddhayaḥ</b>—those whose intellect is directed toward God; <b>tat-ātmānaḥ</b>—those whose heart (mind and intellect) is solely absorbed in God; <b>tat-niṣhṭhāḥ</b>—those whose intellect has firm faith in God; <b>tat-parāyaṇāḥ</b>—those who strive for God as the supreme goal and refuge; <b>gachchhanti</b>—go; <b>apunaḥ-āvṛittim</b>—not returning; <b>jñāna</b>—by knowledge; <b>nirdhūta</b>—dispelled; <b>kalmaṣhāḥ</b>—sins</div>
+            <div class="translation">With their intellect absorbed in That, their Self being That, established in that, they go from whence there is no return and their sins are dispelled by knowledge.</div>
+        </div>
+        
+</body>
+</html>

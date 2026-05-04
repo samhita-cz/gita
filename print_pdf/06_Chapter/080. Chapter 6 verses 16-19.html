@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>080. Chapter 6 verses 16-19</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.16</div>
+            <div class="devanagari">नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नत: ।<br>न चाति स्वप्नशीलस्य जाग्रतो नैव चार्जुन ।। 16।।</div>
+            <div class="iast">nātyaśhnatastu yogo ’sti na chaikāntam anaśhnataḥ<br>na chāti-svapna-śhīlasya jāgrato naiva chārjuna</div>
+            <div class="glossary"><b>na</b>—not; <b>ati</b>—too much; <b>aśhnataḥ</b>—one who eats; <b>tu</b>—however; <b>yogaḥ</b>—Yog; <b>asti</b>—there is; <b>na</b>—not; <b>cha</b>—and; <b>ekāntam</b>—at all; <b>anaśhnataḥ</b>—abstaining from eating; <b>na</b>—not; <b>cha</b>—and; <b>ati</b>—too much; <b>svapna-śhīlasya</b>—one who sleeps; <b>jāgrataḥ</b>—one who does not sleep enough; <b>na</b>—not; <b>eva</b>—certainly; <b>cha</b>—and; <b>arjuna</b>—Arjun</div>
+            <div class="translation">O Arjuna! Verily, yoga is not for one who eats too much or who does not eat at all, nor for him who sleeps too much or who does not sleep at all.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.17</div>
+            <div class="devanagari">युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।<br>युक्तस्वप्नावबोधस्य योगो भवति दु:खहा ।। 17।।</div>
+            <div class="iast">yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu<br>yukta-svapnāvabodhasya yogo bhavati duḥkha-hā</div>
+            <div class="glossary"><b>yukta</b>—moderate; <b>āhāra</b>—eating; <b>vihārasya</b>—recreation; <b>yukta cheṣhṭasya karmasu</b>—balanced in work; <b>yukta</b>—regulated; <b>svapna-avabodhasya</b>—sleep and wakefulness; <b>yogaḥ</b>—Yog; <b>bhavati</b>—becomes; <b>duḥkha-hā</b>—the slayer of sorrows</div>
+            <div class="translation">For him who is moderate in food and recreation, moderate in exertion in all actions, moderate in sleep and wakefulness, yoga destroys all pain and suffering (caused by birth and death).</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.18</div>
+            <div class="devanagari">यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।<br>नि:स्पृह: सर्वकामेभ्यो युक्त इत्युच्यते तदा ।। 18।।</div>
+            <div class="iast">yadā viniyataṁ chittam ātmanyevāvatiṣhṭhate<br>niḥspṛihaḥ sarva-kāmebhyo yukta ityuchyate tadā</div>
+            <div class="glossary"><b>yadā</b>—when; <b>viniyatam</b>—fully controlled; <b>chittam</b>—the mind; <b>ātmani</b>—of the self; <b>eva</b>—certainly; <b>avatiṣhṭhate</b>—stays; <b>nispṛihaḥ</b>—free from cravings; <b>sarva</b>—all; <b>kāmebhyaḥ</b>—for yearning of the senses; <b>yuktaḥ</b>—situated in perfect Yog; <b>iti</b>—thus; <b>uchyate</b>—is said; <b>tadā</b>—then</div>
+            <div class="translation">When the perfectly controlled mind rests in the Self free from longing for all enjoyments, then one is said to have attained yoga.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.19</div>
+            <div class="devanagari">यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।<br>योगिनो यतचित्तस्य युञ्जतो योगमात्मन: ।। 19।।</div>
+            <div class="iast">yathā dīpo nivāta-stho neṅgate sopamā smṛitā<br>yogino yata-chittasya yuñjato yogam ātmanaḥ</div>
+            <div class="glossary"><b>yathā</b>—as; <b>dīpaḥ</b>—a lamp; <b>nivāta-sthaḥ</b>—in a windless place; <b>na</b>—does not; <b>iṅgate</b>—flickers; <b>sā</b>—this; <b>upamā</b>—analogy; <b>smṛitā</b>—is considered; <b>yoginaḥ</b>—of a yogi; <b>yata-chittasya</b>—whose mind is disciplined; <b>yuñjataḥ</b>—steadily practicing; <b>yogam</b>—in meditation; <b>ātmanaḥ</b>—on the Supreme</div>
+            <div class="translation">Just as a lamp in a windless place does not flicker, so the disciplined mind of a yogi remains steady in meditation on the Supreme.</div>
+        </div>
+        
+</body>
+</html>

@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>085. Chapter 6 verses 28-29</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.28</div>
+            <div class="devanagari">युञ्जन्नेवं सदात्मानं योगी विगतकल्मष: ।<br>सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते ।। 28।।</div>
+            <div class="iast">yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣhaḥ<br>sukhena brahma-sansparśham atyantaṁ sukham aśhnute</div>
+            <div class="glossary"><b>yuñjan</b>—uniting (the self with God); <b>evam</b>—thus; <b>sadā</b>—always; <b>ātmānam</b>—the self; <b>yogī</b>—a yogi; <b>vigata</b>—free from; <b>kalmaṣhaḥ</b>—sins; <b>sukhena</b>—easily; <b>brahma-sansparśham</b>—constantly in touch with the Supreme; <b>atyantam</b>—the highest; <b>sukham</b>—bliss; <b>aśhnute</b>—attains</div>
+            <div class="translation">Thus the yogi free from evil, practising yoga (union with Atma) always, attains easily the highest bliss resulting from contact with Brahman.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.29</div>
+            <div class="devanagari">सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।<br>ईक्षते योगयुक्तात्मा सर्वत्र समदर्शन: ।। 29।।</div>
+            <div class="iast">sarva-bhūta-stham ātmānaṁ sarva-bhūtāni chātmani<br>īkṣhate yoga-yuktātmā sarvatra sama-darśhanaḥ</div>
+            <div class="glossary"><b>sarva-bhūta-stham</b>—situated in all living beings; <b>ātmānam</b>—Supreme Soul; <b>sarva</b>—all; <b>bhūtāni</b>—living beings; <b>cha</b>—and; <b>ātmani</b>—in God; <b>īkṣhate</b>—sees; <b>yoga-yukta-ātmā</b>—one united in consciousness with God; <b>sarvatra</b>—everywhere; <b>sama-darśhanaḥ</b>—equal vision</div>
+            <div class="translation">The sage harmonised in yoga sees the Self in all beings, and all beings in the Self; he sees the same everywhere.</div>
+        </div>
+        
+</body>
+</html>

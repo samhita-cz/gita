@@ -40,7 +40,7 @@ labhante—achieve; brahma-nirvāṇam—liberation from material existence; ṛ
 {eov}
 
 {sot}
-TRANSLASages whose sins are destroyed, whose dualities are torn asunder, who are self-controlled, who rejoice in the well-being of others, attain union with Brahman (Moksha).TION
+Sages whose sins are destroyed, whose dualities are torn asunder, who are self-controlled, who rejoice in the well-being of others, attain union with Brahman (Moksha).
 {eot}
 
 {sov: Verse 5.26}
@@ -99,4 +99,12 @@ Knowing Me as the enjoyer of all sacrifices and austerities, the Lord and contro
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v24/
+
+https://vivekavani.com/b5v25/
+
+https://vivekavani.com/b5v26/
+
+https://vivekavani.com/b5v27/
+
+https://vivekavani.com/b5v29/

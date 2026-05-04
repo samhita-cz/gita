@@ -1,0 +1,459 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>Bhagavad Gita - Chapter 6</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    <div class='lecture-title first-lecture-title'>072. Chapter 6 verse 1</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.1</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>अनाश्रित: कर्मफलं कार्यं कर्म करोति य: ।<br>स संन्यासी च योगी च न निरग्निर्न चाक्रिय: ।। 1।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>anāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ<br>sa sannyāsī cha yogī cha na niragnir na chākriyaḥ</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>anāśhritaḥ</b>—not desiring; <b>karma-phalam</b>—results of actions; <b>kāryam</b>—obligatory; <b>karma</b>—work; <b>karoti</b>—perform; <b>yaḥ</b>—one who; <b>saḥ</b>—that person; <b>sanyāsī</b>—in the renounced order; <b>cha</b>—and; <b>yogī</b>—yogi; <b>cha</b>—and; <b>na</b>—not; <b>niḥ</b>—without; <b>agniḥ</b>—fire; <b>na</b>—not; <b>cha</b>—also; <b>akriyaḥ</b>—without activity</div>
+            <div class="translation">He who performs the prescribed duty without depending on the fruits of work is a sannyasi and a yogi, and not he who has merely ceased performing sacrifices such as Agnihotra yajna or abandoned bodily activities.</div>
+        </div>
+        <div class='lecture-title'>073. Chapter 6 verse 2</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.2</div>
+            <div class="devanagari">यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।<br>न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ।। 2।।</div>
+            <div class="iast">yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava<br>na hyasannyasta-saṅkalpo yogī bhavati kaśhchana</div>
+            <div class="glossary"><b>yam</b>—what; <b>sanyāsam</b>—renunciation; <b>iti</b>—thus; <b>prāhuḥ</b>—they say; <b>yogam</b>—yog; <b>tam</b>—that; <b>viddhi</b>—know; <b>pāṇḍava</b>—Arjun, the son of Pandu; <b>na</b>—not; <b>hi</b>—certainly; <b>asannyasta</b>—without giving up; <b>saṅkalpaḥ</b>—desire; <b>yogī</b>—a yogi; <b>bhavati</b>—becomes; <b>kaśhchana</b>—anyone</div>
+            <div class="translation">O Arjuna! That which is called sannyasa, know that to be yoga also; no one who has not given up desire can ever become a yogi.</div>
+        </div>
+        <div class='lecture-title'>074. Chapter 6 verses 3-4</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.3</div>
+            <div class="devanagari">आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते ।<br>योगारूढस्य तस्यैव शम: कारणमुच्यते ।। 3।।</div>
+            <div class="iast">ārurukṣhor muner yogaṁ karma kāraṇam uchyate<br>yogārūḍhasya tasyaiva śhamaḥ kāraṇam uchyate</div>
+            <div class="glossary"><b>ārurukṣhoḥ</b>—a beginner; <b>muneḥ</b>—of a sage; <b>yogam</b>—Yog; <b>karma</b>—working without attachment; <b>kāraṇam</b>—the cause; <b>uchyate</b>—is said; <b>yoga ārūḍhasya</b>—of those who are elevated in Yog; <b>tasya</b>—their; <b>eva</b>—certainly; <b>śhamaḥ</b>—meditation; <b>kāraṇam</b>—the cause; <b>uchyate</b>—is said</div>
+            <div class="translation">For the sage aspiring to ascend to yoga, action is said to be the means; and for the same sage enthroned in yoga serenity is called the means.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.4</div>
+            <div class="devanagari">यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।<br>सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ।। 4।।</div>
+            <div class="iast">yadā hi nendriyārtheṣhu na karmasv-anuṣhajjate<br>sarva-saṅkalpa-sannyāsī yogārūḍhas tadochyate</div>
+            <div class="glossary"><b>yadā</b>—when; <b>hi</b>—certainly; <b>na</b>—not; <b>indriya-artheṣhu</b>—for sense-objects; <b>na</b>—not; <b>karmasu</b>—to actions; <b>anuṣhajjate</b>—is attachment; <b>sarva-saṅkalpa</b>—all desires for the fruits of actions; <b>sanyāsī</b>—renouncer; <b>yoga-ārūḍhaḥ</b>—elevated in the science of Yog; <b>tadā</b>—at that time; <b>uchyate</b>—is said</div>
+            <div class="translation">When the sage feels no attachment for sense-objects and actions, renouncing the ego-centric will (samkalpa) then he is said to be enthroned in yoga.</div>
+        </div>
+        <div class='lecture-title'>075. Chapter 6 verses 5-6</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.5</div>
+            <div class="devanagari">उद्धरेदात्मनात्मानं नात्मानमवसादयेत् ।<br>आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मन: ।। 5।।</div>
+            <div class="iast">uddhared ātmanātmānaṁ nātmānam avasādayet<br>ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ</div>
+            <div class="glossary"><b>uddharet</b>—elevate; <b>ātmanā</b>—through the mind; <b>ātmānam</b>—the self; <b>na</b>—not; <b>ātmānam</b>—the self; <b>avasādayet</b>—degrade; <b>ātmā</b>—the mind; <b>eva</b>—certainly; <b>hi</b>—indeed; <b>ātmanaḥ</b>—of the self; <b>bandhuḥ</b>—friend; <b>ātmā</b>—the mind; <b>eva</b>—certainly; <b>ripuḥ</b>—enemy; <b>ātmanaḥ</b>—of the self</div>
+            <div class="translation">Let a man be lifted up by his own self; let him not lower himself; for he himself is his friend, and he himself is his enemy.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.6</div>
+            <div class="devanagari">बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: ।<br>अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् ।। 6।।</div>
+            <div class="iast">bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ<br>anātmanas tu śhatrutve vartetātmaiva śhatru-vat</div>
+            <div class="glossary"><b>bandhuḥ</b>—friend; <b>ātmā</b>—the mind; <b>ātmanaḥ</b>—for the person; <b>tasya</b>—of him; <b>yena</b>—by whom; <b>ātmā</b>—the mind; <b>eva</b>—certainly; <b>ātmanā</b>—for the person; <b>jitaḥ</b>—conquered; <b>anātmanaḥ</b>—of those with unconquered mind; <b>tu</b>—but; <b>śhatrutve</b>—for an enemy; <b>varteta</b>—remains; <b>ātmā</b>—the mind; <b>eva</b>—as; <b>śhatru-vat</b>—like an enemy</div>
+            <div class="translation">For those who have conquered the mind, it is their friend. For those who have failed to do so, the mind works like an enemy.</div>
+        </div>
+        <div class='lecture-title'>076. Chapter 6 verse 7</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.7</div>
+            <div class="devanagari">जितात्मन: प्रशान्तस्य परमात्मा समाहित: ।<br>शीतोष्णसुखदु:खेषु तथा मानापमानयो: ।। 7।।</div>
+            <div class="iast">jitātmanaḥ praśhāntasya paramātmā samāhitaḥ<br>śhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ</div>
+            <div class="glossary"><b>jita-ātmanaḥ</b>—one who has conquered one’s mind; <b>praśhāntasya</b>—of the peaceful; <b>parama-ātmā</b>—God; <b>samāhitaḥ</b>—steadfast; <b>śhīta</b>—in cold; <b>uṣhṇa</b>—heat; <b>sukha</b>—happiness; <b>duḥkheṣhu</b>—in distress; <b>tathā</b>—also; <b>māna</b>—in honor; <b>apamānayoḥ</b>—and dishonor</div>
+            <div class="translation">The man who has subdued the mind and is full of peace experiences the Supreme Self under all conditions in heat and cold, pleasure and pain, honour and dishonour. (The mind of such a man experiences the Self under all conditions).</div>
+        </div>
+        <div class='lecture-title'>077. Chapter 6 verses 8-9</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.8</div>
+            <div class="devanagari">ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रिय: ।<br>युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चन: ।। 8।।</div>
+            <div class="iast">jñāna-vijñāna-tṛiptātmā kūṭa-stho vijitendriyaḥ<br>yukta ityuchyate yogī sama-loṣhṭāśhma-kāñchanaḥ</div>
+            <div class="glossary"><b>jñāna</b>—knowledge; <b>vijñāna</b>—realized knowledge, wisdom from within; <b>tṛipta ātmā</b>—one fully satisfied; <b>kūṭa-sthaḥ</b>—undisturbed; <b>vijita-indriyaḥ</b>—one who has conquered the senses; <b>yuktaḥ</b>—one who is in constant communion with the Supreme; <b>iti</b>—thus; <b>uchyate</b>—is said; <b>yogī</b>—a yogi; <b>sama</b>—looks equally; <b>loṣhṭra</b>—pebbles; <b>aśhma</b>—stone; <b>kāñchanaḥ</b>—gold</div>
+            <div class="translation">The yogi who is satisfied with the knowledge of the Sastras and experience of the Self, who is immovable, who has conquered the senses, who look with an equal eye on mud, stone and gold, is said to be united or harmonised in yoga.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.9</div>
+            <div class="devanagari">सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।<br>साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ।। 9।।</div>
+            <div class="iast">suhṛin-mitrāryudāsīna-madhyastha-dveṣhya-bandhuṣhu<br>sādhuṣhvapi cha pāpeṣhu sama-buddhir viśhiṣhyate</div>
+            <div class="glossary"><b>su-hṛit</b>—toward the well-wishers; <b>mitra</b>—friends; <b>ari</b>—enemies; <b>udāsīna</b>—neutral persons; <b>madhya-stha</b>—mediators; <b>dveṣhya</b>—the envious; <b>bandhuṣhu</b>—relatives; <b>sādhuṣhu</b>—pious; <b>api</b>—as well as; <b>cha</b>—and; <b>pāpeṣhu</b>—the sinners; <b>sama-buddhiḥ</b>—of impartial intellect; <b>viśhiṣhyate</b>—is distinguished</div>
+            <div class="translation">He who is equal-minded towards the good-hearted, friends, enemies, the indifferent, neutrals, haters, relations, towards the righteous and also the wicked, excels.</div>
+        </div>
+        <div class='lecture-title'>078. Chapter 6 verses 10-14</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.10</div>
+            <div class="devanagari">योगी युञ्जीत सततमात्मानं रहसि स्थित: ।<br>एकाकी यतचित्तात्मा निराशीरपरिग्रह: ।। 10।।</div>
+            <div class="iast">yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ<br>ekākī yata-chittātmā nirāśhīr aparigrahaḥ</div>
+            <div class="glossary"><b>yogī</b>—a yogi; <b>yuñjīta</b>—should remain engaged in meditation; <b>satatam</b>—constantly; <b>ātmānam</b>—self; <b>rahasi</b>—in seclusion; <b>sthitaḥ</b>—remaining; <b>ekākī</b>—alone; <b>yata-chitta-ātmā</b>—with a controlled mind and body; <b>nirāśhīḥ</b>—free from desires; <b>aparigrahaḥ</b>—free from desires for possessions</div>
+            <div class="translation">Alone, stationed in a solitary place, self-controlled, free from desire, and not receiving anything from others, the yogi (Practising Dhyanayoga) should unite the mind with Atma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.11-12</div>
+            <div class="devanagari">शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: ।<br>नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ।। 11।।<br>तत्रैकाग्रं मन: कृत्वा यतचित्तेन्द्रियक्रिय: ।<br>उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ।। 12।।</div>
+            <div class="iast">śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ<br>nātyuchchhritaṁ nāti-nīchaṁ chailājina-kuśhottaram<br>tatraikāgraṁ manaḥ kṛitvā yata-chittendriya-kriyaḥ<br>upaviśhyāsane yuñjyād yogam ātma-viśhuddhaye</div>
+            <div class="glossary"><b>śhuchau</b>—in a clean; <b>deśhe</b>—place; <b>pratiṣhṭhāpya</b>—having established; <b>sthiram</b>—steadfast; <b>āsanam</b>—seat; <b>ātmanaḥ</b>—his own; <b>na</b>—not; <b>ati</b>—too; <b>uchchhritam</b>—high; <b>na</b>—not; <b>ati</b>—too; <b>nīcham</b>—low; <b>chaila</b>—cloth; <b>ajina</b>—a deerskin; <b>kuśha</b>—kuśh grass; <b>uttaram</b>—one over the other; <b>tatra</b>—there; <b>eka-agram</b>—one-pointed; <b>manaḥ</b>—mind; <b>kṛitvā</b>—having made; <b>yata-chitta</b>—controlling the mind; <b>indriya</b>—senses; <b>kriyaḥ</b>—activities; <b>upaviśhya</b>—being seated; <b>āsane</b>—on the seat; <b>yuñjyāt yogam</b>—should strive to practice yog; <b>ātma viśhuddhaye</b>—for purification of the mind;</div>
+            <div class="translation">In a clean spot, a firm seat should be made, neither too high nor too low, and it should be covered by cloth, skin, and holy grass one over the other.
+
+There, being seated, having made the mind one-pointed, controlling the actions of the mind and the senses, let him practice Dhyana Yoga for self-purification.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.13-14</div>
+            <div class="devanagari">समं कायशिरोग्रीवं धारयन्नचलं स्थिर: ।<br>सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ।। 13।।<br>प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थित: ।<br>मन: संयम्य मच्चित्तो युक्त आसीत मत्पर: ।। 14।।</div>
+            <div class="iast">samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ<br>samprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan<br>praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ<br>manaḥ sanyamya mach-chitto yukta āsīta mat-paraḥ</div>
+            <div class="glossary"><b>samam</b>—straight; <b>kāya</b>—body; <b>śhiraḥ</b>—head; <b>grīvam</b>—neck; <b>dhārayan</b>—holding; <b>achalam</b>—unmoving; <b>sthiraḥ</b>—still; <b>samprekṣhya</b>—gazing; <b>nāsika-agram</b>—at the tip of the nose; <b>svam</b>—own; <b>diśhaḥ</b>—directions; <b>cha</b>—and; <b>anavalokayan</b>—not looking; <b>praśhānta</b>—serene; <b>ātmā</b>—mind; <b>vigata-bhīḥ</b>—fearless; <b>brahmachāri-vrate</b>—in the vow of celibacy; <b>sthitaḥ</b>—situated; <b>manaḥ</b>—mind; <b>sanyamya</b>—having controlled; <b>mat-chittaḥ</b>—meditate on me (Shree Krishna); <b>yuktaḥ</b>—engaged; <b>āsīta</b>—should sit; <b>mat-paraḥ</b>—having me as the supreme goal</div>
+            <div class="translation">Let him firmly hold the body, head and neck erect, and gazing on the tip of his nose, without looking around, let him sit, serene and fearless, established in the vow of celibacy, self-controlled and balanced, thinking of Me as the Supreme goal.</div>
+        </div>
+        <div class='lecture-title'>079. Chapter 6 verse 15</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.15</div>
+            <div class="devanagari">युञ्जन्नेवं सदात्मानं योगी नियतमानस: ।<br>शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ।। 15।।</div>
+            <div class="iast">yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ<br>śhāntiṁ nirvāṇa-paramāṁ mat-sansthām adhigachchhati</div>
+            <div class="glossary"><b>yuñjan</b>—keeping the mind absorbed in God; <b>evam</b>—thus; <b>sadā</b>—constantly; <b>ātmānam</b>—the mind; <b>yogī</b>—a yogi; <b>niyata-mānasaḥ</b>—one with a disciplined mind; <b>śhāntim</b>—peace; <b>nirvāṇa</b>—liberation from the material bondage; <b>paramām</b>—supreme; <b>mat-sansthām</b>—abides in me; <b>adhigachchhati</b>—attains</div>
+            <div class="translation">Thus the self-controlled Yogi holding the mind in meditation on the Self, attains peace abiding in me which culminates in the highest bliss of liberation.</div>
+        </div>
+        <div class='lecture-title'>080. Chapter 6 verses 16-19</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.16</div>
+            <div class="devanagari">नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नत: ।<br>न चाति स्वप्नशीलस्य जाग्रतो नैव चार्जुन ।। 16।।</div>
+            <div class="iast">nātyaśhnatastu yogo ’sti na chaikāntam anaśhnataḥ<br>na chāti-svapna-śhīlasya jāgrato naiva chārjuna</div>
+            <div class="glossary"><b>na</b>—not; <b>ati</b>—too much; <b>aśhnataḥ</b>—one who eats; <b>tu</b>—however; <b>yogaḥ</b>—Yog; <b>asti</b>—there is; <b>na</b>—not; <b>cha</b>—and; <b>ekāntam</b>—at all; <b>anaśhnataḥ</b>—abstaining from eating; <b>na</b>—not; <b>cha</b>—and; <b>ati</b>—too much; <b>svapna-śhīlasya</b>—one who sleeps; <b>jāgrataḥ</b>—one who does not sleep enough; <b>na</b>—not; <b>eva</b>—certainly; <b>cha</b>—and; <b>arjuna</b>—Arjun</div>
+            <div class="translation">O Arjuna! Verily, yoga is not for one who eats too much or who does not eat at all, nor for him who sleeps too much or who does not sleep at all.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.17</div>
+            <div class="devanagari">युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।<br>युक्तस्वप्नावबोधस्य योगो भवति दु:खहा ।। 17।।</div>
+            <div class="iast">yuktāhāra-vihārasya yukta-cheṣhṭasya karmasu<br>yukta-svapnāvabodhasya yogo bhavati duḥkha-hā</div>
+            <div class="glossary"><b>yukta</b>—moderate; <b>āhāra</b>—eating; <b>vihārasya</b>—recreation; <b>yukta cheṣhṭasya karmasu</b>—balanced in work; <b>yukta</b>—regulated; <b>svapna-avabodhasya</b>—sleep and wakefulness; <b>yogaḥ</b>—Yog; <b>bhavati</b>—becomes; <b>duḥkha-hā</b>—the slayer of sorrows</div>
+            <div class="translation">For him who is moderate in food and recreation, moderate in exertion in all actions, moderate in sleep and wakefulness, yoga destroys all pain and suffering (caused by birth and death).</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.18</div>
+            <div class="devanagari">यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।<br>नि:स्पृह: सर्वकामेभ्यो युक्त इत्युच्यते तदा ।। 18।।</div>
+            <div class="iast">yadā viniyataṁ chittam ātmanyevāvatiṣhṭhate<br>niḥspṛihaḥ sarva-kāmebhyo yukta ityuchyate tadā</div>
+            <div class="glossary"><b>yadā</b>—when; <b>viniyatam</b>—fully controlled; <b>chittam</b>—the mind; <b>ātmani</b>—of the self; <b>eva</b>—certainly; <b>avatiṣhṭhate</b>—stays; <b>nispṛihaḥ</b>—free from cravings; <b>sarva</b>—all; <b>kāmebhyaḥ</b>—for yearning of the senses; <b>yuktaḥ</b>—situated in perfect Yog; <b>iti</b>—thus; <b>uchyate</b>—is said; <b>tadā</b>—then</div>
+            <div class="translation">When the perfectly controlled mind rests in the Self free from longing for all enjoyments, then one is said to have attained yoga.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.19</div>
+            <div class="devanagari">यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।<br>योगिनो यतचित्तस्य युञ्जतो योगमात्मन: ।। 19।।</div>
+            <div class="iast">yathā dīpo nivāta-stho neṅgate sopamā smṛitā<br>yogino yata-chittasya yuñjato yogam ātmanaḥ</div>
+            <div class="glossary"><b>yathā</b>—as; <b>dīpaḥ</b>—a lamp; <b>nivāta-sthaḥ</b>—in a windless place; <b>na</b>—does not; <b>iṅgate</b>—flickers; <b>sā</b>—this; <b>upamā</b>—analogy; <b>smṛitā</b>—is considered; <b>yoginaḥ</b>—of a yogi; <b>yata-chittasya</b>—whose mind is disciplined; <b>yuñjataḥ</b>—steadily practicing; <b>yogam</b>—in meditation; <b>ātmanaḥ</b>—on the Supreme</div>
+            <div class="translation">Just as a lamp in a windless place does not flicker, so the disciplined mind of a yogi remains steady in meditation on the Supreme.</div>
+        </div>
+        <div class='lecture-title'>081. Chapter 6 verses 20-21</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.20-23</div>
+            <div class="devanagari">यत्रोपरमते चित्तं निरुद्धं योगसेवया ।<br>यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ।। 20।।<br>सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् ।<br>वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वत: ।। 21।।<br>यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: ।<br>यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते ।। 22।।<br>तं विद्याद् दु:खसंयोगवियोगं योगसञ्ज्ञितम् ।<br>स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ।। 23।।</div>
+            <div class="iast">yatroparamate chittaṁ niruddhaṁ yoga-sevayā<br>yatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati<br>sukham ātyantikaṁ yat tad buddhi-grāhyam atīndriyam<br>vetti yatra na chaivāyaṁ sthitaśh chalati tattvataḥ<br>yaṁ labdhvā chāparaṁ lābhaṁ manyate nādhikaṁ tataḥ<br>yasmin sthito na duḥkhena guruṇāpi vichālyate<br>taṁ vidyād duḥkha-sanyoga-viyogaṁ yogasaṅjñitam<br>sa niśhchayena yoktavyo yogo ’nirviṇṇa-chetasā</div>
+            <div class="glossary"><b>yatra</b>—when; <b>uparamate</b>—rejoice inner joy; <b>chittam</b>—the mind; <b>niruddham</b>—restrained; <b>yoga-sevayā</b>—by the practice of yog; <b>yatra</b>—when; <b>cha</b>—and; <b>eva</b>—certainly; <b>ātmanā</b>—through the purified mind; <b>ātmānam</b>—the soul; <b>paśhyan</b>—behold; <b>ātmani</b>—in the self; <b>tuṣhyati</b>—is satisfied; <b>sukham</b>—happiness; <b>ātyantikam</b>—limitless; <b>yat</b>—which; <b>tat</b>—that; <b>buddhi</b>—intellect; <b>grāhyam</b>—grasp; <b>atīndriyam</b>—transcending the senses; <b>vetti</b>—knows; <b>yatra</b>—wherein; <b>na</b>—never; <b>cha</b>—and; <b>eva</b>—certainly; <b>ayam</b>—he; <b>sthitaḥ</b>—situated; <b>chalati</b>—deviates; <b>tattvataḥ</b>—Eternal Truth; <b>yam</b>—which; <b>labdhvā</b>—having gained; <b>cha</b>—and; <b>aparam</b>—any other; <b>lābham</b>—gain; <b>manyate</b>—considers; <b>na</b>—not; <b>adhikam</b>—greater; <b>tataḥ</b>—than that; <b>yasmin</b>—in which; <b>sthitaḥ</b>—being situated; <b>na</b>—never; <b>duḥkhena</b>—by sorrow; <b>guruṇā</b>—(by) the greatest; <b>api</b>—even; <b>vichālyate</b>—is shaken; <b>tam</b>—that; <b>vidyāt</b>—you should know; <b>duḥkha-sanyoga-viyogam</b>—state of severance from union with misery; <b>yoga-saṅjñitam</b>—is known as yog; <b>saḥ</b>—that; <b>niśhchayena</b>—resolutely; <b>yoktavyaḥ</b>—should be practiced; <b>yogaḥ</b>—yog; <b>anirviṇṇa-chetasā</b>—with an undeviating mind</div>
+            <div class="translation">Where the mind rests restrained by the practice of yoga, and where the self seeing the Self is delighted in the Self; and where established, the yogi knows that bliss which transcends the senses, which is understandable by the purified intellect only, and from the experience of Self does not even move; possessing which, he does not think any other gain greater than that; in which established he is not shaken even by great sorrow; that should be known by the term yoga, and that yoga which is free from sorrow should be attained by the undesponding and determined mind.</div>
+        </div>
+        <div class='lecture-title'>082. Chapter 6 verses 22-23</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.20-23</div>
+            <div class="devanagari">यत्रोपरमते चित्तं निरुद्धं योगसेवया ।<br>यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ।। 20।।<br>सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् ।<br>वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वत: ।। 21।।<br>यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: ।<br>यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते ।। 22।।<br>तं विद्याद् दु:खसंयोगवियोगं योगसञ्ज्ञितम् ।<br>स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ।। 23।।</div>
+            <div class="iast">yatroparamate chittaṁ niruddhaṁ yoga-sevayā<br>yatra chaivātmanātmānaṁ paśhyann ātmani tuṣhyati<br>sukham ātyantikaṁ yat tad buddhi-grāhyam atīndriyam<br>vetti yatra na chaivāyaṁ sthitaśh chalati tattvataḥ<br>yaṁ labdhvā chāparaṁ lābhaṁ manyate nādhikaṁ tataḥ<br>yasmin sthito na duḥkhena guruṇāpi vichālyate<br>taṁ vidyād duḥkha-sanyoga-viyogaṁ yogasaṅjñitam<br>sa niśhchayena yoktavyo yogo ’nirviṇṇa-chetasā</div>
+            <div class="glossary"><b>yatra</b>—when; <b>uparamate</b>—rejoice inner joy; <b>chittam</b>—the mind; <b>niruddham</b>—restrained; <b>yoga-sevayā</b>—by the practice of yog; <b>yatra</b>—when; <b>cha</b>—and; <b>eva</b>—certainly; <b>ātmanā</b>—through the purified mind; <b>ātmānam</b>—the soul; <b>paśhyan</b>—behold; <b>ātmani</b>—in the self; <b>tuṣhyati</b>—is satisfied; <b>sukham</b>—happiness; <b>ātyantikam</b>—limitless; <b>yat</b>—which; <b>tat</b>—that; <b>buddhi</b>—intellect; <b>grāhyam</b>—grasp; <b>atīndriyam</b>—transcending the senses; <b>vetti</b>—knows; <b>yatra</b>—wherein; <b>na</b>—never; <b>cha</b>—and; <b>eva</b>—certainly; <b>ayam</b>—he; <b>sthitaḥ</b>—situated; <b>chalati</b>—deviates; <b>tattvataḥ</b>—Eternal Truth; <b>yam</b>—which; <b>labdhvā</b>—having gained; <b>cha</b>—and; <b>aparam</b>—any other; <b>lābham</b>—gain; <b>manyate</b>—considers; <b>na</b>—not; <b>adhikam</b>—greater; <b>tataḥ</b>—than that; <b>yasmin</b>—in which; <b>sthitaḥ</b>—being situated; <b>na</b>—never; <b>duḥkhena</b>—by sorrow; <b>guruṇā</b>—(by) the greatest; <b>api</b>—even; <b>vichālyate</b>—is shaken; <b>tam</b>—that; <b>vidyāt</b>—you should know; <b>duḥkha-sanyoga-viyogam</b>—state of severance from union with misery; <b>yoga-saṅjñitam</b>—is known as yog; <b>saḥ</b>—that; <b>niśhchayena</b>—resolutely; <b>yoktavyaḥ</b>—should be practiced; <b>yogaḥ</b>—yog; <b>anirviṇṇa-chetasā</b>—with an undeviating mind</div>
+            <div class="translation">Where the mind rests restrained by the practice of yoga, and where the self seeing the Self is delighted in the Self; and where established, the yogi knows that bliss which transcends the senses, which is understandable by the purified intellect only, and from the experience of Self does not even move; possessing which, he does not think any other gain greater than that; in which established he is not shaken even by great sorrow; that should be known by the term yoga, and that yoga which is free from sorrow should be attained by the undesponding and determined mind.</div>
+        </div>
+        <div class='lecture-title'>083. Chapter 6 verses 24-25</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.24-25</div>
+            <div class="devanagari">सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषत: ।<br>मनसैवेन्द्रियग्रामं विनियम्य समन्तत: ।। 24।।<br>शनै: शनैरुपरमेद्बुद्ध्या धृतिगृहीतया ।<br>आत्मसंस्थं मन: कृत्वा न किञ्चिदपि चिन्तयेत् ।। 25।।</div>
+            <div class="iast">saṅkalpa-prabhavān kāmāns tyaktvā sarvān aśheṣhataḥ<br>manasaivendriya-grāmaṁ viniyamya samantataḥ<br>śhanaiḥ śhanair uparamed buddhyā dhṛiti-gṛihītayā<br>ātma-sansthaṁ manaḥ kṛitvā na kiñchid api chintayet</div>
+            <div class="glossary"><b>saṅkalpa</b>—a resolve; <b>prabhavān</b>—born of; <b>kāmān</b>—desires; <b>tyaktvā</b>—having abandoned; <b>sarvān</b>—all; <b>aśheṣhataḥ</b>—completely; <b>manasā</b>—through the mind; <b>eva</b>—certainly; <b>indriya-grāmam</b>—the group of senses; <b>viniyamya</b>—restraining; <b>samantataḥ</b>—from all sides; <b>śhanaiḥ</b>—gradually; <b>śhanaiḥ</b>—gradually; <b>uparamet</b>—attain peace; <b>buddhyā</b>—by intellect; <b>dhṛiti-gṛihītayā</b>—achieved through determination of resolve that is in accordance with scriptures; <b>ātma-sanstham</b>—fixed in God; <b>manaḥ</b>—mind; <b>kṛitvā</b>—having made; <b>na</b>—not; <b>kiñchit</b>—anything; <b>api</b>—even; <b>chintayet</b>—should think of</div>
+            <div class="translation">Having abandoned all desires born of the ego-centric will, having restrained the group of senses with mind from all sides, one should attain quietude slowly and slowly by the intellect held firmly. And then, fixing the mind in Atma, he should not think of anything else at all.</div>
+        </div>
+        <div class='lecture-title'>084. Chapter 6 verses 26-27</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.26</div>
+            <div class="devanagari">यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।<br>ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ।। 26।।</div>
+            <div class="iast">yato yato niśhcharati manaśh chañchalam asthiram<br>tatas tato niyamyaitad ātmanyeva vaśhaṁ nayet</div>
+            <div class="glossary"><b>yataḥ yataḥ</b>—whenever and wherever; <b>niśhcharati</b>—wanders; <b>manaḥ</b>—the mind; <b>chañchalam</b>—restless; <b>asthiram</b>—unsteady; <b>tataḥ tataḥ</b>—from there; <b>niyamya</b>—having restrained; <b>etat</b>—this; <b>ātmani</b>—on God; <b>eva</b>—certainly; <b>vaśham</b>—control; <b>nayet</b>—should bring</div>
+            <div class="translation">Whenever and wherever the restless and unsteady mind wanders, one should bring it back and continually focus it on God.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.27</div>
+            <div class="devanagari">प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।<br>उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ।। 27।।</div>
+            <div class="iast">praśhānta-manasaṁ hyenaṁ yoginaṁ sukham uttamam<br>upaiti śhānta-rajasaṁ brahma-bhūtam akalmaṣham</div>
+            <div class="glossary"><b>praśhānta</b>—peaceful; <b>manasam</b>—mind; <b>hi</b>—certainly; <b>enam</b>—this; <b>yoginam</b>—yogi; <b>sukham uttamam</b>—the highest bliss; <b>upaiti</b>—attains; <b>śhānta-rajasam</b>—whose passions are subdued; <b>brahma-bhūtam</b>—endowed with God-realization; <b>akalmaṣham</b>—without sin</div>
+            <div class="translation">Supreme Bliss comes to the yogi whose mind is completely tranquil and whose passions are quieted, who is free from stain and who has become one with Brahman.</div>
+        </div>
+        <div class='lecture-title'>085. Chapter 6 verses 28-29</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.28</div>
+            <div class="devanagari">युञ्जन्नेवं सदात्मानं योगी विगतकल्मष: ।<br>सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते ।। 28।।</div>
+            <div class="iast">yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣhaḥ<br>sukhena brahma-sansparśham atyantaṁ sukham aśhnute</div>
+            <div class="glossary"><b>yuñjan</b>—uniting (the self with God); <b>evam</b>—thus; <b>sadā</b>—always; <b>ātmānam</b>—the self; <b>yogī</b>—a yogi; <b>vigata</b>—free from; <b>kalmaṣhaḥ</b>—sins; <b>sukhena</b>—easily; <b>brahma-sansparśham</b>—constantly in touch with the Supreme; <b>atyantam</b>—the highest; <b>sukham</b>—bliss; <b>aśhnute</b>—attains</div>
+            <div class="translation">Thus the yogi free from evil, practising yoga (union with Atma) always, attains easily the highest bliss resulting from contact with Brahman.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.29</div>
+            <div class="devanagari">सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।<br>ईक्षते योगयुक्तात्मा सर्वत्र समदर्शन: ।। 29।।</div>
+            <div class="iast">sarva-bhūta-stham ātmānaṁ sarva-bhūtāni chātmani<br>īkṣhate yoga-yuktātmā sarvatra sama-darśhanaḥ</div>
+            <div class="glossary"><b>sarva-bhūta-stham</b>—situated in all living beings; <b>ātmānam</b>—Supreme Soul; <b>sarva</b>—all; <b>bhūtāni</b>—living beings; <b>cha</b>—and; <b>ātmani</b>—in God; <b>īkṣhate</b>—sees; <b>yoga-yukta-ātmā</b>—one united in consciousness with God; <b>sarvatra</b>—everywhere; <b>sama-darśhanaḥ</b>—equal vision</div>
+            <div class="translation">The sage harmonised in yoga sees the Self in all beings, and all beings in the Self; he sees the same everywhere.</div>
+        </div>
+        <div class='lecture-title'>086. Chapter 6 verses 30-32</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.30</div>
+            <div class="devanagari">यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।<br>तस्याहं न प्रणश्यामि स च मे न प्रणश्यति ।। 30।।</div>
+            <div class="iast">yo māṁ paśhyati sarvatra sarvaṁ cha mayi paśhyati<br>tasyāhaṁ na praṇaśhyāmi sa cha me na praṇaśhyati</div>
+            <div class="glossary"><b>yaḥ</b>—who; <b>mām</b>—me; <b>paśhyati</b>—see; <b>sarvatra</b>—everywhere; <b>sarvam</b>—everything; <b>cha</b>—and; <b>mayi</b>—in me; <b>paśhyati</b>—see; <b>tasya</b>—for him; <b>aham</b>—I; <b>na</b>—not; <b>praṇaśhyāmi</b>—lost; <b>saḥ</b>—that person; <b>cha</b>—and; <b>me</b>—to me; <b>na</b>—nor; <b>praṇaśhyati</b>—lost</div>
+            <div class="translation">He who sees Me in all beings and all beings in me never becomes lost to me, nor do I become lost to him.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.31</div>
+            <div class="devanagari">सर्वभूतस्थितं यो मां भजत्येकत्वमास्थित: ।<br>सर्वथा वर्तमानोऽपि स योगी मयि वर्तते ।। 31।।</div>
+            <div class="iast">sarva-bhūta-sthitaṁ yo māṁ bhajatyekatvam āsthitaḥ<br>sarvathā vartamāno ’pi sa yogī mayi vartate</div>
+            <div class="glossary"><b>sarva-bhūta-sthitam</b>—situated in all beings; <b>yaḥ</b>—who; <b>mām</b>—me; <b>bhajati</b>—worships; <b>ekatvam</b>—in unity; <b>āsthitaḥ</b>—established; <b>sarvathā</b>—in all kinds of; <b>varta-mānaḥ</b>—remain; <b>api</b>—although; <b>saḥ</b>—he; <b>yogī</b>—a yogi; <b>mayi</b>—in me; <b>vartate</b>—dwells</div>
+            <div class="translation">The Yogi who worships Me abiding in all beings and who is established in unity abides in me in whatever manner he is acting.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.32</div>
+            <div class="devanagari">आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन ।<br>सुखं वा यदि वा दु:खं स योगी परमो मत: ।। 32।।</div>
+            <div class="iast">ātmaupamyena sarvatra samaṁ paśhyati yo ’rjuna<br>sukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ</div>
+            <div class="glossary"><b>ātma-aupamyena</b>—similar to oneself; <b>sarvatra</b>—everywhere; <b>samam</b>—equally; <b>paśhyati</b>—see; <b>yaḥ</b>—who; <b>arjuna</b>—Arjun; <b>sukham</b>—joy; <b>vā</b>—or; <b>yadi</b>—if; <b>vā</b>—or; <b>duḥkham</b>—sorrow; <b>saḥ</b>—such; <b>yogī</b>—a yogi; <b>paramaḥ</b>—highest; <b>mataḥ</b>—is considered</div>
+            <div class="translation">He who judges pleasure or pain everywhere, by the same standard as he applies to himself, that yogi is thought to be the highest.</div>
+        </div>
+        <div class='lecture-title'>087. Chapter 6 verses 33-35</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.33</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>योऽयं योगस्त्वया प्रोक्त: साम्येन मधुसूदन ।<br>एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ।। 33।।</div>
+            <div class="iast">arjuna uvācha<br>yo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana<br>etasyāhaṁ na paśhyāmi chañchalatvāt sthitiṁ sthirām</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>yaḥ</b>—which; <b>ayam</b>—this; <b>yogaḥ</b>—system of Yog; <b>tvayā</b>—by you; <b>proktaḥ</b>—described; <b>sāmyena</b>—by equanimity; <b>madhu-sūdana</b>—Shree Krishna, the killer of the demon named Madhu; <b>etasya</b>—of this; <b>aham</b>—I; <b>na</b>—do not; <b>paśhyāmi</b>—see; <b>chañchalatvāt</b>—due to restlessness; <b>sthitim</b>—situation; <b>sthirām</b>—steady</div>
+            <div class="translation">Arjuna said: The system of Yoga that you have described and attainable by equality of mind, O Madhusudana, appears impractical and unattainable to me, due to the restless mind.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.34</div>
+            <div class="devanagari">चञ्चलं हि मन: कृष्ण प्रमाथि बलवद्दृढम् ।<br>तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ।। 34।।</div>
+            <div class="iast">chañchalaṁ hi manaḥ kṛiṣhṇa pramāthi balavad dṛiḍham<br>tasyāhaṁ nigrahaṁ manye vāyor iva su-duṣhkaram</div>
+            <div class="glossary"><b>chañchalam</b>—restless; <b>hi</b>—certainly; <b>manaḥ</b>—mind; <b>kṛiṣhṇa</b>—Shree Krishna; <b>pramāthi</b>—turbulent; <b>bala-vat</b>—strong; <b>dṛiḍham</b>—obstinate; <b>tasya</b>—its; <b>aham</b>—I; <b>nigraham</b>—control; <b>manye</b>—think; <b>vāyoḥ</b>—of the wind; <b>iva</b>—like; <b>su-duṣhkaram</b>—difficult to perform</div>
+            <div class="translation">The mind is very restless, turbulent, strong, and obstinate, O Krishna. It appears to me that it is more difficult to control than the wind.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.35</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>असंशयं महाबाहो मनो दुर्निग्रहं चलम् ।<br>अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ।। 35।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>asanśhayaṁ mahā-bāho mano durnigrahaṁ chalam<br>abhyāsena tu kaunteya vairāgyeṇa cha gṛihyate</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—Lord Krishna said; <b>asanśhayam</b>—undoubtedly; <b>mahā-bāho</b>—mighty-armed one; <b>manaḥ</b>—the mind; <b>durnigraham</b>—difficult to restrain; <b>chalam</b>—restless; <b>abhyāsena</b>—by practice; <b>tu</b>—but; <b>kaunteya</b>—Arjun, the son of Kunti; <b>vairāgyeṇa</b>—by detachment; <b>cha</b>—and; <b>gṛihyate</b>—can be controlled</div>
+            <div class="translation">The Lord said: Doubtless, O mighty Arjuna, the mind is restless and hard to control; but by practice and by detachment, O son of Kunti, it can be restrained.</div>
+        </div>
+        <div class='lecture-title'>088. Chapter 6 verses 36-42</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.36</div>
+            <div class="devanagari">असंयतात्मना योगो दुष्प्राप इति मे मति: ।<br>वश्यात्मना तु यतता शक्योऽवाप्तुमुपायत: ।। 36।।</div>
+            <div class="iast">asaṅyatātmanā yogo duṣhprāpa iti me matiḥ<br>vaśhyātmanā tu yatatā śhakyo ’vāptum upāyataḥ</div>
+            <div class="glossary"><b>asanyata-ātmanā</b>—one whose mind is unbridled; <b>yogaḥ</b>—Yog; <b>duṣhprāpaḥ</b>—difficult to attain; <b>iti</b>—thus; <b>me</b>—my; <b>matiḥ</b>—opinion; <b>vaśhya-ātmanā</b>—by one whose mind is controlled; <b>tu</b>—but; <b>yatatā</b>—one who strives; <b>śhakyaḥ</b>—possible; <b>avāptum</b>—to achieve; <b>upāyataḥ</b>—by right means</div>
+            <div class="translation">Yoga is hard to attain by a man who cannot control his mind, but it can be attained by him who has controlled his mind and who strives earnestly by proper means. This is My opinion.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.37</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>अयति: श्रद्धयोपेतो योगाच्चलितमानस: ।<br>अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ।। 37।।</div>
+            <div class="iast">arjuna uvācha<br>ayatiḥ śhraddhayopeto yogāch chalita-mānasaḥ<br>aprāpya yoga-sansiddhiṁ kāṅ gatiṁ kṛiṣhṇa gachchhati</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>ayatiḥ</b>—lax; <b>śhraddhayā</b>—with faith; <b>upetaḥ</b>—possessed; <b>yogāt</b>—from Yog; <b>chalita-mānasaḥ</b>—whose mind becomes deviated; <b>aprāpya</b>—failing to attain; <b>yoga-sansiddhim</b>—the highest perfection in yog; <b>kām</b>—which; <b>gatim</b>—destination; <b>kṛiṣhṇa</b>—Shree Krishna; <b>gachchhati</b>—goes</div>
+            <div class="translation">Arjuna said: What is the fate of the unsuccessful yogi who begins the path with faith, but who does not endeavor sufficiently due to an unsteady mind and is unable to reach the goal of Yoga in this life?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.38</div>
+            <div class="devanagari">कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।<br>अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि ।। 38।।</div>
+            <div class="iast">kachchin nobhaya-vibhraṣhṭaśh chhinnābhram iva naśhyati<br>apratiṣhṭho mahā-bāho vimūḍho brahmaṇaḥ pathi</div>
+            <div class="glossary"><b>kachchit</b>—whether; <b>na</b>—not; <b>ubhaya</b>—both; <b>vibhraṣhṭaḥ</b>—deviated from; <b>chhinna</b>—broken; <b>abhram</b>—cloud; <b>iva</b>—like; <b>naśhyati</b>—perishes; <b>apratiṣhṭhaḥ</b>—without any support; <b>mahā-bāho</b>—mighty-armed Krishna; <b>vimūḍhaḥ</b>—bewildered; <b>brahmaṇaḥ</b>—of God-realization; <b>pathi</b>—one on the path</div>
+            <div class="translation">Does not such a person who deviates from Yog get deprived of both material and spiritual success, O mighty-armed Krishna, and perish like a broken cloud with no position in either sphere?</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.39</div>
+            <div class="devanagari">एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषत: ।<br>त्वदन्य: संशयस्यास्य छेत्ता न ह्युपपद्यते ।। 39।।</div>
+            <div class="iast">etan me sanśhayaṁ kṛiṣhṇa chhettum arhasyaśheṣhataḥ<br>tvad-anyaḥ sanśhayasyāsya chhettā na hyupapadyate</div>
+            <div class="glossary"><b>etat</b>—this; <b>me</b>—my; <b>sanśhayam</b>—doubt; <b>kṛiṣhṇa</b>—Krishna; <b>chhettum</b>—to dispel; <b>arhasi</b>—you can; <b>aśheṣhataḥ</b>—completely; <b>tvat</b>—than you; <b>anyaḥ</b>—other; <b>sanśhayasya</b>—of doubt; <b>asya</b>—this; <b>chhettā</b>—a dispeller; <b>na</b>—never; <b>hi</b>—certainly; <b>upapadyate</b>—is fit</div>
+            <div class="translation">You should completely dispel, O Krishna, this doubt of mine; for no one but You can destroy such a doubt.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.40</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।<br>न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति ।। 40।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>pārtha naiveha nāmutra vināśhas tasya vidyate<br>na hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>pārtha</b>—Arjun, the son of Pritha; <b>na eva</b>—never; <b>iha</b>—in this world; <b>na</b>—never; <b>amutra</b>—in the next world; <b>vināśhaḥ</b>—destruction; <b>tasya</b>—his; <b>vidyate</b>—exists; <b>na</b>—never; <b>hi</b>—certainly; <b>kalyāṇa-kṛit</b>—one who strives for God-realization; <b>kaśhchit</b>—anyone; <b>durgatim</b>—evil destination; <b>tāta</b>—my friend; <b>gachchhati</b>—goes</div>
+            <div class="translation">The Lord said: O Pārtha, there is no destruction for him either in this world or the next: no evil, My son, befalls a man who does good.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.41</div>
+            <div class="devanagari">प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वती: समा: ।<br>शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ।। 41।।</div>
+            <div class="iast">prāpya puṇya-kṛitāṁ lokān uṣhitvā śhāśhvatīḥ samāḥ<br>śhuchīnāṁ śhrīmatāṁ gehe yoga-bhraṣhṭo ’bhijāyate</div>
+            <div class="glossary"><b>prāpya</b>—attain; <b>puṇya-kṛitām</b>—of the virtuous; <b>lokān</b>—abodes; <b>uṣhitvā</b>—after dwelling; <b>śhāśhvatīḥ</b>—many; <b>samāḥ</b>—ages; <b>śhuchīnām</b>—of the pious; <b>śhrī-matām</b>—of the prosperous; <b>gehe</b>—in the house; <b>yoga-bhraṣhṭaḥ</b>—the unsuccessful yogis; <b>abhijāyate</b>—take birth;</div>
+            <div class="translation">The man who has fallen away from yoga goes to the worlds of the righteous. Having lived there for unnumbered years, he is reborn in the home of the pure and the prosperous.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.42</div>
+            <div class="devanagari">अथवा योगिनामेव कुले भवति धीमताम् ।<br>एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ।। 42।।</div>
+            <div class="iast">atha vā yoginām eva kule bhavati dhīmatām<br>etad dhi durlabhataraṁ loke janma yad īdṛiśham</div>
+            <div class="glossary"><b>atha vā</b>—else; <b>yoginām</b>—of those endowed with divine wisdom; <b>eva</b>—certainly; <b>kule</b>—in the family; <b>bhavati</b>—take birth; <b>dhī-matām</b>—of the wise; <b>etat</b>—this; <b>hi</b>—certainly; <b>durlabha-taram</b>—very rare; <b>loke</b>—in this world; <b>janma</b>—birth; <b>yat</b>—which; <b>īdṛiśham</b>—like this</div>
+            <div class="translation">Or he is born into a family of yogis rich in wisdom. Verily, such a birth is hard to gain in this world.</div>
+        </div>
+        <div class='lecture-title'>089. Chapter 6 verses 43-47</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.43</div>
+            <div class="devanagari">तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।<br>यतते च ततो भूय: संसिद्धौ कुरुनन्दन ।। 43।।</div>
+            <div class="iast">tatra taṁ buddhi-sanyogaṁ labhate paurva-dehikam<br>yatate cha tato bhūyaḥ sansiddhau kuru-nandana</div>
+            <div class="glossary"><b>tatra</b>—there; <b>tam</b>—that; <b>buddhi-sanyogam</b>—reawaken their wisdom; <b>labhate</b>—obtains; <b>paurva-dehikam</b>—from the previous lives; <b>yatate</b>—strives; <b>cha</b>—and; <b>tataḥ</b>—thereafter; <b>bhūyaḥ</b>—again; <b>sansiddhau</b>—for perfection; <b>kuru-nandana</b>—Arjun, descendant of the Kurus</div>
+            <div class="translation">There he comes in touch with the knowledge acquired in his former body, O son of the Kurus, and strives still further for perfection.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.44</div>
+            <div class="devanagari">पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि स: ।<br>जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ।। 44।।</div>
+            <div class="iast">pūrvābhyāsena tenaiva hriyate hyavaśho ’pi saḥ<br>jijñāsur api yogasya śhabda-brahmātivartate</div>
+            <div class="glossary"><b>pūrva</b>—past; <b>abhyāsena</b>—discipline; <b>tena</b>—by that; <b>eva</b>—certainly; <b>hriyate</b>—is attracted; <b>hi</b>—surely; <b>avaśhaḥ</b>—helplessly; <b>api</b>—although; <b>saḥ</b>—that person; <b>jijñāsuḥ</b>—inquisitive; <b>api</b>—even; <b>yogasya</b>—about yog; <b>śhabda-brahma</b>—fruitive portion of the Vedas; <b>ativartate</b>—transcends</div>
+            <div class="translation">Indeed, they feel drawn toward God, even against their will, on the strength of their past discipline. Such seekers naturally rise above the ritualistic principles of the scriptures.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.45</div>
+            <div class="devanagari">प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिष: ।<br>अनेकजन्मसंसिद्धस्ततो याति परां गतिम् ।। 45।।</div>
+            <div class="iast">prayatnād yatamānas tu yogī sanśhuddha-kilbiṣhaḥ<br>aneka-janma-sansiddhas tato yāti parāṁ gatim</div>
+            <div class="glossary"><b>prayatnāt</b>—with great effort; <b>yatamānaḥ</b>—endeavoring; <b>tu</b>—and; <b>yogī</b>—a yogi; <b>sanśhuddha</b>—purified; <b>kilbiṣhaḥ</b>—from material desires; <b>aneka</b>—after many, many; <b>janma</b>—births; <b>sansiddhaḥ</b>—attain perfection; <b>tataḥ</b>—then; <b>yāti</b>—attains; <b>parām</b>—the highest; <b>gatim</b>—path</div>
+            <div class="translation">Practising assiduously, the yogi having acquired perfection through many births attains the supreme state (Moksha) purified of all sins.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.46</div>
+            <div class="devanagari">तपस्विभ्योऽधिकोयोगी<br>ज्ञानिभ्योऽपिमतोऽधिक:।<br>कर्मिभ्यश्चाधिकोयोगी<br>तस्माद्योगीभवार्जुन।। 46।।</div>
+            <div class="iast">tapasvibhyo ’dhiko yogī<br>jñānibhyo ’pi mato ’dhikaḥ<br>karmibhyaśh chādhiko yogī<br>tasmād yogī bhavārjuna</div>
+            <div class="glossary"><b>tapasvibhyaḥ</b>—than the ascetics; <b>adhikaḥ</b>—superior; <b>yogī</b>—a yogi; <b>jñānibhyaḥ</b>—than the persons of learning; <b>api</b>—even; <b>mataḥ</b>—considered; <b>adhikaḥ</b>—superior; <b>karmibhyaḥ</b>—than the ritualistic performers; <b>cha</b>—and; <b>adhikaḥ</b>—superior; <b>yogī</b>—a yogi; <b>tasmāt</b>—therefore; <b>yogī</b>—a yogi; <b>bhava</b>—just become; <b>arjuna</b>—Arjun</div>
+            <div class="translation">O Arjuna! The yogi is thought to be greater than the ascetic, greater than the learned, and greater than the man of action; therefore be a yogi.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.47</div>
+            <div class="devanagari">योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।<br>श्रद्धावान्भजते यो मां स मे युक्ततमो मत: ।। 47।।</div>
+            <div class="iast">yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā<br>śhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ</div>
+            <div class="glossary"><b>yoginām</b>—of all yogis; <b>api</b>—however; <b>sarveṣhām</b>—all types of; <b>mat-gatena</b>—absorbed in me (God); <b>antaḥ</b>—inner; <b>ātmanā</b>—with the mind; <b>śhraddhā-vān</b>—with great faith; <b>bhajate</b>—engage in devotion; <b>yaḥ</b>—who; <b>mām</b>—to me; <b>saḥ</b>—he; <b>me</b>—by me; <b>yukta-tamaḥ</b>—the highest yogi; <b>mataḥ</b>—is considered</div>
+            <div class="translation">Even among yogis, he who worships Me with mind fixed in Me, full of faith, is deemed by me to be the most devout.</div>
+        </div>
+        
+</body>
+</html>

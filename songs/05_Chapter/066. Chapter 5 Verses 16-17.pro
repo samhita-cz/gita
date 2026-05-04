@@ -45,4 +45,6 @@ With their intellect absorbed in That, their Self being That, established in tha
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v16/
+
+https://vivekavani.com/b5v17/

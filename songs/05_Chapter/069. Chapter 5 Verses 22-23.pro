@@ -44,4 +44,6 @@ He who is able to endure the impulse of desire and anger even in this world befo
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v22/
+
+https://vivekavani.com/b5v23/

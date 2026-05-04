@@ -19,7 +19,6 @@ HTML_TEMPLATE = """
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
     <style>
         /* Definice strany pro WeasyPrint */
         @page {{
@@ -29,7 +28,7 @@ HTML_TEMPLATE = """
             /* Automatické číslování stránek v patce */
             @bottom-center {{
                 content: "Page " counter(page);
-                font-family: 'Gentium Book Plus', serif;
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
                 font-size: 9pt;
                 color: #888;
                 border-top: 0.5pt solid #eee;
@@ -39,7 +38,8 @@ HTML_TEMPLATE = """
         }}
 
         body {{
-            font-family: 'Gentium Book Plus', serif;
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
             line-height: 1.6;
             color: #1a1a1a;
             font-size: 11pt;
@@ -83,6 +83,8 @@ HTML_TEMPLATE = """
 
         .verse-block.first-verse {{
             page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
         }}
         
         .verse-number {{

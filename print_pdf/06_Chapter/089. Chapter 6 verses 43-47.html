@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 6 — dhyāna yoga</div>
+        <h1>089. Chapter 6 verses 43-47</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 6.43</div>
+            <div class="devanagari">तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।<br>यतते च ततो भूय: संसिद्धौ कुरुनन्दन ।। 43।।</div>
+            <div class="iast">tatra taṁ buddhi-sanyogaṁ labhate paurva-dehikam<br>yatate cha tato bhūyaḥ sansiddhau kuru-nandana</div>
+            <div class="glossary"><b>tatra</b>—there; <b>tam</b>—that; <b>buddhi-sanyogam</b>—reawaken their wisdom; <b>labhate</b>—obtains; <b>paurva-dehikam</b>—from the previous lives; <b>yatate</b>—strives; <b>cha</b>—and; <b>tataḥ</b>—thereafter; <b>bhūyaḥ</b>—again; <b>sansiddhau</b>—for perfection; <b>kuru-nandana</b>—Arjun, descendant of the Kurus</div>
+            <div class="translation">There he comes in touch with the knowledge acquired in his former body, O son of the Kurus, and strives still further for perfection.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.44</div>
+            <div class="devanagari">पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि स: ।<br>जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ।। 44।।</div>
+            <div class="iast">pūrvābhyāsena tenaiva hriyate hyavaśho ’pi saḥ<br>jijñāsur api yogasya śhabda-brahmātivartate</div>
+            <div class="glossary"><b>pūrva</b>—past; <b>abhyāsena</b>—discipline; <b>tena</b>—by that; <b>eva</b>—certainly; <b>hriyate</b>—is attracted; <b>hi</b>—surely; <b>avaśhaḥ</b>—helplessly; <b>api</b>—although; <b>saḥ</b>—that person; <b>jijñāsuḥ</b>—inquisitive; <b>api</b>—even; <b>yogasya</b>—about yog; <b>śhabda-brahma</b>—fruitive portion of the Vedas; <b>ativartate</b>—transcends</div>
+            <div class="translation">Indeed, they feel drawn toward God, even against their will, on the strength of their past discipline. Such seekers naturally rise above the ritualistic principles of the scriptures.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.45</div>
+            <div class="devanagari">प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिष: ।<br>अनेकजन्मसंसिद्धस्ततो याति परां गतिम् ।। 45।।</div>
+            <div class="iast">prayatnād yatamānas tu yogī sanśhuddha-kilbiṣhaḥ<br>aneka-janma-sansiddhas tato yāti parāṁ gatim</div>
+            <div class="glossary"><b>prayatnāt</b>—with great effort; <b>yatamānaḥ</b>—endeavoring; <b>tu</b>—and; <b>yogī</b>—a yogi; <b>sanśhuddha</b>—purified; <b>kilbiṣhaḥ</b>—from material desires; <b>aneka</b>—after many, many; <b>janma</b>—births; <b>sansiddhaḥ</b>—attain perfection; <b>tataḥ</b>—then; <b>yāti</b>—attains; <b>parām</b>—the highest; <b>gatim</b>—path</div>
+            <div class="translation">Practising assiduously, the yogi having acquired perfection through many births attains the supreme state (Moksha) purified of all sins.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.46</div>
+            <div class="devanagari">तपस्विभ्योऽधिकोयोगी<br>ज्ञानिभ्योऽपिमतोऽधिक:।<br>कर्मिभ्यश्चाधिकोयोगी<br>तस्माद्योगीभवार्जुन।। 46।।</div>
+            <div class="iast">tapasvibhyo ’dhiko yogī<br>jñānibhyo ’pi mato ’dhikaḥ<br>karmibhyaśh chādhiko yogī<br>tasmād yogī bhavārjuna</div>
+            <div class="glossary"><b>tapasvibhyaḥ</b>—than the ascetics; <b>adhikaḥ</b>—superior; <b>yogī</b>—a yogi; <b>jñānibhyaḥ</b>—than the persons of learning; <b>api</b>—even; <b>mataḥ</b>—considered; <b>adhikaḥ</b>—superior; <b>karmibhyaḥ</b>—than the ritualistic performers; <b>cha</b>—and; <b>adhikaḥ</b>—superior; <b>yogī</b>—a yogi; <b>tasmāt</b>—therefore; <b>yogī</b>—a yogi; <b>bhava</b>—just become; <b>arjuna</b>—Arjun</div>
+            <div class="translation">O Arjuna! The yogi is thought to be greater than the ascetic, greater than the learned, and greater than the man of action; therefore be a yogi.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 6.47</div>
+            <div class="devanagari">योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।<br>श्रद्धावान्भजते यो मां स मे युक्ततमो मत: ।। 47।।</div>
+            <div class="iast">yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā<br>śhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ</div>
+            <div class="glossary"><b>yoginām</b>—of all yogis; <b>api</b>—however; <b>sarveṣhām</b>—all types of; <b>mat-gatena</b>—absorbed in me (God); <b>antaḥ</b>—inner; <b>ātmanā</b>—with the mind; <b>śhraddhā-vān</b>—with great faith; <b>bhajate</b>—engage in devotion; <b>yaḥ</b>—who; <b>mām</b>—to me; <b>saḥ</b>—he; <b>me</b>—by me; <b>yukta-tamaḥ</b>—the highest yogi; <b>mataḥ</b>—is considered</div>
+            <div class="translation">Even among yogis, he who worships Me with mind fixed in Me, full of faith, is deemed by me to be the most devout.</div>
+        </div>
+        
+</body>
+</html>

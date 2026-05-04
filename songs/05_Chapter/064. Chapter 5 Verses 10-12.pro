@@ -62,4 +62,8 @@ The harmonised yogi, abandoning the fruits of action attains final peace, while 
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b5v10/
+
+https://vivekavani.com/b5v11/
+
+https://vivekavani.com/b5v12/

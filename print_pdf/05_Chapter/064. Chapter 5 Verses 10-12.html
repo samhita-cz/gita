@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 5 — karma sanyāsa yoga</div>
+        <h1>064. Chapter 5 Verses 10-12</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.10</div>
+            <div class="devanagari">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: ।<br>लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।। 10।।</div>
+            <div class="iast">brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ<br>lipyate na sa pāpena padma-patram ivāmbhasā</div>
+            <div class="glossary"><b>brahmaṇi</b>—to God; <b>ādhāya</b>—dedicating; <b>karmāṇi</b>—all actions; <b>saṅgam</b>—attachment; <b>tyaktvā</b>—abandoning; <b>karoti</b>—performs; <b>yaḥ</b>—who; <b>lipyate</b>—is affected; <b>na</b>—never; <b>saḥ</b>—that person; <b>pāpena</b>—by sin; <b>padma-patram</b>—a lotus leaf; <b>iva</b>—like; <b>ambhasā</b>—by water</div>
+            <div class="translation">He who acts placing all actions in the eternal Brahman, giving up attachment, is unaffected by sin like the lotus by water.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.11</div>
+            <div class="devanagari">कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।<br>योगिन: कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ।। 11।।</div>
+            <div class="iast">kāyena manasā buddhyā kevalair indriyair api<br>yoginaḥ karma kurvanti saṅgaṁ tyaktvātma-śhuddhaye</div>
+            <div class="glossary"><b>kāyena</b>—with the body; <b>manasā</b>—with the mind; <b>buddhyā</b>—with the intellect; <b>kevalaiḥ</b>—only; <b>indriyaiḥ</b>—with the senses; <b>api</b>—even; <b>yoginaḥ</b>—the yogis; <b>karma</b>—actions; <b>kurvanti</b>—perform; <b>saṅgam</b>—attachment; <b>tyaktvā</b>—giving up; <b>ātma</b>—of the self; <b>śhuddhaye</b>—for the purification</div>
+            <div class="translation">The devotees of karma yoga act for self-purification with body, mind, intellect and also senses, abandoning all attachment.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.12</div>
+            <div class="devanagari">युक्त: कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।<br>अयुक्त: कामकारेण फले सक्तो निबध्यते ।। 12।।</div>
+            <div class="iast">yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm<br>ayuktaḥ kāma-kāreṇa phale sakto nibadhyate</div>
+            <div class="glossary"><b>yuktaḥ</b>—one who is united in consciousness with God; <b>karma-phalam</b>—the results of all activities; <b>tyaktvā</b>—giving up; <b>śhāntim</b>—peace; <b>āpnoti</b>—attains; <b>naiṣhṭhikīm</b>—everlasting; <b>ayuktaḥ</b>—one who is not united with God in consciousness; <b>kāma-kāreṇa</b>—impelled by desires; <b>phale</b>—in the result; <b>saktaḥ</b>—attached; <b>nibadhyate</b>—becomes entangled</div>
+            <div class="translation">The harmonised yogi, abandoning the fruits of action attains final peace, while the non-united one impelled by desire for the fruits of action is bound.</div>
+        </div>
+        
+</body>
+</html>

@@ -1,0 +1,345 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 5 — karma sanyāsa yoga</div>
+        <h1>Bhagavad Gita - Chapter 5</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    <div class='lecture-title first-lecture-title'>060. Chapter 5 Verse 1</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.1</div>
+            <div class="devanagari">अर्जुन उवाच ।<br>संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।<br>यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ।। 1।।</div>
+            <div class="iast">arjuna uvācha<br>sannyāsaṁ karmaṇāṁ kṛiṣhṇa punar yogaṁ cha śhansasi<br>yach chhreya etayor ekaṁ tan me brūhi su-niśhchitam</div>
+            <div class="glossary"><b>arjunaḥ uvācha</b>—Arjun said; <b>sanyāsam</b>—renunciation; <b>karmaṇām</b>—of actions; <b>kṛiṣhṇa</b>—Shree Krishna; <b>punaḥ</b>—again; <b>yogam</b>—about karm yog; <b>cha</b>—also; <b>śhansasi</b>—You praise; <b>yat</b>—which; <b>śhreyaḥ</b>—more beneficial; <b>etayoḥ</b>—of the two; <b>ekam</b>—one; <b>tat</b>—that; <b>me</b>—unto me; <b>brūhi</b>—please tell; <b>su-niśhchitam</b>—conclusively</div>
+            <div class="translation">Arjuna Said: O Krishna! You praise renunciation of actions and again the yoga of action. Of these two which is s better? That one, tell me conclusively.</div>
+        </div>
+        <div class='lecture-title'>061. Chapter 5 Verses 2-4</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.2</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>संन्यास: कर्मयोगश्च नि:श्रेयसकरावुभौ ।<br>तयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ।। 2।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>sannyāsaḥ karma-yogaśh cha niḥśhreyasa-karāvubhau<br>tayos tu karma-sannyāsāt karma-yogo viśhiṣhyate</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>sanyāsaḥ</b>—renunciation; <b>karma-yogaḥ</b>—working in devotion; <b>cha</b>—and; <b>niḥśhreyasa-karau</b>—lead to the supreme goal; <b>ubhau</b>—both; <b>tayoḥ</b>—of the two; <b>tu</b>—but; <b>karma-sanyāsāt</b>—renunciation of actions; <b>karma-yogaḥ</b>—working in devotion; <b>viśhiṣhyate</b>—is superior</div>
+            <div class="translation">Renunciation and Yoga of Action, both lead to the highest bliss. But of these two, Yoga of Action is superior to the renunciation of action.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.3</div>
+            <div class="devanagari">ज्ञेय: स नित्यसंन्यासी यो न द्वेष्टि न काङ् क्षति ।<br>निर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ।। 3।।</div>
+            <div class="iast">jñeyaḥ sa nitya-sannyāsī yo na dveṣhṭi na kāṅkṣhati<br>nirdvandvo hi mahā-bāho sukhaṁ bandhāt pramuchyate</div>
+            <div class="glossary"><b>jñeyaḥ</b>—should be considered; <b>saḥ</b>—that person; <b>nitya</b>—always; <b>sanyāsī</b>—practising renunciation; <b>yaḥ</b>—who; <b>na</b>—never; <b>dveṣhṭi</b>—hate; <b>na</b>—nor; <b>kāṅkṣhati</b>—desire; <b>nirdvandvaḥ</b>—free from all dualities; <b>hi</b>—certainly; <b>mahā-bāho</b>—mighty-armed one; <b>sukham</b>—easily; <b>bandhāt</b>—from bondage; <b>pramuchyate</b>—is liberated</div>
+            <div class="translation">O Arjuna! He who neither hates nor desires should be known as of eternal renunciation; He who is not subject to the pairs of opposites is easily set free from bondage.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.4</div>
+            <div class="devanagari">साङ्ख्ययोगौ पृथग्बाला: प्रवदन्ति न पण्डिता: ।<br>एकमप्यास्थित: सम्यगुभयोर्विन्दते फलम् ।। 4।।</div>
+            <div class="iast">sānkhya-yogau pṛithag bālāḥ pravadanti na paṇḍitāḥ<br>ekamapyāsthitaḥ samyag ubhayor vindate phalam</div>
+            <div class="glossary"><b>sānkhya</b>—renunciation of actions; <b>yogau</b>—karm yog; <b>pṛithak</b>—different; <b>bālāḥ</b>—the ignorant; <b>pravadanti</b>—say; <b>na</b>—never; <b>paṇḍitāḥ</b>—the learned; <b>ekam</b>—in one; <b>api</b>—even; <b>āsthitaḥ</b>—being situated; <b>samyak</b>—completely; <b>ubhayoḥ</b>—of both; <b>vindate</b>—achieve; <b>phalam</b>—the result</div>
+            <div class="translation">Children, not the wise, say that Jnana yoga and karma yoga are distinct: He who is truly established in either of them obtains the fruit of both.</div>
+        </div>
+        <div class='lecture-title'>062. Chapter 5 Verses 5-6</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.5</div>
+            <div class="devanagari">यत्साङ्ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते ।<br>एकं साङ्ख्यं च योगं च य: पश्यति स पश्यति ।। 5।।</div>
+            <div class="iast">yat sānkhyaiḥ prāpyate sthānaṁ tad yogair api gamyate<br>ekaṁ sānkhyaṁ cha yogaṁ cha yaḥ paśhyati sa paśhyati</div>
+            <div class="glossary"><b>yat</b>—what; <b>sānkhyaiḥ</b>—by means of karm sanyās; <b>prāpyate</b>—is attained; <b>sthānam</b>—place; <b>tat</b>—that; <b>yogaiḥ</b>—by working in devotion; <b>api</b>—also; <b>gamyate</b>—is attained; <b>ekam</b>—one; <b>sānkhyam</b>—renunciation of actions; <b>cha</b>—and; <b>yogam</b>—karm yog; <b>cha</b>—and; <b>yaḥ</b>—who; <b>paśhyati</b>—sees; <b>saḥ</b>—that person; <b>paśhyati</b>—actually sees</div>
+            <div class="translation">That state (Moksha) reached by men of Knowledge is also reached by men of Action (Karma yogis). He who sees the oneness of Jnana and Karma, really sees.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.6</div>
+            <div class="devanagari">संन्यासस्तु महाबाहो दु:खमाप्तुमयोगत: ।<br>योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ।। 6।।</div>
+            <div class="iast">sannyāsas tu mahā-bāho duḥkham āptum ayogataḥ<br>yoga-yukto munir brahma na chireṇādhigachchhati</div>
+            <div class="glossary"><b>sanyāsaḥ</b>—renunciation; <b>tu</b>—but; <b>mahā-bāho</b>—mighty-armed one; <b>duḥkham</b>—distress; <b>āptum</b>—attains; <b>ayogataḥ</b>—without karm-yog; <b>yoga-yuktaḥ</b>—one who is adept in karm-yog; <b>muniḥ</b>—a sage; <b>brahma</b>—Brahman; <b>na chireṇa</b>—quickly; <b>adhigachchhati</b>—goes</div>
+            <div class="translation">O Arjuna! But renunciation is difficult to attain without the yoga of action. The sage who is harmonised in Yoga quickly goes to Brahman.</div>
+        </div>
+        <div class='lecture-title'>063. Chapter 5 Verses 7-10</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.7</div>
+            <div class="devanagari">योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: ।<br>सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ।। 7।।</div>
+            <div class="iast">yoga-yukto viśhuddhātmā vijitātmā jitendriyaḥ<br>sarva-bhūtātma-bhūtātmā kurvann api na lipyate</div>
+            <div class="glossary"><b>yoga-yuktaḥ</b>—united in consciousness with God; <b>viśhuddha-ātmā</b>—one with purified intellect; <b>vijita-ātmā</b>—one who has conquered the mind; <b>jita-indriyaḥ</b>—having conquered the senses; <b>sarva-bhūta-ātma-bhūta-ātmā</b>—one who sees the Soul of all souls in every living being; <b>kurvan</b>—performing; <b>api</b>—although; <b>na</b>—never; <b>lipyate</b>—entangled</div>
+            <div class="translation">He who is devoted to the yoga of action, with heart purified, with mind-controlled and senses subdued, though acting, is not tainted.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.8-9</div>
+            <div class="devanagari">नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।<br>पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् ।। 8।।<br>प्रलपन्विसृजन्गृह्ण्न्नुन्मिषन्निमिषन्नपि ।<br>इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ।। 9।।</div>
+            <div class="iast">naiva kiñchit karomīti yukto manyeta tattva-vit<br>paśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan<br>pralapan visṛijan gṛihṇann unmiṣhan nimiṣhann api<br>indriyāṇīndriyārtheṣhu vartanta iti dhārayan</div>
+            <div class="glossary"><b>na</b>—not; <b>eva</b>—certainly; <b>kiñchit</b>—anything; <b>karomi</b>—I do; <b>iti</b>—thus; <b>yuktaḥ</b>—steadfast in karm yog; <b>manyeta</b>—thinks; <b>tattva-vit</b>—one who knows the truth; <b>paśhyan</b>—seeing; <b>śhṛiṇvan</b>—hearing; <b>spṛiśhan</b>—touching; <b>jighran</b>—smelling; <b>aśhnan</b>—eating; <b>gachchhan</b>—moving; <b>svapan</b>—sleeping; <b>śhvasan</b>—breathing; <b>pralapan</b>—talking; <b>visṛijan</b>—giving up; <b>gṛihṇan</b>—accepting; <b>unmiṣhan</b>—opening (the eyes); <b>nimiṣhan</b>—closing (the eyes); <b>api</b>—although; <b>indriyāṇi</b>—the senses; <b>indriya-artheṣhu</b>—in sense-objects; <b>vartante</b>—moving; <b>iti</b>—thus; <b>dhārayan</b>—convinced</div>
+            <div class="translation">The harmonised yogi who knows the essence of things, thinks “I do nothing”, seeing, hearing, touching, smelling, eating, moving, sleeping, breathing, speaking, giving, grasping, opening, and closing the eyelids even. He is convinced that the senses move among the objects of the senses.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.10</div>
+            <div class="devanagari">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: ।<br>लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।। 10।।</div>
+            <div class="iast">brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ<br>lipyate na sa pāpena padma-patram ivāmbhasā</div>
+            <div class="glossary"><b>brahmaṇi</b>—to God; <b>ādhāya</b>—dedicating; <b>karmāṇi</b>—all actions; <b>saṅgam</b>—attachment; <b>tyaktvā</b>—abandoning; <b>karoti</b>—performs; <b>yaḥ</b>—who; <b>lipyate</b>—is affected; <b>na</b>—never; <b>saḥ</b>—that person; <b>pāpena</b>—by sin; <b>padma-patram</b>—a lotus leaf; <b>iva</b>—like; <b>ambhasā</b>—by water</div>
+            <div class="translation">He who acts placing all actions in the eternal Brahman, giving up attachment, is unaffected by sin like the lotus by water.</div>
+        </div>
+        <div class='lecture-title'>064. Chapter 5 Verses 10-12</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.10</div>
+            <div class="devanagari">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: ।<br>लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ।। 10।।</div>
+            <div class="iast">brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ<br>lipyate na sa pāpena padma-patram ivāmbhasā</div>
+            <div class="glossary"><b>brahmaṇi</b>—to God; <b>ādhāya</b>—dedicating; <b>karmāṇi</b>—all actions; <b>saṅgam</b>—attachment; <b>tyaktvā</b>—abandoning; <b>karoti</b>—performs; <b>yaḥ</b>—who; <b>lipyate</b>—is affected; <b>na</b>—never; <b>saḥ</b>—that person; <b>pāpena</b>—by sin; <b>padma-patram</b>—a lotus leaf; <b>iva</b>—like; <b>ambhasā</b>—by water</div>
+            <div class="translation">He who acts placing all actions in the eternal Brahman, giving up attachment, is unaffected by sin like the lotus by water.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.11</div>
+            <div class="devanagari">कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।<br>योगिन: कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये ।। 11।।</div>
+            <div class="iast">kāyena manasā buddhyā kevalair indriyair api<br>yoginaḥ karma kurvanti saṅgaṁ tyaktvātma-śhuddhaye</div>
+            <div class="glossary"><b>kāyena</b>—with the body; <b>manasā</b>—with the mind; <b>buddhyā</b>—with the intellect; <b>kevalaiḥ</b>—only; <b>indriyaiḥ</b>—with the senses; <b>api</b>—even; <b>yoginaḥ</b>—the yogis; <b>karma</b>—actions; <b>kurvanti</b>—perform; <b>saṅgam</b>—attachment; <b>tyaktvā</b>—giving up; <b>ātma</b>—of the self; <b>śhuddhaye</b>—for the purification</div>
+            <div class="translation">The devotees of karma yoga act for self-purification with body, mind, intellect and also senses, abandoning all attachment.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.12</div>
+            <div class="devanagari">युक्त: कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।<br>अयुक्त: कामकारेण फले सक्तो निबध्यते ।। 12।।</div>
+            <div class="iast">yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm<br>ayuktaḥ kāma-kāreṇa phale sakto nibadhyate</div>
+            <div class="glossary"><b>yuktaḥ</b>—one who is united in consciousness with God; <b>karma-phalam</b>—the results of all activities; <b>tyaktvā</b>—giving up; <b>śhāntim</b>—peace; <b>āpnoti</b>—attains; <b>naiṣhṭhikīm</b>—everlasting; <b>ayuktaḥ</b>—one who is not united with God in consciousness; <b>kāma-kāreṇa</b>—impelled by desires; <b>phale</b>—in the result; <b>saktaḥ</b>—attached; <b>nibadhyate</b>—becomes entangled</div>
+            <div class="translation">The harmonised yogi, abandoning the fruits of action attains final peace, while the non-united one impelled by desire for the fruits of action is bound.</div>
+        </div>
+        <div class='lecture-title'>065. Chapter 5 Verses 13-15</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.13</div>
+            <div class="devanagari">सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।<br>नवद्वारे पुरे देही नैव कुर्वन्न कारयन् ।। 13।।</div>
+            <div class="iast">sarva-karmāṇi manasā sannyasyāste sukhaṁ vaśhī<br>nava-dvāre pure dehī naiva kurvan na kārayan</div>
+            <div class="glossary"><b>sarva</b>—all; <b>karmāṇi</b>—activities; <b>manasā</b>—by the mind; <b>sannyasya</b>—having renounced; <b>āste</b>—remains; <b>sukham</b>—happily; <b>vaśhī</b>—the self-controlled; <b>nava-dvāre</b>—of nine gates; <b>pure</b>—in the city; <b>dehī</b>—the embodied being; <b>na</b>—never; <b>eva</b>—certainly; <b>kurvan</b>—doing anything; <b>na</b>—not; <b>kārayan</b>—causing to be done</div>
+            <div class="translation">Mentally renouncing all actions and self-controlled, the embodied being, rests happily in the nine-gated city (body) neither acting nor causing others to act.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.14</div>
+            <div class="devanagari">न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: ।<br>न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ।। 14।।</div>
+            <div class="iast">na kartṛitvaṁ na karmāṇi lokasya sṛijati prabhuḥ<br>na karma-phala-saṅyogaṁ svabhāvas tu pravartate</div>
+            <div class="glossary"><b>na</b>—neither; <b>kartṛitvam</b>—sense of doership; <b>na</b>—nor; <b>karmāṇi</b>—actions; <b>lokasya</b>—of the people; <b>sṛijati</b>—creates; <b>prabhuḥ</b>—God; <b>na</b>—nor; <b>karma-phala</b>—fruits of actions; <b>sanyogam</b>—connection; <b>svabhāvaḥ</b>—one’s nature; <b>tu</b>—but; <b>pravartate</b>—is enacted</div>
+            <div class="translation">The Lord (Atma) does not create agency, nor action, nor the union of action and its fruit; but Nature leads to action.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.15</div>
+            <div class="devanagari">नादत्ते कस्यचित्पापं न चैव सुकृतं विभु: ।<br>अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तव: ।। 15।।</div>
+            <div class="iast">nādatte kasyachit pāpaṁ na chaiva sukṛitaṁ vibhuḥ<br>ajñānenāvṛitaṁ jñānaṁ tena muhyanti jantavaḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>ādatte</b>—accepts; <b>kasyachit</b>—anyone’s; <b>pāpam</b>—sin; <b>na</b>—not; <b>cha</b>—and; <b>eva</b>—certainly; <b>su-kṛitam</b>—virtuous deeds; <b>vibhuḥ</b>—the omnipresent God; <b>ajñānena</b>—by ignorance; <b>āvṛitam</b>—covered; <b>jñānam</b>—knowledge; <b>tena</b>—by that; <b>muhyanti</b>—are deluded; <b>jantavaḥ</b>—the living entities</div>
+            <div class="translation">The Lord does not receive either the evil or good of anyone. Knowledge is enveloped by ignorance, and by it, beings are deluded.</div>
+        </div>
+        <div class='lecture-title'>066. Chapter 5 Verses 16-17</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.16</div>
+            <div class="devanagari">ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: ।<br>तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ।। 16।।</div>
+            <div class="iast">jñānena tu tad ajñānaṁ yeṣhāṁ nāśhitam ātmanaḥ<br>teṣhām āditya-vaj jñānaṁ prakāśhayati tat param</div>
+            <div class="glossary"><b>jñānena</b>—by divine knowledge; <b>tu</b>—but; <b>tat</b>—that; <b>ajñānam</b>—ignorance; <b>yeṣhām</b>—whose; <b>nāśhitam</b>—has been destroyed; <b>ātmanaḥ</b>—of the self; <b>teṣhām</b>—their; <b>āditya-vat</b>—like the sun; <b>jñānam</b>—knowledge; <b>prakāśhayati</b>—illumines; <b>tat</b>—that; <b>param</b>—Supreme Entity</div>
+            <div class="translation">But for those whose ignorance is destroyed by the knowledge of Atma that Knowledge, like the sun, reveals the Supreme Brahman.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.17</div>
+            <div class="devanagari">तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: ।<br>गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषा: ।। 17।।</div>
+            <div class="iast">tad-buddhayas tad-ātmānas tan-niṣhṭhās tat-parāyaṇāḥ<br>gachchhantyapunar-āvṛittiṁ jñāna-nirdhūta-kalmaṣhāḥ</div>
+            <div class="glossary"><b>tat-buddhayaḥ</b>—those whose intellect is directed toward God; <b>tat-ātmānaḥ</b>—those whose heart (mind and intellect) is solely absorbed in God; <b>tat-niṣhṭhāḥ</b>—those whose intellect has firm faith in God; <b>tat-parāyaṇāḥ</b>—those who strive for God as the supreme goal and refuge; <b>gachchhanti</b>—go; <b>apunaḥ-āvṛittim</b>—not returning; <b>jñāna</b>—by knowledge; <b>nirdhūta</b>—dispelled; <b>kalmaṣhāḥ</b>—sins</div>
+            <div class="translation">With their intellect absorbed in That, their Self being That, established in that, they go from whence there is no return and their sins are dispelled by knowledge.</div>
+        </div>
+        <div class='lecture-title'>067. Chapter 5 Verses 18-19</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.18</div>
+            <div class="devanagari">विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।<br>शुनि चैव श्वपाके च पण्डिता: समदर्शिन: ।। 18।।</div>
+            <div class="iast">vidyā-vinaya-sampanne brāhmaṇe gavi hastini<br>śhuni chaiva śhva-pāke cha paṇḍitāḥ sama-darśhinaḥ</div>
+            <div class="glossary"><b>vidyā</b>—divine knowledge; <b>vinaya</b>—humbleness; <b>sampanne</b>—equipped with; <b>brāhmaṇe</b>—a Brahmin; <b>gavi</b>—a cow; <b>hastini</b>—an elephant; <b>śhuni</b>—a dog; <b>cha</b>—and; <b>eva</b>—certainly; <b>śhva-pāke</b>—a dog-eater; <b>cha</b>—and; <b>paṇḍitāḥ</b>—the learned; <b>sama-darśhinaḥ</b>—see with equal vision</div>
+            <div class="translation">The sages look with equal eye on a Brahmana endowed with knowledge and humility, on a cow, on an elephant, on a dog and on the outcaste who feeds on dog’s flesh.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.19</div>
+            <div class="devanagari">इहैव तैर्जित: सर्गो येषां साम्ये स्थितं मन: ।<br>निर्दोषं हि समं ब्रह्म तस्माद् ब्रह्मणि ते स्थिता: ।। 19।।</div>
+            <div class="iast">ihaiva tair jitaḥ sargo yeṣhāṁ sāmye sthitaṁ manaḥ<br>nirdoṣhaṁ hi samaṁ brahma tasmād brahmaṇi te sthitāḥ</div>
+            <div class="glossary"><b>iha eva</b>—in this very life; <b>taiḥ</b>—by them; <b>jitaḥ</b>—conquer; <b>sargaḥ</b>—the creation; <b>yeṣhām</b>—whose; <b>sāmye</b>—in equanimity; <b>sthitam</b>—situated; <b>manaḥ</b>—mind; <b>nirdoṣham</b>—flawless; <b>hi</b>—certainly; <b>samam</b>—in equality; <b>brahma</b>—God; <b>tasmāt</b>—therefore; <b>brahmaṇi</b>—in the Absolute Truth; <b>te</b>—they; <b>sthitāḥ</b>—are seated</div>
+            <div class="translation">Even here (while living in this body) birth and death (samsara) are overcome by those whose mind is established in equality; Brahman is untainted and is the same in all; therefore in brahman, they rest.</div>
+        </div>
+        <div class='lecture-title'>068. Chapter 5 Verses 20-21</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.20</div>
+            <div class="devanagari">न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।<br>स्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थित: ।। 20।।</div>
+            <div class="iast">na prahṛiṣhyet priyaṁ prāpya nodvijet prāpya chāpriyam<br>sthira-buddhir asammūḍho brahma-vid brahmaṇi sthitaḥ</div>
+            <div class="glossary"><b>na</b>—neither; <b>prahṛiṣhyet</b>—rejoice; <b>priyam</b>—the pleasant; <b>prāpya</b>—obtaining; <b>na</b>—nor; <b>udvijet</b>—become disturbed; <b>prāpya</b>—attaining; <b>cha</b>—also; <b>apriyam</b>—the unpleasant; <b>sthira-buddhiḥ</b>—steady intellect; <b>asammūḍhaḥ</b>—firmly situated; <b>brahma-vit</b>—having a firm understanding of divine knowledge; <b>brahmaṇi</b>—established in God; <b>sthitaḥ</b>—situated</div>
+            <div class="translation">The man of steady intellect, undeluded, knower of Brahman, established in Brahman, should not be elated having obtained the pleasant and should not be troubled having got the unpleasant.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.21</div>
+            <div class="devanagari">बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।<br>स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ।। 21।।</div>
+            <div class="iast">bāhya-sparśheṣhvasaktātmā vindatyātmani yat sukham<br>sa brahma-yoga-yuktātmā sukham akṣhayam aśhnute</div>
+            <div class="glossary"><b>bāhya-sparśheṣhu</b>—external sense pleasure; <b>asakta-ātmā</b>—those who are unattached; <b>vindati</b>—find; <b>ātmani</b>—in the self; <b>yat</b>—which; <b>sukham</b>—bliss; <b>saḥ</b>—that person; <b>brahma-yoga yukta-ātmā</b>—those who are united with God through yog; <b>sukham</b>—happiness; <b>akṣhayam</b>—unlimited; <b>aśhnute</b>—experiences</div>
+            <div class="translation">With mind unattached to external contacts he finds happiness in Atma and with mind united with Brahman (Atma) in meditation, he enjoys imperishable happiness.</div>
+        </div>
+        <div class='lecture-title'>069. Chapter 5 Verses 22-23</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.22</div>
+            <div class="devanagari">ये हि संस्पर्शजा भोगा दु:खयोनय एव ते ।<br>आद्यन्तवन्त: कौन्तेय न तेषु रमते बुध: ।। 22।।</div>
+            <div class="iast">ye hi sansparśha-jā bhogā duḥkha-yonaya eva te<br>ādyantavantaḥ kaunteya na teṣhu ramate budhaḥ</div>
+            <div class="glossary"><b>ye</b>—which; <b>hi</b>—verily; <b>sansparśha-jāḥ</b>—born of contact with the sense objects; <b>bhogāḥ</b>—pleasures; <b>duḥkha</b>—misery; <b>yonayaḥ</b>—source of; <b>eva</b>—verily; <b>te</b>—they are; <b>ādya-antavantaḥ</b>—having beginning and end; <b>kaunteya</b>—Arjun, the son of Kunti; <b>na</b>—never; <b>teṣhu</b>—in those; <b>ramate</b>—takes delight; <b>budhaḥ</b>—the wise</div>
+            <div class="translation">Those enjoyments born of external contacts are themselves indeed the source of pain only; they have a beginning and end; the wise do not rejoice in them.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.23</div>
+            <div class="devanagari">शक्नोतीहैव य: सोढुं प्राक्शरीरविमोक्षणात् ।<br>कामक्रोधोद्भवं वेगं स युक्त: स सुखी नर: ।। 23।।</div>
+            <div class="iast">śhaknotīhaiva yaḥ soḍhuṁ prāk śharīra-vimokṣhaṇāt<br>kāma-krodhodbhavaṁ vegaṁ sa yuktaḥ sa sukhī naraḥ</div>
+            <div class="glossary"><b>śhaknoti</b>—is able; <b>iha eva</b>—in the present body; <b>yaḥ</b>—who; <b>soḍhum</b>—to withstand; <b>prāk</b>—before; <b>śharīra</b>—the body; <b>vimokṣhaṇāt</b>—giving up; <b>kāma</b>—desire; <b>krodha</b>—anger; <b>udbhavam</b>—generated from; <b>vegam</b>—forces; <b>saḥ</b>—that person; <b>yuktaḥ</b>—yogi; <b>saḥ</b>—that person; <b>sukhī</b>—happy; <b>naraḥ</b>—person</div>
+            <div class="translation">He who is able to endure the impulse of desire and anger even in this world before the fall of the body, is the harmonised, and he is the happy man.</div>
+        </div>
+        <div class='lecture-title'>070. Chapter 5 Verses 24-29</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 5.24</div>
+            <div class="devanagari">योऽन्त:सुखोऽन्तरारामस्तथान्तज्र्योतिरेव य: ।<br>स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ।। 24।।</div>
+            <div class="iast">yo ‘ntaḥ-sukho ‘ntar-ārāmas tathāntar-jyotir eva yaḥ<br>sa yogī brahma-nirvāṇaṁ brahma-bhūto ‘dhigachchhati</div>
+            <div class="glossary"><b>yaḥ</b>—who; <b>antaḥ-sukhaḥ</b>—happy within the self; <b>antaḥ-ārāmaḥ</b>—enjoying within the self; ; <b>tathā</b>—as well as; <b>antaḥ-jyotiḥ</b>—illumined by the inner light; <b>eva</b>—certainly; <b>yaḥ</b>—who; ; <b>saḥ</b>—he; <b>yogī</b>—yogi; <b>brahma-nirvāṇam</b>—liberation from material existence; <b>brahmabhūtaḥ</b>— united with the Lord; <b>adhigachchhati</b>—attains</div>
+            <div class="translation">He who finds happiness within, delights within, and illumined within, that sage becoming Brahman attains absolute perfection.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.25</div>
+            <div class="devanagari">लभन्ते ब्रह्मनिर्वाणमृषय: क्षीणकल्मषा: ।<br>छिन्नद्वैधा यतात्मान: सर्वभूतहिते रता: ।। 25।।</div>
+            <div class="iast">labhante brahma-nirvāṇam ṛiṣhayaḥ kṣhīṇa-kalmaṣhāḥ<br>chhinna-dvaidhā yatātmānaḥ sarva-bhūta-hite ratāḥ</div>
+            <div class="glossary"><b>labhante</b>—achieve; <b>brahma-nirvāṇam</b>—liberation from material existence; <b>ṛiṣhayaḥ</b>—holy persons; <b>kṣhīṇa-kalmaṣhāḥ</b>—whose sins have been purged; <b>chhinna</b>—annihilated; <b>dvaidhāḥ</b>—doubts; <b>yata-ātmānaḥ</b>—whose minds are disciplined; <b>sarva-bhūta</b>—for all living entities; <b>hite</b>—in welfare work; <b>ratāḥ</b>—rejoice</div>
+            <div class="translation">Sages whose sins are destroyed, whose dualities are torn asunder, who are self-controlled, who rejoice in the well-being of others, attain union with Brahman (Moksha).</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.26</div>
+            <div class="devanagari">कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।<br>अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ।। 26।।</div>
+            <div class="iast">kāma-krodha-viyuktānāṁ yatīnāṁ yata-chetasām<br>abhito brahma-nirvāṇaṁ vartate viditātmanām</div>
+            <div class="glossary"><b>kāma</b>—desires; <b>krodha</b>—anger; <b>viyuktānām</b>—of those who are liberated; <b>yatīnām</b>—of the saintly persons; <b>yata-chetasām</b>—those self-realized persons who have subdued their mind; <b>abhitaḥ</b>—from every side; <b>brahma</b>—spiritual; <b>nirvāṇam</b>—liberation from material existence; <b>vartate</b>—exists; <b>vidita-ātmanām</b>—of those who are self-realized</div>
+            <div class="translation">To the self-controlled sages who are free from desire and wrath, who have controlled their thoughts, who have realised the Self, absolute freedom exists on all sides.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.27-28</div>
+            <div class="devanagari">स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: ।<br>प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ।। 27।।<br>यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: ।<br>विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: ।। 28।।</div>
+            <div class="iast">sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ<br>prāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau<br>yatendriya-mano-buddhir munir mokṣha-parāyaṇaḥ<br>vigatechchhā-bhaya-krodho yaḥ sadā mukta eva saḥ</div>
+            <div class="glossary"><b>sparśhān</b>—contacts (through senses); <b>kṛitvā</b>—keeping; <b>bahiḥ</b>—outside; <b>bāhyān</b>—external; <b>chakṣhuḥ</b>—eyes; <b>cha</b>—and; <b>eva</b>—certainly; <b>antare</b>—between; <b>bhruvoḥ</b>—of the eyebrows; <b>prāṇa-apānau</b>—the outgoing and incoming breaths; <b>samau</b>—equal; <b>kṛitvā</b>—keeping; <b>nāsa-abhyantara</b>—within the nostrils; <b>chāriṇau</b>—moving; <b>yata</b>—controlled; <b>indriya</b>—senses; <b>manaḥ</b>—mind; <b>buddhiḥ</b>—intellect; <b>muniḥ</b>—the sage; <b>mokṣha</b>—liberation; <b>parāyaṇaḥ</b>—dedicated; <b>vigata</b>—free; <b>ichchhā</b>—desires; <b>bhaya</b>—fear; <b>krodhaḥ</b>—anger; <b>yaḥ</b>—who; <b>sadā</b>—always; <b>muktaḥ</b>—liberated; <b>eva</b>—certainly; <b>saḥ</b>—that person</div>
+            <div class="translation">The sage who has turned away all external impressions, fixing his gaze in the centre of the brows, controlling the incoming and outgoing breath rhythmically, keeping the senses, the mind and the intellect controlled, free from desire, fear and hatred, aspiring for the highest freedom indeed enjoys freedom always.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 5.29</div>
+            <div class="devanagari">भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।<br>सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ।। 29।।</div>
+            <div class="iast">bhoktāraṁ yajña-tapasāṁ sarva-loka-maheśhvaram<br>suhṛidaṁ sarva-bhūtānāṁ jñātvā māṁ śhāntim ṛichchhati</div>
+            <div class="glossary"><b>bhoktāram</b>—the enjoyer; <b>yajña</b>—sacrifices; <b>tapasām</b>—austerities; <b>sarva-loka</b>—of all worlds; <b>mahā-īśhvaram</b>—the Supreme Lord; <b>su-hṛidam</b>—the selfless friend; <b>sarva</b>—of all; <b>bhūtānām</b>—the living beings; <b>jñātvā</b>—having realized; <b>mām</b>—Me (Lord Krishna); <b>śhāntim</b>—peace; <b>ṛichchhati</b>—attains</div>
+            <div class="translation">Knowing Me as the enjoyer of all sacrifices and austerities, the Lord and controller of all the worlds, friend of all beings, man attains peace.</div>
+        </div>
+        <div class='lecture-title'>071. Chapter 5 Summary</div>
+</body>
+</html>
