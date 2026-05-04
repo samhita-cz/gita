@@ -262,6 +262,11 @@ body.dark-mode .analysis-header:hover {
     justify-content: flex-end;
   }
 
+  body.about-links-page #audio-toggle,
+  body.about-links-page #more-menu-btn {
+    display: none !important;
+  }
+
   .transpose-group {
     display: inline-flex;
     align-items: center;
@@ -1714,6 +1719,18 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     const params = new URLSearchParams(window.location.search);
     const songName = params.get('s');
     const audioParam = params.get('audio');
+
+    const normalizedSongName = (songName || '').trim().toLowerCase();
+    const isAboutLinksPage = normalizedSongName === 'odkazy';
+
+    if (isAboutLinksPage) {
+      document.body.classList.add('about-links-page');
+      const audioToggleBtn = document.getElementById('audio-toggle');
+      const moreMenuBtn = document.getElementById('more-menu-btn');
+      if (audioToggleBtn) audioToggleBtn.style.display = 'none';
+      if (moreMenuBtn) moreMenuBtn.style.display = 'none';
+      if (topbarTitleEl) topbarTitleEl.textContent = 'About';
+    }
   
     let audioData = null;
     let audioList = [];
@@ -1786,6 +1803,14 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
         if (song) {
           window.currentSongObj = song; 
           
+          // Skrýt tlačítka Chanting a menu pro soubor Odkazy
+          const audioToggleBtn = document.getElementById('audio-toggle');
+          const moreMenuBtn = document.getElementById('more-menu-btn');
+          if (song.file === 'Odkazy' || song.name === 'Odkazy') {
+            if (audioToggleBtn) audioToggleBtn.style.display = 'none';
+            if (moreMenuBtn) moreMenuBtn.style.display = 'none';
+          }
+          
           // POJISTKA: Pokud se .pro soubor načetl rychleji než JSON, vykresli ho znovu!
           if (songData !== '') {
               window.renderSong(); 
@@ -1810,6 +1835,13 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
       const drawer = document.getElementById('audio-drawer');
       const listEl = document.getElementById('audio-list');
       const player = document.getElementById('audio-player');
+
+      if (isAboutLinksPage) {
+        if (toggleBtn) toggleBtn.style.display = 'none';
+        if (drawer) drawer.classList.remove('is-open');
+        return;
+      }
+
       if (!audioData || !toggleBtn || !drawer || !listEl || !player) return;
   
       if (typeof audioData === 'string') {

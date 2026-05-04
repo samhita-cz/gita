@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Bhagavad Gita - SwaSarva</title>
+<title>Bhagavad Gita - Swami Sarvapriyananda</title>
 <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <style>
   * { box-sizing: border-box; }
@@ -69,7 +69,7 @@ body.dark-mode .song-tag {
   header {
     background: #2c4c7e;
     color: white;
-    padding: 24px 20px 16px;
+    padding: 16px 20px 10px;
   }
 
   .header-inner {
@@ -112,8 +112,16 @@ body.dark-mode .song-tag {
 
   header h1 {
     margin: 0;
-    font-size: 28px;
+    font-size: 27px;
     font-weight: bold;
+    line-height: 1.15;
+  }
+
+  header h3 {
+    margin: 2px 0 0;
+    font-size: 18px;
+    line-height: 1.2;
+    font-weight: 400;
   }
 
   header p {
@@ -283,10 +291,60 @@ body.dark-mode .song-tag {
     background: #fdf3ec;
   }
 
+  .sidebar-header-left {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+  }
+
   .sidebar-title {
     font-family: sans-serif;
     font-weight: 800;
     color: #5a3a2a;
+  }
+
+  .sidebar-theme-btn {
+    appearance: none;
+    border: 1px solid rgba(0,0,0,0.10);
+    background: #fff;
+    color: #333;
+    width: 38px;
+    height: 38px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+  }
+
+  .sidebar-theme-btn:hover {
+    border-color: rgba(0,0,0,0.18);
+  }
+
+  .sidebar-about-btn {
+    appearance: none;
+    border: 1px solid rgba(0,0,0,0.10);
+    background: #fff;
+    color: #333;
+    height: 38px;
+    border-radius: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 1;
+    padding: 0 12px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.15s ease;
+    font-family: sans-serif;
+    font-weight: 600;
+  }
+
+  .sidebar-about-btn:hover {
+    border-color: rgba(0,0,0,0.18);
   }
 
   .sidebar-close {
@@ -557,6 +615,28 @@ body.dark-mode .song-tag {
     color: #e6e2dd !important;
   }
 
+  body.dark-mode .sidebar-theme-btn {
+    background-color: #33302d !important;
+    border: 1px solid #5d5650 !important;
+    color: #e6e2dd !important;
+  }
+
+  body.dark-mode .sidebar-theme-btn:hover {
+    color: #4da6ff !important;
+    border-color: #4da6ff !important;
+  }
+
+  body.dark-mode .sidebar-about-btn {
+    background-color: #33302d !important;
+    border: 1px solid #5d5650 !important;
+    color: #e6e2dd !important;
+  }
+
+  body.dark-mode .sidebar-about-btn:hover {
+    color: #4da6ff !important;
+    border-color: #4da6ff !important;
+  }
+
   /* 3. Nadpisy sekcí ("ŘAZENÍ", "KATEGORIE") */
   body.dark-mode #sidebar h3 {
     color: #4da6ff !important;
@@ -739,6 +819,30 @@ body.sand-mode #sidebar h3 {
   color: #4a3b32 !important;
 }
 
+body.sand-mode .sidebar-theme-btn {
+  background-color: #f4ecd8 !important;
+  border: 1px solid #d4c2a5 !important;
+  color: #4a3b32 !important;
+}
+
+body.sand-mode .sidebar-theme-btn:hover {
+  color: #1f3a5f !important;
+  border-color: #1f3a5f !important;
+  box-shadow: 0 4px 10px rgba(31, 58, 95, 0.15) !important;
+}
+
+body.sand-mode .sidebar-about-btn {
+  background-color: #f4ecd8 !important;
+  border: 1px solid #d4c2a5 !important;
+  color: #4a3b32 !important;
+}
+
+body.sand-mode .sidebar-about-btn:hover {
+  color: #1f3a5f !important;
+  border-color: #1f3a5f !important;
+  box-shadow: 0 4px 10px rgba(31, 58, 95, 0.15) !important;
+}
+
 /* Tlačítka v menu */
 /* Tlačítka v menu */
 body.sand-mode .pill-btn {
@@ -880,7 +984,7 @@ body.sand-mode .filter-pill strong {
     text-shadow: 0 0 1px rgba(255, 255, 255, 0.3) !important; /* Jemný lesk, kdyby mobil ignoroval barvu */
   }
 
-  /* === SJEDNOCENÍ TLAČÍTEK V HLAVIČCE (Měsíček a Menu) === */
+  /* === SJEDNOCENÍ TLAČÍTEK V HLAVIČCE === */
   
   .header-actions {
     display: flex;
@@ -952,12 +1056,11 @@ body.sand-mode .filter-pill strong {
     <header>
       <div class="header-inner">
         <div class="header-text">
-          <h1>Bhagavad Gita - SwaSarva</h1>
-          <div class="last-update" id="last-update">Updated: —</div>
+          <h1>Bhagavad Gita</h1>
+          <h3><span class="subtitle">Swami Sarvapriyananda</span></h3>
+          <!-- <div class="last-update" id="last-update">Updated: —</div> -->
         </div>
         <div class="header-actions">
-          <button class="icon-btn" type="button" onclick="toggleDarkMode()" title="Switch theme" style="margin-right: 8px; font-size: 20px; background: none; border: none; cursor: pointer;">🌙</button>
-          
           <button class="menu-btn" id="menu-btn" type="button" aria-label="Open menu" aria-haspopup="dialog" aria-controls="sidebar">⋯</button>
         </div>
       </div>
@@ -981,7 +1084,10 @@ body.sand-mode .filter-pill strong {
 <div id="sidebar-backdrop" onclick="closeSidebar()"></div>
 <aside id="sidebar" role="dialog" aria-modal="true" aria-label="Menu">
   <div class="sidebar-header">
-    <div class="sidebar-title">Menu</div>
+    <div class="sidebar-header-left">
+      <button class="icon-btn sidebar-theme-btn" type="button" onclick="toggleDarkMode()" title="Switch theme" aria-label="Switch theme">🌙</button>
+      <button class="sidebar-about-btn" type="button" onclick="openLinksWindow()" aria-label="Open links window">About</button>
+    </div>
     <button class="sidebar-close" type="button" aria-label="Close menu" onclick="closeSidebar()">✕</button>
   </div>
   <div class="sidebar-content">
@@ -1081,8 +1187,7 @@ const CATEGORY_ORDER = [
   'Chapter 15 — puruṣottama yoga',
   'Chapter 16 — daivasura sampad vibhāga yoga',
   'Chapter 17 — śraddhātraya vibhāga yoga',
-  'Chapter 18 — mokṣa sannyāsa yoga',
-  'Links'
+  'Chapter 18 — mokṣa sannyāsa yoga'
 ];
 
 // Načteme songs.json
@@ -1373,6 +1478,19 @@ function clearCategoryFilter() {
   
   applyFiltersAndRender();
   syncCategoryButtonsActive();
+}
+
+function openLinksWindow() {
+  closeSidebar();
+  const linksSong = songs.find((s) =>
+    (s.category ?? '') === 'Links' ||
+    (s.name ?? '') === 'Links' ||
+    (s.name ?? '') === 'Odkazy' ||
+    (s.file ?? '') === 'Odkazy'
+  );
+  const baseUrl = linksSong ? buildUrl(linksSong) : 'song.html?s=' + encodeURIComponent('Odkazy');
+  const targetUrl = baseUrl + (baseUrl.includes('?') ? '&' : '?') + 'v=' + Date.now();
+  window.location.href = targetUrl;
 }
 
 function renderActiveFilter() {
