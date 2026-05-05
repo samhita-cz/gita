@@ -1,15 +1,15 @@
-{title: nazevsouboru}
+{title: 134. Chapter 12 Verses 3-4}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 12 — bhakti yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3 | Gaiea Sanskrit 12.x}
+{audio: https://vinkler-collab.github.io/gita-audio/ch12/134.mp3 | Gaiea Sanskrit 12.3-4}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 12.}
+{sov: Verse 12.3}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 12.}
+{sov: Verse 12.4}
 
 MP3VIVEKAVANI
 

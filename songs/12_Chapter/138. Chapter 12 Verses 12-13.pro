@@ -1,15 +1,15 @@
-{title: nazevsouboru}
+{title: 138. Chapter 12 Verses 12-13}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 12 — bhakti yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3 | Gaiea Sanskrit 12.x}
+{audio: https://vinkler-collab.github.io/gita-audio/ch12/138.mp3 | Gaiea Sanskrit 12.12-13}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 12.}
+{sov: Verse 12.12}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 12.}
+{sov: Verse 12.13}
 
 MP3VIVEKAVANI
 

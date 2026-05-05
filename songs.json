@@ -2242,94 +2242,14 @@
     "analysis": "***"
   },
   {
-    "name": "nazevsouboru",
-    "category": "Chapter 18 — mokṣa sannyāsa yoga",
-    "file": "18_Chapter/xxx. Chapter 18 Verses x",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch18/xxx.mp3",
-        "label": "Gaiea Sanskrit 18.x",
-        "title": "Gaiea Sanskrit 18.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
-    "file": "11_Chapter/132. Chapter 11 Verse 47-55",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch11/xxx.mp3",
-        "label": "Gaiea Sanskrit 11.x",
-        "title": "Gaiea Sanskrit 11.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
-    "file": "11_Chapter/129. Chapter 11 Verse 15-25",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch11/xxx.mp3",
-        "label": "Gaiea Sanskrit 11.x",
-        "title": "Gaiea Sanskrit 11.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
-    "file": "11_Chapter/130. Chapter 11 Verse 26-33",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch11/xxx.mp3",
-        "label": "Gaiea Sanskrit 11.x",
-        "title": "Gaiea Sanskrit 11.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
-    "file": "11_Chapter/128. Chapter 11 Verse 5-14",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch11/xxx.mp3",
-        "label": "Gaiea Sanskrit 11.x",
-        "title": "Gaiea Sanskrit 11.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
+    "name": "127. Chapter 11 Verse 1-4",
     "category": "Chapter 11 — viśvarūpa sandarśana yoga",
     "file": "11_Chapter/127. Chapter 11 Verse 1-4",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch11/xxx.mp3",
-        "label": "Gaiea Sanskrit 11.x",
-        "title": "Gaiea Sanskrit 11.x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch11/127.mp3",
+        "label": "Gaiea Sanskrit 11.1-4",
+        "title": "Gaiea Sanskrit 11.1-4"
       }
     ],
     "tags": [],
@@ -2338,14 +2258,62 @@
     "analysis": "***"
   },
   {
-    "name": "nazevsouboru",
+    "name": "128. Chapter 11 Verse 5-14",
+    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
+    "file": "11_Chapter/128. Chapter 11 Verse 5-14",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch11/128.mp3",
+        "label": "Gaiea Sanskrit 11.5-14",
+        "title": "Gaiea Sanskrit 11.5-14"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "129. Chapter 11 Verse 15-25",
+    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
+    "file": "11_Chapter/129. Chapter 11 Verse 15-25",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch11/129.mp3",
+        "label": "Gaiea Sanskrit 11.15-25",
+        "title": "Gaiea Sanskrit 11.15-25"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "130. Chapter 11 Verse 26-33",
+    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
+    "file": "11_Chapter/130. Chapter 11 Verse 26-33",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch11/130.mp3",
+        "label": "Gaiea Sanskrit 11.26-33",
+        "title": "Gaiea Sanskrit 11.26-33"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "131. Chapter 11 Verse 34-46",
     "category": "Chapter 11 — viśvarūpa sandarśana yoga",
     "file": "11_Chapter/131. Chapter 11 Verse 34-46",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch11/xxx.mp3",
-        "label": "Gaiea Sanskrit 11.x",
-        "title": "Gaiea Sanskrit 11.x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch11/131.mp3",
+        "label": "Gaiea Sanskrit 11.34-46",
+        "title": "Gaiea Sanskrit 11.34-46"
       }
     ],
     "tags": [],
@@ -2354,14 +2322,14 @@
     "analysis": "***"
   },
   {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/138. Chapter 12 Verses 12-13",
+    "name": "132. Chapter 11 Verse 47-55",
+    "category": "Chapter 11 — viśvarūpa sandarśana yoga",
+    "file": "11_Chapter/132. Chapter 11 Verse 47-55",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch11/132.mp3",
+        "label": "Gaiea Sanskrit 11.47-55",
+        "title": "Gaiea Sanskrit 11.47-55"
       }
     ],
     "tags": [],
@@ -2370,126 +2338,14 @@
     "analysis": "***"
   },
   {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/136. Chapter 12 Verse 8",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/139. Chapter 12 Verses 13-14",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/140. Chapter 12 Verse 15",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/135. Chapter 12 Verses 5-7",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/142. Chapter 12 Verses 18-20",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/137. Chapter 12 Verses 9-11",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 12 — bhakti yoga",
-    "file": "12_Chapter/141. Chapter 12 Verses 16-19",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
+    "name": "133. Chapter 12 Verses 1-2",
     "category": "Chapter 12 — bhakti yoga",
     "file": "12_Chapter/133. Chapter 12 Verses 1-2",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/133.mp3",
+        "label": "Gaiea Sanskrit 12.1-2",
+        "title": "Gaiea Sanskrit 12.1-2"
       }
     ],
     "tags": [],
@@ -2498,14 +2354,142 @@
     "analysis": "***"
   },
   {
-    "name": "nazevsouboru",
+    "name": "134. Chapter 12 Verses 3-4",
     "category": "Chapter 12 — bhakti yoga",
     "file": "12_Chapter/134. Chapter 12 Verses 3-4",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3",
-        "label": "Gaiea Sanskrit 12.x",
-        "title": "Gaiea Sanskrit 12.x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/134.mp3",
+        "label": "Gaiea Sanskrit 12.3-4",
+        "title": "Gaiea Sanskrit 12.3-4"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "135. Chapter 12 Verses 5-7",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/135. Chapter 12 Verses 5-7",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/135.mp3",
+        "label": "Gaiea Sanskrit 12.5-7",
+        "title": "Gaiea Sanskrit 12.5-7"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "136. Chapter 12 Verse 8",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/136. Chapter 12 Verse 8",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/136.mp3",
+        "label": "Gaiea Sanskrit 12.8",
+        "title": "Gaiea Sanskrit 12.8"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "137. Chapter 12 Verses 9-11",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/137. Chapter 12 Verses 9-11",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/137.mp3",
+        "label": "Gaiea Sanskrit 12.9-11",
+        "title": "Gaiea Sanskrit 12.9-11"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "138. Chapter 12 Verses 12-13",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/138. Chapter 12 Verses 12-13",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/138.mp3",
+        "label": "Gaiea Sanskrit 12.12-13",
+        "title": "Gaiea Sanskrit 12.12-13"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "139. Chapter 12 Verses 13-14",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/139. Chapter 12 Verses 13-14",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/139.mp3",
+        "label": "Gaiea Sanskrit 12.13-14",
+        "title": "Gaiea Sanskrit 12.13-14"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "140. Chapter 12 Verse 15",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/140. Chapter 12 Verse 15",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/140.mp3",
+        "label": "Gaiea Sanskrit 12.15",
+        "title": "Gaiea Sanskrit 12.15"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "141. Chapter 12 Verses 16-19",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/141. Chapter 12 Verses 16-19",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/141.mp3",
+        "label": "Gaiea Sanskrit 12.16-19",
+        "title": "Gaiea Sanskrit 12.16-19"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "142. Chapter 12 Verses 18-20",
+    "category": "Chapter 12 — bhakti yoga",
+    "file": "12_Chapter/142. Chapter 12 Verses 18-20",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch12/142.mp3",
+        "label": "Gaiea Sanskrit 12.18-20",
+        "title": "Gaiea Sanskrit 12.18-20"
       }
     ],
     "tags": [],
@@ -2884,6 +2868,22 @@
   {
     "name": "nazevsouboru",
     "category": "Chapter 14 — guṇa traya vibhāga yoga",
+    "file": "14_Chapter/170. Chapter 14 Verses 26-27",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch14/xxx.mp3",
+        "label": "Gaiea Sanskrit 14.x",
+        "title": "Gaiea Sanskrit 14.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "nazevsouboru",
+    "category": "Chapter 14 — guṇa traya vibhāga yoga",
     "file": "14_Chapter/166. Chapter 14 Verses 11-15",
     "audio": [
       {
@@ -2947,29 +2947,13 @@
   },
   {
     "name": "nazevsouboru",
-    "category": "Chapter 17 — śraddhātraya vibhāga yoga",
-    "file": "17_Chapter/xxx. Chapter 17 Verses x",
+    "category": "Chapter 15 — puruṣottama yoga",
+    "file": "15_Chapter/175. Chapter 15 Verse 15",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch17/xxx.mp3",
-        "label": "Gaiea Sanskrit 17.x",
-        "title": "Gaiea Sanskrit 17.x"
-      }
-    ],
-    "tags": [],
-    "dateAdded": "2026-05-05",
-    "hasPDF": false,
-    "analysis": "***"
-  },
-  {
-    "name": "nazevsouboru",
-    "category": "Chapter 16 — daivasura sampad vibhāga yoga",
-    "file": "16_Chapter/xxx. Chapter 16 Verses x",
-    "audio": [
-      {
-        "url": "https://vinkler-collab.github.io/gita-audio/ch16/xxx.mp3",
-        "label": "Gaiea Sanskrit 16.x",
-        "title": "Gaiea Sanskrit 16.x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch15/xxx.mp3",
+        "label": "Gaiea Sanskrit 15.x",
+        "title": "Gaiea Sanskrit 15.x"
       }
     ],
     "tags": [],
@@ -2980,7 +2964,71 @@
   {
     "name": "nazevsouboru",
     "category": "Chapter 15 — puruṣottama yoga",
-    "file": "15_Chapter/xxx. Chapter 15 Verses x",
+    "file": "15_Chapter/176. Chapter 15 Verse 16",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch15/xxx.mp3",
+        "label": "Gaiea Sanskrit 15.x",
+        "title": "Gaiea Sanskrit 15.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "nazevsouboru",
+    "category": "Chapter 15 — puruṣottama yoga",
+    "file": "15_Chapter/172. Chapter 15 Verses 1-4 (Contnd.)",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch15/xxx.mp3",
+        "label": "Gaiea Sanskrit 15.x",
+        "title": "Gaiea Sanskrit 15.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "nazevsouboru",
+    "category": "Chapter 15 — puruṣottama yoga",
+    "file": "15_Chapter/174. Chapter 15 Verses 1-4 (Contnd.)",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch15/xxx.mp3",
+        "label": "Gaiea Sanskrit 15.x",
+        "title": "Gaiea Sanskrit 15.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "nazevsouboru",
+    "category": "Chapter 15 — puruṣottama yoga",
+    "file": "15_Chapter/173. Chapter 15 Verses 1-4 (Contnd.)",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch15/xxx.mp3",
+        "label": "Gaiea Sanskrit 15.x",
+        "title": "Gaiea Sanskrit 15.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-05",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "nazevsouboru",
+    "category": "Chapter 15 — puruṣottama yoga",
+    "file": "15_Chapter/171. Chapter 15 Verses 1-4",
     "audio": [
       {
         "url": "https://vinkler-collab.github.io/gita-audio/ch15/xxx.mp3",

@@ -1,15 +1,15 @@
-{title: nazevsouboru}
+{title: 135. Chapter 12 Verses 5-7}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 12 — bhakti yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch12/xxx.mp3 | Gaiea Sanskrit 12.x}
+{audio: https://vinkler-collab.github.io/gita-audio/ch12/135.mp3 | Gaiea Sanskrit 12.5-7}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 12.}
+{sov: Verse 12.5}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,18 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 12.}
+{sov: Verse 12.6}
+
+MP3VIVEKAVANI
+
+DEVAGIASTSLOVNIK
+{eov}
+
+{sot}
+TRANSLATION
+{eot}
+
+{sov: Verse 12.7}
 
 MP3VIVEKAVANI
 
