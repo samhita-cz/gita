@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch12/133.mp3 | Gaiea Sanskrit 12.1-2}
 
-YOUTUBE
+https://youtu.be/ZefBf73MZf8?si=g3GvhNIOAyg64WIQ
 
 SPOTIFY
 

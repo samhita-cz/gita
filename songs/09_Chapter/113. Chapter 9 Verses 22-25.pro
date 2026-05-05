@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch09/113.mp3 | Gaiea Sanskrit 9.22-25}
 
-YOUTUBE
+https://youtu.be/oeixLgWTygs?si=0DUlTtpSiXU3grBO
 
 SPOTIFY
 

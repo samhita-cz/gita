@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch11/127.mp3 | Gaiea Sanskrit 11.1-4}
 
-YOUTUBE
+https://youtu.be/wOrxTtGZbV4?si=wuzBADcXjITEXEsm
 
 SPOTIFY
 

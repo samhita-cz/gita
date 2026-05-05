@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch10/120.mp3 | Gaiea Sanskrit 10.7-9}
 
-YOUTUBE
+https://youtu.be/kW2FZbEB1LI?si=Mn5XK9k24v_ptmhB
 
 SPOTIFY
 

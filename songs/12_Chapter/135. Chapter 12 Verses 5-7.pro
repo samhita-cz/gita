@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch12/135.mp3 | Gaiea Sanskrit 12.5-7}
 
-YOUTUBE
+https://youtu.be/XM_K0E30PG8?si=1heeZkcQJ4ZclkVT
 
 SPOTIFY
 

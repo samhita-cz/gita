@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch09/106.mp3 | Gaiea Sanskrit 9.3-4}
 
-YOUTUBE
+https://youtu.be/q6_SZSMaNFA?si=3lOYcij3SDNN2wNe
 
 SPOTIFY
 

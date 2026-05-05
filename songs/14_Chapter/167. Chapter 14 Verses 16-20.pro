@@ -1,15 +1,15 @@
-{title: nazevsouboru}
+{title: 167. Chapter 14 Verses 16-20}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 14 — guṇa traya vibhāga yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch14/xxx.mp3 | Gaiea Sanskrit 14.x}
+{audio: https://vinkler-collab.github.io/gita-audio/ch14/167.mp3 | Gaiea Sanskrit 14.16-20}
 
-YOUTUBE
+https://www.youtu.be/nYeO34oopqM?si=qSGnWgDlG0GApiCt
 
 SPOTIFY
 
-{sov: Verse 14.}
+{sov: Verse 14.16}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,40 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 14.}
+{sov: Verse 14.17}
+
+MP3VIVEKAVANI
+
+DEVAGIASTSLOVNIK
+{eov}
+
+{sot}
+TRANSLATION
+{eot}
+
+{sov: Verse 14.18}
+
+MP3VIVEKAVANI
+
+DEVAGIASTSLOVNIK
+{eov}
+
+{sot}
+TRANSLATION
+{eot}
+
+{sov: Verse 14.19}
+
+MP3VIVEKAVANI
+
+DEVAGIASTSLOVNIK
+{eov}
+
+{sot}
+TRANSLATION
+{eot}
+
+{sov: Verse 14.20}
 
 MP3VIVEKAVANI
 

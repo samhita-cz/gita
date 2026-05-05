@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch08/100.mp3 | Gaiea Sanskrit 8.8-10}
 
-YOUTUBE
+https://youtu.be/x5SKTkDU5Xs?si=3fSi50Ouw8q_xjj1
 
 SPOTIFY
 

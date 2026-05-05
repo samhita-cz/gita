@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch09/116.mp3 | Gaiea Sanskrit 9.32-34}
 
-YOUTUBE
+https://youtu.be/3O_8JVNJL6g?si=pC_h0UIqn4RZR1R1
 
 SPOTIFY
 

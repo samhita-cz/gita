@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch11/132.mp3 | Gaiea Sanskrit 11.47-55}
 
-YOUTUBE
+https://youtu.be/-ekuXO7ZUzA?si=Ox1vGoHYd8np6qLb
 
 SPOTIFY
 

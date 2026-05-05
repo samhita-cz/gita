@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch10/125.mp3 | Gaiea Sanskrit 10.31-33}
 
-YOUTUBE
+https://youtu.be/F97dcq5ppTA?si=5mTGy38RyhOa9aug
 
 SPOTIFY
 

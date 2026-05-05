@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch10/123.mp3 | Gaiea Sanskrit 10.16-22}
 
-YOUTUBE
+https://youtu.be/TG-9p6FM-UU?si=-m0TO2XcKLWxIQRk
 
 SPOTIFY
 

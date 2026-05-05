@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch07/091.mp3 | Gaiea Sanskrit 7.3-5}
 
-YOUTUBE
+https://youtu.be/2tIyURemafc?si=QTlKLpOH7JUTG9te
 
 SPOTIFY
 

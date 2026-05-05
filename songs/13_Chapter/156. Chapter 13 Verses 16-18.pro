@@ -1,15 +1,15 @@
-{title: nazevsouboru}
+{title: 156. Chapter 13 Verses 16-18}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 13 — kṣetra kṣetrajña vibhāga yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch13/xxx.mp3 | Gaiea Sanskrit 13.x}
+{audio: https://vinkler-collab.github.io/gita-audio/ch13/156.mp3 | Gaiea Sanskrit 13.16-18}
 
-YOUTUBE
+https://www.youtu.be/rgFlEWjtOJA?si=PcCHGFXkeXSYh3Hi
 
 SPOTIFY
 
-{sov: Verse 13.}
+{sov: Verse 13.16}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,18 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 13.}
+{sov: Verse 13.17}
+
+MP3VIVEKAVANI
+
+DEVAGIASTSLOVNIK
+{eov}
+
+{sot}
+TRANSLATION
+{eot}
+
+{sov: Verse 13.18}
 
 MP3VIVEKAVANI
 

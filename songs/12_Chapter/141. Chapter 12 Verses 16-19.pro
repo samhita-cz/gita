@@ -5,7 +5,7 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch12/141.mp3 | Gaiea Sanskrit 12.16-19}
 
-YOUTUBE
+https://youtu.be/JReoIoq0_TU?si=XJld-rYbaNc4p3VR
 
 SPOTIFY
 
