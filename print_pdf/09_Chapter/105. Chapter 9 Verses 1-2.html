@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>105. Chapter 9 Verses 1-2</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.1</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।<br>ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ।। 1।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>idaṁ tu te guhyatamaṁ pravakṣhyāmyanasūyave<br>jñānaṁ vijñāna-sahitaṁ yaj jñātvā mokṣhyase ’śhubhāt</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>idam</b>—this; <b>tu</b>—but; <b>te</b>—to you; <b>guhya-tamam</b>—the most confidential; <b>pravakṣhyāmi</b>—I shall impart; <b>anasūyave</b>—nonenvious; <b>jñānam</b>—knowledge; <b>vijñāna</b>—realized knowledge; <b>sahitam</b>—with; <b>yat</b>—which; <b>jñātvā</b>—knowing; <b>mokṣhyase</b>—you will be released; <b>aśhubhāt</b>—miseries of material existence</div>
+            <div class="translation">The Lord said: To you, free from malice and cavil, I shall declare this profoundest secret, knowledge with experience combined, which having known, you shall be freed from all evil.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.2</div>
+            <div class="devanagari">राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।<br>प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ।। 2।।</div>
+            <div class="iast">rāja-vidyā rāja-guhyaṁ pavitram idam uttamam<br>pratyakṣhāvagamaṁ dharmyaṁ su-sukhaṁ kartum avyayam</div>
+            <div class="glossary"><b>rāja-vidyā</b>—the king of sciences; <b>rāja-guhyam</b>—the most profound secret; <b>pavitram</b>—pure; <b>idam</b>—this; <b>uttamam</b>—highest; <b>pratyakṣha</b>—directly perceptible; <b>avagamam</b>—directly realizable; <b>dharmyam</b>—virtuous; <b>su-sukham</b>—easy; <b>kartum</b>—to practice; <b>avyayam</b>—everlasting</div>
+            <div class="translation">It is the sovereign science, the sovereign mystery, and the supreme purifier. It is perceived by direct experience, it accords with dharma, it is easy to practise, and it is imperishable.</div>
+        </div>
+        
+</body>
+</html>

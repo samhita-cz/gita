@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 8 — akṣhara parabrahma yoga</div>
+        <h1>099. Chapter 8 Verses 5-7</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 8.5</div>
+            <div class="devanagari">अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् ।<br>य: प्रयाति स मद्भावं याति नास्त्यत्र संशय: ।। 5।।</div>
+            <div class="iast">anta-kāle cha mām eva smaran muktvā kalevaram<br>yaḥ prayāti sa mad-bhāvaṁ yāti nāstyatra sanśhayaḥ</div>
+            <div class="glossary"><b>anta-kāle</b>—at the time of death; <b>cha</b>—and; <b>mām</b>—Me; <b>eva</b>—alone; <b>smaran</b>—remembering; <b>muktvā</b>—relinquish; <b>kalevaram</b>—the body; <b>yaḥ</b>—who; <b>prayāti</b>—goes; <b>saḥ</b>—he; <b>mat-bhāvam</b>—godlike nature; <b>yāti</b>—achieves; <b>na</b>—no; <b>asti</b>—there is; <b>atra</b>—here; <b>sanśhayaḥ</b>—doubt</div>
+            <div class="translation">Those who relinquish the body while remembering Me at the moment of death will come to Me. There is certainly no doubt about this.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.6</div>
+            <div class="devanagari">यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।<br>तं तमेवैति कौन्तेय सदा तद्भावभावित: ।। 6।।</div>
+            <div class="iast">yaṁ yaṁ vāpi smaran bhāvaṁ tyajatyante kalevaram<br>taṁ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ</div>
+            <div class="glossary"><b>yam yam</b>—whatever; <b>vā</b>—or; <b>api</b>—even; <b>smaran</b>—remembering; <b>bhāvam</b>—remembrance; <b>tyajati</b>—gives up; <b>ante</b>—in the end; <b>kalevaram</b>—the body; <b>tam</b>—to that; <b>tam</b>—to that; <b>eva</b>—certainly; <b>eti</b>—gets; <b>kaunteya</b>—Arjun, the son of Kunti; <b>sadā</b>—always; <b>tat</b>—that; <b>bhāva-bhāvitaḥ</b>—absorbed in contemplation</div>
+            <div class="translation">For whatever object a man thinks of at the final moment, when he leaves his body— that alone does he attain, Ο son of Kunti, being ever absorbed in the thought thereof.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.7</div>
+            <div class="devanagari">तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च ।<br>मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम् ।। 7।।</div>
+            <div class="iast">tasmāt sarveṣhu kāleṣhu mām anusmara yudhya cha<br>mayyarpita-mano-buddhir mām evaiṣhyasyasanśhayam</div>
+            <div class="glossary"><b>tasmāt</b>—therefore; <b>sarveṣhu</b>—in all; <b>kāleṣhu</b>—times; <b>mām</b>—Me; <b>anusmara</b>—remember; <b>yudhya</b>—fight; <b>cha</b>—and; <b>mayi</b>—to Me; <b>arpita</b>—surrender; <b>manaḥ</b>—mind; <b>buddhiḥ</b>—intellect; <b>mām</b>—to Me; <b>eva</b>—surely; <b>eṣhyasi</b>—you shall attain; <b>asanśhayaḥ</b>—without a doubt</div>
+            <div class="translation">Therefore, at all times, constantly remember Me and fight. With your mind and intellect absorbed in Me, you will surely come to Me.</div>
+        </div>
+        
+</body>
+</html>

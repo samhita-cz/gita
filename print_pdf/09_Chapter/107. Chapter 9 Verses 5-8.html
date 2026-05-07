@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>107. Chapter 9 Verses 5-8</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.5</div>
+            <div class="devanagari">न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।<br>भूतभृन्न च भूतस्थो ममात्मा भूतभावन: ।। 5।।</div>
+            <div class="iast">na cha mat-sthāni bhūtāni paśhya me yogam aiśhwaram<br>bhūta-bhṛin na cha bhūta-stho mamātmā bhūta-bhāvanaḥ</div>
+            <div class="glossary"><b>na</b>—never; <b>cha</b>—and; <b>mat-sthāni</b>—abide in Me; <b>bhūtāni</b>—all living beings; <b>paśhya</b>—behold; <b>me</b>—My; <b>yogam aiśhwaram</b>—divine energy; <b>bhūta-bhṛit</b>—the sustainer of all living beings; <b>na</b>—never; <b>cha</b>—yet; <b>bhūta-sthaḥ</b>—dwelling in; <b>mama</b>—My; <b>ātmā</b>—Self; <b>bhūta-bhāvanaḥ</b>—the Creator of all beings</div>
+            <div class="translation">And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.6</div>
+            <div class="devanagari">यथाकाशस्थितो नित्यं वायु: सर्वत्रगो महान् ।<br>तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ।। 6।।</div>
+            <div class="iast">yathākāśha-sthito nityaṁ vāyuḥ sarvatra-go mahān<br>tathā sarvāṇi bhūtāni mat-sthānītyupadhāraya</div>
+            <div class="glossary"><b>yathā</b>—as; <b>ākāśha-sthitaḥ</b>—rests in the sky; <b>nityam</b>—always; <b>vāyuḥ</b>—the wind; <b>sarvatra-gaḥ</b>—blowing everywhere; <b>mahān</b>—mighty; <b>tathā</b>—likewise; <b>sarvāṇi bhūtāni</b>—all living beings; <b>mat-sthāni</b>—rest in Me; <b>iti</b>—thus; <b>upadhāraya</b>—know</div>
+            <div class="translation">Know that as the mighty wind blowing everywhere rests always in the sky(ether), likewise, all living beings always rest in Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.7</div>
+            <div class="devanagari">सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।<br>कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ।। 7।।</div>
+            <div class="iast">sarva-bhūtāni kaunteya prakṛitiṁ yānti māmikām<br>kalpa-kṣhaye punas tāni kalpādau visṛijāmyaham</div>
+            <div class="glossary"><b>sarva-bhūtāni</b>—all living beings; <b>kaunteya</b>—Arjun, the son of Kunti; <b>prakṛitim</b>—primordial material energy; <b>yānti</b>—merge; <b>māmikām</b>—my; <b>kalpa-kṣhaye</b>—at the end of a kalpa; <b>punaḥ</b>—again; <b>tāni</b>—them; <b>kalpa-ādau</b>—at the beginning of a kalpa; <b>visṛijāmi</b>—manifest; <b>aham</b>—I</div>
+            <div class="translation">At the end of a cycle all beings, Ο son of Kunti, enter into My Prakriti, and at the beginning of a cycle I generate them again.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.8</div>
+            <div class="devanagari">प्रकृतिं स्वामवष्टभ्य विसृजामि पुन: पुन: ।<br>भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ।। 8।।</div>
+            <div class="iast">prakṛitiṁ svām avaṣhṭabhya visṛijāmi punaḥ punaḥ<br>bhūta-grāmam imaṁ kṛitsnam avaśhaṁ prakṛiter vaśhāt</div>
+            <div class="glossary"><b>prakṛitim</b>—the material energy; <b>svām</b>—my own; <b>avaṣhṭabhya</b>—presiding over; <b>visṛijāmi</b>—generate; <b>punaḥ punaḥ</b>—again and again; <b>bhūta-grāmam</b>—myriad forms; <b>imam</b>—these; <b>kṛitsnam</b>—all; <b>avaśham</b>—beyond their control; <b>prakṛiteḥ</b>—nature; <b>vaśhāt</b>—force</div>
+            <div class="translation">Controlling My own Prakriti, I send forth, again and again, all this multitude of beings, helpless under the sway of māyā.</div>
+        </div>
+        
+</body>
+</html>

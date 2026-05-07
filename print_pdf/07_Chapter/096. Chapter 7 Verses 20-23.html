@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>096. Chapter 7 Verses 20-23</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.20</div>
+            <div class="devanagari">कामैस्तैस्तैर्हृतज्ञाना: प्रपद्यन्तेऽन्यदेवता: ।<br>तं तं नियममास्थाय प्रकृत्या नियता: स्वया ।। 20।।</div>
+            <div class="iast">kāmais tais tair hṛita-jñānāḥ prapadyante ’nya-devatāḥ<br>taṁ taṁ niyamam āsthāya prakṛityā niyatāḥ svayā</div>
+            <div class="glossary"><b>kāmaiḥ</b>—by material desires; <b>taiḥ taiḥ</b>—by various; <b>hṛita-jñānāḥ</b>—whose knowledge has been carried away; <b>prapadyante</b>—surrender; <b>anya</b>—to other; <b>devatāḥ</b>—celestial gods; <b>tam tam</b>—the various; <b>niyamam</b>—rules and regulations; <b>āsthāya</b>—following; <b>prakṛityā</b>—by nature; <b>niyatāḥ</b>—controlled; <b>svayā</b>—by their own</div>
+            <div class="translation">But those whose discrimination has been led astray by various desires resort to other deities, following diverse rituals, constrained by their own natures.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.21</div>
+            <div class="devanagari">yo yo yāṁ yāṁ tanuṁ bhaktaḥ śhraddhayārchitum ichchhati<br>tasya tasyāchalāṁ śhraddhāṁ tām eva vidadhāmyaham</div>
+            <div class="iast">yaḥ yaḥ—whoever; yām yām—whichever; tanum—form; bhaktaḥ—devotee; śhraddhayā—with faith; architum—to worship; ichchhati—desires; tasya tasya—to him; achalām—steady; śhraddhām—faith; tām—in that; eva—certainly; vidadhāmi—bestow; aham—I</div>
+            <div class="glossary"></div>
+            <div class="translation">Whatever may be the form a devotee seeks to worship with faith— in that form alone I make his faith unwavering.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.22</div>
+            <div class="devanagari">स तया श्रद्धया युक्तस्तस्याराधनमीहते ।<br>लभते च तत: कामान्मयैव विहितान्हि तान् ।। 22।।</div>
+            <div class="iast">sa tayā śhraddhayā yuktas tasyārādhanam īhate<br>labhate cha tataḥ kāmān mayaiva vihitān hi tān</div>
+            <div class="glossary"><b>saḥ</b>—he; <b>tayā</b>—with that; <b>śhraddhayā</b>—faith; <b>yuktaḥ</b>—endowed with; <b>tasya</b>—of that; <b>ārādhanam</b>—worship; <b>īhate</b>—tries to engage in; <b>labhate</b>—obtains; <b>cha</b>—and; <b>tataḥ</b>—from that; <b>kāmān</b>—desires; <b>mayā</b>—by me; <b>eva</b>—alone; <b>vihitān</b>—granted; <b>hi</b>—certainly; <b>tān</b>—those</div>
+            <div class="translation">Possessed of that faith, he worships that form and from it attains his desires, which are, in reality, granted by Me alone.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.23</div>
+            <div class="devanagari">अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।<br>देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ।। 23।।</div>
+            <div class="iast">antavat tu phalaṁ teṣhāṁ tad bhavatyalpa-medhasām<br>devān deva-yajo yānti mad-bhaktā yānti mām api</div>
+            <div class="glossary"><b>anta-vat</b>—perishable; <b>tu</b>—but; <b>phalam</b>—fruit; <b>teṣhām</b>—by them; <b>tat</b>—that; <b>bhavati</b>—is; <b>alpa-medhasām</b>—people of little understanding; <b>devān</b>—to the celestial gods; <b>deva-yajaḥ</b>—the worshipers of the celestial gods; <b>yānti</b>—go; <b>mat</b>—my; <b>bhaktāḥ</b>—devotees; <b>yānti</b>—go; <b>mām</b>—to me; <b>api</b>—whereas</div>
+            <div class="translation">But finite is the result gained by these men of small minds. Those who worship the deities go to the deities; those who worship Me come to Me.</div>
+        </div>
+        
+</body>
+</html>

@@ -1,0 +1,361 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>Bhagavad Gita - Chapter 7</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    <div class='lecture-title first-lecture-title'>090. Chapter 7 Verses 1- 2</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.1</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>मय्यासक्तमना: पार्थ योगं युञ्जन्मदाश्रय: ।<br>असंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ।। 1।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>mayyāsakta-manāḥ pārtha yogaṁ yuñjan mad-āśhrayaḥ<br>asanśhayaṁ samagraṁ māṁ yathā jñāsyasi tach chhṛiṇu</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>mayi</b>—to me; <b>āsakta-manāḥ</b>—with the mind attached; <b>pārtha</b>—Arjun, the son of Pritha; <b>yogam</b>—bhakti yog; <b>yuñjan</b>—practicing; <b>mad-āśhrayaḥ</b>—surrendering to me; <b>asanśhayam</b>—free from doubt; <b>samagram</b>—completely; <b>mām</b>—me; <b>yathā</b>—how; <b>jñāsyasi</b>—you shall know; <b>tat</b>—that; <b>śhṛiṇu</b>—listen</div>
+            <div class="translation">The Lord said: Hear, Ο Pārtha, how, with your mind attached to Me, and taking refuge in Me, and practising yoga, you will without any doubt know Me in full.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.2</div>
+            <div class="devanagari">ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषत: ।<br>यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ।। 2।।</div>
+            <div class="iast">jñānaṁ te ’haṁ sa-vijñānam idaṁ vakṣhyāmyaśheṣhataḥ<br>yaj jñātvā neha bhūyo ’nyaj jñātavyam-avaśhiṣhyate</div>
+            <div class="glossary"><b>jñānam</b>—knowledge; <b>te</b>—unto you; <b>aham</b>—I; <b>sa</b>—with; <b>vijñānam</b>—wisdom; <b>idam</b>—this; <b>vakṣhyāmi</b>—shall reveal; <b>aśheṣhataḥ</b>—in full; <b>yat</b>—which; <b>jñātvā</b>—having known; <b>na</b>—not; <b>iha</b>—in this world; <b>bhūyaḥ</b>—further; <b>anyat</b>—anything else; <b>jñātavyam</b>—to be known; <b>avaśhiṣhyate</b>—remains</div>
+            <div class="translation">Knowing which there shall not be any other to be known in this world, that Knowledge combined with experience, I will tell you.</div>
+        </div>
+        <div class='lecture-title'>091. Chapter 7 Verses 3-5</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.3</div>
+            <div class="devanagari">मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।<br>यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वत: ।। 3।।</div>
+            <div class="iast">manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye<br>yatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ</div>
+            <div class="glossary"><b>manuṣhyāṇām</b>—of men; <b>sahasreṣhu</b>—out of many thousands; <b>kaśhchit</b>—someone; <b>yatati</b>—strives; <b>siddhaye</b>—for perfection; <b>yatatām</b>—of those who strive; <b>api</b>—even; <b>siddhānām</b>—of those who have achieved perfection; <b>kaśhchit</b>—someone; <b>mām</b>—me; <b>vetti</b>—knows; <b>tattvataḥ</b>—in truth</div>
+            <div class="translation">Among thousands of men, one strives for perfection and even among those who strive and succeed, one knows Me in essence.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.4</div>
+            <div class="devanagari">भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च ।<br>अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ।। 4।।</div>
+            <div class="iast">bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha<br>ahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā</div>
+            <div class="glossary"><b>bhūmiḥ</b>—earth; <b>āpaḥ</b>—water; <b>analaḥ</b>—fire; <b>vāyuḥ</b>—air; <b>kham</b>—space; <b>manaḥ</b>—mind; <b>buddhiḥ</b>—intellect; <b>eva</b>—certainly; <b>cha</b>—and; <b>ahankāraḥ</b>—ego; <b>iti</b>—thus; <b>iyam</b>—all these; <b>me</b>—my; <b>bhinnā</b>—divisions; <b>prakṛitiḥ</b>—material energy; <b>aṣhṭadhā</b>—eightfold</div>
+            <div class="translation">Earth, water, fire, air, ether, mind, reason, and also egoism – these are the eightfold divisions of My nature.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.5</div>
+            <div class="devanagari">अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।<br>जीवभूतां महाबाहो ययेदं धार्यते जगत् ।। 5।।</div>
+            <div class="iast">apareyam itas tvanyāṁ prakṛitiṁ viddhi me parām<br>jīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat</div>
+            <div class="glossary"><b>aparā</b>—inferior; <b>iyam</b>—this; <b>itaḥ</b>—besides this; <b>tu</b>—but; <b>anyām</b>—another; <b>prakṛitim</b>—energy; <b>viddhi</b>—know; <b>me</b>—my; <b>parām</b>—superior; <b>jīva-bhūtām</b>—living beings; <b>mahā-bāho</b>—mighty-armed one; <b>yayā</b>—by whom; <b>idam</b>—this; <b>dhāryate</b>—the basis; <b>jagat</b>—the material world</div>
+            <div class="translation">O Arjuna! This is the inferior (described in the previous verse), Know My other nature, the Higher – Para Prakriti, the life-element by which the universe is upheld.</div>
+        </div>
+        <div class='lecture-title'>092. Chapter 7 Verses 6-7</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.6</div>
+            <div class="devanagari">एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।<br>अहं कृत्स्नस्य जगत: प्रभव: प्रलयस्तथा ।। 6।।</div>
+            <div class="iast">etad-yonīni bhūtāni sarvāṇītyupadhāraya<br>ahaṁ kṛitsnasya jagataḥ prabhavaḥ pralayas tathā</div>
+            <div class="glossary"><b>etat yonīni</b>—these two (energies) are the source of; <b>bhūtāni</b>—living beings; <b>sarvāṇi</b>—all; <b>iti</b>—that; <b>upadhāraya</b>—know; <b>aham</b>—I; <b>kṛitsnasya</b>—entire; <b>jagataḥ</b>—creation; <b>prabhavaḥ</b>—the source; <b>pralayaḥ</b>—dissolution; <b>tathā</b>—and</div>
+            <div class="translation">Know this (Prakriti) to be the womb of all beings; I am the source of the outcoming of the whole universe, and like-wise the source of its dissolution.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.7</div>
+            <div class="devanagari">मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।<br>मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ।। 7।।</div>
+            <div class="iast">mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya<br>mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva</div>
+            <div class="glossary"><b>mattaḥ</b>—than me; <b>para-taram</b>—superior; <b>na</b>—not; <b>anyat kiñchit</b>—anything else; <b>asti</b>—there is; <b>dhanañjaya</b>—Arjun, conqueror of wealth; <b>mayi</b>—in me; <b>sarvam</b>—all; <b>idam</b>—which we see; <b>protam</b>—is strung; <b>sūtre</b>—on a thread; <b>maṇi-gaṇāḥ</b>—beads; <b>iva</b>—like</div>
+            <div class="translation">There is nothing higher than Myself, O Arjun. Everything rests in Me, as gems strung on a thread.</div>
+        </div>
+        <div class='lecture-title'>093. Chapter 7 Verses 8-12</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.8</div>
+            <div class="devanagari">रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययो: ।<br>प्रणव: सर्ववेदेषु शब्द: खे पौरुषं नृषु ।। 8।।</div>
+            <div class="iast">raso ’ham apsu kaunteya prabhāsmi śhaśhi-sūryayoḥ<br>praṇavaḥ sarva-vedeṣhu śhabdaḥ khe pauruṣhaṁ nṛiṣhu</div>
+            <div class="glossary"><b>rasaḥ</b>—taste; <b>aham</b>—I; <b>apsu</b>—in water; <b>kaunteya</b>—Arjun, the son of Kunti; <b>prabhā</b>—the radiance; <b>asmi</b>—I am; <b>śhaśhi-sūryayoḥ</b>—of the moon and the sun; <b>praṇavaḥ</b>—the sacred syllable Om; <b>sarva</b>—in all; <b>vedeṣhu</b>—Vedas; <b>śhabdaḥ</b>—sound; <b>khe</b>—in ether; <b>pauruṣham</b>—ability; <b>nṛiṣhu</b>—in humans</div>
+            <div class="translation">I am the savour of waters, Ο son of Kunti, the radiance of the sun and moon; I am the syllable Om in all the Vedas, the sound in ether, the manliness in man.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.9</div>
+            <div class="devanagari">पुण्यो गन्ध: पृथिव्यां च तेजश्चास्मि विभावसौ ।<br>जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ।। 9।।</div>
+            <div class="iast">puṇyo gandhaḥ pṛithivyāṁ cha tejaśh chāsmi vibhāvasau<br>jīvanaṁ sarva-bhūteṣhu tapaśh chāsmi tapasviṣhu</div>
+            <div class="glossary"><b>puṇyaḥ</b>—pure; <b>gandhaḥ</b>—fragrance; <b>pṛithivyām</b>—of the earth; <b>cha</b>—and; <b>tejaḥ</b>—brilliance; <b>cha</b>—and; <b>asmi</b>—I am; <b>vibhāvasau</b>—in the fire; <b>jīvanam</b>—the life-force; <b>sarva</b>—in all; <b>bhūteṣhu</b>—beings; <b>tapaḥ</b>—penance; <b>cha</b>—and; <b>asmi</b>—I am; <b>tapasviṣhu</b>—of the ascetics</div>
+            <div class="translation">And, I am the sweet fragrance in the earth, the brilliance in fire, life in all beings, and austerity in ascetics.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.10</div>
+            <div class="devanagari">बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।<br>बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ।। 10।।</div>
+            <div class="iast">bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam<br>buddhir buddhimatām asmi tejas tejasvinām aham</div>
+            <div class="glossary"><b>bījam</b>—the seed; <b>mām</b>—me; <b>sarva-bhūtānām</b>—of all beings; <b>viddhi</b>—know; <b>pārtha</b>—Arjun, the son of Pritha; <b>sanātanam</b>—the eternal; <b>buddhiḥ</b>—intellect; <b>buddhi-matām</b>—of the intelligent; <b>asmi</b>—(I) am; <b>tejaḥ</b>—splendor; <b>tejasvinām</b>—of the splendid; <b>aham</b>—I</div>
+            <div class="translation">Know Me, Ο son of Prithā, to be the Eternal Seed of all things that exist; I am the intelligence of the intelligent and the daring of the brave.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.11</div>
+            <div class="devanagari">बलं बलवतां चाहं कामरागविवर्जितम् ।<br>धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ।। 11।।</div>
+            <div class="iast">balaṁ balavatāṁ chāhaṁ kāma-rāga-vivarjitam<br>dharmāviruddho bhūteṣhu kāmo ’smi bharatarṣhabha</div>
+            <div class="glossary"><b>balam</b>—strength; <b>bala-vatām</b>—of the strong; <b>cha</b>—and; <b>aham</b>—I; <b>kāma</b>—desire; <b>rāga</b>—passion; <b>vivarjitam</b>—devoid of; <b>dharma-aviruddhaḥ</b>—not conflicting with dharma; <b>bhūteṣhu</b>—in all beings; <b>kāmaḥ</b>—sexual activity; <b>asmi</b>—(I) am; <b>bharata-ṛiṣhabha</b>—Arjun, the best of the Bharats</div>
+            <div class="translation">I am the strength of the strong, free from longing and attachment. I am, Ο lord of the Bhāratas, the desire in all beings that is not contrary to dharma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.12</div>
+            <div class="devanagari">ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।<br>मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ।। 12।।</div>
+            <div class="iast">ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye<br>matta eveti tān viddhi na tvahaṁ teṣhu te mayi</div>
+            <div class="glossary"><b>ye</b>—whatever; <b>cha</b>—and; <b>eva</b>—certainly; <b>sāttvikāḥ</b>—in the mode of goodness; <b>bhāvāḥ</b>—states of material existence; <b>rājasāḥ</b>—in the mode of passion; <b>tāmasāḥ</b>—in the mode of ignorance; <b>cha</b>—and; <b>ye</b>—whatever; <b>mattaḥ</b>—from me; <b>eva</b>—certainly; <b>iti</b>—thus; <b>tān</b>—those; <b>viddhi</b>—know; <b>na</b>—not; <b>tu</b>—but; <b>aham</b>—I; <b>teṣhu</b>—in them; <b>te</b>—they; <b>mayi</b>—in me</div>
+            <div class="translation">And whatever things there be— of the nature of sattva, rajas, and tamas— know they are all from Me alone. I am not, however, in them; they are in Me.</div>
+        </div>
+        <div class='lecture-title'>094. Chapter 7 Verses 13-16</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.13</div>
+            <div class="devanagari">त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् ।<br>मोहितं नाभिजानाति मामेभ्य: परमव्ययम् ।। 13।।</div>
+            <div class="iast">tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat<br>mohitaṁ nābhijānāti māmebhyaḥ param avyayam</div>
+            <div class="glossary"><b>tribhiḥ</b>—by three; <b>guṇa-mayaiḥ</b>—consisting of the modes of material nature; <b>bhāvaiḥ</b>—states; <b>ebhiḥ</b>—all these; <b>sarvam</b>—whole; <b>idam</b>—this; <b>jagat</b>—universe; <b>mohitam</b>—deluded; <b>na</b>—not; <b>abhijānāti</b>—know; <b>mām</b>—me; <b>ebhyaḥ</b>—these; <b>param</b>—the supreme; <b>avyayam</b>—imperishable</div>
+            <div class="translation">Deluded by nature composed of these three qualities (Sattva, Rajas, and Tamas) the whole world does not know Me, the Higher and Imperishable.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.14</div>
+            <div class="devanagari">दैवी ह्येषा गुणमयी मम माया दुरत्यया ।<br>मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ।। 14।।</div>
+            <div class="iast">daivī hyeṣhā guṇa-mayī mama māyā duratyayā<br>mām eva ye prapadyante māyām etāṁ taranti te</div>
+            <div class="glossary"><b>daivī</b>—divine; <b>hi</b>—certainly; <b>eṣhā</b>—this; <b>guṇa-mayī</b>—consisting of the three modes of nature; <b>mama</b>—my; <b>māyā</b>—God’s external energy; <b>duratyayā</b>—very difficult to overcome; <b>mām</b>—unto me; <b>eva</b>—certainly; <b>ye</b>—who; <b>prapadyante</b>—surrender; <b>māyām etām</b>—this Maya; <b>taranti</b>—cross over; <b>te</b>—they</div>
+            <div class="translation">This divine illusion of Mine caused by the qualities, is difficult to cross over; those who take refuge in Me alone, cross over this illusion.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.15</div>
+            <div class="devanagari">न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: ।<br>माययापहृतज्ञाना आसुरं भावमाश्रिता: ।। 15।।</div>
+            <div class="iast">na māṁ duṣhkṛitino mūḍhāḥ prapadyante narādhamāḥ<br>māyayāpahṛita-jñānā āsuraṁ bhāvam āśhritāḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>mām</b>—unto me; <b>duṣhkṛitinaḥ</b>—the evil doers; <b>mūḍhāḥ</b>—the ignorant; <b>prapadyante</b>—surrender; <b>nara-adhamāḥ</b>—one who lazily follows one’s lower nature; <b>māyayā</b>—by God’s material energy; <b>apahṛita jñānāḥ</b>—those with deluded intellect; <b>āsuram</b>—demoniac; <b>bhāvam</b>—nature; <b>āśhritāḥ</b>—surrender</div>
+            <div class="translation">Evil-doers and the deluded and the vilest among men, deprived of knowledge by māyā and following the way of the asuras, do not worship Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.16</div>
+            <div class="devanagari">चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन ।<br>आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ।। 16।।</div>
+            <div class="iast">chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna<br>ārto jijñāsur arthārthī jñānī cha bharatarṣhabha</div>
+            <div class="glossary"><b>chatuḥ-vidhāḥ</b>—four kinds; <b>bhajante</b>—worship; <b>mām</b>—me; <b>janāḥ</b>—people; <b>su-kṛitinaḥ</b>—those who are pious; <b>arjuna</b>—Arjun; <b>ārtaḥ</b>—the distressed; <b>jijñāsuḥ</b>—the seekers of knowledge; <b>artha-arthī</b>—the seekers of material gain; <b>jñānī</b>—those who are situated in knowledge; <b>cha</b>—and; <b>bharata-ṛiṣhabha</b>—The best amongst the Bharatas, Arjun</div>
+            <div class="translation">Four types of virtuous men worship Me, Ο Arjuna: the man in distress, the man seeking knowledge, the man seeking enjoyment, and, Ο best of the Bhāratas, the man endowed with wisdom.</div>
+        </div>
+        <div class='lecture-title'>095. Chapter 7 Verses 17-19</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.17</div>
+            <div class="devanagari">तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।<br>प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रिय: ।। 17।।</div>
+            <div class="iast">teṣhāṁ jñānī nitya-yukta eka-bhaktir viśhiṣhyate<br>priyo hi jñānino ’tyartham ahaṁ sa cha mama priyaḥ</div>
+            <div class="glossary"><b>teṣhām</b>—amongst these; <b>jñānī</b>—those who are situated in knowledge; <b>nitya-yuktaḥ</b>—ever steadfast; <b>eka</b>—exclusively; <b>bhaktiḥ</b>—devotion; <b>viśhiṣhyate</b>—highest; <b>priyaḥ</b>—very dear; <b>hi</b>—certainly; <b>jñāninaḥ</b>—to the person in knowledge; <b>atyartham</b>—highly; <b>aham</b>—I; <b>saḥ</b>—he; <b>cha</b>—and; <b>mama</b>—to me; <b>priyaḥ</b>—very dear</div>
+            <div class="translation">Of these, the wise man, ever steadfast and devoted to the One alone, is the best. For supremely dear am I to the man of wisdom, and he is dear to Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.18</div>
+            <div class="devanagari">उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।<br>आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् ।। 18।।</div>
+            <div class="iast">udārāḥ sarva evaite jñānī tvātmaiva me matam<br>āsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim</div>
+            <div class="glossary"><b>udārāḥ</b>—noble; <b>sarve</b>—all; <b>eva</b>—indeed; <b>ete</b>—these; <b>jñānī</b>—those in knowledge; <b>tu</b>—but; <b>ātmā eva</b>—my very self; <b>me</b>—my; <b>matam</b>—opinion; <b>āsthitaḥ</b>—situated; <b>saḥ</b>—he; <b>hi</b>—certainly; <b>yukta-ātmā</b>—those who are united; <b>mām</b>—in me; <b>eva</b>—certainly; <b>anuttamām</b>—the supreme; <b>gatim</b>—goal</div>
+            <div class="translation">Noble indeed are they all; but the man endowed with wisdom I deem to be My very Self. For, steadfast in mind, he remains fixed in Me alone as the Supreme Goal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.19</div>
+            <div class="devanagari">बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।<br>वासुदेव: सर्वमिति स महात्मा सुदुर्लभ: ।। 19।।</div>
+            <div class="iast">bahūnāṁ janmanām ante jñānavān māṁ prapadyate<br>vāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ</div>
+            <div class="glossary"><b>bahūnām</b>—many; <b>janmanām</b>—births; <b>ante</b>—after; <b>jñāna-vān</b>—one who is endowed with knowledge; <b>mām</b>—unto me; <b>prapadyate</b>—surrenders; <b>vāsudevaḥ</b>—Shree Krishna, the son of Vasudev; <b>sarvam</b>—all; <b>iti</b>—that; <b>saḥ</b>—that; <b>mahā-ātmā</b>—great soul; <b>su-durlabhaḥ</b>—very rare</div>
+            <div class="translation">At the end of many births the man of wisdom seeks refuge in Me, realizing that Vāsudeva is all. Rare indeed is such a high-souled person.</div>
+        </div>
+        <div class='lecture-title'>096. Chapter 7 Verses 20-23</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.20</div>
+            <div class="devanagari">कामैस्तैस्तैर्हृतज्ञाना: प्रपद्यन्तेऽन्यदेवता: ।<br>तं तं नियममास्थाय प्रकृत्या नियता: स्वया ।। 20।।</div>
+            <div class="iast">kāmais tais tair hṛita-jñānāḥ prapadyante ’nya-devatāḥ<br>taṁ taṁ niyamam āsthāya prakṛityā niyatāḥ svayā</div>
+            <div class="glossary"><b>kāmaiḥ</b>—by material desires; <b>taiḥ taiḥ</b>—by various; <b>hṛita-jñānāḥ</b>—whose knowledge has been carried away; <b>prapadyante</b>—surrender; <b>anya</b>—to other; <b>devatāḥ</b>—celestial gods; <b>tam tam</b>—the various; <b>niyamam</b>—rules and regulations; <b>āsthāya</b>—following; <b>prakṛityā</b>—by nature; <b>niyatāḥ</b>—controlled; <b>svayā</b>—by their own</div>
+            <div class="translation">But those whose discrimination has been led astray by various desires resort to other deities, following diverse rituals, constrained by their own natures.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.21</div>
+            <div class="devanagari">yo yo yāṁ yāṁ tanuṁ bhaktaḥ śhraddhayārchitum ichchhati<br>tasya tasyāchalāṁ śhraddhāṁ tām eva vidadhāmyaham</div>
+            <div class="iast">yaḥ yaḥ—whoever; yām yām—whichever; tanum—form; bhaktaḥ—devotee; śhraddhayā—with faith; architum—to worship; ichchhati—desires; tasya tasya—to him; achalām—steady; śhraddhām—faith; tām—in that; eva—certainly; vidadhāmi—bestow; aham—I</div>
+            <div class="glossary"></div>
+            <div class="translation">Whatever may be the form a devotee seeks to worship with faith— in that form alone I make his faith unwavering.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.22</div>
+            <div class="devanagari">स तया श्रद्धया युक्तस्तस्याराधनमीहते ।<br>लभते च तत: कामान्मयैव विहितान्हि तान् ।। 22।।</div>
+            <div class="iast">sa tayā śhraddhayā yuktas tasyārādhanam īhate<br>labhate cha tataḥ kāmān mayaiva vihitān hi tān</div>
+            <div class="glossary"><b>saḥ</b>—he; <b>tayā</b>—with that; <b>śhraddhayā</b>—faith; <b>yuktaḥ</b>—endowed with; <b>tasya</b>—of that; <b>ārādhanam</b>—worship; <b>īhate</b>—tries to engage in; <b>labhate</b>—obtains; <b>cha</b>—and; <b>tataḥ</b>—from that; <b>kāmān</b>—desires; <b>mayā</b>—by me; <b>eva</b>—alone; <b>vihitān</b>—granted; <b>hi</b>—certainly; <b>tān</b>—those</div>
+            <div class="translation">Possessed of that faith, he worships that form and from it attains his desires, which are, in reality, granted by Me alone.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.23</div>
+            <div class="devanagari">अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् ।<br>देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ।। 23।।</div>
+            <div class="iast">antavat tu phalaṁ teṣhāṁ tad bhavatyalpa-medhasām<br>devān deva-yajo yānti mad-bhaktā yānti mām api</div>
+            <div class="glossary"><b>anta-vat</b>—perishable; <b>tu</b>—but; <b>phalam</b>—fruit; <b>teṣhām</b>—by them; <b>tat</b>—that; <b>bhavati</b>—is; <b>alpa-medhasām</b>—people of little understanding; <b>devān</b>—to the celestial gods; <b>deva-yajaḥ</b>—the worshipers of the celestial gods; <b>yānti</b>—go; <b>mat</b>—my; <b>bhaktāḥ</b>—devotees; <b>yānti</b>—go; <b>mām</b>—to me; <b>api</b>—whereas</div>
+            <div class="translation">But finite is the result gained by these men of small minds. Those who worship the deities go to the deities; those who worship Me come to Me.</div>
+        </div>
+        <div class='lecture-title'>097. Chapter 7 Verses 24-30</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.24</div>
+            <div class="devanagari">अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: ।<br>परं भावमजानन्तो ममाव्ययमनुत्तमम् ।। 24।।</div>
+            <div class="iast">avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ<br>paraṁ bhāvam ajānanto mamāvyayam anuttamam</div>
+            <div class="glossary"><b>avyaktam</b>—formless; <b>vyaktim</b>—possessing a personality; <b>āpannam</b>—to have assumed; <b>manyante</b>—think; <b>mām</b>—me; <b>abuddhayaḥ</b>—less intelligent; <b>param</b>—Supreme; <b>bhāvam</b>—nature; <b>ajānantaḥ</b>—not understanding; <b>mama</b>—my; <b>avyayam</b>—imperishable; <b>anuttamam</b>—excellent</div>
+            <div class="translation">Not knowing My supreme Nature, immutable and transcendent, foolish men think that I, the Unmanifest, am endowed with a manifest form.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.25</div>
+            <div class="devanagari">नाहं प्रकाश: सर्वस्य योगमायासमावृत: ।<br>मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ।। 25।।</div>
+            <div class="iast">nāhaṁ prakāśhaḥ sarvasya yoga-māyā-samāvṛitaḥ<br>mūḍho ’yaṁ nābhijānāti loko mām ajam avyayam</div>
+            <div class="glossary"><b>na</b>—not; <b>aham</b>—I; <b>prakāśhaḥ</b>—manifest; <b>sarvasya</b>—to everyone; <b>yoga-māyā</b>—God’s supreme (divine) energy; <b>samāvṛitaḥ</b>—veiled; <b>mūḍhaḥ</b>—deluded; <b>ayam</b>—these; <b>na</b>—not; <b>abhijānāti</b>—know; <b>lokaḥ</b>—persons; <b>mām</b>—me; <b>ajam</b>—unborn; <b>avyayam</b>—immutable</div>
+            <div class="translation">Veiled by My māyā born of the gunas, I am not revealed to all. This deluded world knows Me not as the unborn and eternal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.26</div>
+            <div class="devanagari">वेदाहं समतीतानि वर्तमानानि चार्जुन ।<br>भविष्याणि च भूतानि मां तु वेद न कश्चन ।। 26।।</div>
+            <div class="iast">vedāhaṁ samatītāni vartamānāni chārjuna<br>bhaviṣhyāṇi cha bhūtāni māṁ tu veda na kaśhchana</div>
+            <div class="glossary"><b>veda</b>—know; <b>aham</b>—I; <b>samatītāni</b>—the past; <b>vartamānāni</b>—the present; <b>cha</b>—and; <b>arjuna</b>—Arjun; <b>bhaviṣhyāṇi</b>—the future; <b>cha</b>—also; <b>bhūtāni</b>—all living beings; <b>mām</b>—me; <b>tu</b>—but; <b>veda</b>—knows; <b>na kaśhchana</b>—no one</div>
+            <div class="translation">O Arjuna! I know the past, present, and the future of all beings, but Me no one knows.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.27</div>
+            <div class="devanagari">इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।<br>सर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ।। 27।।</div>
+            <div class="iast">ichchhā-dveṣha-samutthena dvandva-mohena bhārata<br>sarva-bhūtāni sammohaṁ sarge yānti parantapa</div>
+            <div class="glossary"><b>ichchhā</b>—desire; <b>dveṣha</b>—aversion; <b>samutthena</b>—arise from; <b>dvandva</b>—of duality; <b>mohena</b>—from the illusion; <b>bhārata</b>—Arjun, descendant of Bharat; <b>sarva</b>—all; <b>bhūtāni</b>—living beings; <b>sammoham</b>—into delusion; <b>sarge</b>—since birth; <b>yānti</b>—enter; <b>parantapa</b>—Arjun, conqueror of enemies</div>
+            <div class="translation">O Arjuna! By the delusion of pairs of opposites caused by desire and aversion, all beings are subject to illusion in the world.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.28</div>
+            <div class="devanagari">येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।<br>ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रता: ।। 28।।</div>
+            <div class="iast">yeṣhāṁ tvanta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām<br>te dvandva-moha-nirmuktā bhajante māṁ dṛiḍha-vratāḥ</div>
+            <div class="glossary"><b>yeṣhām</b>—whose; <b>tu</b>—but; <b>anta-gatam</b>—completely destroyed; <b>pāpam</b>—sins; <b>janānām</b>—of persons; <b>puṇya</b>—pious; <b>karmaṇām</b>—activities; <b>te</b>—they; <b>dvandva</b>—of dualities; <b>moha</b>—illusion; <b>nirmuktāḥ</b>—free from; <b>bhajante</b>—worship;mām; <b>dṛiḍha-vratāḥ</b>—with determination</div>
+            <div class="translation">But those men of good works whose sin has come to an end, worship Me steadfast in vows, freed from the delusive pairs of opposites.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.29</div>
+            <div class="devanagari">जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।<br>ते ब्रह्म तद्विदु: कृत्स्नमध्यात्मं कर्म चाखिलम् ।। 29।।</div>
+            <div class="iast">jarā-maraṇa-mokṣhāya mām āśhritya yatanti ye<br>te brahma tadviduḥ kṛitsnam adhyātmaṁ karma chākhilam</div>
+            <div class="glossary"><b>jarā</b>—from old age; <b>maraṇa</b>—and death; <b>mokṣhāya</b>—for liberation; <b>mām</b>—me; <b>āśhritya</b>—take shelter in; <b>yatanti</b>—strive; <b>ye</b>—who; <b>te</b>—they; <b>brahma</b>—Brahman; <b>tat</b>—that; <b>viduḥ</b>—know; <b>kṛitsnam</b>—everything; <b>adhyātmam</b>—the individual self; <b>karma</b>—karmic action; <b>cha</b>—and; <b>akhilam</b>—entire</div>
+            <div class="translation">Those who take shelter in Me, striving for liberation from old-age and death, come to know the Brahman, the individual self, and the entire field of karmic action.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.30</div>
+            <div class="devanagari">साधिभूताधिदैवं मां साधियज्ञं च ये विदु: ।<br>प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतस: ।। 30।।</div>
+            <div class="iast">sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ cha ye viduḥ<br>prayāṇa-kāle ’pi cha māṁ te vidur yukta-chetasaḥ</div>
+            <div class="glossary"><b>sa-adhibhūta</b>—governing principle of the field of matter; <b>adhidaivam</b>—governing principle of the celestial gods; <b>mām</b>—me; <b>sa-adhiyajñam</b>—governing principle of the Lord of all sacrificial performances; <b>cha</b>—and; <b>ye</b>—who; <b>viduḥ</b>—know; <b>prayāṇa</b>—of death; <b>kāle</b>—at the time; <b>api</b>—even; <b>cha</b>—and; <b>mām</b>—me; <b>te</b>—they; <b>viduḥ</b>—know; <b>yukta-chetasaḥ</b>—in full consciousness of me</div>
+            <div class="translation">Those who know Me as the One that underlies all the elements, as the One that underlies all the gods, and as the One that sustains all the sacrifices, will, with steadfast mind, know Me even in the hour of death.</div>
+        </div>
+        
+</body>
+</html>

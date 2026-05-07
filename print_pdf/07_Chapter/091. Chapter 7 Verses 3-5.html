@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>091. Chapter 7 Verses 3-5</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.3</div>
+            <div class="devanagari">मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।<br>यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वत: ।। 3।।</div>
+            <div class="iast">manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye<br>yatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ</div>
+            <div class="glossary"><b>manuṣhyāṇām</b>—of men; <b>sahasreṣhu</b>—out of many thousands; <b>kaśhchit</b>—someone; <b>yatati</b>—strives; <b>siddhaye</b>—for perfection; <b>yatatām</b>—of those who strive; <b>api</b>—even; <b>siddhānām</b>—of those who have achieved perfection; <b>kaśhchit</b>—someone; <b>mām</b>—me; <b>vetti</b>—knows; <b>tattvataḥ</b>—in truth</div>
+            <div class="translation">Among thousands of men, one strives for perfection and even among those who strive and succeed, one knows Me in essence.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.4</div>
+            <div class="devanagari">भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च ।<br>अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ।। 4।।</div>
+            <div class="iast">bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha<br>ahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā</div>
+            <div class="glossary"><b>bhūmiḥ</b>—earth; <b>āpaḥ</b>—water; <b>analaḥ</b>—fire; <b>vāyuḥ</b>—air; <b>kham</b>—space; <b>manaḥ</b>—mind; <b>buddhiḥ</b>—intellect; <b>eva</b>—certainly; <b>cha</b>—and; <b>ahankāraḥ</b>—ego; <b>iti</b>—thus; <b>iyam</b>—all these; <b>me</b>—my; <b>bhinnā</b>—divisions; <b>prakṛitiḥ</b>—material energy; <b>aṣhṭadhā</b>—eightfold</div>
+            <div class="translation">Earth, water, fire, air, ether, mind, reason, and also egoism – these are the eightfold divisions of My nature.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.5</div>
+            <div class="devanagari">अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् ।<br>जीवभूतां महाबाहो ययेदं धार्यते जगत् ।। 5।।</div>
+            <div class="iast">apareyam itas tvanyāṁ prakṛitiṁ viddhi me parām<br>jīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat</div>
+            <div class="glossary"><b>aparā</b>—inferior; <b>iyam</b>—this; <b>itaḥ</b>—besides this; <b>tu</b>—but; <b>anyām</b>—another; <b>prakṛitim</b>—energy; <b>viddhi</b>—know; <b>me</b>—my; <b>parām</b>—superior; <b>jīva-bhūtām</b>—living beings; <b>mahā-bāho</b>—mighty-armed one; <b>yayā</b>—by whom; <b>idam</b>—this; <b>dhāryate</b>—the basis; <b>jagat</b>—the material world</div>
+            <div class="translation">O Arjuna! This is the inferior (described in the previous verse), Know My other nature, the Higher – Para Prakriti, the life-element by which the universe is upheld.</div>
+        </div>
+        
+</body>
+</html>

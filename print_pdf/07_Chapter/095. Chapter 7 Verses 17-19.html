@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>095. Chapter 7 Verses 17-19</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.17</div>
+            <div class="devanagari">तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते ।<br>प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रिय: ।। 17।।</div>
+            <div class="iast">teṣhāṁ jñānī nitya-yukta eka-bhaktir viśhiṣhyate<br>priyo hi jñānino ’tyartham ahaṁ sa cha mama priyaḥ</div>
+            <div class="glossary"><b>teṣhām</b>—amongst these; <b>jñānī</b>—those who are situated in knowledge; <b>nitya-yuktaḥ</b>—ever steadfast; <b>eka</b>—exclusively; <b>bhaktiḥ</b>—devotion; <b>viśhiṣhyate</b>—highest; <b>priyaḥ</b>—very dear; <b>hi</b>—certainly; <b>jñāninaḥ</b>—to the person in knowledge; <b>atyartham</b>—highly; <b>aham</b>—I; <b>saḥ</b>—he; <b>cha</b>—and; <b>mama</b>—to me; <b>priyaḥ</b>—very dear</div>
+            <div class="translation">Of these, the wise man, ever steadfast and devoted to the One alone, is the best. For supremely dear am I to the man of wisdom, and he is dear to Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.18</div>
+            <div class="devanagari">उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् ।<br>आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् ।। 18।।</div>
+            <div class="iast">udārāḥ sarva evaite jñānī tvātmaiva me matam<br>āsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim</div>
+            <div class="glossary"><b>udārāḥ</b>—noble; <b>sarve</b>—all; <b>eva</b>—indeed; <b>ete</b>—these; <b>jñānī</b>—those in knowledge; <b>tu</b>—but; <b>ātmā eva</b>—my very self; <b>me</b>—my; <b>matam</b>—opinion; <b>āsthitaḥ</b>—situated; <b>saḥ</b>—he; <b>hi</b>—certainly; <b>yukta-ātmā</b>—those who are united; <b>mām</b>—in me; <b>eva</b>—certainly; <b>anuttamām</b>—the supreme; <b>gatim</b>—goal</div>
+            <div class="translation">Noble indeed are they all; but the man endowed with wisdom I deem to be My very Self. For, steadfast in mind, he remains fixed in Me alone as the Supreme Goal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.19</div>
+            <div class="devanagari">बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते ।<br>वासुदेव: सर्वमिति स महात्मा सुदुर्लभ: ।। 19।।</div>
+            <div class="iast">bahūnāṁ janmanām ante jñānavān māṁ prapadyate<br>vāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ</div>
+            <div class="glossary"><b>bahūnām</b>—many; <b>janmanām</b>—births; <b>ante</b>—after; <b>jñāna-vān</b>—one who is endowed with knowledge; <b>mām</b>—unto me; <b>prapadyate</b>—surrenders; <b>vāsudevaḥ</b>—Shree Krishna, the son of Vasudev; <b>sarvam</b>—all; <b>iti</b>—that; <b>saḥ</b>—that; <b>mahā-ātmā</b>—great soul; <b>su-durlabhaḥ</b>—very rare</div>
+            <div class="translation">At the end of many births the man of wisdom seeks refuge in Me, realizing that Vāsudeva is all. Rare indeed is such a high-souled person.</div>
+        </div>
+        
+</body>
+</html>

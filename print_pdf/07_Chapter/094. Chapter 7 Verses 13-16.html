@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>094. Chapter 7 Verses 13-16</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.13</div>
+            <div class="devanagari">त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् ।<br>मोहितं नाभिजानाति मामेभ्य: परमव्ययम् ।। 13।।</div>
+            <div class="iast">tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat<br>mohitaṁ nābhijānāti māmebhyaḥ param avyayam</div>
+            <div class="glossary"><b>tribhiḥ</b>—by three; <b>guṇa-mayaiḥ</b>—consisting of the modes of material nature; <b>bhāvaiḥ</b>—states; <b>ebhiḥ</b>—all these; <b>sarvam</b>—whole; <b>idam</b>—this; <b>jagat</b>—universe; <b>mohitam</b>—deluded; <b>na</b>—not; <b>abhijānāti</b>—know; <b>mām</b>—me; <b>ebhyaḥ</b>—these; <b>param</b>—the supreme; <b>avyayam</b>—imperishable</div>
+            <div class="translation">Deluded by nature composed of these three qualities (Sattva, Rajas, and Tamas) the whole world does not know Me, the Higher and Imperishable.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.14</div>
+            <div class="devanagari">दैवी ह्येषा गुणमयी मम माया दुरत्यया ।<br>मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ।। 14।।</div>
+            <div class="iast">daivī hyeṣhā guṇa-mayī mama māyā duratyayā<br>mām eva ye prapadyante māyām etāṁ taranti te</div>
+            <div class="glossary"><b>daivī</b>—divine; <b>hi</b>—certainly; <b>eṣhā</b>—this; <b>guṇa-mayī</b>—consisting of the three modes of nature; <b>mama</b>—my; <b>māyā</b>—God’s external energy; <b>duratyayā</b>—very difficult to overcome; <b>mām</b>—unto me; <b>eva</b>—certainly; <b>ye</b>—who; <b>prapadyante</b>—surrender; <b>māyām etām</b>—this Maya; <b>taranti</b>—cross over; <b>te</b>—they</div>
+            <div class="translation">This divine illusion of Mine caused by the qualities, is difficult to cross over; those who take refuge in Me alone, cross over this illusion.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.15</div>
+            <div class="devanagari">न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: ।<br>माययापहृतज्ञाना आसुरं भावमाश्रिता: ।। 15।।</div>
+            <div class="iast">na māṁ duṣhkṛitino mūḍhāḥ prapadyante narādhamāḥ<br>māyayāpahṛita-jñānā āsuraṁ bhāvam āśhritāḥ</div>
+            <div class="glossary"><b>na</b>—not; <b>mām</b>—unto me; <b>duṣhkṛitinaḥ</b>—the evil doers; <b>mūḍhāḥ</b>—the ignorant; <b>prapadyante</b>—surrender; <b>nara-adhamāḥ</b>—one who lazily follows one’s lower nature; <b>māyayā</b>—by God’s material energy; <b>apahṛita jñānāḥ</b>—those with deluded intellect; <b>āsuram</b>—demoniac; <b>bhāvam</b>—nature; <b>āśhritāḥ</b>—surrender</div>
+            <div class="translation">Evil-doers and the deluded and the vilest among men, deprived of knowledge by māyā and following the way of the asuras, do not worship Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.16</div>
+            <div class="devanagari">चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन ।<br>आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ।। 16।।</div>
+            <div class="iast">chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna<br>ārto jijñāsur arthārthī jñānī cha bharatarṣhabha</div>
+            <div class="glossary"><b>chatuḥ-vidhāḥ</b>—four kinds; <b>bhajante</b>—worship; <b>mām</b>—me; <b>janāḥ</b>—people; <b>su-kṛitinaḥ</b>—those who are pious; <b>arjuna</b>—Arjun; <b>ārtaḥ</b>—the distressed; <b>jijñāsuḥ</b>—the seekers of knowledge; <b>artha-arthī</b>—the seekers of material gain; <b>jñānī</b>—those who are situated in knowledge; <b>cha</b>—and; <b>bharata-ṛiṣhabha</b>—The best amongst the Bharatas, Arjun</div>
+            <div class="translation">Four types of virtuous men worship Me, Ο Arjuna: the man in distress, the man seeking knowledge, the man seeking enjoyment, and, Ο best of the Bhāratas, the man endowed with wisdom.</div>
+        </div>
+        
+</body>
+</html>

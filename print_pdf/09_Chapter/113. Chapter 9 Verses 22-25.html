@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>113. Chapter 9 Verses 22-25</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.22</div>
+            <div class="devanagari">अनन्याश्चिन्तयन्तो मां ये जना: पर्युपासते ।<br>तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ।। 22।।</div>
+            <div class="iast">ananyāśh chintayanto māṁ ye janāḥ paryupāsate<br>teṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham</div>
+            <div class="glossary"><b>ananyāḥ</b>—always; <b>chintayantaḥ</b>—think of; <b>mām</b>—Me; <b>ye</b>—those who; <b>janāḥ</b>—persons; <b>paryupāsate</b>—worship exclusively; <b>teṣhām</b>—of them; <b>nitya abhiyuktānām</b>—who are always absorbed; <b>yoga</b>—supply spiritual assets; <b>kṣhemam</b>—protect spiritual assets; <b>vahāmi</b>—carry; <b>aham</b>—I</div>
+            <div class="translation">Those persons who worship Me, meditating on their identity with Me and ever devoted to Me— to them I carry what they lack and for them I preserve what they already have.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.23</div>
+            <div class="devanagari">येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विता: ।<br>तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ।। 23।।</div>
+            <div class="iast">ye ’pyanya-devatā-bhaktā yajante śhraddhayānvitāḥ<br>te ’pi mām eva kaunteya yajantyavidhi-pūrvakam</div>
+            <div class="glossary"><b>ye</b>—those who; <b>api</b>—although; <b>anya</b>—other; <b>devatā</b>—celestial gods; <b>bhaktāḥ</b>—devotees; <b>yajante</b>—worship; <b>śhraddhayā anvitāḥ</b>—faithfully; <b>te</b>—they; <b>api</b>—also; <b>mām</b>—Me; <b>eva</b>—only; <b>kaunteya</b>—Arjun, the son of Kunti; <b>yajanti</b>—worship; <b>avidhi-pūrvakam</b>—by the wrong method</div>
+            <div class="translation">Even those devotees who, endowed with faith, worship other gods, worship Me alone, Ο son of Kunti, though in a wrong way.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.24</div>
+            <div class="devanagari">अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।<br>न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ।। 24।।</div>
+            <div class="iast">ahaṁ hi sarva-yajñānāṁ bhoktā cha prabhureva cha<br>na tu mām abhijānanti tattvenātaśh chyavanti te</div>
+            <div class="glossary"><b>aham</b>—I; <b>hi</b>—verily; <b>sarva</b>—of all; <b>yajñānām</b>—sacrifices; <b>bhoktā</b>—the enjoyer; <b>cha</b>—and; <b>prabhuḥ</b>—the Lord; <b>eva</b>—only; <b>cha</b>—and; <b>na</b>—not; <b>tu</b>—but; <b>mām</b>—Me; <b>abhijānanti</b>—realize; <b>tattvena</b>—divine nature; <b>ataḥ</b>—therefore; <b>chyavanti</b>—fall down (wander in samsara); <b>te</b>—they</div>
+            <div class="translation">I am alone the enjoyer and the Lord of all sacrifices, but they do not know Me in reality, hence they fall.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.25</div>
+            <div class="devanagari">यान्ति देवव्रता देवान्पितॄ न्यान्ति पितृव्रता: ।<br>भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ।।25।।</div>
+            <div class="iast">yānti deva-vratā devān pitṝīn yānti pitṛi-vratāḥ<br>bhūtāni yānti bhūtejyā yānti mad-yājino ’pi mām</div>
+            <div class="glossary"><b>yānti</b>—go; <b>deva-vratāḥ</b>—worshipers of celestial gods; <b>devān</b>—amongst the celestial gods; <b>pitṝīn</b>—to the ancestors; <b>yānti</b>—go; <b>pitṛi-vratā</b>—worshippers of ancestors; <b>bhūtāni</b>—to the ghosts; <b>yānti</b>—go; <b>bhūta-ijyāḥ</b>—worshippers of ghosts; <b>yānti</b>—go; <b>mat</b>—my; <b>yājinaḥ</b>—devotees; <b>api</b>—and; <b>mām</b>—to Me</div>
+            <div class="translation">The worshippers of the Devas go to the Devas; the worshippers of the ancestors go to the ancestors; the worshippers of the Bhutas go to the Bhutas; the worshippers of Me go to Me.</div>
+        </div>
+        
+</body>
+</html>

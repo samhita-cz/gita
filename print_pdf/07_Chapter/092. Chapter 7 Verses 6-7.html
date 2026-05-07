@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>092. Chapter 7 Verses 6-7</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.6</div>
+            <div class="devanagari">एतद्योनीनि भूतानि सर्वाणीत्युपधारय ।<br>अहं कृत्स्नस्य जगत: प्रभव: प्रलयस्तथा ।। 6।।</div>
+            <div class="iast">etad-yonīni bhūtāni sarvāṇītyupadhāraya<br>ahaṁ kṛitsnasya jagataḥ prabhavaḥ pralayas tathā</div>
+            <div class="glossary"><b>etat yonīni</b>—these two (energies) are the source of; <b>bhūtāni</b>—living beings; <b>sarvāṇi</b>—all; <b>iti</b>—that; <b>upadhāraya</b>—know; <b>aham</b>—I; <b>kṛitsnasya</b>—entire; <b>jagataḥ</b>—creation; <b>prabhavaḥ</b>—the source; <b>pralayaḥ</b>—dissolution; <b>tathā</b>—and</div>
+            <div class="translation">Know this (Prakriti) to be the womb of all beings; I am the source of the outcoming of the whole universe, and like-wise the source of its dissolution.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.7</div>
+            <div class="devanagari">मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय ।<br>मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ।। 7।।</div>
+            <div class="iast">mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya<br>mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva</div>
+            <div class="glossary"><b>mattaḥ</b>—than me; <b>para-taram</b>—superior; <b>na</b>—not; <b>anyat kiñchit</b>—anything else; <b>asti</b>—there is; <b>dhanañjaya</b>—Arjun, conqueror of wealth; <b>mayi</b>—in me; <b>sarvam</b>—all; <b>idam</b>—which we see; <b>protam</b>—is strung; <b>sūtre</b>—on a thread; <b>maṇi-gaṇāḥ</b>—beads; <b>iva</b>—like</div>
+            <div class="translation">There is nothing higher than Myself, O Arjun. Everything rests in Me, as gems strung on a thread.</div>
+        </div>
+        
+</body>
+</html>

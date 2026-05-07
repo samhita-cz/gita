@@ -1,0 +1,153 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>112. Chapter 9 Verses 18-21</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.18</div>
+            <div class="devanagari">गतिर्भर्ता प्रभु: साक्षी निवास: शरणं सुहृत् ।<br>प्रभव: प्रलय: स्थानं निधानं बीजमव्ययम् ।। 18।।</div>
+            <div class="iast">gatir bhartā prabhuḥ sākṣhī nivāsaḥ śharaṇaṁ suhṛit<br>prabhavaḥ pralayaḥ sthānaṁ nidhānaṁ bījam avyayam</div>
+            <div class="glossary"><b>gatiḥ</b>—the supreme goal; <b>bhartā</b>—sustainer; <b>prabhuḥ</b>—master; <b>sākṣhī</b>—witness; <b>nivāsaḥ</b>—abode; <b>śharaṇam</b>—shelter; <b>su-hṛit</b>—friend; <b>prabhavaḥ</b>—the origin; <b>pralayaḥ</b>—dissolution; <b>sthānam</b>—repository; <b>nidhānam</b>—resting place; <b>bījam</b>—seed; <b>avyayam</b>—imperishable</div>
+            <div class="translation">I am the goal, the supporter, the Lord, the witness, the abode, the shelter, the friend, the origin, the dissolution, the foundation, the treasure-house, and the seed imperishable.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.19</div>
+            <div class="devanagari">तपाम्यहमहं वर्षं निगृह्णम्युत्सृजामि च ।<br>अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ।। 19।।</div>
+            <div class="iast">tapāmyaham ahaṁ varṣhaṁ nigṛihṇāmyutsṛijāmi cha<br>amṛitaṁ chaiva mṛityuśh cha sad asach chāham arjuna</div>
+            <div class="glossary"><b>tapāmi</b>—radiate heat; <b>aham</b>—I; <b>aham</b>—I; <b>varṣham</b>—rain; <b>nigṛihṇāmi</b>—withhold; <b>utsṛijāmi</b>—send forth; <b>cha</b>—and; <b>amṛitam</b>—immortality; <b>cha</b>—and; <b>eva</b>—also; <b>mṛityuḥ</b>—death; <b>cha</b>—and; <b>sat</b>—eternal spirit; <b>asat</b>—temporary matter; <b>cha</b>—and; <b>aham</b>—I; <b>arjuna</b>—Arjun</div>
+            <div class="translation">O I give heat; I hold back and send forth rain. I am immortality, O Arjuna, and also death. I am being and I am non-being.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.20</div>
+            <div class="devanagari">त्रैविद्या मां सोमपा: पूतपापा<br>यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।<br>ते पुण्यमासाद्य सुरेन्द्रलोक<br>मश्नन्ति दिव्यान्दिवि देवभोगान् ।। 20।।</div>
+            <div class="iast">trai-vidyā māṁ soma-pāḥ pūta-pāpā<br>yajñair iṣhṭvā svar-gatiṁ prārthayante<br>te puṇyam āsādya surendra-lokam<br>aśhnanti divyān divi deva-bhogān</div>
+            <div class="glossary"><b>trai-vidyāḥ</b>—the science of karm kāṇḍ (Vedic rituals); <b>mām</b>—Me; <b>soma-pāḥ</b>—drinkers of the Soma juice; <b>pūta</b>—purified; <b>pāpāḥ</b>—sins; <b>yajñaiḥ</b>—through sacrifices; <b>iṣhṭvā</b>—worship; <b>svaḥ-gatim</b>—way to the abode of the king of heaven; <b>prārthayante</b>—seek; <b>te</b>—they; <b>puṇyam</b>—pious; <b>āsādya</b>—attain; <b>sura-indra</b>—of Indra; <b>lokam</b>—abode; <b>aśhnanti</b>—enjoy; <b>divyān</b>—celestial; <b>divi</b>—in heaven; <b>deva-bhogān</b>—the pleasures of the celestial gods</div>
+            <div class="translation">The knowers of the Vedas, the drinkers of Soma, purified of sins, worshipping Me by sacrifices, pray for the way to Heaven. They having attained the world of Indra, enjoy the heavenly pleasures of the Devas.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.21</div>
+            <div class="devanagari">ते तं भुक्त्वा स्वर्गलोकं विशालं<br>क्षीणे पुण्ये मर्त्यलोकं विशन्ति ।<br>एवं त्रयीधर्ममनुप्रपन्ना<br>गतागतं कामकामा लभन्ते ।। 21।।</div>
+            <div class="iast">te taṁ bhuktvā swarga-lokaṁ viśhālaṁ<br>kṣhīṇe puṇye martya-lokaṁ viśhanti<br>evaṁ trayī-dharmam anuprapannā<br>gatāgataṁ kāma-kāmā labhante</div>
+            <div class="glossary"><b>te</b>—they; <b>tam</b>—that; <b>bhuktvā</b>—having enjoyed; <b>swarga-lokam</b>—heaven; <b>viśhālam</b>—vast; <b>kṣhīṇe</b>—at the exhaustion of; <b>puṇye</b>—stock of merits; <b>martya-lokam</b>—to the earthly plane; <b>viśhanti</b>—return; <b>evam</b>—thus; <b>trayī dharmam</b>—the karm-kāṇḍ portion of the three Vedas; <b>anuprapannāḥ</b>—follow; <b>gata-āgatam</b>—repeated coming and going; <b>kāma-kāmāḥ</b>—desiring objects of enjoyments; <b>labhante</b>—attain</div>
+            <div class="translation">They having enjoyed the vast Heaven-world, the merit being exhausted, enter the world of mortals; thus, those who desire enjoyments, abiding by the law of the Vedas have to go and return endlessly.</div>
+        </div>
+        
+</body>
+</html>

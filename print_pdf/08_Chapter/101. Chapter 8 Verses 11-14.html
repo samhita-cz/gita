@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 8 — akṣhara parabrahma yoga</div>
+        <h1>101. Chapter 8 Verses 11-14</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 8.11</div>
+            <div class="devanagari">DEVAGIASTSLOVयदक्षरं वेदविदो वदन्ति<br>विशन्ति यद्यतयो वीतरागा: ।<br>यदिच्छन्तो ब्रह्मचर्यं चरन्ति<br>तत्ते पदं संग्रहेण प्रवक्ष्ये ।। 11।।</div>
+            <div class="iast">yad akṣharaṁ veda-vido vadanti<br>viśhanti yad yatayo vīta-rāgāḥ<br>yad ichchhanto brahmacharyaṁ charanti<br>tat te padaṁ saṅgraheṇa pravakṣhye</div>
+            <div class="glossary"><b>yat</b>—which; <b>akṣharam</b>—Imperishable; <b>veda-vidaḥ</b>—scholars of the Vedas; <b>vadanti</b>—describe; <b>viśhanti</b>—enter; <b>yat</b>—which; <b>yatayaḥ</b>—great ascetics; <b>vīta-rāgāḥ</b>—free from attachment; <b>yat</b>—which; <b>ichchhantaḥ</b>—desiring; <b>brahmacharyam</b>—celibacy; <b>charanti</b>—practice; <b>tat</b>—that; <b>te</b>—to you; <b>padam</b>—goal; <b>saṅgraheṇa</b>—briefly; <b>pravakṣhye</b>—I shall explainNIK</div>
+            <div class="translation">I will now briefly describe to you that state which those who know the Vedas call the Imperishable, and into which enter the sannyāsis, self-controlled and freed from attachment, and in desire for which seekers lead the life of continence.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.12-13</div>
+            <div class="devanagari">सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च ।<br>मूर्ध्न्याधायात्मन: प्राणमास्थितो योगधारणाम् ।। 12।।<br>ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन् ।<br>य: प्रयाति त्यजन्देहं स याति परमां गतिम् ।। 13।।</div>
+            <div class="iast">sarva-dvārāṇi sanyamya mano hṛidi nirudhya cha<br>mūrdhnyādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām<br>oṁ ityekākṣharaṁ brahma vyāharan mām anusmaran<br>yaḥ prayāti tyajan dehaṁ sa yāti paramāṁ gatim</div>
+            <div class="glossary"><b>sarva-dvārāṇi</b>—all gates; <b>sanyamya</b>—restraining; <b>manaḥ</b>—the mind; <b>hṛidi</b>—in the heart region; <b>nirudhya</b>—confining; <b>cha</b>—and; <b>mūrdhni</b>—in the head; <b>ādhāya</b>—establish; <b>ātmanaḥ</b>—of the self; <b>prāṇam</b>—the life breath; <b>āsthitaḥ</b>—situated (in); <b>yoga-dhāraṇām</b>—the yogic concentration; <b>om</b>—sacred syllable representing the formless aspect of God; <b>iti</b>—thus; <b>eka-akṣharam</b>—one-syllabled; <b>brahma</b>—the Absolute Truth; <b>vyāharan</b>—chanting; <b>mām</b>—Me (Shree Krishna); <b>anusmaran</b>—remembering; <b>yaḥ</b>—who; <b>prayāti</b>—departs; <b>tyajan</b>—quitting; <b>deham</b>—the body; <b>saḥ</b>—he; <b>yāti</b>—attains; <b>paramām</b>—the supreme; <b>gatim</b>—goal</div>
+            <div class="translation">He who closes all the doors of the senses, confines the mind within the heart, draws the prāna into the head, and engages in the practice of yoga, uttering Om, the single syllable denoting Brahman, and meditates on Me— he who so departs, leaving the body, attains the Supreme Goal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.14</div>
+            <div class="devanagari">अनन्यचेता: सततं यो मां स्मरति नित्यश: ।<br>तस्याहं सुलभ: पार्थ नित्ययुक्तस्य योगिन: ।। 14।।</div>
+            <div class="iast">ananya-chetāḥ satataṁ yo māṁ smarati nityaśhaḥ<br>tasyāhaṁ sulabhaḥ pārtha nitya-yuktasya yoginaḥ</div>
+            <div class="glossary"><b>ananya-chetāḥ</b>—without deviation of the mind; <b>satatam</b>—always; <b>yaḥ</b>—who; <b>mām</b>—Me; <b>smarati</b>—remembers; <b>nityaśhaḥ</b>—regularly; <b>tasya</b>—to him; <b>aham</b>—I; <b>su-labhaḥ</b>—easily attainable; <b>pārtha</b>—Arjun, the son of Pritha; <b>nitya</b>—constantly; <b>yuktasya</b>—engaged; <b>yoginaḥ</b>—of the yogis</div>
+            <div class="translation">O Parth, for those yogis who always think of Me with exclusive devotion, I am easily attainable because of their constant absorption in Me.</div>
+        </div>
+        
+</body>
+</html>

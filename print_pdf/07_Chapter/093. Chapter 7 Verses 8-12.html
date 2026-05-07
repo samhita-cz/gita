@@ -1,0 +1,161 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>093. Chapter 7 Verses 8-12</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.8</div>
+            <div class="devanagari">रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययो: ।<br>प्रणव: सर्ववेदेषु शब्द: खे पौरुषं नृषु ।। 8।।</div>
+            <div class="iast">raso ’ham apsu kaunteya prabhāsmi śhaśhi-sūryayoḥ<br>praṇavaḥ sarva-vedeṣhu śhabdaḥ khe pauruṣhaṁ nṛiṣhu</div>
+            <div class="glossary"><b>rasaḥ</b>—taste; <b>aham</b>—I; <b>apsu</b>—in water; <b>kaunteya</b>—Arjun, the son of Kunti; <b>prabhā</b>—the radiance; <b>asmi</b>—I am; <b>śhaśhi-sūryayoḥ</b>—of the moon and the sun; <b>praṇavaḥ</b>—the sacred syllable Om; <b>sarva</b>—in all; <b>vedeṣhu</b>—Vedas; <b>śhabdaḥ</b>—sound; <b>khe</b>—in ether; <b>pauruṣham</b>—ability; <b>nṛiṣhu</b>—in humans</div>
+            <div class="translation">I am the savour of waters, Ο son of Kunti, the radiance of the sun and moon; I am the syllable Om in all the Vedas, the sound in ether, the manliness in man.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.9</div>
+            <div class="devanagari">पुण्यो गन्ध: पृथिव्यां च तेजश्चास्मि विभावसौ ।<br>जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ।। 9।।</div>
+            <div class="iast">puṇyo gandhaḥ pṛithivyāṁ cha tejaśh chāsmi vibhāvasau<br>jīvanaṁ sarva-bhūteṣhu tapaśh chāsmi tapasviṣhu</div>
+            <div class="glossary"><b>puṇyaḥ</b>—pure; <b>gandhaḥ</b>—fragrance; <b>pṛithivyām</b>—of the earth; <b>cha</b>—and; <b>tejaḥ</b>—brilliance; <b>cha</b>—and; <b>asmi</b>—I am; <b>vibhāvasau</b>—in the fire; <b>jīvanam</b>—the life-force; <b>sarva</b>—in all; <b>bhūteṣhu</b>—beings; <b>tapaḥ</b>—penance; <b>cha</b>—and; <b>asmi</b>—I am; <b>tapasviṣhu</b>—of the ascetics</div>
+            <div class="translation">And, I am the sweet fragrance in the earth, the brilliance in fire, life in all beings, and austerity in ascetics.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.10</div>
+            <div class="devanagari">बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् ।<br>बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ।। 10।।</div>
+            <div class="iast">bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam<br>buddhir buddhimatām asmi tejas tejasvinām aham</div>
+            <div class="glossary"><b>bījam</b>—the seed; <b>mām</b>—me; <b>sarva-bhūtānām</b>—of all beings; <b>viddhi</b>—know; <b>pārtha</b>—Arjun, the son of Pritha; <b>sanātanam</b>—the eternal; <b>buddhiḥ</b>—intellect; <b>buddhi-matām</b>—of the intelligent; <b>asmi</b>—(I) am; <b>tejaḥ</b>—splendor; <b>tejasvinām</b>—of the splendid; <b>aham</b>—I</div>
+            <div class="translation">Know Me, Ο son of Prithā, to be the Eternal Seed of all things that exist; I am the intelligence of the intelligent and the daring of the brave.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.11</div>
+            <div class="devanagari">बलं बलवतां चाहं कामरागविवर्जितम् ।<br>धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ।। 11।।</div>
+            <div class="iast">balaṁ balavatāṁ chāhaṁ kāma-rāga-vivarjitam<br>dharmāviruddho bhūteṣhu kāmo ’smi bharatarṣhabha</div>
+            <div class="glossary"><b>balam</b>—strength; <b>bala-vatām</b>—of the strong; <b>cha</b>—and; <b>aham</b>—I; <b>kāma</b>—desire; <b>rāga</b>—passion; <b>vivarjitam</b>—devoid of; <b>dharma-aviruddhaḥ</b>—not conflicting with dharma; <b>bhūteṣhu</b>—in all beings; <b>kāmaḥ</b>—sexual activity; <b>asmi</b>—(I) am; <b>bharata-ṛiṣhabha</b>—Arjun, the best of the Bharats</div>
+            <div class="translation">I am the strength of the strong, free from longing and attachment. I am, Ο lord of the Bhāratas, the desire in all beings that is not contrary to dharma.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.12</div>
+            <div class="devanagari">ये चैव सात्त्विका भावा राजसास्तामसाश्च ये ।<br>मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ।। 12।।</div>
+            <div class="iast">ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye<br>matta eveti tān viddhi na tvahaṁ teṣhu te mayi</div>
+            <div class="glossary"><b>ye</b>—whatever; <b>cha</b>—and; <b>eva</b>—certainly; <b>sāttvikāḥ</b>—in the mode of goodness; <b>bhāvāḥ</b>—states of material existence; <b>rājasāḥ</b>—in the mode of passion; <b>tāmasāḥ</b>—in the mode of ignorance; <b>cha</b>—and; <b>ye</b>—whatever; <b>mattaḥ</b>—from me; <b>eva</b>—certainly; <b>iti</b>—thus; <b>tān</b>—those; <b>viddhi</b>—know; <b>na</b>—not; <b>tu</b>—but; <b>aham</b>—I; <b>teṣhu</b>—in them; <b>te</b>—they; <b>mayi</b>—in me</div>
+            <div class="translation">And whatever things there be— of the nature of sattva, rajas, and tamas— know they are all from Me alone. I am not, however, in them; they are in Me.</div>
+        </div>
+        
+</body>
+</html>

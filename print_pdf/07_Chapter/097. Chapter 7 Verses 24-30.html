@@ -1,0 +1,177 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 7 — vijñāna yoga</div>
+        <h1>097. Chapter 7 Verses 24-30</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 7.24</div>
+            <div class="devanagari">अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धय: ।<br>परं भावमजानन्तो ममाव्ययमनुत्तमम् ।। 24।।</div>
+            <div class="iast">avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ<br>paraṁ bhāvam ajānanto mamāvyayam anuttamam</div>
+            <div class="glossary"><b>avyaktam</b>—formless; <b>vyaktim</b>—possessing a personality; <b>āpannam</b>—to have assumed; <b>manyante</b>—think; <b>mām</b>—me; <b>abuddhayaḥ</b>—less intelligent; <b>param</b>—Supreme; <b>bhāvam</b>—nature; <b>ajānantaḥ</b>—not understanding; <b>mama</b>—my; <b>avyayam</b>—imperishable; <b>anuttamam</b>—excellent</div>
+            <div class="translation">Not knowing My supreme Nature, immutable and transcendent, foolish men think that I, the Unmanifest, am endowed with a manifest form.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.25</div>
+            <div class="devanagari">नाहं प्रकाश: सर्वस्य योगमायासमावृत: ।<br>मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ।। 25।।</div>
+            <div class="iast">nāhaṁ prakāśhaḥ sarvasya yoga-māyā-samāvṛitaḥ<br>mūḍho ’yaṁ nābhijānāti loko mām ajam avyayam</div>
+            <div class="glossary"><b>na</b>—not; <b>aham</b>—I; <b>prakāśhaḥ</b>—manifest; <b>sarvasya</b>—to everyone; <b>yoga-māyā</b>—God’s supreme (divine) energy; <b>samāvṛitaḥ</b>—veiled; <b>mūḍhaḥ</b>—deluded; <b>ayam</b>—these; <b>na</b>—not; <b>abhijānāti</b>—know; <b>lokaḥ</b>—persons; <b>mām</b>—me; <b>ajam</b>—unborn; <b>avyayam</b>—immutable</div>
+            <div class="translation">Veiled by My māyā born of the gunas, I am not revealed to all. This deluded world knows Me not as the unborn and eternal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.26</div>
+            <div class="devanagari">वेदाहं समतीतानि वर्तमानानि चार्जुन ।<br>भविष्याणि च भूतानि मां तु वेद न कश्चन ।। 26।।</div>
+            <div class="iast">vedāhaṁ samatītāni vartamānāni chārjuna<br>bhaviṣhyāṇi cha bhūtāni māṁ tu veda na kaśhchana</div>
+            <div class="glossary"><b>veda</b>—know; <b>aham</b>—I; <b>samatītāni</b>—the past; <b>vartamānāni</b>—the present; <b>cha</b>—and; <b>arjuna</b>—Arjun; <b>bhaviṣhyāṇi</b>—the future; <b>cha</b>—also; <b>bhūtāni</b>—all living beings; <b>mām</b>—me; <b>tu</b>—but; <b>veda</b>—knows; <b>na kaśhchana</b>—no one</div>
+            <div class="translation">O Arjuna! I know the past, present, and the future of all beings, but Me no one knows.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.27</div>
+            <div class="devanagari">इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत ।<br>सर्वभूतानि सम्मोहं सर्गे यान्ति परन्तप ।। 27।।</div>
+            <div class="iast">ichchhā-dveṣha-samutthena dvandva-mohena bhārata<br>sarva-bhūtāni sammohaṁ sarge yānti parantapa</div>
+            <div class="glossary"><b>ichchhā</b>—desire; <b>dveṣha</b>—aversion; <b>samutthena</b>—arise from; <b>dvandva</b>—of duality; <b>mohena</b>—from the illusion; <b>bhārata</b>—Arjun, descendant of Bharat; <b>sarva</b>—all; <b>bhūtāni</b>—living beings; <b>sammoham</b>—into delusion; <b>sarge</b>—since birth; <b>yānti</b>—enter; <b>parantapa</b>—Arjun, conqueror of enemies</div>
+            <div class="translation">O Arjuna! By the delusion of pairs of opposites caused by desire and aversion, all beings are subject to illusion in the world.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.28</div>
+            <div class="devanagari">येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् ।<br>ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रता: ।। 28।।</div>
+            <div class="iast">yeṣhāṁ tvanta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām<br>te dvandva-moha-nirmuktā bhajante māṁ dṛiḍha-vratāḥ</div>
+            <div class="glossary"><b>yeṣhām</b>—whose; <b>tu</b>—but; <b>anta-gatam</b>—completely destroyed; <b>pāpam</b>—sins; <b>janānām</b>—of persons; <b>puṇya</b>—pious; <b>karmaṇām</b>—activities; <b>te</b>—they; <b>dvandva</b>—of dualities; <b>moha</b>—illusion; <b>nirmuktāḥ</b>—free from; <b>bhajante</b>—worship;mām; <b>dṛiḍha-vratāḥ</b>—with determination</div>
+            <div class="translation">But those men of good works whose sin has come to an end, worship Me steadfast in vows, freed from the delusive pairs of opposites.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.29</div>
+            <div class="devanagari">जरामरणमोक्षाय मामाश्रित्य यतन्ति ये ।<br>ते ब्रह्म तद्विदु: कृत्स्नमध्यात्मं कर्म चाखिलम् ।। 29।।</div>
+            <div class="iast">jarā-maraṇa-mokṣhāya mām āśhritya yatanti ye<br>te brahma tadviduḥ kṛitsnam adhyātmaṁ karma chākhilam</div>
+            <div class="glossary"><b>jarā</b>—from old age; <b>maraṇa</b>—and death; <b>mokṣhāya</b>—for liberation; <b>mām</b>—me; <b>āśhritya</b>—take shelter in; <b>yatanti</b>—strive; <b>ye</b>—who; <b>te</b>—they; <b>brahma</b>—Brahman; <b>tat</b>—that; <b>viduḥ</b>—know; <b>kṛitsnam</b>—everything; <b>adhyātmam</b>—the individual self; <b>karma</b>—karmic action; <b>cha</b>—and; <b>akhilam</b>—entire</div>
+            <div class="translation">Those who take shelter in Me, striving for liberation from old-age and death, come to know the Brahman, the individual self, and the entire field of karmic action.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 7.30</div>
+            <div class="devanagari">साधिभूताधिदैवं मां साधियज्ञं च ये विदु: ।<br>प्रयाणकालेऽपि च मां ते विदुर्युक्तचेतस: ।। 30।।</div>
+            <div class="iast">sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ cha ye viduḥ<br>prayāṇa-kāle ’pi cha māṁ te vidur yukta-chetasaḥ</div>
+            <div class="glossary"><b>sa-adhibhūta</b>—governing principle of the field of matter; <b>adhidaivam</b>—governing principle of the celestial gods; <b>mām</b>—me; <b>sa-adhiyajñam</b>—governing principle of the Lord of all sacrificial performances; <b>cha</b>—and; <b>ye</b>—who; <b>viduḥ</b>—know; <b>prayāṇa</b>—of death; <b>kāle</b>—at the time; <b>api</b>—even; <b>cha</b>—and; <b>mām</b>—me; <b>te</b>—they; <b>viduḥ</b>—know; <b>yukta-chetasaḥ</b>—in full consciousness of me</div>
+            <div class="translation">Those who know Me as the One that underlies all the elements, as the One that underlies all the gods, and as the One that sustains all the sacrifices, will, with steadfast mind, know Me even in the hour of death.</div>
+        </div>
+        
+</body>
+</html>

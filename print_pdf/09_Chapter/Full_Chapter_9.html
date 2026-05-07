@@ -1,0 +1,401 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>Bhagavad Gita - Chapter 9</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    <div class='lecture-title first-lecture-title'>105. Chapter 9 Verses 1-2</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.1</div>
+            <div class="devanagari">श्रीभगवानुवाच ।<br>इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।<br>ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ।। 1।।</div>
+            <div class="iast">śhrī bhagavān uvācha<br>idaṁ tu te guhyatamaṁ pravakṣhyāmyanasūyave<br>jñānaṁ vijñāna-sahitaṁ yaj jñātvā mokṣhyase ’śhubhāt</div>
+            <div class="glossary"><b>śhrī-bhagavān uvācha</b>—the Supreme Lord said; <b>idam</b>—this; <b>tu</b>—but; <b>te</b>—to you; <b>guhya-tamam</b>—the most confidential; <b>pravakṣhyāmi</b>—I shall impart; <b>anasūyave</b>—nonenvious; <b>jñānam</b>—knowledge; <b>vijñāna</b>—realized knowledge; <b>sahitam</b>—with; <b>yat</b>—which; <b>jñātvā</b>—knowing; <b>mokṣhyase</b>—you will be released; <b>aśhubhāt</b>—miseries of material existence</div>
+            <div class="translation">The Lord said: To you, free from malice and cavil, I shall declare this profoundest secret, knowledge with experience combined, which having known, you shall be freed from all evil.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.2</div>
+            <div class="devanagari">राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।<br>प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ।। 2।।</div>
+            <div class="iast">rāja-vidyā rāja-guhyaṁ pavitram idam uttamam<br>pratyakṣhāvagamaṁ dharmyaṁ su-sukhaṁ kartum avyayam</div>
+            <div class="glossary"><b>rāja-vidyā</b>—the king of sciences; <b>rāja-guhyam</b>—the most profound secret; <b>pavitram</b>—pure; <b>idam</b>—this; <b>uttamam</b>—highest; <b>pratyakṣha</b>—directly perceptible; <b>avagamam</b>—directly realizable; <b>dharmyam</b>—virtuous; <b>su-sukham</b>—easy; <b>kartum</b>—to practice; <b>avyayam</b>—everlasting</div>
+            <div class="translation">It is the sovereign science, the sovereign mystery, and the supreme purifier. It is perceived by direct experience, it accords with dharma, it is easy to practise, and it is imperishable.</div>
+        </div>
+        <div class='lecture-title'>106. Chapter 9 Verses 3-4</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.3</div>
+            <div class="devanagari">अश्रद्दधाना: पुरुषा धर्मस्यास्य परन्तप ।<br>अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ।। 3।।</div>
+            <div class="iast">aśhraddadhānāḥ puruṣhā dharmasyāsya parantapa<br>aprāpya māṁ nivartante mṛityu-samsāra-vartmani</div>
+            <div class="glossary"><b>aśhraddadhānāḥ</b>—people without faith; <b>puruṣhāḥ</b>—(such) persons; <b>dharmasya</b>—of dharma; <b>asya</b>—this; <b>parantapa</b>—Arjun, conqueror the enemies; <b>aprāpya</b>—without attaining; <b>mām</b>—Me; <b>nivartante</b>—come back; <b>mṛityu</b>—death; <b>samsāra</b>—material existence; <b>vartmani</b>—in the path</div>
+            <div class="translation">People who have no faith in this dharma are unable to attain Me, O conqueror of enemies. They repeatedly come back to this world in the cycle of birth and death.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.4</div>
+            <div class="devanagari">मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।<br>मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थित: ।। 4।।</div>
+            <div class="iast">mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā<br>mat-sthāni sarva-bhūtāni na chāhaṁ teṣhvavasthitaḥ</div>
+            <div class="glossary"><b>mayā</b>—by Me; <b>tatam</b>—pervaded; <b>idam</b>—this; <b>sarvam</b>—entire; <b>jagat</b>—cosmic manifestation; <b>avyakta-mūrtinā</b>—the unmanifested form; <b>mat-sthāni</b>—in Me; <b>sarva-bhūtāni</b>—all living beings; <b>na</b>—not; <b>cha</b>—and; <b>aham</b>—I; <b>teṣhu</b>—in them; <b>avasthitaḥ</b>—dwell</div>
+            <div class="translation">This entire cosmic manifestation is pervaded by Me in My unmanifest form. All living beings dwell in Me, but I do not dwell in them.</div>
+        </div>
+        <div class='lecture-title'>107. Chapter 9 Verses 5-8</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.5</div>
+            <div class="devanagari">न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।<br>भूतभृन्न च भूतस्थो ममात्मा भूतभावन: ।। 5।।</div>
+            <div class="iast">na cha mat-sthāni bhūtāni paśhya me yogam aiśhwaram<br>bhūta-bhṛin na cha bhūta-stho mamātmā bhūta-bhāvanaḥ</div>
+            <div class="glossary"><b>na</b>—never; <b>cha</b>—and; <b>mat-sthāni</b>—abide in Me; <b>bhūtāni</b>—all living beings; <b>paśhya</b>—behold; <b>me</b>—My; <b>yogam aiśhwaram</b>—divine energy; <b>bhūta-bhṛit</b>—the sustainer of all living beings; <b>na</b>—never; <b>cha</b>—yet; <b>bhūta-sthaḥ</b>—dwelling in; <b>mama</b>—My; <b>ātmā</b>—Self; <b>bhūta-bhāvanaḥ</b>—the Creator of all beings</div>
+            <div class="translation">And yet, the living beings do not abide in Me. Behold the mystery of My divine energy! Although I am the Creator and Sustainer of all living beings, I am not influenced by them or by material nature.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.6</div>
+            <div class="devanagari">यथाकाशस्थितो नित्यं वायु: सर्वत्रगो महान् ।<br>तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ।। 6।।</div>
+            <div class="iast">yathākāśha-sthito nityaṁ vāyuḥ sarvatra-go mahān<br>tathā sarvāṇi bhūtāni mat-sthānītyupadhāraya</div>
+            <div class="glossary"><b>yathā</b>—as; <b>ākāśha-sthitaḥ</b>—rests in the sky; <b>nityam</b>—always; <b>vāyuḥ</b>—the wind; <b>sarvatra-gaḥ</b>—blowing everywhere; <b>mahān</b>—mighty; <b>tathā</b>—likewise; <b>sarvāṇi bhūtāni</b>—all living beings; <b>mat-sthāni</b>—rest in Me; <b>iti</b>—thus; <b>upadhāraya</b>—know</div>
+            <div class="translation">Know that as the mighty wind blowing everywhere rests always in the sky(ether), likewise, all living beings always rest in Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.7</div>
+            <div class="devanagari">सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।<br>कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ।। 7।।</div>
+            <div class="iast">sarva-bhūtāni kaunteya prakṛitiṁ yānti māmikām<br>kalpa-kṣhaye punas tāni kalpādau visṛijāmyaham</div>
+            <div class="glossary"><b>sarva-bhūtāni</b>—all living beings; <b>kaunteya</b>—Arjun, the son of Kunti; <b>prakṛitim</b>—primordial material energy; <b>yānti</b>—merge; <b>māmikām</b>—my; <b>kalpa-kṣhaye</b>—at the end of a kalpa; <b>punaḥ</b>—again; <b>tāni</b>—them; <b>kalpa-ādau</b>—at the beginning of a kalpa; <b>visṛijāmi</b>—manifest; <b>aham</b>—I</div>
+            <div class="translation">At the end of a cycle all beings, Ο son of Kunti, enter into My Prakriti, and at the beginning of a cycle I generate them again.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.8</div>
+            <div class="devanagari">प्रकृतिं स्वामवष्टभ्य विसृजामि पुन: पुन: ।<br>भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ।। 8।।</div>
+            <div class="iast">prakṛitiṁ svām avaṣhṭabhya visṛijāmi punaḥ punaḥ<br>bhūta-grāmam imaṁ kṛitsnam avaśhaṁ prakṛiter vaśhāt</div>
+            <div class="glossary"><b>prakṛitim</b>—the material energy; <b>svām</b>—my own; <b>avaṣhṭabhya</b>—presiding over; <b>visṛijāmi</b>—generate; <b>punaḥ punaḥ</b>—again and again; <b>bhūta-grāmam</b>—myriad forms; <b>imam</b>—these; <b>kṛitsnam</b>—all; <b>avaśham</b>—beyond their control; <b>prakṛiteḥ</b>—nature; <b>vaśhāt</b>—force</div>
+            <div class="translation">Controlling My own Prakriti, I send forth, again and again, all this multitude of beings, helpless under the sway of māyā.</div>
+        </div>
+        <div class='lecture-title'>108. Chapter 9 Verses 9-13</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.9</div>
+            <div class="devanagari">न च मां तानि कर्माणि निबध्नन्ति धनञ्जय ।<br>उदासीनवदासीनमसक्तं तेषु कर्मसु ।। 9।।</div>
+            <div class="iast">na cha māṁ tāni karmāṇi nibadhnanti dhanañjaya<br>udāsīna-vad āsīnam asaktaṁ teṣhu karmasu</div>
+            <div class="glossary"><b>na</b>—none; <b>cha</b>—as; <b>mām</b>—Me; <b>tāni</b>—those; <b>karmāṇi</b>—actions; <b>nibadhnanti</b>—bind; <b>dhanañjaya</b>—Arjun, conqueror of wealth; <b>udāsīna-vat</b>—as neutral; <b>āsīnam</b>—situated; <b>asaktam</b>—detached; <b>teṣhu</b>—those; <b>karmasu</b>—actions</div>
+            <div class="translation">And these acts, Ο Dhananjaya, do not bind Me; for I remain unattached to them, as one unconcerned.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.10</div>
+            <div class="devanagari">मयाध्यक्षेण प्रकृति: सूयते सचराचरम् ।<br>हेतुनानेन कौन्तेय जगद्विपरिवर्तते ।। 10।।</div>
+            <div class="iast">mayādhyakṣheṇa prakṛitiḥ sūyate sa-charācharam<br>hetunānena kaunteya jagad viparivartate</div>
+            <div class="glossary"><b>mayā</b>—by Me; <b>adhyakṣheṇa</b>—direction; <b>prakṛitiḥ</b>—material energy; <b>sūyate</b>—brings into being; <b>sa</b>—both; <b>chara-acharam</b>—the animate and the inanimate; <b>hetunā</b>—reason; <b>anena</b>—this; <b>kaunteya</b>—Arjun, the son of Kunti; <b>jagat</b>—the material world; <b>viparivartate</b>—undergoes the changes</div>
+            <div class="translation">Prakriti, under My guidance, gives birth to all things, moving and unmoving; and because of this, Ο son of Kunti, the world revolves.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.11</div>
+            <div class="devanagari">अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।<br>परं भावमजानन्तो मम भूतमहेश्वरम् ।। 11।।</div>
+            <div class="iast">avajānanti māṁ mūḍhā mānuṣhīṁ tanum āśhritam<br>paraṁ bhāvam ajānanto mama bhūta-maheśhvaram</div>
+            <div class="glossary"><b>avajānanti</b>—disregard; <b>mām</b>—Me; <b>mūḍhāḥ</b>—dim-witted; <b>mānuṣhīm</b>—human; <b>tanum</b>—form; <b>āśhritam</b>—take on; <b>param</b>—divine; <b>bhāvam</b>—personality; <b>ajānantaḥ</b>—not knowing; <b>mama</b>—My; <b>bhūta</b>—all beings; <b>mahā-īśhvaram</b>—the Supreme Lord</div>
+            <div class="translation">Fools disregard Me when I assume a human form; for they are unaware of My higher nature as the Supreme Lord of all beings.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.12</div>
+            <div class="devanagari">मोघाशा मोघकर्माणो मोघज्ञाना विचेतस: ।<br>राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिता: ।। 12।।</div>
+            <div class="iast">moghāśhā mogha-karmāṇo mogha-jñānā vichetasaḥ<br>rākṣhasīm āsurīṁ chaiva prakṛitiṁ mohinīṁ śhritāḥ</div>
+            <div class="glossary"><b>mogha-āśhāḥ</b>—of vain hopes; <b>mogha-karmāṇaḥ</b>—of vain actions; <b>mogha-jñānāḥ</b>—of baffled knowledge; <b>vichetasaḥ</b>—deluded; <b>rākṣhasīm</b>—demoniac; <b>āsurīm</b>—atheistic; <b>cha</b>—and; <b>eva</b>—certainly; <b>prakṛitim</b>—material energy; <b>mohinīm</b>—bewildered; <b>śhritāḥ</b>—take shelter</div>
+            <div class="translation">Being of the deceitful nature of fiends and demons, they cherish vain hopes, perform vain actions, pursue vain knowledge, and are devoid of judgement.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.13</div>
+            <div class="devanagari">महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिता: ।<br>भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ।। 13।।</div>
+            <div class="iast">mahātmānas tu māṁ pārtha daivīṁ prakṛitim āśhritāḥ<br>bhajantyananya-manaso jñātvā bhūtādim avyayam</div>
+            <div class="glossary"><b>mahā-ātmānaḥ</b>—the great souls; <b>tu</b>—but; <b>mām</b>—Me; <b>pārtha</b>—Arjun, the son of Pritha; <b>daivīm prakṛitim</b>—divine energy; <b>āśhritāḥ</b>—take shelter of; <b>bhajanti</b>—engage in devotion; <b>ananya-manasaḥ</b>—with mind fixed exclusively; <b>jñātvā</b>—knowing; <b>bhūta</b>—all creation; <b>ādim</b>—the origin; <b>avyayam</b>—imperishable</div>
+            <div class="translation">But the great-souled men, Ο Pārtha, who are endowed with the divine nature, worship Me with undisturbed minds, knowing that I am immutable and the origin of all beings.</div>
+        </div>
+        <div class='lecture-title'>109. Chapter 9 Verse 14</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.14</div>
+            <div class="devanagari">सततं कीर्तयन्तो मां यतन्तश्च दृढव्रता: ।<br>नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ।। 14।।</div>
+            <div class="iast">satataṁ kīrtayanto māṁ yatantaśh cha dṛiḍha-vratāḥ<br>namasyantaśh cha māṁ bhaktyā nitya-yuktā upāsate</div>
+            <div class="glossary"><b>satatam</b>—always; <b>kīrtayantaḥ</b>—singing divine glories; <b>mām</b>—Me; <b>yatantaḥ</b>—striving; <b>cha</b>—and; <b>dṛiḍha-vratāḥ</b>—with great determination; <b>namasyantaḥ</b>—humbly bowing down; <b>cha</b>—and; <b>mām</b>—Me; <b>bhaktyā</b>—loving devotion; <b>nitya-yuktāḥ</b>—constantly united; <b>upāsate</b>—worship</div>
+            <div class="translation">Ever glorifying Me, always striving with self-control, remaining firm in their vows, bowing before Me, they worship Me with love and unwavering steadiness.</div>
+        </div>
+        <div class='lecture-title'>110. Chapter 9 Verses 15-16</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.15</div>
+            <div class="devanagari">ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते ।<br>एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ।। 15।।</div>
+            <div class="iast">jñāna-yajñena chāpyanye yajanto mām upāsate<br>ekatvena pṛithaktvena bahudhā viśhvato-mukham</div>
+            <div class="glossary"><b>jñāna-yajñena</b>—yajña of cultivating knowledge; <b>cha</b>—and; <b>api</b>—also; <b>anye</b>—others; <b>yajantaḥ</b>—worship; <b>mām</b>—Me; <b>upāsate</b>—worship; <b>ekatvena</b>—undifferentiated oneness; <b>pṛithaktvena</b>—separately; <b>bahudhā</b>—various; <b>viśhwataḥ-mukham</b>—the cosmic form</div>
+            <div class="translation">Others, again, offer the oblation of knowledge and worship Me either as one with them or as distinct from them; and still others in various ways worship Me, whose form is the whole universe.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.16</div>
+            <div class="devanagari">अहं क्रतुरहं यज्ञ: स्वधाहमहमौषधम् ।<br>मन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ।। 16।।</div>
+            <div class="iast">ahaṁ kratur ahaṁ yajñaḥ svadhāham aham auṣhadham<br>mantro ’ham aham evājyam aham agnir ahaṁ hutam</div>
+            <div class="glossary"><b>aham</b>—I; <b>kratuḥ</b>—Vedic ritual; <b>aham</b>—I; <b>yajñaḥ</b>—sacrifice; <b>svadhā</b>—oblation; <b>aham</b>—I; <b>aham</b>—I; <b>auṣhadham</b>—medicinal herb; <b>mantraḥ</b>—Vedic mantra; <b>aham</b>—I; <b>aham</b>—I; <b>eva</b>—also; <b>ājyam</b>—clarified butter; <b>aham</b>—I; <b>agniḥ</b>—fire; <b>aham</b>—I; <b>hutam</b>—the act offering;</div>
+            <div class="translation">I am the sacrifice, I am the worship, I am the oblation to the manes, and I am cereal. I am the hymn, I am the melted butter, I am the fire, and I am the offering.</div>
+        </div>
+        <div class='lecture-title'>111. Chapter 9 Verse 17</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.17</div>
+            <div class="devanagari">पिताहमस्य जगतो माता धाता पितामह: ।<br>वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च ।। 17।।</div>
+            <div class="iast">pitāham asya jagato mātā dhātā pitāmahaḥ<br>vedyaṁ pavitram oṁkāra ṛik sāma yajur eva cha</div>
+            <div class="glossary"><b>pitā</b>—Father; <b>aham</b>—I; <b>asya</b>—of this; <b>jagataḥ</b>—universe; <b>mātā</b>—Mother; <b>dhātā</b>—Sustainer; <b>pitāmahaḥ</b>—Grandsire; <b>vedyam</b>—the goal of knowledge; <b>pavitram</b>—the purifier; <b>om-kāra</b>—the sacred syllable Om; <b>ṛik</b>—the Rig Veda; <b>sāma</b>—the Sama Veda; <b>yajuḥ</b>—the Yajur Veda; <b>eva</b>—also; <b>cha</b>—and</div>
+            <div class="translation">I am the Father of this universe, the Mother, the Sustainer, and the Grandsire. I am the knowable, the purifier, and the syllable Om. I am also the Rik, the Sāman, and the Yajus.</div>
+        </div>
+        <div class='lecture-title'>112. Chapter 9 Verses 18-21</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.18</div>
+            <div class="devanagari">गतिर्भर्ता प्रभु: साक्षी निवास: शरणं सुहृत् ।<br>प्रभव: प्रलय: स्थानं निधानं बीजमव्ययम् ।। 18।।</div>
+            <div class="iast">gatir bhartā prabhuḥ sākṣhī nivāsaḥ śharaṇaṁ suhṛit<br>prabhavaḥ pralayaḥ sthānaṁ nidhānaṁ bījam avyayam</div>
+            <div class="glossary"><b>gatiḥ</b>—the supreme goal; <b>bhartā</b>—sustainer; <b>prabhuḥ</b>—master; <b>sākṣhī</b>—witness; <b>nivāsaḥ</b>—abode; <b>śharaṇam</b>—shelter; <b>su-hṛit</b>—friend; <b>prabhavaḥ</b>—the origin; <b>pralayaḥ</b>—dissolution; <b>sthānam</b>—repository; <b>nidhānam</b>—resting place; <b>bījam</b>—seed; <b>avyayam</b>—imperishable</div>
+            <div class="translation">I am the goal, the supporter, the Lord, the witness, the abode, the shelter, the friend, the origin, the dissolution, the foundation, the treasure-house, and the seed imperishable.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.19</div>
+            <div class="devanagari">तपाम्यहमहं वर्षं निगृह्णम्युत्सृजामि च ।<br>अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ।। 19।।</div>
+            <div class="iast">tapāmyaham ahaṁ varṣhaṁ nigṛihṇāmyutsṛijāmi cha<br>amṛitaṁ chaiva mṛityuśh cha sad asach chāham arjuna</div>
+            <div class="glossary"><b>tapāmi</b>—radiate heat; <b>aham</b>—I; <b>aham</b>—I; <b>varṣham</b>—rain; <b>nigṛihṇāmi</b>—withhold; <b>utsṛijāmi</b>—send forth; <b>cha</b>—and; <b>amṛitam</b>—immortality; <b>cha</b>—and; <b>eva</b>—also; <b>mṛityuḥ</b>—death; <b>cha</b>—and; <b>sat</b>—eternal spirit; <b>asat</b>—temporary matter; <b>cha</b>—and; <b>aham</b>—I; <b>arjuna</b>—Arjun</div>
+            <div class="translation">O I give heat; I hold back and send forth rain. I am immortality, O Arjuna, and also death. I am being and I am non-being.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.20</div>
+            <div class="devanagari">त्रैविद्या मां सोमपा: पूतपापा<br>यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।<br>ते पुण्यमासाद्य सुरेन्द्रलोक<br>मश्नन्ति दिव्यान्दिवि देवभोगान् ।। 20।।</div>
+            <div class="iast">trai-vidyā māṁ soma-pāḥ pūta-pāpā<br>yajñair iṣhṭvā svar-gatiṁ prārthayante<br>te puṇyam āsādya surendra-lokam<br>aśhnanti divyān divi deva-bhogān</div>
+            <div class="glossary"><b>trai-vidyāḥ</b>—the science of karm kāṇḍ (Vedic rituals); <b>mām</b>—Me; <b>soma-pāḥ</b>—drinkers of the Soma juice; <b>pūta</b>—purified; <b>pāpāḥ</b>—sins; <b>yajñaiḥ</b>—through sacrifices; <b>iṣhṭvā</b>—worship; <b>svaḥ-gatim</b>—way to the abode of the king of heaven; <b>prārthayante</b>—seek; <b>te</b>—they; <b>puṇyam</b>—pious; <b>āsādya</b>—attain; <b>sura-indra</b>—of Indra; <b>lokam</b>—abode; <b>aśhnanti</b>—enjoy; <b>divyān</b>—celestial; <b>divi</b>—in heaven; <b>deva-bhogān</b>—the pleasures of the celestial gods</div>
+            <div class="translation">The knowers of the Vedas, the drinkers of Soma, purified of sins, worshipping Me by sacrifices, pray for the way to Heaven. They having attained the world of Indra, enjoy the heavenly pleasures of the Devas.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.21</div>
+            <div class="devanagari">ते तं भुक्त्वा स्वर्गलोकं विशालं<br>क्षीणे पुण्ये मर्त्यलोकं विशन्ति ।<br>एवं त्रयीधर्ममनुप्रपन्ना<br>गतागतं कामकामा लभन्ते ।। 21।।</div>
+            <div class="iast">te taṁ bhuktvā swarga-lokaṁ viśhālaṁ<br>kṣhīṇe puṇye martya-lokaṁ viśhanti<br>evaṁ trayī-dharmam anuprapannā<br>gatāgataṁ kāma-kāmā labhante</div>
+            <div class="glossary"><b>te</b>—they; <b>tam</b>—that; <b>bhuktvā</b>—having enjoyed; <b>swarga-lokam</b>—heaven; <b>viśhālam</b>—vast; <b>kṣhīṇe</b>—at the exhaustion of; <b>puṇye</b>—stock of merits; <b>martya-lokam</b>—to the earthly plane; <b>viśhanti</b>—return; <b>evam</b>—thus; <b>trayī dharmam</b>—the karm-kāṇḍ portion of the three Vedas; <b>anuprapannāḥ</b>—follow; <b>gata-āgatam</b>—repeated coming and going; <b>kāma-kāmāḥ</b>—desiring objects of enjoyments; <b>labhante</b>—attain</div>
+            <div class="translation">They having enjoyed the vast Heaven-world, the merit being exhausted, enter the world of mortals; thus, those who desire enjoyments, abiding by the law of the Vedas have to go and return endlessly.</div>
+        </div>
+        <div class='lecture-title'>113. Chapter 9 Verses 22-25</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.22</div>
+            <div class="devanagari">अनन्याश्चिन्तयन्तो मां ये जना: पर्युपासते ।<br>तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ।। 22।।</div>
+            <div class="iast">ananyāśh chintayanto māṁ ye janāḥ paryupāsate<br>teṣhāṁ nityābhiyuktānāṁ yoga-kṣhemaṁ vahāmyaham</div>
+            <div class="glossary"><b>ananyāḥ</b>—always; <b>chintayantaḥ</b>—think of; <b>mām</b>—Me; <b>ye</b>—those who; <b>janāḥ</b>—persons; <b>paryupāsate</b>—worship exclusively; <b>teṣhām</b>—of them; <b>nitya abhiyuktānām</b>—who are always absorbed; <b>yoga</b>—supply spiritual assets; <b>kṣhemam</b>—protect spiritual assets; <b>vahāmi</b>—carry; <b>aham</b>—I</div>
+            <div class="translation">Those persons who worship Me, meditating on their identity with Me and ever devoted to Me— to them I carry what they lack and for them I preserve what they already have.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.23</div>
+            <div class="devanagari">येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयान्विता: ।<br>तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ।। 23।।</div>
+            <div class="iast">ye ’pyanya-devatā-bhaktā yajante śhraddhayānvitāḥ<br>te ’pi mām eva kaunteya yajantyavidhi-pūrvakam</div>
+            <div class="glossary"><b>ye</b>—those who; <b>api</b>—although; <b>anya</b>—other; <b>devatā</b>—celestial gods; <b>bhaktāḥ</b>—devotees; <b>yajante</b>—worship; <b>śhraddhayā anvitāḥ</b>—faithfully; <b>te</b>—they; <b>api</b>—also; <b>mām</b>—Me; <b>eva</b>—only; <b>kaunteya</b>—Arjun, the son of Kunti; <b>yajanti</b>—worship; <b>avidhi-pūrvakam</b>—by the wrong method</div>
+            <div class="translation">Even those devotees who, endowed with faith, worship other gods, worship Me alone, Ο son of Kunti, though in a wrong way.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.24</div>
+            <div class="devanagari">अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।<br>न तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ।। 24।।</div>
+            <div class="iast">ahaṁ hi sarva-yajñānāṁ bhoktā cha prabhureva cha<br>na tu mām abhijānanti tattvenātaśh chyavanti te</div>
+            <div class="glossary"><b>aham</b>—I; <b>hi</b>—verily; <b>sarva</b>—of all; <b>yajñānām</b>—sacrifices; <b>bhoktā</b>—the enjoyer; <b>cha</b>—and; <b>prabhuḥ</b>—the Lord; <b>eva</b>—only; <b>cha</b>—and; <b>na</b>—not; <b>tu</b>—but; <b>mām</b>—Me; <b>abhijānanti</b>—realize; <b>tattvena</b>—divine nature; <b>ataḥ</b>—therefore; <b>chyavanti</b>—fall down (wander in samsara); <b>te</b>—they</div>
+            <div class="translation">I am alone the enjoyer and the Lord of all sacrifices, but they do not know Me in reality, hence they fall.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.25</div>
+            <div class="devanagari">यान्ति देवव्रता देवान्पितॄ न्यान्ति पितृव्रता: ।<br>भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ।।25।।</div>
+            <div class="iast">yānti deva-vratā devān pitṝīn yānti pitṛi-vratāḥ<br>bhūtāni yānti bhūtejyā yānti mad-yājino ’pi mām</div>
+            <div class="glossary"><b>yānti</b>—go; <b>deva-vratāḥ</b>—worshipers of celestial gods; <b>devān</b>—amongst the celestial gods; <b>pitṝīn</b>—to the ancestors; <b>yānti</b>—go; <b>pitṛi-vratā</b>—worshippers of ancestors; <b>bhūtāni</b>—to the ghosts; <b>yānti</b>—go; <b>bhūta-ijyāḥ</b>—worshippers of ghosts; <b>yānti</b>—go; <b>mat</b>—my; <b>yājinaḥ</b>—devotees; <b>api</b>—and; <b>mām</b>—to Me</div>
+            <div class="translation">The worshippers of the Devas go to the Devas; the worshippers of the ancestors go to the ancestors; the worshippers of the Bhutas go to the Bhutas; the worshippers of Me go to Me.</div>
+        </div>
+        <div class='lecture-title'>114. Chapter 9 Verses 26-28</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.26</div>
+            <div class="devanagari">पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।<br>तदहं भक्त्युपहृतमश्नामि प्रयतात्मन: ।। 26।।</div>
+            <div class="iast">patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati<br>tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ</div>
+            <div class="glossary"><b>patram</b>—a leaf; <b>puṣhpam</b>—a flower; <b>phalam</b>—a fruit; <b>toyam</b>—water; <b>yaḥ</b>—who; <b>me</b>—to Me; <b>bhaktyā</b>—with devotion; <b>prayachchhati</b>—offers; <b>tat</b>—that; <b>aham</b>—I; <b>bhakti-upahṛitam</b>—offered with devotion; <b>aśhnāmi</b>—partake; <b>prayata-ātmanaḥ</b>—one in pure consciousness</div>
+            <div class="translation">Whosoever offers Me, with devotion, a leaf, a flower, a fruit, or water— that I accept, the pious offering of the pure in heart.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.27</div>
+            <div class="devanagari">यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।<br>यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ।। 27।।</div>
+            <div class="iast">yat karoṣhi yad aśhnāsi yaj juhoṣhi dadāsi yat<br>yat tapasyasi kaunteya tat kuruṣhva mad-arpaṇam</div>
+            <div class="glossary"><b>yat</b>—whatever; <b>karoṣhi</b>—you do; <b>yat</b>—whatever; <b>aśhnāsi</b>—you eat; <b>yat</b>—whatever; <b>juhoṣhi</b>—offer to the sacred fire; <b>dadāsi</b>—bestow as a gift; <b>yat</b>—whatever; <b>yat</b>—whatever; <b>tapasyasi</b>—austerities you perform; <b>kaunteya</b>—Arjun, the son of Kunti; <b>tat</b>—them; <b>kuruṣhva</b>—do; <b>mad arpaṇam</b>—as an offering to Me</div>
+            <div class="translation">Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, and whatever you practise in the form of austerities, Ο son of Kunti— do it as an offering to Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.28</div>
+            <div class="devanagari">शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनै: ।<br>संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ।। 28।।</div>
+            <div class="iast">śhubhāśhubha-phalair evaṁ mokṣhyase karma-bandhanaiḥ<br>sannyāsa-yoga-yuktātmā vimukto mām upaiṣhyasi</div>
+            <div class="glossary"><b>śhubha aśhubha phalaiḥ</b>—from good and bad results; <b>evam</b>—thus; <b>mokṣhyase</b>—you shall be freed; <b>karma</b>—work; <b>bandhanaiḥ</b>—from the bondage; <b>sanyāsa-yoga</b>—renunciation of selfishness; <b>yukta-ātmā</b>—having the mind attached to Me; <b>vimuktaḥ</b>—liberated; <b>mām</b>—to Me; <b>upaiṣhyasi</b>—you shall reach</div>
+            <div class="translation">Thus shall you be free from the bondage of actions, which bear good or evil results. With your mind firmly set on the yoga of renunciation, you shall become free and come to Me.</div>
+        </div>
+        <div class='lecture-title'>115. Chapter 9 Verses 29-31</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.29</div>
+            <div class="devanagari">समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रिय: ।<br>ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ।। 29।।</div>
+            <div class="iast">samo ’haṁ sarva-bhūteṣhu na me dveṣhyo ’sti na priyaḥ<br>ye bhajanti tu māṁ bhaktyā mayi te teṣhu chāpyaham</div>
+            <div class="glossary"><b>samaḥ</b>—equally disposed; <b>aham</b>—I; <b>sarva-bhūteṣhu</b>—to all living beings; <b>na</b>—no one; <b>me</b>—to Me; <b>dveṣhyaḥ</b>—inimical; <b>asti</b>—is; <b>na</b>—not; <b>priyaḥ</b>—dear; <b>ye</b>—who; <b>bhajanti</b>—worship with love; <b>tu</b>—but; <b>mām</b>—Me; <b>bhaktyā</b>—with devotion; <b>mayi</b>—reside in Me; <b>te</b>—such persons; <b>teṣhu</b>—in them; <b>cha</b>—and; <b>api</b>—also; <b>aham</b>—I</div>
+            <div class="translation">TRANSLAI am the same toward all beings; to Me there is none hateful or dear. But those who worship Me with devotion— they are in Me, and I too am in them.TION</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.30</div>
+            <div class="devanagari">अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।<br>साधुरेव स मन्तव्य: सम्यग्व्यवसितो हि स: ।। 30।।</div>
+            <div class="iast">api chet su-durāchāro bhajate mām ananya-bhāk<br>sādhur eva sa mantavyaḥ samyag vyavasito hi saḥ</div>
+            <div class="glossary"><b>api</b>—even; <b>chet</b>—if; <b>su-durāchāraḥ</b>—the vilest sinners; <b>bhajate</b>—worship; <b>mām</b>—Me; <b>ananya-bhāk</b>—exclusive devotion; <b>sādhuḥ</b>—righteous; <b>eva</b>—certainly; <b>saḥ</b>—that person; <b>mantavyaḥ</b>—is to be considered; <b>samyak</b>—properly; <b>vyavasitaḥ</b>—resolve; <b>hi</b>—certainly; <b>saḥ</b>—that person</div>
+            <div class="translation">Even the most sinful man, if he worships Me with unswerving devotion, must be regarded as righteous; for he has formed the right resolution.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.31</div>
+            <div class="devanagari">क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।<br>कौन्तेय प्रतिजानीहि न मे भक्त: प्रणश्यति ।। 31।।</div>
+            <div class="iast">kṣhipraṁ bhavati dharmātmā śhaśhvach-chhāntiṁ nigachchhati<br>kaunteya pratijānīhi na me bhaktaḥ praṇaśhyati</div>
+            <div class="glossary"><b>kṣhipram</b>—quickly; <b>bhavati</b>—become; <b>dharma-ātmā</b>—virtuous; <b>śhaśhvat-śhāntim</b>—lasting peace; <b>nigachchhati</b>—attain; <b>kaunteya</b>—Arjun, the son of Kunti; <b>pratijānīhi</b>—declare; <b>na</b>—never; <b>me</b>—My; <b>bhaktaḥ</b>—devotee; <b>praṇaśhyati</b>—perishes</div>
+            <div class="translation">He soon becomes righteous and attains eternal peace. Proclaim it boldly, Ο son of Kunti, that My devotee never perishes.</div>
+        </div>
+        <div class='lecture-title'>116. Chapter 9 Verses 32-34</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.32</div>
+            <div class="devanagari">मां हि पार्थ व्यपाश्रित्य येऽपि स्यु: पापयोनय: ।<br>स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ।। 32।।</div>
+            <div class="iast">māṁ hi pārtha vyapāśhritya ye ’pi syuḥ pāpa-yonayaḥ<br>striyo vaiśhyās tathā śhūdrās te ’pi yānti parāṁ gatim</div>
+            <div class="glossary"><b>mām</b>—in Me; <b>hi</b>—certainly; <b>pārtha</b>—Arjun, the son of Pritha; <b>vyapāśhritya</b>—take refuge; <b>ye</b>—who; <b>api</b>—even; <b>syuḥ</b>—may be; <b>pāpa yonayaḥ</b>—of low birth; <b>striyaḥ</b>—women; <b>vaiśhyāḥ</b>—mercantile people; <b>tathā</b>—and; <b>śhūdrāḥ</b>—manual workers; <b>te api</b>—even they; <b>yānti</b>—go; <b>parām</b>—the supreme; <b>gatim</b>—destination</div>
+            <div class="translation">For those who take refuge in Me, Ο Pārtha, though they be of sinful birth— women, vaiśyas, and śudras— even they attain the Supreme Goal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.33</div>
+            <div class="devanagari">DEVAGIASTSLOकिं पुनर्ब्राह्मणा: पुण्या भक्ता राजर्षयस्तथा ।<br>अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ।। 33।।</div>
+            <div class="iast">kiṁ punar brāhmaṇāḥ puṇyā bhaktā rājarṣhayas tathā<br>anityam asukhaṁ lokam imaṁ prāpya bhajasva mām</div>
+            <div class="glossary"><b>kim</b>—what; <b>punaḥ</b>—then; <b>brāhmaṇāḥ</b>—sages; <b>puṇyāḥ</b>—meritorius; <b>bhaktāḥ</b>—devotees; <b>rāja-ṛiṣhayaḥ</b>—saintly kings; <b>tathā</b>—and; <b>anityam</b>—transient; <b>asukham</b>—joyless; <b>lokam</b>—world; <b>imam</b>—this; <b>prāpya</b>—having achieved; <b>bhajasva</b>—engage in devotion; <b>mām</b>—unto MeVNIK</div>
+            <div class="translation">How much more, then, if they be holy brāhmins or royal seers devoted to God! Having come into this transitory, joyless world, worship Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.34</div>
+            <div class="devanagari">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।<br>मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: ।। 34।।</div>
+            <div class="iast">man-manā bhava mad-bhakto mad-yājī māṁ namaskuru<br>mām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ</div>
+            <div class="glossary"><b>mat-manāḥ</b>—always think of Me; <b>bhava</b>—be; <b>mat</b>—My; <b>bhaktaḥ</b>—devotee; <b>mat</b>—My; <b>yājī</b>—worshipper; <b>mām</b>—to Me; <b>namaskuru</b>—offer obeisances; <b>mām</b>—to Me; <b>eva</b>—certainly; <b>eṣhyasi</b>—you will come; <b>yuktvā</b>—united with Me; <b>evam</b>—thus; <b>ātmānam</b>—your mind and body; <b>mat-parāyaṇaḥ</b>—having dedicated to Me</div>
+            <div class="translation">Fix your mind on Me, be devoted to Me, sacrifice to Me, bow down to Me. Having thus disciplined yourself, and regarding Me as the Supreme Goal, you will come to Me.</div>
+        </div>
+        <div class='lecture-title'>117. Chapter 9 Verse 34 Revision</div>
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.34</div>
+            <div class="devanagari">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।<br>मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: ।। 34।।</div>
+            <div class="iast">man-manā bhava mad-bhakto mad-yājī māṁ namaskuru<br>mām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ</div>
+            <div class="glossary"><b>mat-manāḥ</b>—always think of Me; <b>bhava</b>—be; <b>mat</b>—My; <b>bhaktaḥ</b>—devotee; <b>mat</b>—My; <b>yājī</b>—worshipper; <b>mām</b>—to Me; <b>namaskuru</b>—offer obeisances; <b>mām</b>—to Me; <b>eva</b>—certainly; <b>eṣhyasi</b>—you will come; <b>yuktvā</b>—united with Me; <b>evam</b>—thus; <b>ātmānam</b>—your mind and body; <b>mat-parāyaṇaḥ</b>—having dedicated to Me</div>
+            <div class="translation">Fix your mind on Me, be devoted to Me, sacrifice to Me, bow down to Me. Having thus disciplined yourself, and regarding Me as the Supreme Goal, you will come to Me.</div>
+        </div>
+        
+</body>
+</html>

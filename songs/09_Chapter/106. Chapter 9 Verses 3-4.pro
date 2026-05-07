@@ -11,25 +11,40 @@ https://open.spotify.com/episode/5gcrcuHlSDzXbwITNxFif1?si=47dbe10d1c4a48af
 
 {sov: Verse 9.3}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-Verse-3.mp3
 
-DEVAGIASTSLOVNIK
+अश्रद्दधाना: पुरुषा धर्मस्यास्य परन्तप |
+अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि || 3||
+
+aśhraddadhānāḥ puruṣhā dharmasyāsya parantapa
+aprāpya māṁ nivartante mṛityu-samsāra-vartmani
+
+aśhraddadhānāḥ—people without faith; puruṣhāḥ—(such) persons; dharmasya—of dharma; asya—this; parantapa—Arjun, conqueror the enemies; aprāpya—without attaining; mām—Me; nivartante—come back; mṛityu—death; samsāra—material existence; vartmani—in the path
 {eov}
 
 {sot}
-TRANSLATION
+People who have no faith in this dharma are unable to attain Me, O conqueror of enemies. They repeatedly come back to this world in the cycle of birth and death.
 {eot}
 
 {sov: Verse 9.4}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-Verse-4.mp3
 
-DEVAGIASTSLOVNIK
+मया ततमिदं सर्वं जगदव्यक्तमूर्तिना |
+मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थित: || 4||
+
+mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā
+mat-sthāni sarva-bhūtāni na chāhaṁ teṣhvavasthitaḥ
+
+mayā—by Me; tatam—pervaded; idam—this; sarvam—entire; jagat—cosmic manifestation; avyakta-mūrtinā—the unmanifested form; mat-sthāni—in Me; sarva-bhūtāni—all living beings; na—not; cha—and; aham—I; teṣhu—in them; avasthitaḥ—dwell
 {eov}
 
 {sot}
-TRANSLATION
+This entire cosmic manifestation is pervaded by Me in My unmanifest form. All living beings dwell in Me, but I do not dwell in them.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b9v3/
+
+https://vivekavani.com/b9v4/
+{end_of_analysis}

@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>114. Chapter 9 Verses 26-28</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.26</div>
+            <div class="devanagari">पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।<br>तदहं भक्त्युपहृतमश्नामि प्रयतात्मन: ।। 26।।</div>
+            <div class="iast">patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati<br>tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ</div>
+            <div class="glossary"><b>patram</b>—a leaf; <b>puṣhpam</b>—a flower; <b>phalam</b>—a fruit; <b>toyam</b>—water; <b>yaḥ</b>—who; <b>me</b>—to Me; <b>bhaktyā</b>—with devotion; <b>prayachchhati</b>—offers; <b>tat</b>—that; <b>aham</b>—I; <b>bhakti-upahṛitam</b>—offered with devotion; <b>aśhnāmi</b>—partake; <b>prayata-ātmanaḥ</b>—one in pure consciousness</div>
+            <div class="translation">Whosoever offers Me, with devotion, a leaf, a flower, a fruit, or water— that I accept, the pious offering of the pure in heart.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.27</div>
+            <div class="devanagari">यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।<br>यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ।। 27।।</div>
+            <div class="iast">yat karoṣhi yad aśhnāsi yaj juhoṣhi dadāsi yat<br>yat tapasyasi kaunteya tat kuruṣhva mad-arpaṇam</div>
+            <div class="glossary"><b>yat</b>—whatever; <b>karoṣhi</b>—you do; <b>yat</b>—whatever; <b>aśhnāsi</b>—you eat; <b>yat</b>—whatever; <b>juhoṣhi</b>—offer to the sacred fire; <b>dadāsi</b>—bestow as a gift; <b>yat</b>—whatever; <b>yat</b>—whatever; <b>tapasyasi</b>—austerities you perform; <b>kaunteya</b>—Arjun, the son of Kunti; <b>tat</b>—them; <b>kuruṣhva</b>—do; <b>mad arpaṇam</b>—as an offering to Me</div>
+            <div class="translation">Whatever you do, whatever you eat, whatever you offer in sacrifice, whatever you give away, and whatever you practise in the form of austerities, Ο son of Kunti— do it as an offering to Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.28</div>
+            <div class="devanagari">शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनै: ।<br>संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ।। 28।।</div>
+            <div class="iast">śhubhāśhubha-phalair evaṁ mokṣhyase karma-bandhanaiḥ<br>sannyāsa-yoga-yuktātmā vimukto mām upaiṣhyasi</div>
+            <div class="glossary"><b>śhubha aśhubha phalaiḥ</b>—from good and bad results; <b>evam</b>—thus; <b>mokṣhyase</b>—you shall be freed; <b>karma</b>—work; <b>bandhanaiḥ</b>—from the bondage; <b>sanyāsa-yoga</b>—renunciation of selfishness; <b>yukta-ātmā</b>—having the mind attached to Me; <b>vimuktaḥ</b>—liberated; <b>mām</b>—to Me; <b>upaiṣhyasi</b>—you shall reach</div>
+            <div class="translation">Thus shall you be free from the bondage of actions, which bear good or evil results. With your mind firmly set on the yoga of renunciation, you shall become free and come to Me.</div>
+        </div>
+        
+</body>
+</html>

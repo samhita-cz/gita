@@ -1,0 +1,145 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 9 — rāja vidyā yoga</div>
+        <h1>116. Chapter 9 Verses 32-34</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 9.32</div>
+            <div class="devanagari">मां हि पार्थ व्यपाश्रित्य येऽपि स्यु: पापयोनय: ।<br>स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ।। 32।।</div>
+            <div class="iast">māṁ hi pārtha vyapāśhritya ye ’pi syuḥ pāpa-yonayaḥ<br>striyo vaiśhyās tathā śhūdrās te ’pi yānti parāṁ gatim</div>
+            <div class="glossary"><b>mām</b>—in Me; <b>hi</b>—certainly; <b>pārtha</b>—Arjun, the son of Pritha; <b>vyapāśhritya</b>—take refuge; <b>ye</b>—who; <b>api</b>—even; <b>syuḥ</b>—may be; <b>pāpa yonayaḥ</b>—of low birth; <b>striyaḥ</b>—women; <b>vaiśhyāḥ</b>—mercantile people; <b>tathā</b>—and; <b>śhūdrāḥ</b>—manual workers; <b>te api</b>—even they; <b>yānti</b>—go; <b>parām</b>—the supreme; <b>gatim</b>—destination</div>
+            <div class="translation">For those who take refuge in Me, Ο Pārtha, though they be of sinful birth— women, vaiśyas, and śudras— even they attain the Supreme Goal.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.33</div>
+            <div class="devanagari">DEVAGIASTSLOकिं पुनर्ब्राह्मणा: पुण्या भक्ता राजर्षयस्तथा ।<br>अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ।। 33।।</div>
+            <div class="iast">kiṁ punar brāhmaṇāḥ puṇyā bhaktā rājarṣhayas tathā<br>anityam asukhaṁ lokam imaṁ prāpya bhajasva mām</div>
+            <div class="glossary"><b>kim</b>—what; <b>punaḥ</b>—then; <b>brāhmaṇāḥ</b>—sages; <b>puṇyāḥ</b>—meritorius; <b>bhaktāḥ</b>—devotees; <b>rāja-ṛiṣhayaḥ</b>—saintly kings; <b>tathā</b>—and; <b>anityam</b>—transient; <b>asukham</b>—joyless; <b>lokam</b>—world; <b>imam</b>—this; <b>prāpya</b>—having achieved; <b>bhajasva</b>—engage in devotion; <b>mām</b>—unto MeVNIK</div>
+            <div class="translation">How much more, then, if they be holy brāhmins or royal seers devoted to God! Having come into this transitory, joyless world, worship Me.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 9.34</div>
+            <div class="devanagari">मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।<br>मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: ।। 34।।</div>
+            <div class="iast">man-manā bhava mad-bhakto mad-yājī māṁ namaskuru<br>mām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ</div>
+            <div class="glossary"><b>mat-manāḥ</b>—always think of Me; <b>bhava</b>—be; <b>mat</b>—My; <b>bhaktaḥ</b>—devotee; <b>mat</b>—My; <b>yājī</b>—worshipper; <b>mām</b>—to Me; <b>namaskuru</b>—offer obeisances; <b>mām</b>—to Me; <b>eva</b>—certainly; <b>eṣhyasi</b>—you will come; <b>yuktvā</b>—united with Me; <b>evam</b>—thus; <b>ātmānam</b>—your mind and body; <b>mat-parāyaṇaḥ</b>—having dedicated to Me</div>
+            <div class="translation">Fix your mind on Me, be devoted to Me, sacrifice to Me, bow down to Me. Having thus disciplined yourself, and regarding Me as the Supreme Goal, you will come to Me.</div>
+        </div>
+        
+</body>
+</html>

@@ -1,0 +1,169 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        /* Definice strany pro WeasyPrint */
+        @page {
+            size: A4;
+            margin: 2.5cm 2cm 2.5cm 2cm;
+            
+            /* Automatické číslování stránek v patce */
+            @bottom-center {
+                content: "Page " counter(page);
+                font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+                font-size: 9pt;
+                color: #888;
+                border-top: 0.5pt solid #eee;
+                width: 100%;
+                padding-top: 10pt;
+            }
+        }
+
+        body {
+            /* Offline-safe font stack: no external web requests during PDF export. */
+            font-family: 'Gentium Book Plus', 'Gentium', 'Noto Serif', serif;
+            line-height: 1.6;
+            color: #1a1a1a;
+            font-size: 11pt;
+        }
+        
+        .header {
+            border-bottom: 2px solid #4a3b32;
+            margin-bottom: 30pt;
+            padding-bottom: 10pt;
+        }
+        .chapter-label { text-transform: uppercase; letter-spacing: 1pt; font-size: 10pt; color: #666; }
+        h1 { margin: 5pt 0; font-size: 22pt; }
+        
+        .author-subtitle {
+            font-size: 13pt;
+            font-style: italic;
+            color: #555;
+            margin-top: 5pt;
+        }
+        
+        .lecture-title {
+            font-size: 20pt;
+            font-style: bold;
+            color: #000;
+            margin: 0 0 30pt 0;
+            padding-top: 10pt;
+            border-bottom: 1px solid #4a3b32;
+            page-break-before: always;
+        }
+
+        .lecture-title.first-lecture-title {
+            page-break-before: avoid;
+            margin-top: 20pt;
+        }
+
+        .verse-block {
+            margin-bottom: 45pt;
+            page-break-before: always;
+            page-break-inside: avoid;
+        }
+
+        .verse-block.first-verse {
+            page-break-before: avoid;
+            page-break-inside: auto;
+            break-inside: auto;
+        }
+        
+        .verse-number {
+            font-weight: bold;
+            color: #000;
+            border-bottom: 1px solid #f4bf7f;
+            margin-bottom: 12pt;
+            font-size: 14pt;
+            text-transform: uppercase;
+        }
+        .devanagari {
+            font-size: 15pt;
+            margin-bottom: 10pt;
+            line-height: 1.4;
+            color: #000;
+        }
+        .iast {
+            font-style: normal;
+            font-size: 17pt;
+            color: #000;
+            margin-bottom: 14pt;
+        }
+        .glossary {
+            font-size: 14pt;
+            color: #000;
+            margin-bottom: 14pt;
+            text-align: justify;
+            border-left: 0px solid #f0e6da;
+            padding-left: 0pt;
+            line-height: 1.6;
+        }
+        .glossary b { font-weight: 700; }
+        .translation {
+            font-size: 17pt;
+            font-weight: 700;
+            color: #000;
+            border-left: 4px solid #f4bf7f;
+            padding-left: 7pt;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="chapter-label">Chapter 8 — akṣhara parabrahma yoga</div>
+        <h1>104. Chapter 8 Verses 23-28</h1>
+        <div class="author-subtitle">Lectures by Swami Sarvapriyananda</div>
+    </div>
+    
+        <div class="verse-block first-verse">
+            <div class="verse-number">Verse 8.23</div>
+            <div class="devanagari">यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिन: ।<br>प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ।। 23।।</div>
+            <div class="iast">yatra kāle tvanāvṛittim āvṛittiṁ chaiva yoginaḥ<br>prayātā yānti taṁ kālaṁ vakṣhyāmi bharatarṣhabha</div>
+            <div class="glossary"><b>yatra</b>—where; <b>kāle</b>—time; <b>tu</b>—certainly; <b>anāvṛittim</b>—no return; <b>āvṛittim</b>—return; <b>cha</b>—and; <b>eva</b>—certainly; <b>yoginaḥ</b>—a yogi; <b>prayātāḥ</b>—having departed; <b>yānti</b>—attain; <b>tam</b>—that; <b>kālam</b>—time; <b>vakṣhyāmi</b>—I shall describe; <b>bharata-ṛiṣhabha</b>—Arjun, the best of the Bharatas;</div>
+            <div class="translation">Now I will tell you, Ο greatest of the Bhāratas, the time in which the yogis depart never to return, and also the time in which they depart to return.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.24</div>
+            <div class="devanagari">अग्निर्ज्योतिरह: शुक्ल: षण्मासा उत्तरायणम् ।<br>तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जना: ।। 24।।</div>
+            <div class="iast">agnir jyotir ahaḥ śhuklaḥ ṣhaṇ-māsā uttarāyaṇam<br>tatra prayātā gachchhanti brahma brahma-vido janāḥ</div>
+            <div class="glossary"><b>agniḥ</b>—fire; <b>jyotiḥ</b>—light; <b>ahaḥ</b>—day; <b>śhuklaḥ</b>—the bright fortnight of the moon; <b>ṣhaṭ-māsāḥ</b>—six months; <b>uttara-ayanam</b>—the sun’s northern course; <b>tatra</b>—there; <b>prayātāḥ</b>—departed; <b>gachchhanti</b>—go; <b>brahma</b>—Brahman; <b>brahma-vidaḥ</b>—those who know the Brahman; <b>janāḥ</b>—persons;</div>
+            <div class="translation">Fire, light, day-time, the bright half of the moon, and the six months of the northward passage of the sun— taking this path, the knowers of Brahman go to Brahman.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.25</div>
+            <div class="devanagari">धूमो रात्रिस्तथा कृष्ण: षण्मासा दक्षिणायनम् ।<br>तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते ।। 25।।</div>
+            <div class="iast">dhūmo rātris tathā kṛiṣhṇaḥ ṣhaṇ-māsā dakṣhiṇāyanam<br>tatra chāndramasaṁ jyotir yogī prāpya nivartate</div>
+            <div class="glossary"><b>dhūmaḥ</b>—smoke; <b>rātriḥ</b>—night; <b>tathā</b>—and; <b>kṛiṣhṇaḥ</b>—the dark fortnight of the moon; <b>ṣhaṭ-māsāḥ</b>—six months; <b>dakṣhiṇa-ayanam</b>—the sun’s southern course; <b>tatra</b>—there; <b>chāndra-masam</b>—lunar; <b>jyotiḥ</b>—light; <b>yogī</b>—a yogi; <b>prāpya</b>—attain; <b>nivartate</b>—comes back;</div>
+            <div class="translation">Smoke, night, the dark half of the moon, and the six months of the southward passage of the sun— taking this path, the yogi reaches the lunar path and thence returns.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.26</div>
+            <div class="devanagari">शुक्लकृष्णे गती ह्येते जगत: शाश्वते मते ।<br>एकया यात्यनावृत्तिमन्ययावर्तते पुन: ।। 26।।</div>
+            <div class="iast">śhukla-kṛiṣhṇe gatī hyete jagataḥ śhāśhvate mate<br>ekayā yātyanāvṛittim anyayāvartate punaḥ</div>
+            <div class="glossary"><b>śhukla</b>—bright; <b>kṛiṣhṇe</b>—dark; <b>gatī</b>—paths; <b>hi</b>—certainly; <b>ete</b>—these; <b>jagataḥ</b>—of the material world; <b>śhāśhvate</b>—eternal; <b>mate</b>—opinion; <b>ekayā</b>—by one; <b>yāti</b>—goes; <b>anāvṛittim</b>—to non return; <b>anyayā</b>—by the other; <b>āvartate</b>—comes back; <b>punaḥ</b>—again</div>
+            <div class="translation">These two paths— the bright and the dark— are deemed to be the world’s eternal paths. Following the one, a man does not come back, and following the other, he is reborn.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.27</div>
+            <div class="devanagari">नैते सृती पार्थ जानन्योगी मुह्यति कश्चन ।<br>तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन ।। 27।।</div>
+            <div class="iast">naite sṛitī pārtha jānan yogī muhyati kaśhchana<br>tasmāt sarveṣhu kāleṣhu yoga-yukto bhavārjuna</div>
+            <div class="glossary"><b>na</b>—never; <b>ete</b>—these two; <b>sṛitī</b>—paths; <b>pārtha</b>—Arjun, the son of Pritha; <b>jānan</b>—knowing; <b>yogī</b>—a yogi; <b>muhyati</b>—bewildered; <b>kaśhchana</b>—any; <b>tasmāt</b>—therefore; <b>sarveṣhu kāleṣhu</b>—always; <b>yoga-yuktaḥ</b>—situated in Yog; <b>bhava</b>—be; <b>arjuna</b>—Arjun</div>
+            <div class="translation">No yogi who understands these two paths is ever deluded. Therefore, Ο Arjuna, at all times be steadfast in yoga.</div>
+        </div>
+        
+        <div class="verse-block">
+            <div class="verse-number">Verse 8.28</div>
+            <div class="devanagari">वेदेषु यज्ञेषु तप:सु चैव<br>दानेषु यत्पुण्यफलं प्रदिष्टम् ।<br>अत्येति तत्सर्वमिदं विदित्वा<br>योगी परं स्थानमुपैति चाद्यम् ।। 28।।</div>
+            <div class="iast">vedeṣhu yajñeṣhu tapaḥsu chaiva<br>dāneṣhu yat puṇya-phalaṁ pradiṣhṭam<br>atyeti tat sarvam idaṁ viditvā<br>yogī paraṁ sthānam upaiti chādyam</div>
+            <div class="glossary"><b>vedeṣhu</b>—in the study of the Vedas; <b>yajñeṣhu</b>—in performance of sacrifices; <b>tapaḥsu</b>—in austerities; <b>cha</b>—and; <b>eva</b>—certainly; <b>dāneṣhu</b>—in giving charities; <b>yat</b>—which; <b>puṇya-phalam</b>—fruit of merit; <b>pradiṣhṭam</b>—is gained; <b>atyeti</b>—surpasses; <b>tat sarvam</b>—all; <b>idam</b>—this; <b>viditvā</b>—having known; <b>yogī</b>—a yogi; <b>param</b>—Supreme; <b>sthānam</b>—Abode; <b>upaiti</b>—achieves; <b>cha</b>—and; <b>ādyam</b>—original</div>
+            <div class="translation">The yogi who knows this transcends all the rewards laid down for the study of the Vedas, for sacrifices, for austerities, for making gifts: he reaches the Supreme, Primal Abode.</div>
+        </div>
+        
+</body>
+</html>
