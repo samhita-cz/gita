@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 15 — puruṣottama yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch15/175.mp3 | Gaiea Sanskrit 15.15}
+{audio: https://samhita-cz.github.io/gita-audio/ch15/175.mp3 | Gaiea Sanskrit 15.15}
 
 https://www.youtu.be/p-JYDgdrPzc?si=ThNJjdfqtlolOzlB
 

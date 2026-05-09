@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch07/xxx.mp3 | Gaiea Sanskrit 7.x}
+{audio: https://samhita-cz.github.io/gita-audio/ch07/xxx.mp3 | Gaiea Sanskrit 7.x}
 
 YOUTUBE
 

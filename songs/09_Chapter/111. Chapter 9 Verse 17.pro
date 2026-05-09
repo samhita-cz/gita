@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 9 — rāja vidyā yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch09/111.mp3 | Gaiea Sanskrit 9.17}
+{audio: https://samhita-cz.github.io/gita-audio/ch09/111.mp3 | Gaiea Sanskrit 9.17}
 
 https://youtu.be/35vKXy5h-YQ?si=OXTOLqaPHKkmIsoY
 

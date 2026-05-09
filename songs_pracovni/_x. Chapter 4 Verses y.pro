@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 4 — jñāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch04/xxx.mp3 | Gaiea Sanskrit 4.x}
+{audio: https://samhita-cz.github.io/gita-audio/ch04/xxx.mp3 | Gaiea Sanskrit 4.x}
 
 YOUTUBE
 

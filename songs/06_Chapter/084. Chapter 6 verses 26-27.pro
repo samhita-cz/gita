@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 6 — dhyāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch06/084.mp3 | Gaiea Sanskrit 6.26-27}
+{audio: https://samhita-cz.github.io/gita-audio/ch06/084.mp3 | Gaiea Sanskrit 6.26-27}
 
 https://youtu.be/TicT8RJl7L8?si=N4BC4EN3pXCVMi66
 

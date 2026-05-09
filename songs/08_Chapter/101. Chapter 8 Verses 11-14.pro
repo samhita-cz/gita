@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 8 — akṣhara parabrahma yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch08/101.mp3 | Gaiea Sanskrit 8.11-14}
+{audio: https://samhita-cz.github.io/gita-audio/ch08/101.mp3 | Gaiea Sanskrit 8.11-14}
 
 https://youtu.be/osgZl9eRI28?si=47L20w-KjI0ZXazC
 

@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 5 — karma sanyāsa yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch05/068.mp3 | Gaiea Sanskrit 5.20-21}
+{audio: https://samhita-cz.github.io/gita-audio/ch05/068.mp3 | Gaiea Sanskrit 5.20-21}
 
 https://youtu.be/8pZOMJXO8Q0?si=toZBkVfbV86-699_
 

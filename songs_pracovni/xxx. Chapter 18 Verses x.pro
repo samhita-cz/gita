@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 18 — mokṣa sannyāsa yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch18/xxx.mp3 | Gaiea Sanskrit 18.x}
+{audio: https://samhita-cz.github.io/gita-audio/ch18/xxx.mp3 | Gaiea Sanskrit 18.x}
 
 YOUTUBE
 

@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 2 — sāṅkhya yoga}
 {tags: 2.20, 2.21, 2.22}
-{audio: https://vinkler-collab.github.io/gita-audio/ch02/008.mp3 | Gaiea Sanskrit 2.20-22}
+{audio: https://samhita-cz.github.io/gita-audio/ch02/008.mp3 | Gaiea Sanskrit 2.20-22}
 
 https://youtu.be/mawD3Xf5JQA?si=yyiXlIv7VY3FMDLs
 

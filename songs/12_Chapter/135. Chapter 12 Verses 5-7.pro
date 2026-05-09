@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 12 — bhakti yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch12/135.mp3 | Gaiea Sanskrit 12.5-7}
+{audio: https://samhita-cz.github.io/gita-audio/ch12/135.mp3 | Gaiea Sanskrit 12.5-7}
 
 https://youtu.be/XM_K0E30PG8?si=1heeZkcQJ4ZclkVT
 

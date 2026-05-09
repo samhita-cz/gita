@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 17 — śraddhātraya vibhāga yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch17/xxx.mp3 | Gaiea Sanskrit 17.x}
+{audio: https://samhita-cz.github.io/gita-audio/ch17/xxx.mp3 | Gaiea Sanskrit 17.x}
 
 YOUTUBE
 

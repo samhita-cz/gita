@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 10 — vibhūti yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch10/126.mp3 | Gaiea Sanskrit 10.34-42}
+{audio: https://samhita-cz.github.io/gita-audio/ch10/126.mp3 | Gaiea Sanskrit 10.34-42}
 
 https://youtu.be/aV2DkeES3U4?si=eKW8jnmNmonehiI3
 

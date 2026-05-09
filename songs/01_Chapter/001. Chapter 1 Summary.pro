@@ -1,4 +1,4 @@
-{title: 001. Chapter 1 Summary TEST}
+{title: 001. Chapter 1 Summary}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 1 — arjuna viṣhāda yoga}

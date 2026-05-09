@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 13 — kṣetra kṣetrajña vibhāga yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch13/145.mp3 | Gaiea Sanskrit 13.2}
+{audio: https://samhita-cz.github.io/gita-audio/ch13/145.mp3 | Gaiea Sanskrit 13.2}
 
 https://youtu.be/T3GNS6jjVCQ?si=GrI7PWt8RzU6Hdqh
 

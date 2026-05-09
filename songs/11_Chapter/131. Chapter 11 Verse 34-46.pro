@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 11 — viśvarūpa sandarśana yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch11/131.mp3 | Gaiea Sanskrit 11.34-46}
+{audio: https://samhita-cz.github.io/gita-audio/ch11/131.mp3 | Gaiea Sanskrit 11.34-46}
 
 https://youtu.be/q3Eb5L-oTZs?si=4albBlzQlCVOLy5_
 

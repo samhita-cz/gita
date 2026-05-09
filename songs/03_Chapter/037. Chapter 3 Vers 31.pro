@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 3 — karma yoga}
 {tags: 3.31}
-{audio: https://vinkler-collab.github.io/gita-audio/ch03/037.mp3 | Gaiea Sanskrit 3.31}
+{audio: https://samhita-cz.github.io/gita-audio/ch03/037.mp3 | Gaiea Sanskrit 3.31}
 
 https://youtu.be/ZoC7qeGGO8I?si=BI_h6j_5sePh_NjD
 

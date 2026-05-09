@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 14 — guṇa traya vibhāga yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch14/166.mp3 | Gaiea Sanskrit 14.11-15}
+{audio: https://samhita-cz.github.io/gita-audio/ch14/166.mp3 | Gaiea Sanskrit 14.11-15}
 
 https://www.youtu.be/fnf9CMC2948?si=XtuOGdxJDO2h59p8
 

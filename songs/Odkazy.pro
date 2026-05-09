@@ -10,7 +10,7 @@ A Bhagavad Gita study portal based on the lectures of Swami Sarvapriyananda. It 
 The lectures are still ongoing. As of May 2026, Swami is currently on Chapter 15 of 18, so it will take some time for the project to be completed.
 
 The project is open source and available on GitHub: 
-◈   https://github.com/vinkler-collab/bhagavad-gita
+◈   https://github.com/samhita-cz/bhagavad-gita
 {eot}
 
 {sov: Sources of this website}

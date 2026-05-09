@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 16 — daivasura sampad vibhāga yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch16/xxx.mp3 | Gaiea Sanskrit 16.x}
+{audio: https://samhita-cz.github.io/gita-audio/ch16/xxx.mp3 | Gaiea Sanskrit 16.x}
 
 YOUTUBE
 
