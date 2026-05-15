@@ -483,6 +483,20 @@ body.dark-mode .song-tag {
     box-shadow: 0 2px 8px rgba(0,0,0,0.02);
   }
 
+  /* Badge pro nedokončené kapitoly */
+  .incomplete-badge {
+    display: inline-block;
+    font-size: 11px;
+    font-family: sans-serif;
+    padding: 2px 6px;
+    margin-left: 6px;
+    background: #fff3e0;
+    color: #e67e22;
+    border-radius: 999px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+  }
+
   #song-list li a {
     display: flex;
     align-items: center;
@@ -752,9 +766,12 @@ body.dark-mode .song-tag {
     background-color: transparent !important; 
   }
 
-  /* === PÍSKOVÝ (SAND) REŽIM PRO HLAVNÍ STRÁNKU === */
+body.dark-mode .incomplete-badge {
+  background: #4a3b32 !important;
+  color: #e8a644 !important;
+  border: 1px solid rgba(232, 166, 68, 0.3) !important;
+}
 
-/* Pozadí celé stránky */
 body.sand-mode {
   background-color: #f4ecd8 !important; 
   color: #4a3b32 !important;
@@ -765,6 +782,12 @@ body.sand-mode #song-list li {
   background-color: #eaddc5 !important;
   border: 1px solid #d4c2a5 !important;
   box-shadow: 0 2px 5px rgba(0,0,0,0.05) !important;
+}
+
+body.sand-mode .incomplete-badge {
+  background: #f4ecd8 !important;
+  color: #d97706 !important;
+  border: 1px solid #cfad7a !important;
 }
 
 /* Texty v kartičce */
@@ -1270,6 +1293,20 @@ function normalizeText(value) {
     .replace(/[\u0300-\u036f]/g, '');
 }
 
+function isIncompleteChapter(song) {
+  const match = (song.category ?? '').match(/\bChapter\s+(\d+)\b/i);
+  if (!match) return false;
+  const chapter = Number(match[1]);
+  return chapter >= 15 && chapter <= 18;
+}
+
+function getIncompleteChapterNumber(category) {
+  const match = (category ?? '').match(/\bChapter\s+(\d+)\b/i);
+  if (!match) return null;
+  const chapter = Number(match[1]);
+  return (chapter >= 15 && chapter <= 18) ? chapter : null;
+}
+
 function songMatchesQuery(song, qNorm) {
   if (!qNorm) return true;
   const name = normalizeText(song.name);
@@ -1324,6 +1361,7 @@ function renderSongs(list) {
       : '';
 
     const li = document.createElement('li');
+    const incompleteBadge = isIncompleteChapter(song) ? '<span class="incomplete-badge">lectures not completed</span>' : '';
     li.innerHTML = `
       <div style="display: flex; align-items: center; width: 100%;">
         
@@ -1337,7 +1375,7 @@ function renderSongs(list) {
         
         <a href="${buildUrl(song)}" style="display: flex; flex: 1; align-items: center; text-decoration: none; color: inherit; padding: 14px 16px 14px 0;">
           <span class="song-info">
-            <span class="song-name">${song.name}</span>
+            <span class="song-name">${song.name}${incompleteBadge}</span>
             ${song.subtitle ? `<span class="song-sub">${song.subtitle}</span>` : ''}
             ${song.category ? `<span class="song-meta">${song.category}</span>` : ''}
             ${tagsHtml}
@@ -1444,7 +1482,9 @@ function renderCategoryMenu() {
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'pill-btn category-btn';
-    btn.textContent = cat;
+    const chapterNum = getIncompleteChapterNumber(cat);
+    const badge = chapterNum ? ' <span class="incomplete-badge" style="margin-left: 4px;">lectures not completed</span>' : '';
+    btn.innerHTML = cat + badge;
     btn.dataset.category = cat;
     btn.onclick = () => setCategoryFilter(cat);
     list.appendChild(btn);
