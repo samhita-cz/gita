@@ -1792,7 +1792,7 @@
     "analysis": "https://vivekavani.com/b6v43/\n\nhttps://vivekavani.com/b6v44/\n\nhttps://vivekavani.com/b6v45/\n\nhttps://vivekavani.com/b6v46/\n\nhttps://vivekavani.com/b6v47/"
   },
   {
-    "name": "090. Chapter 7 Verses 1- 2",
+    "name": "090. Chapter 7 Verses 1-2",
     "category": "Chapter 7 — vijñāna yoga",
     "file": "07_Chapter/090. Chapter 7 Verses 1- 2",
     "audio": [
@@ -1802,7 +1802,10 @@
         "title": "Gaiea Sanskrit 7.1-2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.1",
+      "7.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v1/\n\nhttps://vivekavani.com/b7v2/"
@@ -1879,7 +1882,12 @@
         "title": "Gaiea Sanskrit 7.13-16"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.13",
+      "7.14",
+      "7.15",
+      "7.16"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v13/\n\nhttps://vivekavani.com/b7v14/\n\nhttps://vivekavani.com/b7v15/\n\nhttps://vivekavani.com/b7v16/"
@@ -3098,7 +3106,7 @@
     ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
-    "analysis": "https://vivekavani.com/b13v8/"
+    "analysis": "https://vivekavani.com/b13v11/"
   },
   {
     "name": "154. Chapter 13 Verses 13-14",
