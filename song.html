@@ -1455,7 +1455,7 @@ body.sand-mode .pdf-menu-btn:hover {
         const host = parsedUrl.hostname.replace('www.', '');
         // Rules: YouTube video => embed; YouTube playlist => plain link.
         // Spotify track/episode/album => embed; Spotify playlist/show => plain link.
-          const isYouTube = url.includes('youtube.com/watch') || url.includes('youtu.be/');
+          const isYouTube = url.includes('youtube.com/watch') || url.includes('youtube.com/live') || url.includes('youtu.be/');
         const isSpotify = host.includes('spotify.com');
         const isSpotifyPlaylist = isSpotify && /\/playlist\//i.test(parsedUrl.pathname);
         const isSpotifyShow = isSpotify && /\/show\//i.test(parsedUrl.pathname);
@@ -1721,7 +1721,15 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     const audioParam = params.get('audio');
 
     const normalizedSongName = (songName || '').trim().toLowerCase();
-    const isAboutLinksPage = normalizedSongName === 'odkazy';
+    const isAboutLinksPage = ['odkazy', 'about', 'links'].includes(normalizedSongName);
+
+    function isAboutLinksSong(song) {
+      if (!song) return false;
+      const file = (song.file || '').toString().trim().toLowerCase();
+      const name = (song.name || '').toString().trim().toLowerCase();
+      const category = (song.category || '').toString().trim().toLowerCase();
+      return file === 'odkazy' || ['odkazy', 'about', 'links'].includes(name) || category === 'links';
+    }
 
     if (isAboutLinksPage) {
       document.body.classList.add('about-links-page');
@@ -1729,7 +1737,7 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
       const moreMenuBtn = document.getElementById('more-menu-btn');
       if (audioToggleBtn) audioToggleBtn.style.display = 'none';
       if (moreMenuBtn) moreMenuBtn.style.display = 'none';
-      if (topbarTitleEl) topbarTitleEl.textContent = 'About';
+      if (topbarTitleEl) topbarTitleEl.textContent = 'About/Links';
     }
   
     let audioData = null;
@@ -1799,14 +1807,14 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     fetch('songs.json?t=' + new Date().getTime())
       .then(r => r.json())
       .then(songs => {
-        const song = songs.find(s => s.file === songName);
+        const song = songs.find(s => s.file === songName) || (isAboutLinksPage ? songs.find(s => isAboutLinksSong(s)) : null);
         if (song) {
           window.currentSongObj = song; 
           
-          // Skrýt tlačítka Chanting a menu pro soubor Odkazy
+          // Skrýt tlačítka Chanting a menu pro stránku About/Links
           const audioToggleBtn = document.getElementById('audio-toggle');
           const moreMenuBtn = document.getElementById('more-menu-btn');
-          if (song.file === 'Odkazy' || song.name === 'Odkazy') {
+          if (isAboutLinksSong(song)) {
             if (audioToggleBtn) audioToggleBtn.style.display = 'none';
             if (moreMenuBtn) moreMenuBtn.style.display = 'none';
           }
@@ -2190,7 +2198,7 @@ window.toggleAnalysis = function() {
 };
   
   if (songName) {
-    document.title = songName + " - BG";
+    document.title = isAboutLinksPage ? "About/Links - BG" : (songName + " - BG");
     fetch(`songs/${songName}.pro`)
       .then(r => {
         if (!r.ok) throw new Error('Network response was not ok');

@@ -497,6 +497,16 @@ body.dark-mode .song-tag {
     letter-spacing: 0.3px;
   }
 
+  .song-badge-row {
+    display: block;
+    margin-top: 4px;
+    line-height: 1;
+  }
+
+  .song-badge-row .incomplete-badge {
+    margin-left: 0;
+  }
+
   #song-list li a {
     display: flex;
     align-items: center;
@@ -1109,7 +1119,7 @@ body.sand-mode .filter-pill strong {
   <div class="sidebar-header">
     <div class="sidebar-header-left">
       <button class="icon-btn sidebar-theme-btn" type="button" onclick="toggleDarkMode()" title="Switch theme" aria-label="Switch theme">🌙</button>
-      <button class="sidebar-about-btn" type="button" onclick="openLinksWindow()" aria-label="Open links window">About</button>
+      <button class="sidebar-about-btn" type="button" onclick="openLinksWindow()" aria-label="Open links window">About/Links</button>
     </div>
     <button class="sidebar-close" type="button" aria-label="Close menu" onclick="closeSidebar()">✕</button>
   </div>
@@ -1307,14 +1317,27 @@ function getIncompleteChapterNumber(category) {
   return (chapter >= 15 && chapter <= 18) ? chapter : null;
 }
 
+function isLinksEntry(song) {
+  const file = normalizeText(song?.file);
+  const name = normalizeText(song?.name);
+  const category = normalizeText(song?.category);
+  return file === 'odkazy' || name === 'odkazy' || name === 'about' || name === 'links' || category === 'links';
+}
+
+function getSongDisplayName(song) {
+  return isLinksEntry(song) ? 'About' : (song?.name ?? '');
+}
+
 function songMatchesQuery(song, qNorm) {
   if (!qNorm) return true;
-  const name = normalizeText(song.name);
+  const name = normalizeText(getSongDisplayName(song));
   const category = normalizeText(song.category);
   const tags = Array.isArray(song.tags) ? song.tags.map(normalizeText) : [];
+  const alias = isLinksEntry(song) ? 'about links odkazy' : '';
   return (
     name.includes(qNorm) ||
     category.includes(qNorm) ||
+    alias.includes(qNorm) ||
     tags.some(t => t.includes(qNorm))
   );
 }
@@ -1335,13 +1358,13 @@ function sortSongs(list) {
       }
       
       // Pokud jsou na tom obě stejně (obě hotové, nebo obě nehotové), seřadíme je abecedně
-      return collator.compare(a.name ?? '', b.name ?? '');
+      return collator.compare(getSongDisplayName(a), getSongDisplayName(b));
     });
     return copy;
   }
 
   // Výchozí řazení (Abeceda)
-  copy.sort((a, b) => collator.compare(a.name ?? '', b.name ?? ''));
+  copy.sort((a, b) => collator.compare(getSongDisplayName(a), getSongDisplayName(b)));
   return copy;
 }
 
@@ -1355,13 +1378,16 @@ function renderSongs(list) {
   }
   noRes.style.display = 'none';
   list.forEach(song => {
+    const displayName = getSongDisplayName(song);
     const tags = Array.isArray(song.tags) ? song.tags.filter(Boolean) : [];
     const tagsHtml = tags.length
       ? `<span class="song-tags">${tags.map(t => `<span class="song-tag" onclick="filterByTag(event, '${t}')" style="cursor:pointer;">${t}</span>`).join('')}</span>`
       : '';
 
     const li = document.createElement('li');
-    const incompleteBadge = isIncompleteChapter(song) ? '<span class="incomplete-badge">lectures not completed</span>' : '';
+    const incompleteBadge = isIncompleteChapter(song)
+      ? '<span class="song-badge-row"><span class="incomplete-badge">lectures not completed</span></span>'
+      : '';
     li.innerHTML = `
       <div style="display: flex; align-items: center; width: 100%;">
         
@@ -1375,7 +1401,8 @@ function renderSongs(list) {
         
         <a href="${buildUrl(song)}" style="display: flex; flex: 1; align-items: center; text-decoration: none; color: inherit; padding: 14px 16px 14px 0;">
           <span class="song-info">
-            <span class="song-name">${song.name}${incompleteBadge}</span>
+            <span class="song-name">${displayName}</span>
+            ${incompleteBadge}
             ${song.subtitle ? `<span class="song-sub">${song.subtitle}</span>` : ''}
             ${song.category ? `<span class="song-meta">${song.category}</span>` : ''}
             ${tagsHtml}
@@ -1392,6 +1419,9 @@ function applyFiltersAndRender() {
   const searchTerm = searchElement ? searchElement.value.toLowerCase().trim() : '';
 
   const filtered = songs.filter(s => {
+    // About/Links zůstává dostupné jen přes tlačítko v menu, ne jako kartička v indexu.
+    if (isLinksEntry(s)) return false;
+
     // A) Filtr kategorie (levé menu)
     const matchesCategory = !categoryFilter || (s.category ?? '') === categoryFilter;
     
@@ -1522,12 +1552,7 @@ function clearCategoryFilter() {
 
 function openLinksWindow() {
   closeSidebar();
-  const linksSong = songs.find((s) =>
-    (s.category ?? '') === 'Links' ||
-    (s.name ?? '') === 'Links' ||
-    (s.name ?? '') === 'Odkazy' ||
-    (s.file ?? '') === 'Odkazy'
-  );
+  const linksSong = songs.find((s) => isLinksEntry(s));
   const baseUrl = linksSong ? buildUrl(linksSong) : 'song.html?s=' + encodeURIComponent('Odkazy');
   const targetUrl = baseUrl + (baseUrl.includes('?') ? '&' : '?') + 'v=' + Date.now();
   window.location.href = targetUrl;
