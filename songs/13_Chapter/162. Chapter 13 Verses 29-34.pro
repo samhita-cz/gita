@@ -23,7 +23,7 @@ samam—equally; paśhyan—see; hi—indeed; sarvatra—everywhere; samavasthit
 {eov}
 
 {sot}
-TRANSLATBecause he sees the Lord present alike everywhere, he does not injure Self by self, and thus he reaches the supreme state.ION
+Because he sees the Lord present alike everywhere, he does not injure Self by self, and thus he reaches the supreme state.
 {eot}
 
 {sov: Verse 13.30}
