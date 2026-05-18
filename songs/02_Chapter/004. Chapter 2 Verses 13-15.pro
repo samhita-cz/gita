@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा |
 तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति || 13||
 
-dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā
-tathā dehāntara-prāptir dhīras tatra na muhyati
+dehino’sminyathā dehe 
+kaumāraṃ yauvanaṃ jarā | 
+tathā dehāntaraprāptir
+dhīrastatra na muhyati ||
 
-dehinaḥ—of the embodied; asmin—in this; yathā—as; dehe—in the body; kaumāram—childhood; yauvanam—youth; jarā—old age; tathā—similarly; deha-antara—another body; prāptiḥ—achieves; dhīraḥ—the wise; tatra—thereupon; na muhyati—are not deluded
+dehinaḥ – of the embodied soul; asmin – in this; yathā – as; dehe – body; 
+kaumāram – childhood; yauvanam – youth; jarā – old age; 
+tathā – so; deha-antara-prāptiḥ – attainment of another body; 
+dhīraḥ – the wise; tatra – thereat; na – not; muhyati – is deluded.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदु: खदा: |
 आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत || 14||
 
-mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ
-āgamāpāyino ’nityās tans-titikṣhasva bhārata
+mātrāsparśāstu kaunteya 
+śītoṣṇasukhaduḥkhadāḥ | 
+āgamāpāyino’nityās
+tāṃstitikṣasva bhārata ||
 
-mātrā-sparśhāḥ—contact of the senses with the sense objects; tu—indeed; kaunteya—Arjun, the son of Kunti; śhīta—winter; uṣhṇa—summer; sukha—happiness; duḥkha—distress; dāḥ—give; āgama—come; apāyinaḥ—go; anityāḥ—non-permanent; tān—them; titikṣhasva—tolerate; bhārata—descendant of the Bharat
+mātrā-sparśāḥ – contacts of the senses with their objects; tu – but; kaunteya – O son of Kunti; 
+śīta-uṣṇa – cold and heat; sukha-duḥkha-dāḥ – givers of pleasure and pain; 
+āgama-apāyinaḥ – appearing and disappearing; anityāḥ – impermanent; 
+tān – them; titikṣasva – endure; bhārata – O Bharata.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ |
 समदु:खसुखं धीरं सोऽमृतत्वाय कल्पते || 15||
 
-yaṁ hi na vyathayantyete puruṣhaṁ puruṣharṣhabha
-sama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate
+yaṃ hi na vyathayantyete 
+puruṣaṃ puruṣarṣabha | 
+samaduḥkhasukhaṃ dhīraṃ 
+so’mṛtattvāya kalpate ||
 
-yam—whom; hi—verily; na—not; vyathayanti—distressed; ete—these; puruṣham—person; puruṣha-ṛiṣhabha—the noblest amongst men, Arjun; sama—equipoised; duḥkha—distress; sukham—happiness; dhīram—steady; saḥ—that person; amṛitatvāya—for liberation; kalpate—becomes eligible
+yam – whom; hi – indeed; na – not; vyathayanti – afflict; ete – these; 
+puruṣam – man; puruṣa-ṛṣabha – O chief among men; 
+sama-duḥkha-sukham – equal in pain and pleasure; dhīram – wise; 
+saḥ – he; amṛtatvāya – for immortality; kalpate – is fit.
 {eov}
 
 {sot}

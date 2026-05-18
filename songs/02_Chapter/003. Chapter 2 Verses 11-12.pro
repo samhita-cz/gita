@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे |
 गतासूनगतासूंश्च नानुशोचन्ति पण्डिता: || 11||
 
-śhrī bhagavān uvācha
-aśhochyān-anvaśhochas-tvaṁ prajñā-vādānśh cha bhāṣhase
-gatāsūn-agatāsūnśh-cha nānuśhochanti paṇḍitāḥ
+śrībhagavānuvāca | 
+aśocyānanvaśocastvaṃ 
+prajñāvādāṃśca bhāṣase | 
+gatāsūnagatāsūṃśca 
+nānuśocanti paṇḍitāḥ ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; aśhochyān—not worthy of grief; anvaśhochaḥ—are mourning; tvam—you; prajñā-vādān—words of wisdom; cha—and; bhāṣhase—speaking; gata āsūn—the dead; agata asūn—the living; cha—and; na—never; anuśhochanti—lament; paṇḍitāḥ—the wise
+śrī-bhagavān uvāca – The Blessed Lord said; 
+aśocyān – those not to be grieved for; anvaśocaḥ – have grieved; tvam – you; 
+prajñā-vādān – words of wisdom; ca – and; bhāṣase – you speak; 
+gata-asūn – the dead (those whose breath has gone); agata-asūn – the living (those whose breath has not gone); ca – and; 
+na – not; anuśocanti – grieve; paṇḍitāḥ – the wise.
 {eov}
 
 {sot}
@@ -35,10 +41,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपा |
 न चैव न भविष्याम: सर्वे वयमत: परम् || 12||
 
-na tvevāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ
-na chaiva na bhaviṣhyāmaḥ sarve vayamataḥ param
+na tvevāhaṃ jātu nāsaṃ 
+na tvaṃ neme janādhipāḥ | 
+na caiva na bhaviṣyāmaḥ 
+sarve vayamataḥ param ||
 
-na—never; tu—however; eva—certainly; aham—I; jātu—at any time; na—nor; āsam—exist; na—nor; tvam—you; na—nor; ime—these; jana-adhipāḥ—kings; na—never; cha—also; eva—indeed; na bhaviṣhyāmaḥ—shall not exist; sarve vayam—all of us; ataḥ—from now; param—after
+na – not; tu – but; eva – certainly; aham – I; jātu – at any time; na – not; āsam – existed; 
+na – not; tvam – you; na – not; ime – these; janādhipāḥ – kings; 
+na – not; ca – and; eva – certainly; na – not; bhaviṣyāmaḥ – shall exist; 
+sarve – all; vayam – we; ataḥ param – hereafter.
 {eov}
 
 {sot}

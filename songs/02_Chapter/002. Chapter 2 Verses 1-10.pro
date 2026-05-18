@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् |
 विषीदन्तमिदं वाक्यमुवाच मधुसूदन: || 1||
 
-sañjaya uvācha
-taṁ tathā kṛipayāviṣhṭamaśhru pūrṇākulekṣhaṇam
-viṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ
+sañjaya uvāca | 
+taṃ tathā kṛpayāviṣṭam
+aśrupūrṇākulekṣaṇam | 
+viṣīdantamidaṃ vākyam
+uvāca madhusūdanaḥ ||
 
-sañjayaḥ uvācha—Sanjay said; tam—to him (Arjun); tathā—thus; kṛipayā—with pity; āviṣhṭam—filled; aśhrupūrṇākulekṣhaṇam—with eyes blurred with tears; viṣhīdantam—grief-stricken; idam vākyam—these words; uvācha—said; madhusūdanaḥ—Krishna
+sañjayaḥ uvāca – Sanjaya said; 
+tam – to him (Arjuna); tathā – thus; kṛpayā-āviṣṭam – overwhelmed with pity; 
+aśru-pūrṇa-ākula-īkṣaṇam – whose eyes were full of tears and distressed; 
+viṣīdantam – sorrowing; idam – these; vākyam – words; 
+uvāca – spoke; madhusūdanaḥ – Madhusudana (Krishna).
 {eov}
 
 {sot}
@@ -36,11 +42,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् |
 अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन || 2||
 
-śhrī bhagavān uvācha
-kutastvā kaśhmalamidaṁ viṣhame samupasthitam
-anārya-juṣhṭamaswargyam akīrti-karam arjuna
+śrībhagavānuvāca | 
+kutastvā kaśmalamidaṃ 
+viṣame samupasthitam | 
+anāryajuṣṭamasvargyam
+akīrtikaramarjuna ||
 
-Arjuna—O Arjuna!; śhrī-bhagavān uvācha—the Supreme Lord said; kutaḥ—wherefrom; tvā—to you; kaśhmalam—dejection; idam—this; viṣhame—in this hour of peril; samupasthitam—taken hold; anāryajuṣhṭam—unworthy; aswargyam—heaven-excluding; akīrti-karam—shameful
+śrī-bhagavān uvāca – The Blessed Lord said; 
+kutaḥ – whence; tvā – to you; kaśmalam – dejection/faint-heartedness; idam – this; 
+viṣame – in this hour of peril; samupasthitam – come; 
+anārya-juṣṭam – unbecoming of an Arya (noble person); asvargyam – leading not to heaven; 
+akīrti-karam – causing disgrace; arjuna – O Arjuna.
 {eov}
 
 {sot}
@@ -54,10 +66,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 क्लैब्यं मा स्म गम: पार्थ नैतत्त्वय्युपपद्यते |
 क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप || 3||
 
-klaibyaṁ mā sma gamaḥ pārtha naitat tvayyupapadyate
-kṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa
+klaibyaṃ mā sma gamaḥ pārtha 
+naitattvayyupapadyate | 
+kṣudraṃ hṛdayadaurbalyaṃ 
+tyaktvottiṣṭha parantapa ||
 
-klaibyam—impotence; mā sma gamaḥ—do not yield to; pārtha—O Arjuna!; etat—this; tvayi—to you; na upapadyate—is not fit; kṣhudram—mean; hṛidaya-daurbalyaṁ—weak-heartedness; tyaktvā—giving up; uttiṣhṭha—arise; param-tapa—scorcher of enemies
+klaibyam – unmanliness/impotence; mā sma gamaḥ – do not yield to; pārtha – O Partha; 
+na – not; etat – this; tvayi – in you; upapadyate – is fitting; 
+kṣudram – petty; hṛdaya-daurbalyam – weakness of heart; 
+tyaktvā – abandoning; uttiṣṭha – arise; parantapa – O scorcher of foes.
 {eov}
 
 {sot}
@@ -72,11 +89,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 कथं भीष्ममहं सङ्ख्ये द्रोणं च मधुसूदन |
 इषुभि: प्रतियोत्स्यामि पूजार्हावरिसूदन || 4||
 
-arjuna uvācha
-kathaṁ bhīṣhmam ahaṁ sankhye droṇaṁ cha madhusūdana
-iṣhubhiḥ pratiyotsyāmi pūjārhāvari-sūdana
+arjuna uvāca | 
+kathaṃ bhīṣmamahaṃ saṅkhye 
+droṇaṃ ca madhusūdana | 
+iṣubhiḥ pratiyotsyāmi 
+pūjārhāvarisūdana ||
 
-arjunaḥ uvācha—Arjun said; katham—how; bhīṣhmam—Bheeshma; aham—I; sankhye—in battle; droṇam—Dronacharya; cha—and; madhu-sūdana—Shree Krishn, slayer of the Madhu demon; iṣhubhiḥ—with arrows; pratiyotsyāmi—shall I shoot; pūjā-arhau—worthy of worship; ari-sūdana—destroyer of enemies
+arjunaḥ uvāca – Arjuna said; 
+katham – how; bhīṣmam – Bhishma; aham – I; saṅkhye – in battle; 
+droṇam – Drona; ca – and; madhusūdana – O Madhusudana; 
+iṣubhiḥ – with arrows; pratiyotsyāmi – shall fight against; 
+pūjā-arhau – worthy of worship; ari-sūdana – O destroyer of enemies.
 {eov}
 
 {sot}
@@ -92,12 +115,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 हत्वार्थकामांस्तु गुरूनिहैव
 भुञ्जीय भोगान् रुधिरप्रदिग्धान् || 5||
 
-gurūnahatvā hi mahānubhāvān
-śhreyo bhoktuṁ bhaikṣhyamapīha loke
-hatvārtha-kāmāṁstu gurūnihaiva
-bhuñjīya bhogān rudhira-pradigdhān
+gurūnahatvā hi mahānubhāvān 
+śreyo bhoktuṃ bhaikṣyamapīha loke |
+hatvārthakāmāṃstu gurūnihaiva 
+bhuñjīya bhogān rudhirapradigdhān ||
 
-gurūn—teachers; ahatvā—not killing; hi—certainly; mahā-anubhāvān—noble elders; śhreyaḥ—better; bhoktum—to enjoy life; bhaikṣhyam—by begging; api—even; iha loke—in this world; hatvā—killing; artha—gain; kāmān—desiring; tu—but; gurūn—noble elders; iha—in this world; eva—certainly; bhuñjīya—enjoy; bhogān—pleasures; rudhira—blood; pradigdhān—tainted with
+gurūn – elders/teachers; ahatvā – not killing; hi – indeed; mahā-anubhāvān – most noble; 
+śreyaḥ – better; bhoktum – to eat; bhaikṣyam – food obtained by begging; api – even; iha loke – in this world; 
+hatvā – killing; artha-kāmān – desiring wealth and gain; tu – but; gurūn – teachers; iha – here; eva – only;
+bhuñjīya – I would enjoy; bhogān – enjoyments; rudhira-pradigdhān – stained with blood.
 {eov}
 
 {sot}
@@ -113,12 +139,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 यानेव हत्वा न जिजीविषाम
 स्तेऽवस्थिता: प्रमुखे धार्तराष्ट्रा: || 6||
 
-na chaitadvidmaḥ kataranno garīyo
-yadvā jayema yadi vā no jayeyuḥ
-yāneva hatvā na jijīviṣhāmas
-te ’vasthitāḥ pramukhe dhārtarāṣhṭrāḥ
+na caitadvidmaḥ kataranno garīyo 
+yadvā jayema yadi vā no jayeyuḥ | 
+yāneva hatvā na jijīviṣāmas
+te’vasthitāḥ pramukhe dhārtarāṣṭrāḥ ||
 
-na—not; cha—and; etat—this; vidmaḥ—we know; katarat—which; naḥ—for us; garīyaḥ—is preferable; yat vā—whether; jayema—we may conquer; yadi—if; vā—or; naḥ—us; jayeyuḥ—they may conquer; yān—whom; eva—certainly; hatvā—after killing; na—not; jijīviṣhāmaḥ—we desire to live; te—they; avasthitāḥ—are standing; pramukhe—before us; dhārtarāṣhṭrāḥ—the sons of Dhritarashtra
+na – not; ca – and; etat – this; vidmaḥ – we know; katarat – which; naḥ – for us; garīyaḥ – better; 
+yat vā – whether; jayema – we should conquer; yadi vā – or if; naḥ – us; jayeyuḥ – they should conquer; 
+yān – whom; eva – even; hatvā – having killed; na – not; jijīviṣāmaḥ – we wish to live; 
+te – they; avasthitāḥ – are standing; pramukhe – in front; dhārtarāṣṭrāḥ – the sons of Dhritarashtra.
 {eov}
 
 {sot}
@@ -134,12 +163,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 यच्छ्रेय: स्यान्निश्चितं ब्रूहि तन्मे
 शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् || 7||
 
-kārpaṇya-doṣhopahata-svabhāvaḥ
-pṛichchhāmi tvāṁ dharma-sammūḍha-chetāḥ
-yach-chhreyaḥ syānniśhchitaṁ brūhi tanme
-śhiṣhyaste ’haṁ śhādhi māṁ tvāṁ prapannam
+kārpaṇyadoṣopahatasvabhāvaḥ 
+pṛcchāmi tvāṃ dharmasammūḍhacetasḥ | 
+yacchreyaḥ syānniścitaṃ brūhi tanme 
+śiṣyaste’haṃ śādhi māṃ tvāṃ prapannam ||
 
-kārpaṇya-doṣha—the flaw of cowardice; upahata—besieged; sva-bhāvaḥ—nature; pṛichchhāmi—I am asking; tvām—to you; dharma—duty; sammūḍha—confused; chetāḥ—in heart; yat—what; śhreyaḥ—best; syāt—may be; niśhchitam—decisively; brūhi—tell; tat—that; me—to me; śhiṣhyaḥ—disciple; te—your; aham—I; śhādhi—please instruct; mām—me; tvām—unto you; prapannam—surrendered
+kārpaṇya-doṣa – the taint of pity/weakness; upahata – overcome; svabhāvaḥ – nature; 
+pṛcchāmi – I ask; tvām – You; dharma-sammūḍha-cetāḥ – with a mind confused about duty; 
+yat – what; śreyaḥ – the highest good; syāt – may be; niścitam – decisively; brūhi – tell; tat – that; me – to me; 
+śiṣyaḥ – disciple; te – Your; aham – I am; śādhi – instruct; mām – me; tvām – in You; prapannam – surrendered.
 {eov}
 
 {sot}
@@ -155,12 +187,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अवाप्य भूमावसपत्नमृद्धं
 राज्यं सुराणामपि चाधिपत्यम् || 8||
 
-na hi prapaśhyāmi mamāpanudyād
-yach-chhokam uchchhoṣhaṇam-indriyāṇām
-avāpya bhūmāv-asapatnamṛiddhaṁ
-rājyaṁ surāṇāmapi chādhipatyam
+na hi prapaśyāmi mamāpanudyād 
+yaccho kamucchoṣaṇamindriyāṇām | 
+avāpya bhūmāvasapatnamṛddhaṃ 
+rājyaṃ surāṇāmapi cādhipatyam ||
 
-na—not; hi—certainly; prapaśhyāmi—I see; mama—my; apanudyāt—drive away; yat—which; śhokam—anguish; uchchhoṣhaṇam—is drying up; indriyāṇām—of the senses; avāpya—after achieving; bhūmau—on the earth; asapatnam—unrivalled; ṛiddham—prosperous; rājyam—kingdom; surāṇām—like the celestial gods; api—even; cha—also; ādhipatyam—sovereignty
+na – not; hi – indeed; prapaśyāmi – I see; mama – my; apanudyāt – would dispel; 
+yat – which; śokam – grief; ucchoṣaṇam – drying up; indriyāṇām – the senses; 
+avāpya – having obtained; bhūmau – on earth; asapatnam – unrivaled; ṛddham – prosperous; 
+rājyam – kingdom; surāṇām – of the gods; api – even; ca – and; ādhipatyam – lordship.
+
 {eov}
 
 {sot}
@@ -175,11 +211,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 एवमुक्त्वा हृषीकेशं गुडाकेश: परन्तप |
 न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह || 9||
 
-sañjaya uvācha
-evam-uktvā hṛiṣhīkeśhaṁ guḍākeśhaḥ parantapa
-na yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha
+sañjaya uvāca | 
+evamuktvā hṛṣīkeśaṃ 
+guḍākeśaḥ parantapa | 
+na yotsya iti govindam
+uktvā tūṣṇīṃ babhūva ha ||
 
-sañjayaḥ uvācha—Sanjay said; evam—thus; uktvā—having spoken; hṛiṣhīkeśham—to Shree Krishna, the master of the mind and senses; guḍākeśhaḥ—Arjun, the conquerer of sleep; parantapaḥ—Arjun, the chastiser of the enemies; na yotsye—I shall not fight; iti—thus; govindam—Krishna, the giver of pleasure to the senses; uktvā—having addressed; tūṣhṇīm—silent; babhūva—became ha
+sañjayaḥ uvāca – Sanjaya said; 
+evam – thus; uktvā – having spoken; hṛṣīkeśam – to Hrishikesha (Krishna); 
+guḍākeśaḥ – Gudakesha (Arjuna); parantapa – the scorcher of foes; 
+na yotsye – I will not fight; iti – thus; govindam – to Govinda; 
+uktvā – having said; tūṣṇīm – silent; babhūva – became; ha – indeed.
 {eov}
 
 {sot}
@@ -193,10 +235,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 तमुवाच हृषीकेश: प्रहसन्निव भारत |
 सेनयोरुभयोर्मध्ये विषीदन्तमिदं वच: || 10||
 
-tam-uvācha hṛiṣhīkeśhaḥ prahasanniva bhārata
-senayorubhayor-madhye viṣhīdantam-idaṁ vachaḥ
+tamuvāca hṛṣīkeśaḥ 
+prahasanniva bhārata | 
+senayorubhayormadhye 
+viṣīdantamidaṃ vacaḥ ||
 
-tam—to him; uvācha—said; hṛiṣhīkeśhaḥ—Shree Krishna, the master of mind and senses; prahasan—smilingly; iva—as if; bhārata—Dhritarashtra, descendant of Bharat; senayoḥ—of the armies; ubhayoḥ—of both; madhye—in the midst of; viṣhīdantam—to the grief-stricken; idam—this; vachaḥ—words
+tam – to him; uvāca – spoke; hṛṣīkeśaḥ – Hrishikesha; 
+prahasan – smiling; iva – as if; bhārata – O Bharata (Dhritarashtra); 
+senayoḥ ubhayoḥ madhye – in the midst of the two armies; 
+viṣīdantam – to the sorrowing one; idam – these; vacaḥ – words.
 {eov}
 
 {sot}
