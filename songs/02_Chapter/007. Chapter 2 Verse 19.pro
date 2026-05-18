@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |
 उभौ तौ न विजानीतो नायं हन्ति न हन्यते || 19||
 
-ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam
-ubhau tau na vijānīto nāyaṁ hanti na hanyate
+ya enaṃ vetti hantāraṃ 
+yaścainaṃ manyate hatam | 
+ubhau tau na vijānīto 
+nāyaṃ hanti na hanyate ||
 
-yaḥ—one who; enam—this; vetti—knows; hantāram—the slayer; yaḥ—one who; cha—and; enam—this; manyate—thinks; hatam—slain; ubhau—both; tau—they; na—not; vijānītaḥ—in knowledge; na—neither; ayam—this; hanti—slays; na—nor; hanyate—is killed{eov}
+yaḥ – he who; enam – this (Soul); vetti – thinks; hantāram – slayer; 
+yaḥ – he who; ca – and; enam – this; manyate – thinks; hatam – slain; 
+ubhau – both; tau – they; na vijānītaḥ – do not know; 
+na – not; ayam – this; hanti – slays; na hanyate – is not slain.
+{eov}
 
 {sot}
 He who thinks that Atma slays, or he who thinks that Atma is Slain, both these do not know the Truth. Atma does not slay, nor is slain.{eot}

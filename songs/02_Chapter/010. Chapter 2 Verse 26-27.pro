@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम् |
 तथापि त्वं महाबाहो नैवं शोचितुमर्हसि || 26||
 
-atha chainaṁ nitya-jātaṁ nityaṁ vā manyase mṛitam
-tathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi
+atha cainaṃ nityajātaṃ 
+nityaṃ vā manyase mṛtam | 
+tathāpi tvaṃ mahābāho 
+naivaṃ śocitumarhasi ||
 
-atha—if, however; cha—and; enam—this soul; nitya-jātam—taking constant birth; nityam—always; vā—or; manyase—you think; mṛitam—dead; tathā api—even then; tvam—you; mahā-bāho—mighty-armed one, Arjun; na—not; evam—like this; śhochitum—grieve; arhasi—befitting
+atha - if however; ca - and; enam - this; 
+nityajātam - constantly born; nityam - constantly; vā - or; manyase - you think; mṛtam - dead; 
+tathāpi - even then; tvam - you; mahābāho - O mighty-armed; 
+na - not; evam - so; śocitum - to grieve; arhasi - should.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च |
 तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि || 27||
 
-jātasya hi dhruvo mṛityur dhruvaṁ janma mṛitasya cha
-tasmād aparihārye ’rthe na tvaṁ śhochitum arhasi
+jātasya hi dhruvo mṛtyur
+dhruvaṃ janma mṛtasya ca | 
+tasmādaparihārye’rthe 
+na tvaṃ śocitumarhasi ||
 
-jātasya—for one who has been born; hi—for; dhruvaḥ—certain; mṛityuḥ—death; dhruvam—certain; janma—birth; mṛitasya—for the dead; cha—and; tasmāt—therefore; aparihārye arthe—in this inevitable situation; na—not; tvam—you; śhochitum—lament; arhasi—befitting
+jātasya - of the born; hi - for; 
+dhruvaḥ - certain; mṛtyuḥ - death; dhruvam - certain; janma - birth; mṛtasya - of the dead; ca - and; 
+tasmāt - therefore; aparihārye - in the inevitable; arthe - matter; 
+na - not; tvam - you; śocitum - to grieve; arhasi - should.
 {eov}
 
 {sot}

@@ -23,11 +23,11 @@ aśrupūrṇākulekṣaṇam |
 viṣīdantamidaṃ vākyam
 uvāca madhusūdanaḥ ||
 
-sañjayaḥ uvāca – Sanjaya said; 
-tam – to him (Arjuna); tathā – thus; kṛpayā-āviṣṭam – overwhelmed with pity; 
-aśru-pūrṇa-ākula-īkṣaṇam – whose eyes were full of tears and distressed; 
-viṣīdantam – sorrowing; idam – these; vākyam – words; 
-uvāca – spoke; madhusūdanaḥ – Madhusudana (Krishna).
+◈  sañjayaḥ uvāca – Sanjaya said; 
+◈  tam – to him (Arjuna); tathā – thus; kṛpayā-āviṣṭam – overwhelmed with pity; 
+◈  aśru-pūrṇa-ākula-īkṣaṇam – whose eyes were full of tears and distressed; 
+◈  viṣīdantam – sorrowing; idam – these; vākyam – words; 
+◈  uvāca – spoke; madhusūdanaḥ – Madhusudana (Krishna).
 {eov}
 
 {sot}
@@ -48,11 +48,11 @@ viṣame samupasthitam |
 anāryajuṣṭamasvargyam
 akīrtikaramarjuna ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-kutaḥ – whence; tvā – to you; kaśmalam – dejection/faint-heartedness; idam – this; 
-viṣame – in this hour of peril; samupasthitam – come; 
-anārya-juṣṭam – unbecoming of an Arya (noble person); asvargyam – leading not to heaven; 
-akīrti-karam – causing disgrace; arjuna – O Arjuna.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  kutaḥ – whence; tvā – to you; kaśmalam – dejection/faint-heartedness; idam – this; 
+◈  viṣame – in this hour of peril; samupasthitam – come; 
+◈  anārya-juṣṭam – unbecoming of an Arya (noble person); asvargyam – leading not to heaven; 
+◈  akīrti-karam – causing disgrace; arjuna – O Arjuna.
 {eov}
 
 {sot}
@@ -71,10 +71,10 @@ naitattvayyupapadyate |
 kṣudraṃ hṛdayadaurbalyaṃ 
 tyaktvottiṣṭha parantapa ||
 
-klaibyam – unmanliness/impotence; mā sma gamaḥ – do not yield to; pārtha – O Partha; 
-na – not; etat – this; tvayi – in you; upapadyate – is fitting; 
-kṣudram – petty; hṛdaya-daurbalyam – weakness of heart; 
-tyaktvā – abandoning; uttiṣṭha – arise; parantapa – O scorcher of foes.
+◈  klaibyam – unmanliness/impotence; mā sma gamaḥ – do not yield to; pārtha – O Partha; 
+◈  na – not; etat – this; tvayi – in you; upapadyate – is fitting; 
+◈  kṣudram – petty; hṛdaya-daurbalyam – weakness of heart; 
+◈  tyaktvā – abandoning; uttiṣṭha – arise; parantapa – O scorcher of foes.
 {eov}
 
 {sot}
@@ -95,11 +95,11 @@ droṇaṃ ca madhusūdana |
 iṣubhiḥ pratiyotsyāmi 
 pūjārhāvarisūdana ||
 
-arjunaḥ uvāca – Arjuna said; 
-katham – how; bhīṣmam – Bhishma; aham – I; saṅkhye – in battle; 
-droṇam – Drona; ca – and; madhusūdana – O Madhusudana; 
-iṣubhiḥ – with arrows; pratiyotsyāmi – shall fight against; 
-pūjā-arhau – worthy of worship; ari-sūdana – O destroyer of enemies.
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  katham – how; bhīṣmam – Bhishma; aham – I; saṅkhye – in battle; 
+◈  droṇam – Drona; ca – and; madhusūdana – O Madhusudana; 
+◈  iṣubhiḥ – with arrows; pratiyotsyāmi – shall fight against; 
+◈  pūjā-arhau – worthy of worship; ari-sūdana – O destroyer of enemies.
 {eov}
 
 {sot}
@@ -120,10 +120,10 @@ gurūnahatvā hi mahānubhāvān
 hatvārthakāmāṃstu gurūnihaiva 
 bhuñjīya bhogān rudhirapradigdhān ||
 
-gurūn – elders/teachers; ahatvā – not killing; hi – indeed; mahā-anubhāvān – most noble; 
-śreyaḥ – better; bhoktum – to eat; bhaikṣyam – food obtained by begging; api – even; iha loke – in this world; 
-hatvā – killing; artha-kāmān – desiring wealth and gain; tu – but; gurūn – teachers; iha – here; eva – only;
-bhuñjīya – I would enjoy; bhogān – enjoyments; rudhira-pradigdhān – stained with blood.
+◈  gurūn – elders/teachers; ahatvā – not killing; hi – indeed; mahā-anubhāvān – most noble; 
+◈  śreyaḥ – better; bhoktum – to eat; bhaikṣyam – food obtained by begging; api – even; iha loke – in this world; 
+◈  hatvā – killing; artha-kāmān – desiring wealth and gain; tu – but; gurūn – teachers; iha – here; eva – only;
+◈  bhuñjīya – I would enjoy; bhogān – enjoyments; rudhira-pradigdhān – stained with blood.
 {eov}
 
 {sot}
@@ -144,10 +144,10 @@ yadvā jayema yadi vā no jayeyuḥ |
 yāneva hatvā na jijīviṣāmas
 te’vasthitāḥ pramukhe dhārtarāṣṭrāḥ ||
 
-na – not; ca – and; etat – this; vidmaḥ – we know; katarat – which; naḥ – for us; garīyaḥ – better; 
-yat vā – whether; jayema – we should conquer; yadi vā – or if; naḥ – us; jayeyuḥ – they should conquer; 
-yān – whom; eva – even; hatvā – having killed; na – not; jijīviṣāmaḥ – we wish to live; 
-te – they; avasthitāḥ – are standing; pramukhe – in front; dhārtarāṣṭrāḥ – the sons of Dhritarashtra.
+◈  na – not; ca – and; etat – this; vidmaḥ – we know; katarat – which; naḥ – for us; garīyaḥ – better; 
+◈  yat vā – whether; jayema – we should conquer; yadi vā – or if; naḥ – us; jayeyuḥ – they should conquer; 
+◈  yān – whom; eva – even; hatvā – having killed; na – not; jijīviṣāmaḥ – we wish to live; 
+◈  te – they; avasthitāḥ – are standing; pramukhe – in front; dhārtarāṣṭrāḥ – the sons of Dhritarashtra.
 {eov}
 
 {sot}
@@ -168,10 +168,10 @@ pṛcchāmi tvāṃ dharmasammūḍhacetasḥ |
 yacchreyaḥ syānniścitaṃ brūhi tanme 
 śiṣyaste’haṃ śādhi māṃ tvāṃ prapannam ||
 
-kārpaṇya-doṣa – the taint of pity/weakness; upahata – overcome; svabhāvaḥ – nature; 
-pṛcchāmi – I ask; tvām – You; dharma-sammūḍha-cetāḥ – with a mind confused about duty; 
-yat – what; śreyaḥ – the highest good; syāt – may be; niścitam – decisively; brūhi – tell; tat – that; me – to me; 
-śiṣyaḥ – disciple; te – Your; aham – I am; śādhi – instruct; mām – me; tvām – in You; prapannam – surrendered.
+◈  kārpaṇya-doṣa – the taint of pity/weakness; upahata – overcome; svabhāvaḥ – nature; 
+◈  pṛcchāmi – I ask; tvām – You; dharma-sammūḍha-cetāḥ – with a mind confused about duty; 
+◈  yat – what; śreyaḥ – the highest good; syāt – may be; niścitam – decisively; brūhi – tell; tat – that; me – to me; 
+◈  śiṣyaḥ – disciple; te – Your; aham – I am; śādhi – instruct; mām – me; tvām – in You; prapannam – surrendered.
 {eov}
 
 {sot}
@@ -192,10 +192,10 @@ yaccho kamucchoṣaṇamindriyāṇām |
 avāpya bhūmāvasapatnamṛddhaṃ 
 rājyaṃ surāṇāmapi cādhipatyam ||
 
-na – not; hi – indeed; prapaśyāmi – I see; mama – my; apanudyāt – would dispel; 
-yat – which; śokam – grief; ucchoṣaṇam – drying up; indriyāṇām – the senses; 
-avāpya – having obtained; bhūmau – on earth; asapatnam – unrivaled; ṛddham – prosperous; 
-rājyam – kingdom; surāṇām – of the gods; api – even; ca – and; ādhipatyam – lordship.
+◈  na – not; hi – indeed; prapaśyāmi – I see; mama – my; apanudyāt – would dispel; 
+◈  yat – which; śokam – grief; ucchoṣaṇam – drying up; indriyāṇām – the senses; 
+◈  avāpya – having obtained; bhūmau – on earth; asapatnam – unrivaled; ṛddham – prosperous; 
+◈  rājyam – kingdom; surāṇām – of the gods; api – even; ca – and; ādhipatyam – lordship.
 
 {eov}
 
@@ -217,11 +217,11 @@ guḍākeśaḥ parantapa |
 na yotsya iti govindam
 uktvā tūṣṇīṃ babhūva ha ||
 
-sañjayaḥ uvāca – Sanjaya said; 
-evam – thus; uktvā – having spoken; hṛṣīkeśam – to Hrishikesha (Krishna); 
-guḍākeśaḥ – Gudakesha (Arjuna); parantapa – the scorcher of foes; 
-na yotsye – I will not fight; iti – thus; govindam – to Govinda; 
-uktvā – having said; tūṣṇīm – silent; babhūva – became; ha – indeed.
+◈  sañjayaḥ uvāca – Sanjaya said; 
+◈  evam – thus; uktvā – having spoken; hṛṣīkeśam – to Hrishikesha (Krishna); 
+◈  guḍākeśaḥ – Gudakesha (Arjuna); parantapa – the scorcher of foes; 
+◈  na yotsye – I will not fight; iti – thus; govindam – to Govinda; 
+◈  uktvā – having said; tūṣṇīm – silent; babhūva – became; ha – indeed.
 {eov}
 
 {sot}
@@ -240,10 +240,10 @@ prahasanniva bhārata |
 senayorubhayormadhye 
 viṣīdantamidaṃ vacaḥ ||
 
-tam – to him; uvāca – spoke; hṛṣīkeśaḥ – Hrishikesha; 
-prahasan – smiling; iva – as if; bhārata – O Bharata (Dhritarashtra); 
-senayoḥ ubhayoḥ madhye – in the midst of the two armies; 
-viṣīdantam – to the sorrowing one; idam – these; vacaḥ – words.
+◈  tam – to him; uvāca – spoke; hṛṣīkeśaḥ – Hrishikesha; 
+◈  prahasan – smiling; iva – as if; bhārata – O Bharata (Dhritarashtra); 
+◈  senayoḥ ubhayoḥ madhye – in the midst of the two armies; 
+◈  viṣīdantam – to the sorrowing one; idam – these; vacaḥ – words.
 {eov}
 
 {sot}

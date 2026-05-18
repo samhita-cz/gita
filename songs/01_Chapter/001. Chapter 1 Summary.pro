@@ -23,11 +23,11 @@ samavetā yuyutsavaḥ |
 māmakāḥ pāṇḍavāś caiva 
 kim akurvata sañjaya || 1 ||
 
-dhṛtarāṣṭraḥ uvāca – Dhritarashtra said;
-dharma-kṣetre – on the field of Dharma; kuru-kṣetre – on the field of the Kurus;
-samavetāḥ – gathered together; yuyutsavaḥ – desiring to fight; 
-māmakāḥ – my people (sons); pāṇḍavāḥ – the sons of Pandu; ca – and; eva – also;
-kim – what; akurvata – did they do; sañjaya – O Sanjaya.
+◈  dhṛtarāṣṭraḥ uvāca – Dhritarashtra said;
+◈  dharma-kṣetre – on the field of Dharma; kuru-kṣetre – on the field of the Kurus;
+◈  samavetāḥ – gathered together; yuyutsavaḥ – desiring to fight; 
+◈  māmakāḥ – my people (sons); pāṇḍavāḥ – the sons of Pandu; ca – and; eva – also;
+◈  kim – what; akurvata – did they do; sañjaya – O Sanjaya.
 
 {eov}
 
@@ -49,11 +49,11 @@ vyūḍhaṃ duryodhanas tadā |
 ācāryam upasaṅgamya 
 rājā vacanam abravīt || 2 ||
 
-sañjayaḥ uvāca – Sanjaya said;
-dṛṣṭvā – having seen; tu – but; pāṇḍava-anīkam – the army of the Pandavas; 
-vyūḍham – in military formation; duryodhanaḥ – King Duryodhana; tadā – then; 
-ācāryam – the teacher (Drona); upasaṅgamya – having approached; 
-rājā – the King; vacanam – words; abravīt – spoke.
+◈  sañjayaḥ uvāca – Sanjaya said;
+◈  dṛṣṭvā – having seen; tu – but; pāṇḍava-anīkam – the army of the Pandavas; 
+◈  vyūḍham – in military formation; duryodhanaḥ – King Duryodhana; tadā – then; 
+◈  ācāryam – the teacher (Drona); upasaṅgamya – having approached; 
+◈  rājā – the King; vacanam – words; abravīt – spoke.
 
 {eov}
 
@@ -73,10 +73,10 @@ paśyaitāṃ pāṇḍu-putrāṇām
 vyūḍhāṃ drupada-putreṇa 
 tava śiṣyeṇa dhīmatā || 3 ||
 
-paśya – behold; eitām – this; pāṇḍu-putrāṇām – of the sons of Pandu; 
-ācārya – O Teacher; mahatīm – mighty; camūm – army; 
-vyūḍhām – arranged in formation; drupada-putreṇa – by the son of Drupada (Dhrishtadyumna);
-tava – your; śiṣyeṇa – by the disciple; dhīmatā – talented/wise.
+◈  paśya – behold; eitām – this; pāṇḍu-putrāṇām – of the sons of Pandu; 
+◈  ācārya – O Teacher; mahatīm – mighty; camūm – army; 
+◈  vyūḍhām – arranged in formation; drupada-putreṇa – by the son of Drupada (Dhrishtadyumna);
+◈  tava – your; śiṣyeṇa – by the disciple; dhīmatā – talented/wise.
 
 {eov}
 
@@ -96,10 +96,10 @@ bhīmārjuna-samā yudhi |
 yuyudhāno virāṭaś ca 
 drupadaś ca mahārathaḥ || 4 ||
 
-atra – here; śūrāḥ – heroes; mahā-iṣv-āsāḥ – mighty archers; 
-bhīma-arjuna-samāḥ – equal to Bhima and Arjuna; yudhi – in battle; 
-yuyudhānaḥ – Yuyudhana; virāṭaḥ – Virata; ca – and; 
-drupadaḥ – Drupada; ca – and; mahā-rathaḥ – a great chariot-warrior.
+◈  atra – here; śūrāḥ – heroes; mahā-iṣv-āsāḥ – mighty archers; 
+◈  bhīma-arjuna-samāḥ – equal to Bhima and Arjuna; yudhi – in battle; 
+◈  yuyudhānaḥ – Yuyudhana; virāṭaḥ – Virata; ca – and; 
+◈  drupadaḥ – Drupada; ca – and; mahā-rathaḥ – a great chariot-warrior.
 
 धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । 
 पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥
@@ -109,10 +109,10 @@ kāśirājaś ca vīryavān |
 purujit kuntibhojaś ca 
 śaibyaś ca nara-puṅgavaḥ || 5 ||
 
-dhṛṣṭaketuḥ – Dhrishtaketu; cekitānaḥ – Chekitana; 
-kāśirājaḥ – the King of Kashi; ca – and; vīryavān – valiant; 
-purujit – Purujit; kuntibhojaḥ – Kuntibhoja; ca – and; 
-śaibyaḥ – Shaibya; ca – and; nara-puṅgavaḥ – best among men.
+◈  dhṛṣṭaketuḥ – Dhrishtaketu; cekitānaḥ – Chekitana; 
+◈  kāśirājaḥ – the King of Kashi; ca – and; vīryavān – valiant; 
+◈  purujit – Purujit; kuntibhojaḥ – Kuntibhoja; ca – and; 
+◈  śaibyaḥ – Shaibya; ca – and; nara-puṅgavaḥ – best among men.
 
 युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । 
 सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥
@@ -122,10 +122,10 @@ uttamaujāś ca vīryavān |
 saubhadro draupadeyāś ca 
 sarva eva mahārathāḥ || 6 ||
 
-yudhāmanyuḥ – Yudhamanyu; ca – and; vikrāntaḥ – courageous; 
-uttamaujāḥ – Uttamauja; ca – and; vīryavān – valiant; 
-saubhadraḥ – the son of Subhadra (Abhimanyu); 
-draupadeyāḥ – the sons of Draupadi; ca – and; sarve – all; eva – certainly; mahā-rathāḥ – great chariot-warriors.
+◈  yudhāmanyuḥ – Yudhamanyu; ca – and; vikrāntaḥ – courageous; 
+◈  uttamaujāḥ – Uttamauja; ca – and; vīryavān – valiant; 
+◈  saubhadraḥ – the son of Subhadra (Abhimanyu); 
+◈  draupadeyāḥ – the sons of Draupadi; ca – and; sarve – all; eva – certainly; mahā-rathāḥ – great chariot-warriors.
 {eov}
 
 {sot}
@@ -148,10 +148,10 @@ tān nibodha dvijottama |
 nāyakā mama sainyasya 
 saṃjñārthaṃ tān bravīmi te || 7 ||
 
-asmākam – ours; tu – but/on the other hand; viśiṣṭāḥ – the distinguished; ye – who; 
-tān – them; nibodha – know/be informed; dvija-uttama – O best of the twice-born (Drona); 
-nāyakāḥ – the leaders; mama – my; sainyasya – of the army; 
-saṃjñā-artham – for the sake of information; tān – them; bravīmi – I speak; te – to you.
+◈  asmākam – ours; tu – but/on the other hand; viśiṣṭāḥ – the distinguished; ye – who; 
+◈  tān – them; nibodha – know/be informed; dvija-uttama – O best of the twice-born (Drona); 
+◈  nāyakāḥ – the leaders; mama – my; sainyasya – of the army; 
+◈  saṃjñā-artham – for the sake of information; tān – them; bravīmi – I speak; te – to you.
 
 {eov}
 
@@ -173,10 +173,10 @@ kṛpaś ca samitiñjayaḥ |
 aśvatthāmā vikarṇaś ca 
 saumadattis tathaiva ca || 8 ||
 
-bhavān – yourself (Drona); bhīṣmaḥ – Bhishma; ca – and; karṇaḥ – Karna; ca – and; 
-kṛpaḥ – Kripa; ca – and; samitim-jayaḥ – victorious in battle; 
-aśvatthāmā – Ashwatthama; vikarṇaḥ – Vikarna; ca – and; 
-saumadattiḥ – the son of Somadatta; tathā eva ca – and also certainly.
+◈  bhavān – yourself (Drona); bhīṣmaḥ – Bhishma; ca – and; karṇaḥ – Karna; ca – and; 
+◈  kṛpaḥ – Kripa; ca – and; samitim-jayaḥ – victorious in battle; 
+◈  aśvatthāmā – Ashwatthama; vikarṇaḥ – Vikarna; ca – and; 
+◈  saumadattiḥ – the son of Somadatta; tathā eva ca – and also certainly.
 
 अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । 
 नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥ ९ ॥
@@ -186,10 +186,10 @@ mad-arthe tyakta-jīvitāḥ |
 nānā-śastra-praharaṇāḥ 
 sarve yuddha-viśāradāḥ || 9 ||
 
-anye – others; ca – and; bahavaḥ – many; śūrāḥ – heroes; 
-mat-arthe – for my sake; tyakta-jīvitāḥ – prepared to give up their lives; 
-nānā – various; śastra – weapons; praharaṇāḥ – equipped with; 
-sarve – all; yuddha-viśāradāḥ – experts in warfare.
+◈  anye – others; ca – and; bahavaḥ – many; śūrāḥ – heroes; 
+◈  mat-arthe – for my sake; tyakta-jīvitāḥ – prepared to give up their lives; 
+◈  nānā – various; śastra – weapons; praharaṇāḥ – equipped with; 
+◈  sarve – all; yuddha-viśāradāḥ – experts in warfare.
 {eov}
 
 {sot}
@@ -210,10 +210,10 @@ balaṃ bhīṣmābhirakṣitam |
 paryāptaṃ tv idam eteṣāṃ 
 balaṃ bhīmābhirakṣitam || 10 ||
 
-aparyāptam – immeasurable/unlimited; tat – that; asmākam – ours; 
-balam – strength/army; bhīṣma-abhirakṣitam – marshalled by Bhishma; 
-paryāptam – limited/measurable; tu – but; idam – this; eteṣām – of theirs; 
-balam – strength/army; bhīma-abhirakṣitam – marshalled by Bhima.
+◈  aparyāptam – immeasurable/unlimited; tat – that; asmākam – ours; 
+◈  balam – strength/army; bhīṣma-abhirakṣitam – marshalled by Bhishma; 
+◈  paryāptam – limited/measurable; tu – but; idam – this; eteṣām – of theirs; 
+◈  balam – strength/army; bhīma-abhirakṣitam – marshalled by Bhima.
 
 {eov}
 
@@ -235,10 +235,10 @@ yathā-bhāgam avasthitāḥ |
 bhīṣmam evābhirakṣantu 
 bhavantaḥ sarva eva hi || 11 ||
 
-ayaneṣu – in the strategic points; ca – and; sarveṣu – in all; 
-yathā-bhāgam – in your respective positions; avasthitāḥ – stationed; 
-bhīṣmam – Bhishma; eva – alone; abhirakṣantu – should protect; 
-bhavantaḥ – you; sarve – all; eva hi – certainly.
+◈  ayaneṣu – in the strategic points; ca – and; sarveṣu – in all; 
+◈  yathā-bhāgam – in your respective positions; avasthitāḥ – stationed; 
+◈  bhīṣmam – Bhishma; eva – alone; abhirakṣantu – should protect; 
+◈  bhavantaḥ – you; sarve – all; eva hi – certainly.
 {eov}
 
 {sot}
@@ -257,10 +257,10 @@ kuru-vṛddhaḥ pitāmahaḥ |
 siṃha-nādaṃ vinadyoccaiḥ 
 śaṅkhaṃ dadhmau pratāpavān || 12 ||
 
-tasya – his (Duryodhana’s); sañjanayan – causing; harṣam – joy; 
-kuru-vṛddhaḥ – the aged of the Kuru clan; pitāmahaḥ – the grandfather (Bhishma); 
-siṃha-nādam – a lion’s roar; vinadya – sounding; uccaiḥ – loudly; 
-śaṅkham – conch shell; dadhmau – blew; pratāpavān – the glorious.
+◈  tasya – his (Duryodhana’s); sañjanayan – causing; harṣam – joy; 
+◈  kuru-vṛddhaḥ – the aged of the Kuru clan; pitāmahaḥ – the grandfather (Bhishma); 
+◈  siṃha-nādam – a lion’s roar; vinadya – sounding; uccaiḥ – loudly; 
+◈  śaṅkham – conch shell; dadhmau – blew; pratāpavān – the glorious.
 
 {eov}
 
@@ -280,10 +280,10 @@ paṇavānaka-gomukhāḥ |
 sahasaivābhyahanyanta 
 sa śabdastumulo’bhavat || 13 ||
 
-tataḥ—then; śaṅkhāḥ—conch shells; ca—and; bheryaḥ—kettledrums; ca—and; 
-paṇava-ānaka—tabors and drums; go-mukhāḥ—horns; 
-sahasā—suddenly; eva—certainly; abhyahanyanta—blared forth; 
-saḥ—that; śabdaḥ—sound; tumulaḥ—tumultuous; abhavat—was.
+◈  tataḥ—then; śaṅkhāḥ—conch shells; ca—and; bheryaḥ—kettledrums; ca—and; 
+◈  paṇava-ānaka—tabors and drums; go-mukhāḥ—horns; 
+◈  sahasā—suddenly; eva—certainly; abhyahanyanta—blared forth; 
+◈  saḥ—that; śabdaḥ—sound; tumulaḥ—tumultuous; abhavat—was.
 
 {eov}
 
@@ -304,10 +304,10 @@ mahati syandane sthitau |
 mādhavaḥ pāṇḍavaś caiva 
 divyau śaṅkhau pradadhmatuḥ || 14 ||
 
-tataḥ—then; śvetaiḥ—with white; hayaiḥ—horses; yukte—yoked; 
-mahati—in a magnificent; syandane—chariot; sthitau—seated; 
-mādhavaḥ—Krishna; pāṇḍavaḥ—Arjuna; ca—and; eva—also; 
-divyau—divine; śaṅkhau—conch shells; pradadhmatuḥ—blew.
+◈  tataḥ—then; śvetaiḥ—with white; hayaiḥ—horses; yukte—yoked; 
+◈  mahati—in a magnificent; syandane—chariot; sthitau—seated; 
+◈  mādhavaḥ—Krishna; pāṇḍavaḥ—Arjuna; ca—and; eva—also; 
+◈  divyau—divine; śaṅkhau—conch shells; pradadhmatuḥ—blew.
 
 {eov}
 
@@ -327,10 +327,10 @@ devadattaṃ dhanañjayaḥ |
 pauṇḍraṃ dadhmau mahā-śaṅkhaṃ 
 bhīma-karmā vṛkodaraḥ || 15 ||
 
-pāñcajanyam—the conch named Panchajanya; hṛṣīkeśaḥ—Krishna; 
-devadattam—the conch named Devadatta; dhanañjayaḥ—Arjuna; 
-pauṇḍram—the conch named Paundra; dadhmau—blew; mahā-śaṅkham—mighty conch; 
-bhīma-karmā—doer of terrible deeds; vṛkodaraḥ—Bhima.
+◈  pāñcajanyam—the conch named Panchajanya; hṛṣīkeśaḥ—Krishna; 
+◈  devadattam—the conch named Devadatta; dhanañjayaḥ—Arjuna; 
+◈  pauṇḍram—the conch named Paundra; dadhmau—blew; mahā-śaṅkham—mighty conch; 
+◈  bhīma-karmā—doer of terrible deeds; vṛkodaraḥ—Bhima.
 
 अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिर: । 
 नकुल: सहदेवश्च सुघोषमणिपुष्पकौ ॥ १६ ॥
@@ -340,10 +340,10 @@ kuntīputro yudhiṣṭhiraḥ |
 nakulaḥ sahadevaś ca 
 sughoṣa-maṇipuṣpakau || 16 ||
 
-anantavijayam—the conch named Anantavijaya; rājā—the King; 
-kuntī-putraḥ—son of Kunti; yudhiṣṭhiraḥ—Yudhishthira; 
-nakulaḥ—Nakula; sahadevaḥ—Sahadeva; ca—and; 
-sughoṣa-maṇipuṣpakau—the conches Sughosha and Manipushpaka.
+◈  anantavijayam—the conch named Anantavijaya; rājā—the King; 
+◈  kuntī-putraḥ—son of Kunti; yudhiṣṭhiraḥ—Yudhishthira; 
+◈  nakulaḥ—Nakula; sahadevaḥ—Sahadeva; ca—and; 
+◈  sughoṣa-maṇipuṣpakau—the conches Sughosha and Manipushpaka.
 
 काश्यश्च परमेष्वास: शिखण्डी च महारथ: । 
 धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित: ॥ १७ ॥
@@ -353,10 +353,10 @@ kāśyaś ca parameṣvāsaḥ
 dhṛṣṭadyumno virāṭaś ca 
 sātyakiś cāparājitaḥ || 17 ||
 
-kāśyaḥ—the King of Kashi; ca—and; parama-iṣu-āsaḥ—the great archer; 
-śikhaṇḍī—Shikhandi; ca—and; mahā-rathaḥ—the great chariot-warrior; 
-dhṛṣṭadyumnaḥ—Dhrishtadyumna; virāṭaḥ—Virata; ca—and; 
-sātyakiḥ—Satyaki; ca—and; aparājitaḥ—the unconquered.
+◈  kāśyaḥ—the King of Kashi; ca—and; parama-iṣu-āsaḥ—the great archer; 
+◈  śikhaṇḍī—Shikhandi; ca—and; mahā-rathaḥ—the great chariot-warrior; 
+◈  dhṛṣṭadyumnaḥ—Dhrishtadyumna; virāṭaḥ—Virata; ca—and; 
+◈  sātyakiḥ—Satyaki; ca—and; aparājitaḥ—the unconquered.
 
 द्रुपदो द्रौपदेयाश्च सर्वश: पृथिवीपते । 
 सौभद्रश्च महाबाहु: शङ्खान् दध्मु: पृथक् पृथक् ॥ १८ ॥
@@ -366,10 +366,10 @@ sarvaśaḥ pṛthivīpate |
 saubhadraś ca mahābāhuḥ 
 śaṅkhān dadhmuḥ pṛthak pṛthak || 18 ||
 
-drupadaḥ—Drupada; draupadeyāḥ—the sons of Draupadi; ca—and; 
-sarvaśaḥ—all; pṛthivī-pate—O Lord of Earth; 
-saubhadraḥ—the son of Subhadra (Abhimanyu); ca—and; mahā-bāhuḥ—mighty-armed; 
-śaṅkhān—conches; dadhmuḥ—blew; pṛthak pṛthak—each their own.
+◈  drupadaḥ—Drupada; draupadeyāḥ—the sons of Draupadi; ca—and; 
+◈  sarvaśaḥ—all; pṛthivī-pate—O Lord of Earth; 
+◈  saubhadraḥ—the son of Subhadra (Abhimanyu); ca—and; mahā-bāhuḥ—mighty-armed; 
+◈  śaṅkhān—conches; dadhmuḥ—blew; pṛthak pṛthak—each their own.
 {eov}
 
 {sot}
@@ -388,10 +388,10 @@ hṛdayāni vyadārayat |
 nabhaś ca pṛthivīṃ caiva 
 tumulo vyanunādayan || 19 ||
 
-saḥ – that; ghoṣaḥ – uproar; dhārtarāṣṭrāṇām – of the sons of Dhritarashtra; 
-hṛdayāni – hearts; vyadārayat – rent/shattered; 
-nabhaḥ – the sky; ca – and; pṛthivīm – the earth; ca – and; eva – also; 
-tumulaḥ – tumultuous; vyanunādayan – vibrating/resounding.
+◈  saḥ – that; ghoṣaḥ – uproar; dhārtarāṣṭrāṇām – of the sons of Dhritarashtra; 
+◈  hṛdayāni – hearts; vyadārayat – rent/shattered; 
+◈  nabhaḥ – the sky; ca – and; pṛthivīm – the earth; ca – and; eva – also; 
+◈  tumulaḥ – tumultuous; vyanunādayan – vibrating/resounding.
 
 {eov}
 
@@ -411,10 +411,10 @@ dhārtarāṣṭrān kapi-dhvajaḥ |
 pravṛtte śastra-sampāte 
 dhanur udyamya pāṇḍavaḥ || 20 ||
 
-atha – then; vyavasthitān – standing in battle formation; dṛṣṭvā – seeing; 
-dhārtarāṣṭrān – the sons of Dhritarashtra; kapi-dhvajaḥ – he whose flag is marked with Hanuman (Arjuna); 
-pravṛtte – about to begin; śastra-sampāte – the discharge of weapons; 
-dhanuḥ – bow; udyamya – taking up; pāṇḍavaḥ – the son of Pandu (Arjuna).
+◈  atha – then; vyavasthitān – standing in battle formation; dṛṣṭvā – seeing; 
+◈  dhārtarāṣṭrān – the sons of Dhritarashtra; kapi-dhvajaḥ – he whose flag is marked with Hanuman (Arjuna); 
+◈  pravṛtte – about to begin; śastra-sampāte – the discharge of weapons; 
+◈  dhanuḥ – bow; udyamya – taking up; pāṇḍavaḥ – the son of Pandu (Arjuna).
 
 {eov}
 
@@ -443,16 +443,16 @@ yoddhu-kāmān avasthitān |
 kair mayā saha yoddhavyam 
 asmin raṇa-samudyame || 22 ||
 
-hṛṣīkeśam – to Krishna; tadā – then; vākyam – words; 
-idam – these; āha – spoke; mahī-pate – O Lord of the Earth (Dhritarashtra); 
-arjunaḥ uvāca – Arjuna said; 
-senayoḥ – of the armies; ubhayoḥ – of both; madhye – in the middle; 
-ratham – chariot; sthāपय – place/station; me – my; acyuta – O Infallible One; 
+◈  hṛṣīkeśam – to Krishna; tadā – then; vākyam – words; 
+◈  idam – these; āha – spoke; mahī-pate – O Lord of the Earth (Dhritarashtra); 
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  senayoḥ – of the armies; ubhayoḥ – of both; madhye – in the middle; 
+◈  ratham – chariot; sthāpaya – place/station; me – my; acyuta – O Infallible One; 
 
-yāvat – so that; etān – these; nirīkṣe – may behold; aham – I; 
-yoddhu-kāmān – desiring to fight; avasthitān – standing; 
-kaiḥ – with whom; mayā – by me; saha – together; yoddhavyam – must be fought; 
-asmin – in this; raṇa-samudyame – enterprise of war.
+◈  yāvat – so that; etān – these; nirīkṣe – may behold; aham – I; 
+◈  yoddhu-kāmān – desiring to fight; avasthitān – standing; 
+◈  kaiḥ – with whom; mayā – by me; saha – together; yoddhavyam – must be fought; 
+◈  asmin – in this; raṇa-samudyame – enterprise of war.
 
 {eov}
 
@@ -472,10 +472,10 @@ ya ete’tra samāgatāḥ |
 dhārtarāṣṭrasya durbuddher 
 yuddhe priya-cikīrṣavaḥ || 23 ||
 
-yotsyamānān – those who are going to fight; avekṣe – may behold; aham – I; 
-ye – who; ete – these; atra – here; samāgatāḥ – gathered; 
-dhārtarāṣṭrasya – of the son of Dhritarashtra (Duryodhana); durbuddheḥ – evil-minded; 
-yuddhe – in the fight; priya-cikīrṣavaḥ – wishing to please.
+◈  yotsyamānān – those who are going to fight; avekṣe – may behold; aham – I; 
+◈  ye – who; ete – these; atra – here; samāgatāḥ – gathered; 
+◈  dhārtarāṣṭrasya – of the son of Dhritarashtra (Duryodhana); durbuddheḥ – evil-minded; 
+◈  yuddhe – in the fight; priya-cikīrṣavaḥ – wishing to please.
 
 {eov}
 
@@ -505,16 +505,16 @@ sarveṣāṃ ca mahī-kṣitām |
 uvāca pārtha paśyaitān 
 samavetān kurūn iti || 25 ||
 
-sañjayaḥ uvāca – Sanjaya said; 
-evam – thus; uktaḥ – addressed; hṛṣīkeśaḥ – Krishna; 
-guḍākeśena – by Arjuna (the conqueror of sleep); bhārata – O Dhritarashtra; 
-senayoḥ ubhayoḥ madhye – in the middle of both armies; 
-sthāpayitvā – having stationed; ratha-uttamam – the magnificent chariot; 
+◈  sañjayaḥ uvāca – Sanjaya said; 
+◈  evam – thus; uktaḥ – addressed; hṛṣīkeśaḥ – Krishna; 
+◈  guḍākeśena – by Arjuna (the conqueror of sleep); bhārata – O Dhritarashtra; 
+◈  senayoḥ ubhayoḥ madhye – in the middle of both armies; 
+◈  sthāpayitvā – having stationed; ratha-uttamam – the magnificent chariot; 
 
-bhīṣma-droṇa-pramukhataḥ – in front of Bhishma and Drona; 
-sarveṣām ca – and all; mahī-kṣitām – the rulers of the earth; 
-uvāca – said; pārtha – O Partha; paśya – behold; etān – these; 
-samavetān – gathered; kurūn – Kurus; iti – thus.
+◈  bhīṣma-droṇa-pramukhataḥ – in front of Bhishma and Drona; 
+◈  sarveṣām ca – and all; mahī-kṣitām – the rulers of the earth; 
+◈  uvāca – said; pārtha – O Partha; paśya – behold; etān – these; 
+◈  samavetān – gathered; kurūn – Kurus; iti – thus.
 
 {eov}
 
@@ -537,11 +537,11 @@ putrān pautrān sakhīṃs tathā |
 śvaśurān suhṛdaś caiva 
 senayor ubhayor api || 26 ||
 
-tatra – there; apaśyat – saw; sthitān – standing; pārthaḥ – Arjuna; 
-pitṝn – fathers/paternal uncles; atha – and; pitāmahān – grandfathers; 
-ācāryān – teachers; mātulān – maternal uncles; bhrātṝn – brothers/cousins; putrān – sons; 
-pautrān – grandsons; sakhīn – friends; tathā – as well as; 
-śvaśurān – fathers-in-law; suhṛdaḥ – well-wishers; ca – and; eva – also; senayoḥ ubhayoḥ api – in both armies.
+◈  tatra – there; apaśyat – saw; sthitān – standing; pārthaḥ – Arjuna; 
+◈  pitṝn – fathers/paternal uncles; atha – and; pitāmahān – grandfathers; 
+◈  ācāryān – teachers; mātulān – maternal uncles; bhrātṝn – brothers/cousins; putrān – sons; 
+◈  pautrān – grandsons; sakhīn – friends; tathā – as well as; 
+◈  śvaśurān – fathers-in-law; suhṛdaḥ – well-wishers; ca – and; eva – also; senayoḥ ubhayoḥ api – in both armies.
 
 {eov}
 
@@ -561,10 +561,10 @@ sarvān bandhūn avasthitān |
 kṛpayā parayāviṣṭo 
 viṣīdann idam abravīt || 27 ||
 
-tān – them; samīkṣya – having seen; saḥ – he; kaunteyaḥ – the son of Kunti (Arjuna); 
-sarvān – all; bandhūn – relatives; avasthitān – standing; 
-kṛpayā – by pity/compassion; parayā – supreme/deep; āviṣṭaḥ – overwhelmed; 
-viṣīdan – sorrowing; idam – this; abravīt – spoke.
+◈  tān – them; samīkṣya – having seen; saḥ – he; kaunteyaḥ – the son of Kunti (Arjuna); 
+◈  sarvān – all; bandhūn – relatives; avasthitān – standing; 
+◈  kṛpayā – by pity/compassion; parayā – supreme/deep; āviṣṭaḥ – overwhelmed; 
+◈  viṣīdan – sorrowing; idam – this; abravīt – spoke.
 
 {eov}
 
@@ -600,19 +600,19 @@ tvak caiva paridahyate |
 na ca śaknomy avasthātuṃ 
 bhramatīva ca me manaḥ || 30 ||
 
-arjunaḥ uvāca — Arjuna said; 
-dṛṣṭvā — seeing; imam — these; svajanam — kinsmen; kṛṣṇa — O Krishna; 
-yuyutsum — eager to fight; samupasthitam — present; 
+◈  arjunaḥ uvāca — Arjuna said; 
+◈  dṛṣṭvā — seeing; imam — these; svajanam — kinsmen; kṛṣṇa — O Krishna; 
+◈  yuyutsum — eager to fight; samupasthitam — present; 
 
-sīdanti — are failing; mama — my; gātrāṇi — limbs; 
-mukham — mouth; ca — and; pariśuṣyati — is parching; 
-vepathuḥ — trembling; ca — and; śarīre — in the body; me — my; 
-roma-harṣaḥ — bristling of hair; ca — and; jāyate — is happening.
+◈  sīdanti — are failing; mama — my; gātrāṇi — limbs; 
+◈  mukham — mouth; ca — and; pariśuṣyati — is parching; 
+◈  vepathuḥ — trembling; ca — and; śarīre — in the body; me — my; 
+◈  roma-harṣaḥ — bristling of hair; ca — and; jāyate — is happening.
 
-gāṇḍīvam — the bow Gandiva; sraṃsate — is slipping; hastāt — from the hand; 
-tvak — the skin; ca — and; eva — also; paridahyate — is burning; 
-na — not; ca — and; śaknomi — I am able; avasthātum — to stand; 
-bhramati — is reeling; iva — as if; ca — and; me — my; manaḥ — mind.
+◈  gāṇḍīvam — the bow Gandiva; sraṃsate — is slipping; hastāt — from the hand; 
+◈  tvak — the skin; ca — and; eva — also; paridahyate — is burning; 
+◈  na — not; ca — and; śaknomi — I am able; avasthātum — to stand; 
+◈  bhramati — is reeling; iva — as if; ca — and; me — my; manaḥ — mind.
 
 {eov}
 
@@ -632,10 +632,10 @@ viparītāni keśava |
 na ca śreyo’nupaśyāmi 
 hatvā svajanam āhave || 31 ||
 
-nimittāni — omens; ca — and; paśyāmi — I see; 
-viparītāni — adverse; keśava — O Krishna; 
-na — not; ca — and; śreyaḥ — good/benefit; anupaśyāmi — I foresee; 
-hatvā — by killing; svajanam — own kinsmen; āhave — in battle.
+◈  nimittāni — omens; ca — and; paśyāmi — I see; 
+◈  viparītāni — adverse; keśava — O Krishna; 
+◈  na — not; ca — and; śreyaḥ — good/benefit; anupaśyāmi — I foresee; 
+◈  hatvā — by killing; svajanam — own kinsmen; āhave — in battle.
 
 {eov}
 
@@ -655,10 +655,10 @@ na ca rājyaṃ sukhāni ca |
 kiṃ no rājyena govinda 
 kiṃ bhogair jīvitena vā || 32 ||
 
-na—not; kāṅkṣe—I desire; vijayam—victory; kṛṣṇa—O Krishna; 
-na—not; ca—and; rājyam—kingdom; sukhāni—pleasures; ca—and; 
-kim—what; naḥ—to us; rājyena—by kingdom; govinda—O Govinda; 
-kim—what; bhogaiḥ—by enjoyments; jīvitena—by life; vā—or.
+◈  na—not; kāṅkṣe—I desire; vijayam—victory; kṛṣṇa—O Krishna; 
+◈  na—not; ca—and; rājyam—kingdom; sukhāni—pleasures; ca—and; 
+◈  kim—what; naḥ—to us; rājyena—by kingdom; govinda—O Govinda; 
+◈  kim—what; bhogaiḥ—by enjoyments; jīvitena—by life; vā—or.
 
 {eov}
 
@@ -678,10 +678,10 @@ rājyaṃ bhogāḥ sukhāni ca |
 ta ime’vasthitā yuddhe 
 prāṇāṃs tyaktvā dhanāni ca || 33 ||
 
-yeṣām—for whose; arthe—sake; kāṅkṣitam—is desired; naḥ—by us; 
-rājyam—kingdom; bhogāḥ—enjoyments; sukhāni—pleasures; ca—and; 
-te—they; ime—these; avasthitāḥ—stand; yuddhe—in battle; 
-prāṇān—lives; tyaktvā—having given up; dhanāni—wealth; ca—and.
+◈  yeṣām—for whose; arthe—sake; kāṅkṣitam—is desired; naḥ—by us; 
+◈  rājyam—kingdom; bhogāḥ—enjoyments; sukhāni—pleasures; ca—and; 
+◈  te—they; ime—these; avasthitāḥ—stand; yuddhe—in battle; 
+◈  prāṇān—lives; tyaktvā—having given up; dhanāni—wealth; ca—and.
 
 आचार्या: पितर: पुत्रास्तथैव च पितामहा: । 
 मातुला: श्वशुरा: पौत्रा: श्याला: सम्बन्धिनस्तथा ॥ ३४ ॥
@@ -691,10 +691,10 @@ tathaiva ca pitāmahāḥ |
 mātulāḥ śvaśurāḥ pautrāḥ 
 śyālāḥ sambandhinas tathā || 34 ||
 
- ācāryāḥ—teachers; pitaraḥ—fathers/uncles; putrāḥ—sons; 
-tathā eva—as also; ca—and; pitāmahāḥ—grandfathers; 
-mātulāḥ—maternal uncles; śvaśurāḥ—fathers-in-law; pautrāḥ—grandsons; 
-śyālāḥ—brothers-in-law; sambandhinaḥ—relatives; tathā—as well.
+◈  ācāryāḥ—teachers; pitaraḥ—fathers/uncles; putrāḥ—sons; 
+◈  tathā eva—as also; ca—and; pitāmahāḥ—grandfathers; 
+◈  mātulāḥ—maternal uncles; śvaśurāḥ—fathers-in-law; pautrāḥ—grandsons; 
+◈  śyālāḥ—brothers-in-law; sambandhinas—relatives; tathā—as well.
 
 {eov}
 
@@ -714,10 +714,10 @@ ghnato’pi madhusūdana |
 api trailokya-rājyasya 
 hetoḥ kiṃ nu mahī-kṛte || 35 ||
 
-etān — these; na — not; hantum — to kill; icchāmi — I wish; 
-ghnataḥ — being killed; api — even; madhusūdana — O Slayer of Madhu (Krishna); 
-api — even; trailokya — of the three worlds; rājyasya — of the kingdom; 
-hetoḥ — for the sake of; kim nu — what then; mahī-kṛte — for the sake of the earth.
+◈  etān — these; na — not; hantum — to kill; icchāmi — I wish; 
+◈  ghnataḥ — being killed; api — even; madhusūdana — O Slayer of Madhu (Krishna); 
+◈  api — even; trailokya — of the three worlds; rājyasya — of the kingdom; 
+◈  hetoḥ — for the sake of; kim nu — what then; mahī-kṛte — for the sake of the earth.
 
 {eov}
 
@@ -737,10 +737,10 @@ kā prītiḥ syāj janārdana |
 pāpam evāśrayed asmān 
 hatvaitān ātatāyinaḥ || 36 ||
 
-nihatya — by killing; dhārtarāṣṭrān — the sons of Dhritarashtra; naḥ — our; 
-kā — what; prītiḥ — pleasure; syāt — will be; janārdana — O Krishna (Maintainer of all); 
-pāpam — sin; eva — only; āśrayet — would take hold; asmān — us; 
-hatvā — by killing; etān — these; ātatāyinaḥ — aggressors.
+◈  nihatya — by killing; dhārtarāṣṭrān — the sons of Dhritarashtra; naḥ — our; 
+◈  kā — what; prītiḥ — pleasure; syāt — will be; janārdana — O Krishna (Maintainer of all); 
+◈  pāpam — sin; eva — only; āśrayet — would take hold; asmān — us; 
+◈  hatvā — by killing; etān — these; ātatāyinaḥ — aggressors.
 
 {eov}
 
@@ -760,10 +760,10 @@ dhārtarāṣṭrān svabāndhavān |
 svajanaṃ hi kathaṃ hatvā 
 sukhinaḥ syāma mādhava || 37 ||
 
-tasmāt—therefore; na arhāḥ—not right/justified; vayam—we; hantum—to kill; 
-dhārtarāṣṭrān—the sons of Dhritarashtra; sva-bāndhavān—our own relatives; 
-svajanam—kinsmen; hi—certainly; katham—how; hatvā—by killing; 
-sukhinaḥ—happy; syāma—may we be; mādhava—O Krishna.
+◈  tasmāt—therefore; na arhāḥ—not right/justified; vayam—we; hantum—to kill; 
+◈  dhārtarāṣṭrān—the sons of Dhritarashtra; sva-bāndhavān—our own relatives; 
+◈  svajanam—kinsmen; hi—certainly; katham—how; hatvā—by killing; 
+◈  sukhinaḥ—happy; syāma—may we be; mādhava—O Krishna.
 
 {eov}
 
@@ -783,10 +783,10 @@ lobhopahata-cetasaḥ |
 kula-kṣaya-kṛtaṃ doṣaṃ 
 mitra-drohe ca pātakam || 38 ||
 
-yadi api—even if; ete—these; na paśyanti—do not see; 
-lobha-upahata—overpowered by greed; cetasaḥ—their minds; 
-kula-kṣaya—destruction of family; kṛtam—caused by; doṣam—evil; 
-mitra-drohe—treachery to friends; ca—and; pātakam—sin.
+◈  yadi api—even if; ete—these; na paśyanti—do not see; 
+◈  lobha-upahata—overpowered by greed; cetasaḥ—their minds; 
+◈  kula-kṣaya—destruction of family; kṛtam—caused by; doṣam—evil; 
+◈  mitra-drohe—treachery to friends; ca—and; pātakam—sin.
 
 कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् । 
 कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥ ३९ ॥
@@ -796,10 +796,10 @@ pāpād asmān nivartitum |
 kula-kṣaya-kṛtaṃ doṣaṃ 
 prapaśyadbhir janārdana || 39 ||
 
-katham—why; na—not; jñeyam—should be known; asmābhiḥ—by us; 
-pāpāt—from sin; asmāt—this; nivartitum—to turn away; 
-kula-kṣaya—destruction of family; kṛtam—caused by; doṣam—evil; 
-prapaśyadbhiḥ—who see clearly; janārdana—O Krishna.
+◈  katham—why; na—not; jñeyam—should be known; asmābhiḥ—by us; 
+◈  pāpāt—from sin; asmāt—this; nivartitum—to turn away; 
+◈  kula-kṣaya—destruction of family; kṛtam—caused by; doṣam—evil; 
+◈  prapaśyadbhiḥ—who see clearly; janārdana—O Krishna.
 
 {eov}
 
@@ -819,10 +819,10 @@ kula-dharmāḥ sanātanāḥ |
 dharme naṣṭe kulaṃ kṛtsnam 
 adharmo’bhibhavaty uta || 40 ||
 
-kula-kṣaye—in the destruction of a family; praṇaśyanti—perish; 
-kula-dharmāḥ—family traditions; sanātanāḥ—eternal; 
-dharme—dharma/duty; naṣṭe—being destroyed; kulam—family; kṛtsnam—the whole; 
-adharmaḥ—impiety/lawlessness; abhibhavati—overcomes; uta—indeed.
+◈  kula-kṣaye—in the destruction of a family; praṇaśyanti—perish; 
+◈  kula-dharmāḥ—family traditions; sanātanāḥ—eternal; 
+◈  dharme—dharma/duty; naṣṭe—being destroyed; kulam—family; kṛtsnam—the whole; 
+◈  adharmaḥ—impiety/lawlessness; abhibhavati—overcomes; uta—indeed.
 
 अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: । 
 स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: ॥ ४१ ॥
@@ -832,10 +832,10 @@ praduṣyanti kula-striyaḥ |
 strīṣu duṣṭāsu vārṣṇeya 
 jāyate varṇa-saṅkaraḥ || 41 ||
 
-adharma—impiety; abhibhavāt—from the predominance of; kṛṣṇa—O Krishna; 
-praduṣyanti—become corrupt; kula-striyaḥ—women of the family; 
-strīṣu—when women; duṣṭāsu—are corrupted; vārṣṇeya—O descendent of Vrishni (Krishna); 
-jāyate—arises; varṇa-saṅkaraḥ—intermingling of castes/varna confusion.
+◈  adharma—impiety; abhibhavāt—from the predominance of; kṛṣṇa—O Krishna; 
+◈  praduṣyanti—become corrupt; kula-striyaḥ—women of the family; 
+◈  strīṣu—when women; duṣṭāsu—are corrupted; vārṣṇeya—O descendent of Vrishni (Krishna); 
+◈  jāyate—arises; varṇa-saṅkaraḥ—intermingling of castes/varna confusion.
 
 सङ्करो नरकायैव कुलघ्नानां कुलस्य च । 
 पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया: ॥ ४२ ॥
@@ -845,10 +845,10 @@ kulaghnānāṃ kulasya ca |
 patanti pitaro hy eṣāṃ 
 lupta-piṇḍodaka-kriyāḥ || 42 ||
 
-saṅkaraḥ—this intermingling; narakāya—to hell; eva—certainly; 
-kula-ghnānām—for the destroyers of the family; kulasya—for the family; ca—and; 
-patanti—fall; pitaraḥ—ancestors; hi—verily; eṣām—their; 
-lupta—deprived of; piṇḍa-udaka—offerings of rice and water; kriyāḥ—rituals/performances.
+◈  saṅkaraḥ—this intermingling; narakāya—to hell; eva—certainly; 
+◈  kula-ghnānām—for the destroyers of the family; kulasya—for the family; ca—and; 
+◈  patanti—fall; pitaraḥ—ancestors; hi—verily; eṣām—their; 
+◈  lupta—deprived of; piṇḍa-udaka—offerings of rice and water; kriyāḥ—rituals/performances.
 
 {eov}
 
@@ -872,10 +872,10 @@ varṇa-saṅkara-kārakaiḥ |
 utsādyante jāti-dharmāḥ 
 kula-dharmāś ca śāśvatāḥ || 43 ||
 
-doṣaiḥ—by the evils; etaiḥ—these; kula-ghnānām—of the family-destroyers; 
-varṇa-saṅkara—intermingling of castes; kārakaiḥ—causing; 
-utsādyante—are destroyed; jāti-dharmāḥ—traditions of the community; 
-kula-dharmāḥ—family traditions; ca—and; śāśvatāḥ—eternal.
+◈  doṣaiḥ—by the evils; etaiḥ—these; kula-ghnānām—of the family-destroyers; 
+◈  varṇa-saṅkara—intermingling of castes; kārakaiḥ—causing; 
+◈  utsādyante—are destroyed; jāti-dharmāḥ—traditions of the community; 
+◈  kula-dharmāḥ—family traditions; ca—and; śāśvatāḥ—eternal.
 
 उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन । 
 नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥ ४४ ॥
@@ -885,10 +885,10 @@ manuṣyāṇāṃ janārdana |
 narake’niyataṃ vāso 
 bhavatīty anuśuśruma || 44 ||
 
-utsanna—destroyed; kula-dharmāṇām—for those whose family traditions are; 
-manuṣyāṇām—of men; janārdana—O Krishna; 
-narake—in hell; aniyataṃ—for an indefinite period; vāsaḥ—dwelling; 
-bhavati—is; iti—thus; anuśuśruma—we have heard (from the scriptures).
+◈  utsanna—destroyed; kula-dharmāṇām—for those whose family traditions are; 
+◈  manuṣyāṇām—of men; janārdana—O Krishna; 
+◈  narake—in hell; aniyataṃ—for an indefinite period; vāsaḥ—dwelling; 
+◈  bhavati—is; iti—thus; anuśuśruma—we have heard (from the scriptures).
 {eov}
 
 {sot}
@@ -909,10 +909,10 @@ kartuṃ vyavasitā vayam |
 yad rājya-sukha-lobhena 
 hantuṃ svajanam udyatāḥ || 45 ||
 
-aho bata—alas!; mahat—great; pāpam—sin; 
-kartum—to do; vyavasitāḥ—prepared; vayam—we; 
-yat—that; rājya-sukha—pleasures of the kingdom; lobhena—by greed for; 
-hantum—to kill; svajanam—our own kinsmen; udyatāḥ—set out.
+◈  aho bata—alas!; mahat—great; pāpam—sin; 
+◈  kartum—to do; vyavasitāḥ—prepared; vayam—we; 
+◈  yat—that; rājya-sukha—pleasures of the kingdom; lobhena—by greed for; 
+◈  hantum—to kill; svajanam—our own kinsmen; udyatāḥ—set out.
 
 {eov}
 
@@ -932,10 +932,10 @@ aśastraṃ śastra-pāṇayaḥ |
 dhārtarāṣṭrā raṇe hanyus 
 tan me kṣemataraṃ bhavet || 46 ||
 
-yadi—if; mām—me; apratīkāram—unresisting; 
-aśastram—unarmed; śastra-pāṇayaḥ—with weapons in hand; 
-dhārtarāṣṭrāḥ—the sons of Dhritarashtra; raṇe—in battle; hanyuḥ—should kill; 
-tat—that; me—for me; kṣema-taram—better/more beneficial; bhavet—would be.
+◈  yadi—if; mām—me; apratīkāram—unresisting; 
+◈  aśastram—unarmed; śastra-pāṇayaḥ—with weapons in hand; 
+◈  dhārtarāṣṭrāḥ—the sons of Dhritarashtra; raṇe—in battle; hanyuḥ—should kill; 
+◈  tat—that; me—for me; kṣema-taram—better/more beneficial; bhavet—would be.
 
 
 {eov}
@@ -958,11 +958,11 @@ rathopastha upāviśat |
 visṛjya sa-śaraṃ cāpaṃ 
 śoka-saṃvigna-mānasaḥ || 47 ||
 
-sañjayaḥ uvāca — Sanjaya said; 
-evam — thus; uktvā — having spoken; arjunaḥ — Arjuna; saṅkhye — on the battlefield; 
-ratha-upasthe — on the seat of the chariot; upāviśat — sat down; 
-visṛjya — casting aside; sa-śaram — along with arrows; cāpam — the bow; 
-śoka — by grief; saṃvigna — overwhelmed; mānasaḥ — mind.
+◈  sañjayaḥ uvāca — Sanjaya said; 
+◈  evam — thus; uktvā — having spoken; arjunaḥ — Arjuna; saṅkhye — on the battlefield; 
+◈  ratha-upasthe — on the seat of the chariot; upāviśat — sat down; 
+◈  visṛjya — casting aside; sa-śaram — along with arrows; cāpam — the bow; 
+◈  śoka — by grief; saṃvigna — overwhelmed; mānasaḥ — mind.
 
 {eov}
 

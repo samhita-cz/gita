@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 देही नित्यमवध्योऽयं देहे सर्वस्य भारत |
 तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि || 30||
 
-dehī nityam avadhyo ’yaṁ dehe sarvasya bhārata
-tasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi
+dehī nityamavadhyo’yaṃ
+dehe sarvasya bhārata | 
+tasmātsarvāṇi bhūtāni 
+na tvaṃ śocitumarhasi ||
 
-dehī—the soul that dwells within the body; nityam—always; avadhyaḥ—immortal; ayam—this soul; dehe—in the body; sarvasya—of everyone; bhārata—descendant of Bharat, Arjun; tasmāt—therefore; sarvāṇi—for all; bhūtāni—living entities; na—not; tvam—you; śhochitum—mourn; arhasi—should
+dehī - the dweller in the body; nityam - always; avadhyaḥ - cannot be slain; ayam - this; 
+dehe - in the body; sarvasya - of all; bhārata - O Bharata; 
+tasmāt - therefore; sarvāṇi - for all; bhūtāni - beings; 
+na - not; tvam - you; śocitum - to grieve; arhasi - should.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि |
 धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते || 31||
 
-swa-dharmam api chāvekṣhya na vikampitum arhasi
-dharmyāddhi yuddhāch chhreyo ’nyat kṣhatriyasya na vidyate
+svadharmamapi cāvekṣya 
+na vikampitumarhasi | 
+dharmyāddhi yuddhācchreyo’nyat
+kṣatriyasya na vidyate ||
 
-swa-dharmam—one’s duty in accordance with the Vedas; api—also; cha—and; avekṣhya—considering; na—not; vikampitum—to waver; arhasi—should; dharmyāt—for righteousness; hi—indeed; yuddhāt—than fighting; śhreyaḥ—better; anyat—another; kṣhatriyasya—of a warrior; na—not; vidyate—exists
+svadharmam - own duty; api - also; ca - and; avekṣya - considering; 
+na - not; vikampitum - to waver; arhasi - you should; 
+dharmyāt - than righteous; hi - indeed; yuddhāt - than war; śreyaḥ - better; anyat - other; 
+kṣatriyasya - for a kshatriya; na - not; vidyate - exists.
 {eov}
 
 {sot}

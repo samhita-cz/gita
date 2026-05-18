@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् |
 विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति || 17||
 
-avināśhi tu tadviddhi yena sarvam idaṁ tatam
-vināśham avyayasyāsya na kaśhchit kartum arhati
+avināśi tu tadviddhi 
+yena sarvamidaṃ tatam | 
+vināśamavyayasyāsya 
+na kaścitkartumarhati ||
 
-avināśhi—indestructible; tu—indeed; tat—that; viddhi—know; yena—by whom; sarvam—entire; idam—this; tatam—pervaded; vināśham—destruction; avyayasya—of the imperishable; asya—of it; na kaśhchit—no one; kartum—to cause; arhati—is able
+avināśi – imperishable; tu – indeed; tat – that; viddhi – know; 
+yena – by which; sarvam idam – all this; tatam – pervaded; 
+vināśam – destruction; avyayasya – of the immutable; asya – of this; 
+na kaścit – no one; kartum arhati – is able to do.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अन्तवन्त इमे देहा नित्यस्योक्ता: शरीरिण: |
 अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत || 18||
 
-antavanta ime dehā nityasyoktāḥ śharīriṇaḥ
-anāśhino ’prameyasya tasmād yudhyasva bhārata
+antavanta ime dehā 
+nityasyoktāḥ śarīriṇaḥ | 
+anāśino’prameyasya 
+tasmādyudhyasva bhārata ||
 
-anta-vantaḥ—having an end; ime—these; dehāḥ—material bodies; nityasya—eternally; uktāḥ—are said; śharīriṇaḥ—of the embodied soul; anāśhinaḥ—indestructible; aprameyasya—immeasurable; tasmāt—therefore; yudhyasva—fight; bhārata—descendant of Bharat, Arjun{eov}
+antavantaḥ – having an end; ime – these; dehāḥ – bodies; 
+nityasya – of the eternal; uktāḥ – are said; śarīriṇaḥ – of the embodied soul; 
+anāśinaḥ – of the indestructible; aprameyasya – of the immeasurable; 
+tasmāt – therefore; yudhyasva – fight; bhārata – O Bharata.
+{eov}
 
 {sot}
 These bodies which belong to the real imperishable, unknowable Atma are said to be subject to an end; therefore fight, O Arjuna!

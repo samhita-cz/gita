@@ -21,10 +21,10 @@ kaumāraṃ yauvanaṃ jarā |
 tathā dehāntaraprāptir
 dhīrastatra na muhyati ||
 
-dehinaḥ – of the embodied soul; asmin – in this; yathā – as; dehe – body; 
-kaumāram – childhood; yauvanam – youth; jarā – old age; 
-tathā – so; deha-antara-prāptiḥ – attainment of another body; 
-dhīraḥ – the wise; tatra – thereat; na – not; muhyati – is deluded.
+◈  dehinaḥ – of the embodied soul; asmin – in this; yathā – as; dehe – body; 
+◈  kaumāram – childhood; yauvanam – youth; jarā – old age; 
+◈  tathā – so; deha-antara-prāptiḥ – attainment of another body; 
+◈  dhīraḥ – the wise; tatra – thereat; na – not; muhyati – is deluded.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ mātrāsparśāstu kaunteya
 āgamāpāyino’nityās
 tāṃstitikṣasva bhārata ||
 
-mātrā-sparśāḥ – contacts of the senses with their objects; tu – but; kaunteya – O son of Kunti; 
-śīta-uṣṇa – cold and heat; sukha-duḥkha-dāḥ – givers of pleasure and pain; 
-āgama-apāyinaḥ – appearing and disappearing; anityāḥ – impermanent; 
-tān – them; titikṣasva – endure; bhārata – O Bharata.
+◈  mātrā-sparśāḥ – contacts of the senses with their objects; tu – but; kaunteya – O son of Kunti; 
+◈  śīta-uṣṇa – cold and heat; sukha-duḥkha-dāḥ – givers of pleasure and pain; 
+◈  āgama-apāyinaḥ – appearing and disappearing; anityāḥ – impermanent; 
+◈  tān – them; titikṣasva – endure; bhārata – O Bharata.
 {eov}
 
 {sot}
@@ -65,10 +65,10 @@ puruṣaṃ puruṣarṣabha |
 samaduḥkhasukhaṃ dhīraṃ 
 so’mṛtattvāya kalpate ||
 
-yam – whom; hi – indeed; na – not; vyathayanti – afflict; ete – these; 
-puruṣam – man; puruṣa-ṛṣabha – O chief among men; 
-sama-duḥkha-sukham – equal in pain and pleasure; dhīram – wise; 
-saḥ – he; amṛtatvāya – for immortality; kalpate – is fit.
+◈  yam – whom; hi – indeed; na – not; vyathayanti – afflict; ete – these; 
+◈  puruṣam – man; puruṣa-ṛṣabha – O chief among men; 
+◈  sama-duḥkha-sukham – equal in pain and pleasure; dhīram – wise; 
+◈  saḥ – he; amṛtatvāya – for immortality; kalpate – is fit.
 {eov}
 
 {sot}

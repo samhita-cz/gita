@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावक: |
 न चैनं क्लेदयन्त्यापो न शोषयति मारुत: || 23||
 
-nainaṁ chhindanti śhastrāṇi nainaṁ dahati pāvakaḥ
-na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ
+nainaṃ chindanti śastrāṇi 
+nainaṃ dahati pāvakaḥ | 
+na cainaṃ kledayantyāpo 
+na śoṣayati mārutaḥ ||
 
-na—not; enam—this soul; chhindanti—shred; śhastrāṇi—weapons; na—nor; enam—this soul; dahati—burns; pāvakaḥ—fire; na—not; cha—and; enam—this soul; kledayanti—moisten; āpaḥ—water; na—nor; śhoṣhayati—dry; mārutaḥ—wind
+na - not; enam - this; chindanti - cut; śastrāṇi - weapons; 
+na - not; enam - this; dahati - burns; pāvakaḥ - fire; 
+na - not; ca - and; enam - this; kledayanti - wet; āpaḥ - waters; 
+na - not; śoṣayati - dries; mārutaḥ - wind.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च |
 नित्य: सर्वगत: स्थाणुरचलोऽयं सनातन: || 24||
 
-achchhedyo ’yam adāhyo ’yam akledyo ’śhoṣhya eva cha
-nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ
+acchedyo’yamadāhyo’yam
+akledyo’śoṣya eva ca | 
+nityaḥ sarvagataḥ sthāṇur
+acalo’yaṃ sanātanaḥ ||
 
-achchhedyaḥ—unbreakable; ayam—this soul; adāhyaḥ—incombustible; ayam—this soul; akledyaḥ—cannot be dampened; aśhoṣhyaḥ—cannot be dried; eva—indeed; cha—and; nityaḥ—everlasting; sarva-gataḥ—all-pervading; sthāṇuḥ—unalterable; achalaḥ—immutable; ayam—this soul; sanātanaḥ—primordial
+acchedyaḥ - cannot be cut; ayam - this; adāhyaḥ - cannot be burned; ayam - this; 
+akledyaḥ - cannot be wetted; aśoṣyaḥ - cannot be dried; eva - indeed; ca - and; 
+nityaḥ - eternal; sarvagataḥ - all-pervading; sthāṇuḥ - stable; 
+acalaḥ - immovable; ayam - this; sanātanaḥ - ancient/timeless.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते |
 तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि || 25||
 
-avyakto ’yam achintyo ’yam avikāryo ’yam uchyate
-tasmādevaṁ viditvainaṁ nānuśhochitum arhasi
+avyakto’yamacintyo’yam
+avikāryo’yamucyate | 
+tasmādevaṃ viditvainaṃ 
+nānuśocitumarhasi ||
 
-avyaktaḥ—unmanifested; ayam—this soul; achintyaḥ—inconceivable; ayam—this soul; avikāryaḥ—unchangeable; ayam—this soul; uchyate—is said; tasmāt—therefore; evam—thus; viditvā—having known; enam—this soul; na—not; anuśhochitum—to grieve; arhasi—befitting
+avyaktaḥ - unmanifest; ayam - this; acintyaḥ - unthinkable; ayam - this; 
+avikāryaḥ - unchangeable; ayam - this; ucyate - is said; 
+tasmāt - therefore; evam - thus; viditvā - knowing; enam - this; 
+na - not; anuśocitum - to grieve; arhasi - you should.
 {eov}
 
 {sot}

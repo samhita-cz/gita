@@ -23,11 +23,11 @@ prajñāvādāṃśca bhāṣase |
 gatāsūnagatāsūṃśca 
 nānuśocanti paṇḍitāḥ ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-aśocyān – those not to be grieved for; anvaśocaḥ – have grieved; tvam – you; 
-prajñā-vādān – words of wisdom; ca – and; bhāṣase – you speak; 
-gata-asūn – the dead (those whose breath has gone); agata-asūn – the living (those whose breath has not gone); ca – and; 
-na – not; anuśocanti – grieve; paṇḍitāḥ – the wise.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  aśocyān – those not to be grieved for; anvaśocaḥ – have grieved; tvam – you; 
+◈  prajñā-vādān – words of wisdom; ca – and; bhāṣase – you speak; 
+◈  gata-asūn – the dead (those whose breath has gone); agata-asūn – the living (those whose breath has not gone); ca – and; 
+◈  na – not; anuśocanti – grieve; paṇḍitāḥ – the wise.
 {eov}
 
 {sot}
@@ -46,10 +46,10 @@ na tvaṃ neme janādhipāḥ |
 na caiva na bhaviṣyāmaḥ 
 sarve vayamataḥ param ||
 
-na – not; tu – but; eva – certainly; aham – I; jātu – at any time; na – not; āsam – existed; 
-na – not; tvam – you; na – not; ime – these; janādhipāḥ – kings; 
-na – not; ca – and; eva – certainly; na – not; bhaviṣyāmaḥ – shall exist; 
-sarve – all; vayam – we; ataḥ param – hereafter.
+◈  na – not; tu – but; eva – certainly; aham – I; jātu – at any time; na – not; āsam – existed; 
+◈  na – not; tvam – you; na – not; ime – these; janādhipāḥ – kings; 
+◈  na – not; ca – and; eva – certainly; na – not; bhaviṣyāmaḥ – shall exist; 
+◈  sarve – all; vayam – we; ataḥ param – hereafter.
 {eov}
 
 {sot}

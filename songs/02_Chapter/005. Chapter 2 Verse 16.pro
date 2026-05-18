@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 नासतो विद्यते भावो नाभावो विद्यते सत: |
 उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभि: || 16||
 
-nāsato vidyate bhāvo nābhāvo vidyate sataḥ
-ubhayorapi dṛiṣhṭo ’nta stvanayos tattva-darśhibhiḥ
+nāsato vidyate bhāvo 
+nābhāvo vidyate sataḥ | 
+ubhayorapi dṛṣṭo’ntas
+tvanayostattvadarśibhiḥ ||
 
-na—no; asataḥ—of the temporary; vidyate—there is; bhāvaḥ—is; na—no; abhāvaḥ—cessation; vidyate—is; sataḥ—of the eternal; ubhayoḥ—of the two; api—also; dṛiṣhṭaḥ—observed; antaḥ—conclusion; tu—verily; anayoḥ—of these; tattva—of the truth; darśhibhiḥ—by the seers
+na – not; asataḥ – of the unreal; vidyate – exists; bhāvaḥ – being; 
+na – not; abhāvaḥ – non-existence; vidyate – exists; sataḥ – of the real; 
+ubhayoḥ – of both; api – also; dṛṣṭaḥ – seen; antaḥ – the truth/conclusion; 
+tu – but; anayoḥ – of these; tattva-darśibhiḥ – by the seers of Truth.
 {eov}
 
 {sot}

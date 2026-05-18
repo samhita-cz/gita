@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत |
 अव्यक्तनिधनान्येव तत्र का परिदेवना || 28||
 
-avyaktādīni bhūtāni vyakta-madhyāni bhārata
-avyakta-nidhanānyeva tatra kā paridevanā
+avyaktādīni bhūtāni 
+vyaktamadhyāni bhārata | 
+avyaktanidhanānyeva 
+tatra kā paridevanā ||
 
-avyakta-ādīni—unmanifest before birth; bhūtāni—created beings; vyakta—manifest; madhyāni—in the middle; bhārata—Arjun, scion of Bharat; avyakta—unmanifest; nidhanāni—on death; eva—indeed; tatra—therefore; kā—why; paridevanā—grieve
+avyaktādīni - unmanifest in the beginning; bhūtāni - beings; 
+vyaktamadhyāni - manifest in the middle; bhārata - O Bharata; 
+avyaktanidhanāni - unmanifest in death; eva - only; 
+tatra - there; kā - what; paridevanā - lamentation.
 {eov}
 
 {sot}
@@ -35,12 +40,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 आश्चर्यवच्चैनमन्य: शृ्णोति
 श्रुत्वाप्येनं वेद न चैव कश्चित् || 29||
 
-āśhcharya-vat paśhyati kaśhchid enan
-āśhcharya-vad vadati tathaiva chānyaḥ
-āśhcharya-vach chainam anyaḥ śhṛiṇoti
-śhrutvāpyenaṁ veda na chaiva kaśhchit
+āścaryavatpaśyati kaścidenam-
+āścaryavadvadati tathaiva cānyaḥ | 
+āścaryavaccainamanyaḥ śṛṇoti 
+śrutvāpyenaṃ veda na caiva kaścit ||
 
-āśhcharya-vat—as amazing; paśhyati—see; kaśhchit—someone; enam—this soul; āśhcharya-vat—as amazing; vadati—speak of; tathā—thus; eva—indeed; cha—and; anyaḥ—other; āśhcharya-vat—similarly amazing; cha—also; enam—this soul; anyaḥ—others; śhṛiṇoti—hear; śhrutvā—having heard; api—even; enam—this soul; veda—understand; na—not; cha—and; eva—even; kaśhchit—some
+āścaryavat - as a wonder; paśyati - sees; kaścit - someone; enam - this; 
+āścaryavat - as a wonder; vadati - speaks; tathā - so; eva - indeed; ca - and; anyaḥ - another;
+āścaryavat - as a wonder; ca - and; enam - this; anyaḥ - another; śṛṇoti - hear; 
+śrutvā - having heard; api - even; enam - this; veda - knows; na - not; ca - and; eva - indeed; kaścit - anyone.
 {eov}
 
 {sot}
