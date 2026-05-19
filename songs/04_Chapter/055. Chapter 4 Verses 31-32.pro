@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् |
 नायं लोकोऽस्त्ययज्ञस्य कुतोऽन्य: कुरुसत्तम || 31||
 
-yajña-śhiṣhṭāmṛita-bhujo yānti brahma sanātanam
-nāyaṁ loko ’styayajñasya kuto ’nyaḥ kuru-sattama
+yajñaśiṣtāmṛtabhujo 
+yānti brahma sanātanam | 
+nāyaṃ loko’styayajñasya 
+kuto’nyaḥ kurusattama ||
 
-yajña-śhiṣhṭa amṛita-bhujaḥ—they partake of the nectarean remnants of sacrifice; yānti—go; brahma—the Absolute Truth; sanātanam—eternal; na—never; ayam—this; lokaḥ—planet; asti—is; ayajñasya—for one who performs no sacrifice; kutaḥ—how; anyaḥ—other (world); kuru-sat-tama—best of the Kurus, Arjun
+yajña-śiṣṭa – remnants of sacrifice; amṛta-bhujaḥ – eaters of the nectar; 
+yānti – go to; brahma – Brahman; sanātanam – eternal; 
+na – not; ayam – this; lokaḥ – world; asti – is; ayajñasya – for the non-sacrificer; 
+kutaḥ – how; anyaḥ – the other (world); kuru-sattama – O best of the Kurus.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे |
 कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे || 32||
 
-evaṁ bahu-vidhā yajñā vitatā brahmaṇo mukhe
-karma-jān viddhi tān sarvān evaṁ jñātvā vimokṣhyase
+evaṃ bahuvidhā yajñā 
+vitatā brahmaṇo mukhe |
+karmajānviddhi tānsarvānevaṃ 
+jñātvā vimokṣyase ||
 
-evam—thus; bahu-vidhāḥ—various kinds of; yajñāḥ—sacrifices; vitatāḥ—have been described; brahmaṇaḥ—of the Vedas; mukhe—through the mouth; karma-jān—originating from works; viddhi—know; tān—them; sarvān—all; evam—thus; jñātvā—having known; vimokṣhyase—you shall be liberated
+evam – thus; bahu-vidhāḥ – various types; yajñāḥ – sacrifices; 
+vitatāḥ – are spread out/detailed; brahmaṇaḥ mukhe – in the Vedas (mouth of Brahman); 
+karma-jān – born of action; viddhi – know; tān – them; sarvān – all; evam – thus; 
+jñātvā – knowing; vimokṣyase – you shall be liberated.
 {eov}
 
 {sot}

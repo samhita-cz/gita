@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रय: |
 कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति स: || 20||
 
-tyaktvā karma-phalāsaṅgaṁ nitya-tṛipto nirāśhrayaḥ
-karmaṇyabhipravṛitto ’pi naiva kiñchit karoti saḥ
+tyaktvā karmaphalāsaṅgaṃ 
+nityatṛpto nirāśrayaḥ | 
+karmaṇyabhipravṛtto’pi 
+naiva kiñcitkaroti saḥ ||
 
-tyaktvā—having given up; karma-phala-āsaṅgam—attachment to the fruits of action; nitya—always; tṛiptaḥ—satisfied; nirāśhrayaḥ—without dependence; karmaṇi—in activities; abhipravṛittaḥ—engaged; api—despite; na—not; eva—certainly; kiñchit—anything; karoti—do; saḥ—that person
+tyaktvā – having given up; karma-phala-āsaṅgam – attachment to the fruit of action; 
+nitya-tṛptaḥ – ever satisfied; nirāśrayaḥ – depending on nothing/refuge-less; 
+karmaṇi – in action; abhipravṛttaḥ – engaged; api – even; 
+na – not; eva – certainly; kiñcit – anything; karoti – does; saḥ – he.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रह: |
 शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् || 21||
 
-nirāśhīr yata-chittātmā tyakta-sarva-parigrahaḥ
-śhārīraṁ kevalaṁ karma kurvan nāpnoti kilbiṣham
+nirāśīryatacittātmā 
+tyaktasarvaparigrahaḥ | 
+śārīraṃ kevalaṃ karma 
+kurvannāpnoti kilbiṣam ||
 
-nirāśhīḥ—free from expectations; yata—controlled; chitta-ātmā—mind and intellect; tyakta—having abandoned; sarva—all; parigrahaḥ—the sense of ownership; śhārīram—bodily; kevalam—only; karma—actions; kurvan—performing; na—never; āpnoti—incurs; kilbiṣham—sin
+nirāśīḥ – free from hope/expectation; yata-citta-ātmā – with mind and self controlled; 
+tyakta-sarva-parigrahaḥ – having abandoned all possessions; 
+śārīram – relating to the body; kevalam – only; karma – action; 
+kurvan – performing; na āpnoti – does not incur; kilbiṣam – sin.
+
 {eov}
 
 {sot}
@@ -50,10 +62,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सर: |
 सम: सिद्धावसिद्धौ च कृत्वापि न निबध्यते || 22||
 
-yadṛichchhā-lābha-santuṣhṭo dvandvātīto vimatsaraḥ
-samaḥ siddhāvasiddhau cha kṛitvāpi na nibadhyate
+yadṛcchālābhasantuṣṭo 
+dvandvātīto vimatsaraḥ | 
+samaḥ siddhāvasiddhau ca 
+kṛtvāpi na nibadhyate ||
 
-yadṛichchhā—which comes of its own accord; lābha—gain; santuṣhṭaḥ—contented; dvandva—duality; atītaḥ—surpassed; vimatsaraḥ—free from envy; samaḥ—equipoised; siddhau—in success; asiddhau—failure; cha—and; kṛitvā—performing; api—even; na—never; nibadhyate—is bound
+yadṛcchā-lābha-santuṣṭaḥ – satisfied with whatever comes by chance; 
+dvandva-atītaḥ – beyond the pairs of opposites (dualities); vimatsaraḥ – free from envy; 
+samaḥ – equal/steady; siddhau-asiddhau – in success and failure; ca – and; 
+kṛtvā api – even having acted; na nibadhyate – is not bound.
+
 {eov}
 
 {sot}

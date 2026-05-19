@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे |
 प्राणापानगती रुद्ध्वा प्राणायामपरायणा: || 29||
 
-apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare
-prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ
+apāne juhvati prāṇaṃ 
+prāṇe’pānaṃ tathāpare | 
+prāṇāpānagatī ruddhvā 
+prāṇāyāmaparāyaṇāḥ ||
 
-apāne—the incoming breath; juhvati—offer; prāṇam—the outgoing breath; prāṇe—in the outgoing breath; apānam—incoming breath; tathā—also; apare—others; prāṇa—of the outgoing breath; apāna—and the incoming breath; gatī—movement; ruddhvā—blocking; prāṇa-āyāma—control of breath; parāyaṇāḥ—wholly devoted;
+apāne – in the out-going breath; juhvati – offer; prāṇam – the in-coming breath; 
+prāṇe – in the in-coming breath; apānam – the out-going breath; tathā – and; apare – others; 
+prāṇa-apāna-gatī – courses of in-coming and out-going breaths; ruddhvā – stopping; 
+prāṇāyāma-parāyaṇāḥ – devoted to breath-control (Pranayama).
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 अपरे नियताहारा: प्राणान्प्राणेषु जुह्वति |
 सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषा: || 30||
 
-apare niyatāhārāḥ prāṇān prāṇeṣhu juhvati
-sarve ’pyete yajña-vido yajña-kṣhapita-kalmaṣhāḥ
+apare niyatāhārāḥ 
+prāṇānprāṇeṣu juhvati | 
+sarve’pyete yajñavido 
+yajñakṣapitakalmaṣāḥ ||
 
-apare—others; niyata—having controlled; āhārāḥ—food intake; prāṇān—life-breaths; prāṇeṣhu—life-energy; juhvati—sacrifice; sarve—all; api—also; ete—these; yajña-vidaḥ—knowers of sacrifices; yajña-kṣhapita—being cleansed by performances of sacrifices; kalmaṣhāḥ—of impurities
+apare – others; niyata-āhārāḥ – restricting food; 
+prāṇān – vital breaths; prāṇeṣu – in vital breaths; juhvati – offer; 
+sarve – all; api – even; ete – these; yajña-vidaḥ – knowers of sacrifice; 
+yajña-kṣapita-kalmaṣāḥ – whose sins are destroyed by sacrifice.
 {eov}
 
 {sot}

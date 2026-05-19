@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव |
 येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि || 35||
 
-yaj jñātvā na punar moham evaṁ yāsyasi pāṇḍava
-yena bhūtānyaśheṣheṇa drakṣhyasyātmanyatho mayi
+yajjñātvā na punarmoham
+evaṃ yāsyasi pāṇḍava | 
+yena bhūtānyaśeṣeṇa 
+drakṣyasyātmanyatho mayi ||
 
-yat—which; jñātvā—having known; na—never; punaḥ—again; moham—delusion; evam—like this; yāsyasi—you shall get; pāṇḍava—Arjun, the son of Pandu; yena—by this; bhūtāni—living beings; aśheṣhāṇi—all; drakṣhyasi—you will see; ātmani—within me (Shree Krishna); atho—that is to say; mayi—in me
+yat – which; jñātvā – knowing; na – not; punaḥ – again; moham – to delusion; 
+evam – thus; yāsyasi – you shall go; pāṇḍava – O Pandava; 
+yena – by which; bhūtāni – living beings; aśeṣeṇa – all; 
+drakṣyasi – you will see; ātmani – in the Self; atha u – and also; mayi – in Me.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 अपि चेदसि पापेभ्य: सर्वेभ्य: पापकृत्तम: |
 सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि || 36||
 
-api ched asi pāpebhyaḥ sarvebhyaḥ pāpa-kṛit-tamaḥ
-sarvaṁ jñāna-plavenaiva vṛijinaṁ santariṣhyasi
+api cedasi pāpebhyaḥ 
+sarvebhyaḥ pāpakṛttamaḥ |
+sarvaṃ jñānaplavenaiva 
+vṛjinaṃ santariṣyasi ||
 
-api—even; chet—if; asi—you are; pāpebhyaḥ—sinners; sarvebhyaḥ—of all; pāpa-kṛit-tamaḥ—most sinful; sarvam—all; jñāna-plavena—by the boat of divine knowledge; eva—certainly; vṛijinam—sin; santariṣhyasi—you shall cross over
+api cet – even if; asi – you are; pāpebhyaḥ – of sinners; 
+sarvebhyaḥ – of all; pāpa-kṛt-tamaḥ – the most sinful; 
+sarvam – all; jñāna-plavena – by the boat of knowledge; eva – alone; 
+vṛjinam – sin/misery; santariṣyasi – you shall cross.
+
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन |
 ज्ञानाग्नि: सर्वकर्माणि भस्मसात्कुरुते तथा || 37||
 
-yathaidhānsi samiddho ’gnir bhasma-sāt kurute ’rjuna
-jñānāgniḥ sarva-karmāṇi bhasma-sāt kurute tathā
+yathaidhāṃsi samiddho’gnir
+bhasmasātkurute’rjuna |
+jñānāgniḥ sarvakarmāṇi 
+bhasmasātkurute tathā ||
 
-yathā—as; edhānsi—firewood; samiddhaḥ—blazing; agniḥ—fire; bhasma-sāt—to ashes; kurute—turns; arjuna—Arjun; jñāna-agniḥ—the fire of knowledge; sarva-karmāṇi—all reactions from material activities; bhasma-sāt—to ashes; kurute—it turns; tathā—similarly
+yathā – as; edhāṃsi – fuel/logs; samiddhaḥ – blazing; agniḥ – fire; 
+bhasmasāt – to ashes; kurute – turns; arjuna – O Arjuna; 
+jñāna-agniḥ – the fire of knowledge; sarva-karmāṇi – all actions (karma); 
+bhasmasāt – to ashes; kurute – turns; tathā – so.
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 यस्य सर्वे समारम्भा: कामसङ्कल्पवर्जिता: |
 ज्ञानाग्निदग्धकर्माणं तमाहु: पण्डितं बुधा: || 19||
 
-yasya sarve samārambhāḥ kāma-saṅkalpa-varjitāḥ
-jñānāgni-dagdha-karmāṇaṁ tam āhuḥ paṇḍitaṁ budhāḥ
+yasya sarve samārambhāḥ 
+kāmasaṅkalpavarjitāḥ |
+jñānāgnidagdhakarmāṇaṃ 
+tamāhuḥ paṇḍitaṃ budhāḥ ||
 
-yasya—whose; sarve—every; samārambhāḥ—undertakings; kāma—desire for material pleasures; saṅkalpa—resolve; varjitāḥ—devoid of; jñāna—divine knowledge; agni—in the fire; dagdha—burnt; karmāṇam—actions; tam—him; āhuḥ—address; paṇḍitam—a sage; budhāḥ—the wise
+yasya – whose; sarve – all; samārambhāḥ – undertakings; 
+kāma-saṅkalpa – desire and purpose/will; varjitāḥ – free from; 
+jñāna-agni – by the fire of knowledge; dagdha – burnt; karmāṇam – actions; 
+tam – him; āhuḥ – call; paṇḍitam – a sage; budhāḥ – the wise.
 {eov}
 
 {sot}

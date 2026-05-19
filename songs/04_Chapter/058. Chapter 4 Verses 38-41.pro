@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 न हि ज्ञानेन सदृशं पवित्रमिह विद्यते |
 तत्स्वयं योगसंसिद्ध: कालेनात्मनि विन्दति || 38||
 
-na hi jñānena sadṛiśhaṁ pavitramiha vidyate
-tatsvayaṁ yogasansiddhaḥ kālenātmani vindati
+na hi jñānena sadṛśaṃ 
+pavitramiha vidyate |
+tatsvayaṃ yogasaṃsiddhaḥ 
+kālenātmani vindati ||
 
-na—not; hi—certainly; jñānena—with divine knowledge; sadṛiśham—like; pavitram—pure; iha—in this world; vidyate—exists; tat—that; svayam—oneself; yoga—practice of yog; sansiddhaḥ—he who has attained perfection; kālena—in course of time; ātmani—wihtin the heart; vindati—finds
+na hi – not indeed; jñānena – to knowledge; sadṛśam – like/equal; 
+pavitram – purifier; iha – here (in this world); vidyate – exists; 
+tat – that; svayam – himself; yoga-saṃsiddhaḥ – one perfected in Yoga; 
+kālena – in time; ātmani – in the Self; vindati – finds/attains.
+
 {eov}
 
 {sot}
@@ -33,10 +39,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 श्रद्धावान् लभते ज्ञानं तत्पर: संयतेन्द्रिय: |
 ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति || 39||
 
-śhraddhāvānllabhate jñānaṁ tat-paraḥ sanyatendriyaḥ
-jñānaṁ labdhvā parāṁ śhāntim achireṇādhigachchhati
+śraddhāvāṃllabhate jñānaṃ 
+tatparaḥ saṃyatendriyaḥ |
+jñānaṃ labdhvā parāṃ śāntim
+acireṇādhigacchati ||
 
-śhraddhāvān—a faithful person; labhate—achieves; jñānam—divine knowledge; tat-paraḥ—devoted (to that); sanyata—controlled; indriyaḥ—senses; jñānam—transcendental knowledge; labdhvā—having achieved; parām—supreme; śhāntim—peace; achireṇa—without delay; adhigachchhati—attains
+śraddhāvān – the man of faith; labhate – obtains; jñānam – knowledge; 
+tat-paraḥ – devoted to it; saṃyata-indriyaḥ – who has subdued the senses; 
+jñānam – knowledge; labdhvā – having obtained; parām – supreme; śāntim – peace; 
+acireṇa – quickly; adhigacchati – attains.
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति |
 नायं लोकोऽस्ति न परो न सुखं संशयात्मन: || 40||
 
-ajñaśh chāśhraddadhānaśh cha sanśhayātmā vinaśhyati
-nāyaṁ loko ’sti na paro na sukhaṁ sanśhayātmanaḥ
+ajñaścāśraddadhānaśca 
+saṃśayātmā vinaśyati |
+nāyaṃ loko’styaparo 
+na sukhaṃ saṃśayātmanaḥ ||
 
-ajñaḥ—the ignorant; cha—and; aśhraddadhānaḥ—without faith; cha—and; sanśhaya—skeptical; ātmā—a person; vinaśhyati—falls down; na—never; ayam—in this; lokaḥ—world; asti—is; na—not; paraḥ—in the next; na—not; sukham—happiness; sanśhaya-ātmanaḥ—for the skeptical soul
+ajñaḥ – the ignorant; ca – and; aśraddadhānaḥ – the faithless; ca – and; 
+saṃśaya-ātmā – the doubting soul; vinaśyati – goes to ruin; 
+na – not; ayam – this; lokaḥ – world; asti – is; na paraḥ – nor the next; 
+na sukham – nor happiness; saṃśaya-ātmanaḥ – for the doubting soul
 {eov}
 
 {sot}
@@ -67,10 +83,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 योगसंन्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् |
 आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय || 41||
 
-yoga-sannyasta-karmāṇaṁ jñāna-sañchhinna-sanśhayam
-ātmavantaṁ na karmāṇi nibadhnanti dhanañjaya
+yogasaṃnyastakarmāṇaṃ 
+jñānachinnasaṃśayam |
+ātmavantaṃ na karmāṇi 
+nibadnanti dhanañjaya ||
 
-yoga-sannyasta-karmāṇam—those who renounce ritualistic karm, dedicating their body, mind, and soul to God; jñāna—by knowledge; sañchhinna—dispelled; sanśhayam—doubts; ātma-vantam—situated in knowledge of the self; na—not; karmāṇi—actions; nibadhnanti—bind; dhanañjaya—Arjun, the conqueror of wealth
+yoga-saṃnyasta-karmāṇam – who has renounced actions through Yoga; 
+jñāna-chinna-saṃśayam – whose doubts are rent asunder by knowledge; 
+ātmavantam – possessed of the Self/self-possessed; na – not; karmāṇi – actions; 
+nibadnanti – bind; dhanañjaya – O Dhananjaya (Arjuna).
+
 {eov}
 
 {sot}

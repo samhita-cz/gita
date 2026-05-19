@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतस: |
 यज्ञायाचरत: कर्म समग्रं प्रविलीयते || 23||
 
-gata-saṅgasya muktasya jñānāvasthita-chetasaḥ
-yajñāyācharataḥ karma samagraṁ pravilīyate
+gatasaṅgasya muktasya 
+jñānāvasthitacetasaḥ | 
+yajñāyācarataḥ karma 
+samagraṃ pravilīyate ||
 
-gata-saṅgasya—free from material attachments; muktasya—of the liberated; jñāna-avasthita—established in divine knowledge; chetasaḥ—whose intellect; yajñāya—as a sacrifice (to God); ācharataḥ—performing; karma—action; samagram—completely; pravilīyate—are free
+gata-saṅgasya – of one who is devoid of attachment; muktasya – of the liberated;
+jñāna-avasthita-cetasaḥ – whose mind is established in knowledge; 
+yajñāya – for the sake of sacrifice; ācarataḥ – of one who performs; karma – action; 
+samagram – entirely; pravilīyate – is dissolved/melts away.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् |
 ब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना || 24||
 
-brahmārpaṇaṁ brahma havir brahmāgnau brahmaṇā hutam
-brahmaiva tena gantavyaṁ brahma-karma-samādhinā
+brahmārpaṇaṃ brahma havir
+brahmāgnau brahmaṇā hutam | 
+brahmaiva tena gantavyaṃ 
+brahmakarmasamādhinā ||
 
-brahma—Brahman; arpaṇam—the ladle and other offerings; brahma—Brahman; haviḥ—the oblation; brahma—Brahman; agnau—in the sacrificial fire; brahmaṇā—by that person; hutam—offered; brahma—Brahman; eva—certainly; tena—by that; gantavyam—to be attained; brahma—Brahman; karma—offering; samādhinā—those completely absorbed in God-consciousness
+brahma-arpaṇam – the act of offering is Brahman; brahma – Brahman; haviḥ – the oblation/clarified butter; 
+brahma-agnau – in the fire of Brahman; brahmaṇā – by Brahman; hutam – is offered; 
+brahma eva – Brahman only; tena – by him; gantavyam – to be reached;
+brahma-karma-samādhinā – who is absorbed in Brahman as action.
 {eov}
 
 {sot}

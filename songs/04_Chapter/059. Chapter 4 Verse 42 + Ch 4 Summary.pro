@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मन: |
 छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत || 42||
 
-tasmād ajñāna-sambhūtaṁ hṛit-sthaṁ jñānāsinātmanaḥ
-chhittvainaṁ sanśhayaṁ yogam ātiṣhṭhottiṣhṭha bhārata
+tasmādajñānasambhūtaṃ 
+hṛtsthaṃ jñānāsinātmanaḥ | 
+chittvainaṃ saṃśayaṃ yogam
+ātiṣṭhottiṣṭha bhārata ||
 
-tasmāt—therefore; ajñāna-sambhūtam—born of ignorance; hṛit-stham—situated in the heart; jñāna—of knowledge; asinā—with the sword; ātmanaḥ—of the self; chhittvā—cut asunder; enam—this; sanśhayam—doubt; yogam—in karm yog; ātiṣhṭha—take shelter; uttiṣhṭha—arise; bhārata—Arjun, descendant of Bharat
+tasmāt – therefore; ajñāna-sambhūtam – born of ignorance; 
+hṛt-stham – dwelling in the heart; jñāna-asinā – by the sword of knowledge; ātmanaḥ – of the self; 
+chittvā – having slashed/cut; enam – this; saṃśayam – doubt; yogam – Yoga; 
+ātiṣṭha – take refuge in; uttiṣṭha – arise; bhārata – O Bharata.
+
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञ: परन्तप |
 सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते || 33||
 
-śhreyān dravya-mayād yajñāj jñāna-yajñaḥ parantapa
-sarvaṁ karmākhilaṁ pārtha jñāne parisamāpyate
+śreyāndravyamayādyajñāj
+jñānayajñaḥ parantapa |
+sarvaṃ karmākhilaṃ pārtha 
+jñāne parisamāpyate ||
 
-śhreyān—superior; dravya-mayāt—of material possessions; yajñāt—than the sacrifice; jñāna-yajñaḥ—sacrifice performed in knowledge; parantapa—subduer of enemies, Arjun; sarvam—all; karma—works; akhilam—all; pārtha—Arjun, the son of Pritha; jñāne—in knowledge; parisamāpyate—culminate
+śreyān – superior; dravya-mayāt – consisting of material possessions; yajñāt – than sacrifice; 
+jñāna-yajñaḥ – sacrifice of knowledge; parantapa – O scorcher of foes; 
+sarvam – all; karma – action; akhilam – in its entirety; pārtha – O Partha; 
+jñāne – in knowledge; parisamāpyate – culminates.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया |
 उपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिन: || 34||
 
-tad viddhi praṇipātena paripraśhnena sevayā
-upadekṣhyanti te jñānaṁ jñāninas tattva-darśhinaḥ
+tadviddhi praṇipātena 
+paripraśnena sevayā |
+upadekṣyanti te jñānaṃ 
+jñāninastattvadarśinaḥ ||
 
-tat—the truth; viddhi—try to learn; praṇipātena—by approaching a spiritual master; paripraśhnena—by humble inquiries; sevayā—by rendering service; upadekṣhyanti—can impart; te—unto you; jñānam—knowledge; jñāninaḥ—the enlightened; tattva-darśhinaḥ—those who have realized the truth
+tat – that (knowledge); viddhi – know/learn; praṇipātena – by prostrating; 
+paripraśnena – by inquiry; sevayā – by service; 
+upadekṣyanti – will instruct; te – you; jñānam – in knowledge; 
+jñāninaḥ – the wise; tattva-darśinaḥ – the seers of Truth.
+
 {eov}
 
 {sot}
