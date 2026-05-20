@@ -21,10 +21,10 @@ na caikāntamanaśnataḥ |
 na cāti svapnaśīlasya 
 jāgrato naiva cārjuna ||
 
-na – not; ati aśnataḥ – for him who eats too much; tu – but; yogaḥ – Yoga; asti – is; 
-na – not; ca – and; ekāntam – at all; anaśnataḥ – for him who does not eat; 
-na – not; ca – and; ati – too much; svapna-śīlasya – for him who is addicted to sleep; 
-jāgrataḥ – who is awake; na eva – nor indeed; ca – and; arjuna – O Arjuna.{eov}
+◈  na – not; ati aśnataḥ – for him who eats too much; tu – but; yogaḥ – Yoga; asti – is; 
+◈  na – not; ca – and; ekāntam – at all; anaśnataḥ – for him who does not eat; 
+◈  na – not; ca – and; ati – too much; svapna-śīlasya – for him who is addicted to sleep; 
+◈  jāgrataḥ – who is awake; na eva – nor indeed; ca – and; arjuna – O Arjuna.{eov}
 
 {sot}
 O Arjuna! Verily, yoga is not for one who eats too much or who does not eat at all, nor for him who sleeps too much or who does not sleep at all.
@@ -42,10 +42,10 @@ yuktaceṣṭasya karmasu |
 yuktasvapnāvobodhasya 
 yogo bhavati duḥkhahā ||
 
-yukta-āhāra-vihārasya – of him who is moderate in eating and recreation; 
-yukta-ceṣṭasya – who is moderate in exertion; karmasu – in actions; 
-yukta-svapna-avobodhasya – who is moderate in sleep and wakefulness; 
-yogaḥ – Yoga; bhavati – becomes; duḥkha-hā – the destroyer of sorrow.
+◈  yukta-āhāra-vihārasya – of him who is moderate in eating and recreation; 
+◈  yukta-ceṣṭasya – who is moderate in exertion; karmasu – in actions; 
+◈  yukta-svapna-avobodhasya – who is moderate in sleep and wakefulness; 
+◈  yogaḥ – Yoga; bhavati – becomes; duḥkha-hā – the destroyer of sorrow.
 {eov}
 
 {sot}
@@ -64,10 +64,10 @@ yadā viniyataṃ cittam
 niḥspṛhaḥ sarvakāmebhyo 
 yukta ityucyate tadā ||
 
-yadā – when; viniyatam – perfectly controlled; cittam – mind; 
-ātmani – in the Self; eva – only; avatiṣṭhate – rests; 
-niḥspṛhaḥ – free from longing; sarva-kāmebhyaḥ – for all desires; 
-yuktaḥ – disciplined; iti – thus; ucyate – is called; tadā – then.
+◈  yadā – when; viniyatam – perfectly controlled; cittam – mind; 
+◈  ātmani – in the Self; eva – only; avatiṣṭhate – rests; 
+◈  niḥspṛhaḥ – free from longing; sarva-kāmebhyaḥ – for all desires; 
+◈  yuktaḥ – disciplined; iti – thus; ucyate – is called; tadā – then.
 {eov}
 
 {sot}

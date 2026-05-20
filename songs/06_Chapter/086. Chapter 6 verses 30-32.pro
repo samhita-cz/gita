@@ -66,10 +66,10 @@ samaṃ paśyati yo’rjuna |
 sukhaṃ vā yadi vā duḥkhaṃ 
 sa yogī paramo mataḥ ||
 
-ātma-aupamyena – by comparison with oneself; sarvatra – everywhere; 
-samam – equally; paśyati – sees; yaḥ – who; arjuna – O Arjuna; 
-sukham – pleasure; vā – or; yadi – if; vā – or; duḥkham – pain; 
-saḥ – he; yogī – Yogi; paramaḥ – supreme; mataḥ – is considered.
+◈  ātma-aupamyena – by comparison with oneself; sarvatra – everywhere; 
+◈  samam – equally; paśyati – sees; yaḥ – who; arjuna – O Arjuna; 
+◈  sukham – pleasure; vā – or; yadi – if; vā – or; duḥkham – pain; 
+◈  saḥ – he; yogī – Yogi; paramaḥ – supreme; mataḥ – is considered.
 {eov}
 
 {sot}

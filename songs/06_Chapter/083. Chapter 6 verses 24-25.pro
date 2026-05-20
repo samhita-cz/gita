@@ -9,7 +9,7 @@ https://youtu.be/S4k9rY3jXGE?si=0Un7Hze3ZdqMxAyZ
 
 https://open.spotify.com/episode/6uqzFafUlBzePThnJSCwT7?si=830f681c583345fa
 
-{sov: Verse 6.24-25}
+{sov: Verse 6.24}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-24-25.mp3
 
@@ -31,7 +31,7 @@ viniyamya samantataḥ ||
 Abandoning completely all desires born of 'Sankalpa' (thought/imagination), and restraining the whole group of senses from all sides by the mind alone,
 {eot}
 
-{sov}
+{sov: Verse 6.25}
 शनै: शनैरुपरमेद्बुद्ध्या धृतिगृहीतया |
 आत्मसंस्थं मन: कृत्वा न किञ्चिदपि चिन्तयेत् || 25||
 

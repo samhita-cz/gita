@@ -21,10 +21,10 @@ karma kāraṇamucyate |
 yogārūḍhasya tasyaiva 
 śamaḥ kāraṇamucyate ||
 
-ārurukṣoḥ – for one who wishes to ascend; muneḥ – of the sage; yogam – Yoga; 
-karma – action; kāraṇam – the means/cause; ucyate – is said to be; 
-yoga-ārūḍhasya – of one who has ascended to Yoga; tasya – of him; eva – only; 
-śamaḥ – serenity/quiescence; kāraṇam – the means; ucyate – is said to be.
+◈  ārurukṣoḥ – for one who wishes to ascend; muneḥ – of the sage; yogam – Yoga; 
+◈  karma – action; kāraṇam – the means/cause; ucyate – is said to be; 
+◈  yoga-ārūḍhasya – of one who has ascended to Yoga; tasya – of him; eva – only; 
+◈  śamaḥ – serenity/quiescence; kāraṇam – the means; ucyate – is said to be.
 {eov}
 
 {sot}

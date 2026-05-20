@@ -9,7 +9,7 @@ https://youtu.be/x7iug41bo9w?si=IYu0gfplB42gvETo
 
 https://open.spotify.com/episode/14MDDZCsWMED3xRZp1EPcX?si=92c51903e6fa4588
 
-{sov: Verse 6.22-23}
+{sov: Verse 6.22}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-20-23.mp3
 
 यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: |
@@ -18,26 +18,26 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 yaṃ labdhvā cāparaṃ lābhaṃ 
 manyate nādhikaṃ tataḥ | 
 yasminsthito na duḥkhena 
-guruṇāpi vicālyate || 22 || 
+guruṇāpi vicālyate ||
 
-yam – which; labdhvā – having obtained; ca – and; aparam – other; lābham – gain; 
-manyate – considers; na adhikam – not greater; tataḥ – than that; 
-yasmin – in which; sthito – established; na – not; duḥkhena – by sorrow; 
-guruṇā api – even by heavy/great; vicālyate – is moved; 
+◈  yam – which; labdhvā – having obtained; ca – and; aparam – other; lābham – gain; 
+◈  manyate – considers; na adhikam – not greater; tataḥ – than that; 
+◈  yasmin – in which; sthito – established; na – not; duḥkhena – by sorrow; 
+◈  guruṇā api – even by heavy/great; vicālyate – is moved; 
 {eov}
 
 {sot}
 Having attained that (state of yoga), one does not consider any other gain to be greater than it. Being established in that (state), one is not disturbed even by the greatest sorrow.
 {eot}
 
-{sov}
+{sov: Verse 6.23}
 तं विद्याद् दु:खसंयोगवियोगं योगसञ्ज्ञितम् |
 स निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा || 23||
 
 taṃ vidyādduḥkhasaṃyoga
 viyogaṃ yogasaṃjñitam | 
 sa niścayena yoktavyo 
-yogo’nirviṇṇacetasā || 23 ||
+yogo’nirviṇṇacetasā ||
 
 ◈  tam – that; vidyāt – know; duḥkha-saṃyoga-viyogam – the severance of union with sorrow; 
 ◈  yoga-saṃjñitam – known by the name of Yoga; 

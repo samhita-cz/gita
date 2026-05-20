@@ -159,14 +159,31 @@ def parse_pro_file(content):
         iast = sanskrit_blocks[1] if len(sanskrit_blocks) > 1 else ""
         glossary = sanskrit_blocks[2] if len(sanskrit_blocks) > 2 else ""
         
-        formatted_glossary = re.sub(r'(^|(?<=;\s))([^—;]+?)(?=\s*[—]|(?:\s+-\s*))', r'<b>\2</b>', glossary)
+        glossary_lines = [line.strip() for line in glossary.splitlines() if line.strip()]
+        formatted_lines = []
+        for line in glossary_lines:
+            has_bullet = line.startswith('◈')
+            line_content = line[1:].strip() if has_bullet else line
+
+            # Bold IAST terms before meaning separators.
+            # Accept em/en dash directly (tatra—there) or hyphen with spaces (tatra - there),
+            # but do not split internal hyphens in terms (mat-saṃsthām).
+            line_content = re.sub(
+                r'(^|;\s*)([^;\n]+?)(?=(?:\s*[—–]|\s+-\s+))',
+                lambda m: f"{m.group(1)}<b>{m.group(2).strip()}</b>",
+                line_content,
+            )
+
+            formatted_lines.append(("◈ " if has_bullet else "") + line_content)
+
+        formatted_glossary = "<br>".join(formatted_lines)
         
         translation_match = re.search(r'{sot}(.*)', body, re.DOTALL)
         translation = translation_match.group(1).strip() if translation_match else ""
 
         devanagari_html = devanagari.replace('|', '।').replace('\n', '<br>')
         iast_html = iast.replace('\n', '<br>')
-        glossary_html = formatted_glossary.replace('\n', ' ')
+        glossary_html = formatted_glossary
 
         verse_classes = "verse-block first-verse" if idx == 0 else "verse-block"
 

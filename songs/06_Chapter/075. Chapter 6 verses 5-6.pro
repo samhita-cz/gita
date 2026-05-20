@@ -21,10 +21,10 @@ nātmānamavasādayet |
 ātmaiva hyātmano bandhur
 ātmaiva ripurātmanas ||
 
-uddharet – one should lift/elevate; ātmanā – by the self; ātmānam – the self; 
-na – not; ātmānam – the self; avasādayet – should let sink/degrade; 
-ātmā eva – the self alone; hi – indeed; ātmanaḥ – of the self; bandhuḥ – friend; 
-ātmā eva – the self alone; ripuḥ – enemy; ātmanaḥ – of the self.
+◈  uddharet – one should lift/elevate; ātmanā – by the self; ātmānam – the self; 
+◈  na – not; ātmānam – the self; avasādayet – should let sink/degrade; 
+◈  ātmā eva – the self alone; hi – indeed; ātmanaḥ – of the self; bandhuḥ – friend; 
+◈  ātmā eva – the self alone; ripuḥ – enemy; ātmanaḥ – of the self.
 
 
 {eov}

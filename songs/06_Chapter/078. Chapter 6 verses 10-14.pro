@@ -21,75 +21,87 @@ yogī yuñjīta satatam
 ekākī yatacittātmā 
 nirāśīraparigrahaḥ ||
 
-yogī – the Yogi; yuñjīta – should engage/practice; satatam – constantly; 
-ātmānam – the self; rahasi – in secret/solitude; sthitaḥ – remaining; 
-ekākī – alone; yata-citta-ātmā – with mind and self controlled; 
-nirāśīḥ – free from hope; aparigrahaḥ – free from possessions.
+◈  yogī – the Yogi; yuñjīta – should engage/practice; satatam – constantly; 
+◈  ātmānam – the self; rahasi – in secret/solitude; sthitaḥ – remaining; 
+◈  ekākī – alone; yata-citta-ātmā – with mind and self controlled; 
+◈  nirāśīḥ – free from hope; aparigrahaḥ – free from possessions.
 {eov}
 
 {sot}
 Alone, stationed in a solitary place, self-controlled, free from desire, and not receiving anything from others, the yogi (Practising Dhyanayoga) should unite the mind with Atma.
 {eot}
 
-{sov: Verse 6.11-12}
+{sov: Verse 6.11}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-11-12.mp3
 
 शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: |
 नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् || 11||
-तत्रैकाग्रं मन: कृत्वा यतचित्तेन्द्रियक्रिय: |
-उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये || 12||
 
 śucau deśe pratiṣṭhāpya 
 sthiramāsanamātmanaḥ | 
 nātyucchritaṃ nātinīcaṃ 
-cailājinakuśottaram || 11 ||
+cailājinakuśottaram
 
-tatraikāgraṃ manaḥ kṛtvā 
-yatacittendriyakriyaḥ | 
-upaviśyāsane yuñjyād
-yogāmātmaviśuddhaye || 12 ||
-
-śucau deśe – in a clean spot; pratiṣṭhāpya – having established; 
-sthiram – firm; āsanam – seat; ātmanaḥ – his own; 
-na ati ucchritam – not too high; na ati nīcam – not too low; 
-caila-ajina-kuśa-uttaram – covered with a cloth, an antelope skin, and kusha grass (one over the other); 
-
-tatra – there; ekāgram – one-pointed; manaḥ – mind; kṛtvā – making; 
-yata-citta-indriya-kriyaḥ – controlling the thoughts and activities of the senses; 
-upaviśya – sitting; āsane – on the seat; yuñjyāt – should practice; 
-yogam – Yoga; ātma-viśuddhaye – for the purification of the self.
+◈  śucau deśe – in a clean spot; pratiṣṭhāpya – having established; 
+◈  sthiram – firm; āsanam – seat; ātmanaḥ – his own; 
+◈  na ati ucchritam – not too high; na ati nīcam – not too low; 
+◈  caila-ajina-kuśa-uttaram – covered with a cloth, an antelope skin, and kusha grass (one over the other); 
 {eov}
 
 {sot}
 In a clean spot, a firm seat should be made, neither too high nor too low, and it should be covered by cloth, skin, and holy grass one over the other.
+{eot}
 
+{sov: Verse 6.12}
+तत्रैकाग्रं मन: कृत्वा यतचित्तेन्द्रियक्रिय: |
+उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये || 12||
+
+tatraikāgraṃ manaḥ kṛtvā 
+yatacittendriyakriyaḥ | 
+upaviśyāsane yuñjyād
+yogāmātmaviśuddhaye
+
+◈  tatra – there; ekāgram – one-pointed; manaḥ – mind; kṛtvā – making; 
+◈  yata-citta-indriya-kriyaḥ – controlling the thoughts and activities of the senses; 
+◈  upaviśya – sitting; āsane – on the seat; yuñjyāt – should practice; 
+◈  yogam – Yoga; ātma-viśuddhaye – for the purification of the self.
+{eov}
+
+{sot}
 There, being seated, having made the mind one-pointed, controlling the actions of the mind and the senses, let him practice Dhyana Yoga for self-purification.
 {eot}
 
-{sov: Verse 6.13-14}
+{sov: Verse 6.13}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-13-14.mp3
 
 समं कायशिरोग्रीवं धारयन्नचलं स्थिर: |
 सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् || 13||
-प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थित: |
-मन: संयम्य मच्चित्तो युक्त आसीत मत्पर: || 14||
 
 samaṃ kāyaśirogrīvaṃ 
 dhārayannacalaṃ sthiraḥ | 
 samprekṣya nāsikāgraṃ svaṃ 
-diśaścānavalokayan || 13 ||
-
-praśāntātmā vigatabhīr
-brahmacārivrate sthitaḥ | 
-manaḥ saṃyamya maccitto 
-yukta āsīta matparaḥ || 14 ||
+diśaścānavalokayan 
 
 ◈  samam – straight; kāya-śiraḥ-grīvam – body, head, and neck; 
 ◈  dhārayan – holding; acalam – still; sthiraḥ – steady; 
 ◈  samprekṣya – gazing at; nāsikā-agram – the tip of the nose; svam – one's own; 
-◈  diśaḥ – directions; ca – and; anavalokayan – not looking; 
+◈  diśaḥ – directions; ca – and; anavalokayan – not looking;
+{eov}
+
+{sot}
+Holding his body, head, and neck straight and motionless, remaining firm, he should gaze at the tip of his own nose, without looking in other directions. 
+{eot}
+
+{sov: Verse 6.14}
+प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थित: |
+मन: संयम्य मच्चित्तो युक्त आसीत मत्पर: || 14||
+
+praśāntātmā vigatabhīr
+brahmacārivrate sthitaḥ | 
+manaḥ saṃyamya maccitto 
+yukta āsīta matparaḥ
 
 ◈  praśānta-ātmā – serene-minded; vigata-bhīḥ – fearless; 
 ◈  brahmacāri-vrate – in the vow of celibacy; sthitaḥ – firm; 
@@ -98,7 +110,7 @@ yukta āsīta matparaḥ || 14 ||
 {eov}
 
 {sot}
-Let him firmly hold the body, head and neck erect, and gazing on the tip of his nose, without looking around, let him sit, serene and fearless, established in the vow of celibacy, self-controlled and balanced, thinking of Me as the Supreme goal.
+With a perfectly tranquil mind (ātman), free from fear, and established in the vow of celibacy (brahmacarya), one should sit, having controlled their mind, with their thoughts fixed on Me and having Me as the supreme goal, practicing yoga (yoga). 
 {eot}
 
 {start_of_analysis}
