@@ -21,10 +21,10 @@ duṣprāpa iti me matiḥ |
 vaśyātmanā tu yatatā 
 śakyo’vāptumupāyataḥ ||
 
-asaṃyata-ātmanā – by one of uncontrolled self; yogaḥ – Yoga; 
-duṣprāpaḥ – hard to attain; iti – thus; me matiḥ – my opinion; 
-vaśya-ātmanā – by the self-controlled; tu – but; yatatā – by the striving; 
-śakyaḥ – possible; avāptum – to attain; upāyataḥ – through (proper) means.
+◈  asaṃyata-ātmanā – by one of uncontrolled self; yogaḥ – Yoga; 
+◈  duṣprāpaḥ – hard to attain; iti – thus; me matiḥ – my opinion; 
+◈  vaśya-ātmanā – by the self-controlled; tu – but; yatatā – by the striving; 
+◈  śakyaḥ – possible; avāptum – to attain; upāyataḥ – through (proper) means.
 {eov}
 
 {sot}
@@ -45,11 +45,11 @@ yogāccalitamānasaḥ |
 aprāpya yogasaṃsiddhiṃ 
 kāṃ gatiṃ kṛṣṇa gacchati || 
 
-arjunaḥ uvāca – Arjuna said; 
-ayatiḥ – the unsuccessful; śraddhayā-upetaḥ – endowed with faith; 
-yogāt – from Yoga; calita-mānasaḥ – whose mind has wandered; 
-aprāpya – not having reached; yoga-saṃsiddhim – perfection in Yoga; 
-kām gatim – what end; kṛṣṇa – O Krishna; gacchati – goes to; 
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  ayatiḥ – the unsuccessful; śraddhayā-upetaḥ – endowed with faith; 
+◈  yogāt – from Yoga; calita-mānasaḥ – whose mind has wandered; 
+◈  aprāpya – not having reached; yoga-saṃsiddhim – perfection in Yoga; 
+◈  kām gatim – what end; kṛṣṇa – O Krishna; gacchati – goes to; 
 {eov}
 
 {sot}
@@ -68,10 +68,10 @@ chinnābhramiva naśyati |
 apratiṣṭho mahābāho 
 vimūḍho brahmaṇaḥ pathi ||
 
-kaccit na – does he not; ubhaya-vibhraṣṭaḥ – fallen from both; 
-chinna-abhram iva – like a rent cloud; naśyati – perish; 
-apratiṣṭhaḥ – supportless; mahābāho – O mighty-armed; 
-vimūḍhaḥ – deluded; brahmaṇaḥ pathi – on the path of Brahman; 
+◈  kaccit na – does he not; ubhaya-vibhraṣṭaḥ – fallen from both; 
+◈  chinna-abhram iva – like a rent cloud; naśyati – perish; 
+◈  apratiṣṭhaḥ – supportless; mahābāho – O mighty-armed; 
+◈  vimūḍhaḥ – deluded; brahmaṇaḥ pathi – on the path of Brahman; 
 {eov}
 
 {sot}
@@ -90,10 +90,10 @@ chettumarhasyaśeṣataḥ |
 tvadanyaḥ saṃśayasyāsya 
 chettā na hyupapadyate ||
 
-etat – this; me – my; saṃśayam – doubt; kṛṣṇa – O Krishna; 
-chettum arhasi – You should remove; aśeṣataḥ – completely; 
-tvad-anyaḥ – other than You; 
-chettā – remover; na hi – not indeed; upapadyate – can be found.
+◈  etat – this; me – my; saṃśayam – doubt; kṛṣṇa – O Krishna; 
+◈  chettum arhasi – You should remove; aśeṣataḥ – completely; 
+◈  tvad-anyaḥ – other than You; 
+◈  chettā – remover; na hi – not indeed; upapadyate – can be found.
 {eov}
 
 {sot}
@@ -114,11 +114,11 @@ vināśastasya vidyate |
 na hi kalyāṇakṛtkaścid
 durgatiṃ tāta gacchati || 
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-pārtha – O Partha; na eva iha – neither here; na amutra – nor hereafter; 
-vināśaḥ – destruction; tasya – for him; vidyate – is; 
-na hi – not indeed; kalyāṇa-kṛt – one who does good; kaścit – any; 
-durgatim – an evil end; tāta – O dear one; gacchati – goes to.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  pārtha – O Partha; na eva iha – neither here; na amutra – nor hereafter; 
+◈  vināśaḥ – destruction; tasya – for him; vidyate – is; 
+◈  na hi – not indeed; kalyāṇa-kṛt – one who does good; kaścit – any; 
+◈  durgatim – an evil end; tāta – O dear one; gacchati – goes to.
 
 {eov}
 
@@ -138,10 +138,10 @@ uṣitvā śāśvatīḥ samāḥ |
 śucīnām śrīmatām gehe 
 yoga-bhraṣṭaḥ abhijāyate || 
 
-prāpya—attain; puṇya-kṛtām—of the virtuous; lokān—abodes; 
-uṣitvā—after dwelling; śhāśvatīḥ—many; samāḥ—ages; 
-śucīnām—of the pious; śrī-matām—of the prosperous; gehe—in the house; 
-yoga-bhraṣṭaḥ—the unsuccessful yogis; abhijāyate—take birth;
+◈  prāpya—attain; puṇya-kṛtām—of the virtuous; lokān—abodes; 
+◈  uṣitvā—after dwelling; śhāśvatīḥ—many; samāḥ—ages; 
+◈  śucīnām—of the pious; śrī-matām—of the prosperous; gehe—in the house; 
+◈  yoga-bhraṣṭaḥ—the unsuccessful yogis; abhijāyate—take birth;
 {eov}
 
 {sot}
@@ -160,10 +160,10 @@ kule bhavati dhīmatām |
 etad dhi durlabhataraṁ 
 loke janma yad īdṛiśham ||
 
-atha vā—else; yoginām—of those endowed with divine wisdom; eva—certainly; 
-kule—in the family; bhavati—take birth; dhī-matām—of the wise; 
-etat—this; hi—certainly; durlabha-taram—very rare; 
-loke—in this world; janma—birth; yat—which; īdṛśham—like this
+◈  atha vā—else; yoginām—of those endowed with divine wisdom; eva—certainly; 
+◈  kule—in the family; bhavati—take birth; dhī-matām—of the wise; 
+◈  etad—this; hi—certainly; durlabha-taram—very rare; 
+◈  loke—in this world; janma—birth; yat—which; īdṛśham—like this
 {eov}
 
 {sot}

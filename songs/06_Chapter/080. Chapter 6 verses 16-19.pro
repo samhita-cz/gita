@@ -86,10 +86,10 @@ neṅgate sopamā smṛtā |
 yogino yatacittasya 
 yuñjato yogamātmanaḥ ||
 
-yathā – as; dīpaḥ – a lamp; nivātasthaḥ – placed in a windless spot; 
-na iṅgate – does not flicker; sā – that; upamā – simile; smṛtā – is thought (of); 
-yoginaḥ – of the Yogi; yata-cittasya – of the controlled mind; 
-yuñjataḥ – practicing; yogam – Yoga; ātmanaḥ – of the self.
+◈  yathā – as; dīpaḥ – a lamp; nivātasthaḥ – placed in a windless spot; 
+◈  na iṅgate – does not flicker; sā – that; upamā – simile; smṛtā – is thought (of); 
+◈  yoginaḥ – of the Yogi; yata-cittasya – of the controlled mind; 
+◈  yuñjataḥ – practicing; yogam – Yoga; ātmanaḥ – of the self.
 {eov}
 
 {sot}

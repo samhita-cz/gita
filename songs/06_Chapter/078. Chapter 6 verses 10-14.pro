@@ -86,15 +86,15 @@ brahmacārivrate sthitaḥ |
 manaḥ saṃyamya maccitto 
 yukta āsīta matparaḥ || 14 ||
 
-samam – straight; kāya-śiraḥ-grīvam – body, head, and neck; 
-dhārayan – holding; acalam – still; sthiraḥ – steady; 
-samprekṣya – gazing at; nāsikā-agram – the tip of the nose; svam – one's own; 
-diśaḥ – directions; ca – and; anavalokayan – not looking; 
+◈  samam – straight; kāya-śiraḥ-grīvam – body, head, and neck; 
+◈  dhārayan – holding; acalam – still; sthiraḥ – steady; 
+◈  samprekṣya – gazing at; nāsikā-agram – the tip of the nose; svam – one's own; 
+◈  diśaḥ – directions; ca – and; anavalokayan – not looking; 
 
-praśānta-ātmā – serene-minded; vigata-bhīḥ – fearless; 
-brahmacāri-vrate – in the vow of celibacy; sthitaḥ – firm; 
-manaḥ – mind; saṃyamya – subduing; mat-cittaḥ – with mind fixed on Me; 
-yuktaḥ – disciplined; āsīta – should sit; mat-paraḥ – looking on Me as the Supreme Goal.
+◈  praśānta-ātmā – serene-minded; vigata-bhīḥ – fearless; 
+◈  brahmacāri-vrate – in the vow of celibacy; sthitaḥ – firm; 
+◈  manaḥ – mind; saṃyamya – subduing; mat-cittaḥ – with mind fixed on Me; 
+◈  yuktaḥ – disciplined; āsīta – should sit; mat-paraḥ – looking on Me as the Supreme Goal.
 {eov}
 
 {sot}

@@ -21,10 +21,10 @@ tyaktvā sarvānaśeṣataḥ |
 manasaivendriyagrāmaṃ 
 viniyamya samantataḥ ||
 
-saṅkalpa-prabhavān – born of imagination/willful thought; kāmān – desires; 
-tyaktvā – having abandoned; sarvān – all; aśeṣataḥ – completely; 
-manasā – by the mind; eva – alone; indriya-grāmam – the whole group of senses; 
-viniyamya – restraining; samantataḥ – from all sides.
+◈  saṅkalpa-prabhavān – born of imagination/willful thought; kāmān – desires; 
+◈  tyaktvā – having abandoned; sarvān – all; aśeṣataḥ – completely; 
+◈  manasā – by the mind; eva – alone; indriya-grāmam – the whole group of senses; 
+◈  viniyamya – restraining; samantataḥ – from all sides.
 {eov}
 
 {sot}
@@ -40,10 +40,10 @@ buddhyā dhṛtigṛhītayā |
 ātmasaṃsthaṃ manaḥ 
 kṛtvā na kiñcidapi cintayet ||
 
-śanaiḥ śanaiḥ – gradually, step by step; uparamet – should attain quietude/rest; 
-buddhyā – by the intellect; dhṛti-gṛhītayā – held with firmness/patience; 
-ātma-saṃstham – fixed in the Self; manaḥ – the mind; 
-kṛtvā – having made; na – not; kiñcit api – anything at all; cintayet – should think.
+◈  śanaiḥ śanaiḥ – gradually, step by step; uparamet – should attain quietude/rest; 
+◈  buddhyā – by the intellect; dhṛti-gṛhītayā – held with firmness/patience; 
+◈  ātma-saṃstham – fixed in the Self; manaḥ – the mind; 
+◈  kṛtvā – having made; na – not; kiñcit api – anything at all; cintayet – should think.
 {eov}
 
 {sot}

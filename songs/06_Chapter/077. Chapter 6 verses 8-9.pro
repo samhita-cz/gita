@@ -21,10 +21,10 @@ kūṭastho vijitendriyaḥ |
 yukta ityucyate yogī 
 samaloṣṭāśmakāñcanaḥ ||
 
-jñāna-vijñāna-tṛpta-ātmā – whose self is satisfied with knowledge and realization; 
-kūṭasthaḥ – unchangeable/immovable; vijita-indriyaḥ – who has subdued the senses; 
-yuktaḥ – disciplined/harmonized; iti – thus; ucyate – is called; yogī – a Yogi; 
-sama-loṣṭa-āśma-kāñcanaḥ – to whom a clod of earth, a stone, and gold are the same.
+◈  jñāna-vijñāna-tṛpta-ātmā – whose self is satisfied with knowledge and realization; 
+◈  kūṭasthaḥ – unchangeable/immovable; vijita-indriyaḥ – who has subdued the senses; 
+◈  yuktaḥ – disciplined/harmonized; iti – thus; ucyate – is called; yogī – a Yogi; 
+◈  sama-loṣṭa-āśma-kāñcanaḥ – to whom a clod of earth, a stone, and gold are the same.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ madhyasthadveṣyabandhuṣu |
 sādhuṣvapi ca pāpeṣu 
 samabuddhirviśiṣyate ||
 
-suhṛt – well-wisher; mitra – friend; ari – enemy; udāsīna – the indifferent; 
-madhyastha – the neutral; dveṣya – the hateful; bandhuṣu – and relatives; 
-sādhuṣu – in the righteous; api – also; ca – and; pāpeṣu – in the sinful; 
-sama-buddhiḥ – equal-minded; viśiṣyate – is pre-eminent/excels.
+◈  suhṛt – well-wisher; mitra – friend; ari – enemy; udāsīna – the indifferent; 
+◈  madhyastha – the neutral; dveṣya – the hateful; bandhuṣu – and relatives; 
+◈  sādhuṣu – in the righteous; api – also; ca – and; pāpeṣu – in the sinful; 
+◈  sama-buddhiḥ – equal-minded; viśiṣyate – is pre-eminent/excels.
 {eov}
 
 {sot}

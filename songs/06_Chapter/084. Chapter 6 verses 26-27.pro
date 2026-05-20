@@ -21,10 +21,10 @@ manaścañcalamasthiram |
 tatastato niyamyaitad
 ātmanyeva vaśaṃ nayet ||
 
-yataḥ yataḥ – from whatever cause; niścarati – wanders; 
-manaḥ – the mind; cañcalam – restless; asthiram – unsteady; 
-tataḥ tataḥ – from that; niyamya – restraining; etat – this; 
-ātmani – in the Self; eva – alone; vaśam – control; nayet – let him bring.
+◈  yataḥ yataḥ – from whatever cause; niścarati – wanders; 
+◈  manaḥ – the mind; cañcalam – restless; asthiram – unsteady; 
+◈  tataḥ tataḥ – from that; niyamya – restraining; etat – this; 
+◈  ātmani – in the Self; eva – alone; vaśam – control; nayet – let him bring.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ yoginaṃ sukhamuttamam |
 upaiti śāntarajasaṃ 
 brahmabhūtamakalmaṣam ||
 
-praśānta-manasam – whose mind is perfectly serene; hi – indeed; enam – this; 
-yoginam – Yogi; sukham – happiness; uttamam – supreme; 
-upaiti – comes to; śānta-rajasam – whose passion (Rajas) is quieted; 
-brahma-bhūtam – who has become Brahman; akalmaṣam – freed from sin.
+◈  praśānta-manasam – whose mind is perfectly serene; hi – indeed; enam – this; 
+◈  yoginam – Yogi; sukham – happiness; uttamam – supreme; 
+◈  upaiti – comes to; śānta-rajasam – whose passion (Rajas) is quieted; 
+◈  brahma-bhūtam – who has become Brahman; akalmaṣam – freed from sin.
 {eov}
 
 {sot}

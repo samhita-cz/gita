@@ -21,10 +21,10 @@ yogī vigatakalmaṣaḥ |
 sukhena brahmasaṃsparśam
 atyantaṃ sukhamaśnute ||
 
-yuñjan – practicing; evam – thus; sadā – constantly; ātmānam – the self; 
-yogī – the Yogi; vigata-kalmaṣaḥ – freed from sin; 
-sukhena – easily; brahma-saṃsparśam – contact with Brahman; 
-atyantam – infinite; sukham – bliss; aśnute – enjoys.
+◈  yuñjan – practicing; evam – thus; sadā – constantly; ātmānam – the self; 
+◈  yogī – the Yogi; vigata-kalmaṣaḥ – freed from sin; 
+◈  sukhena – easily; brahma-saṃsparśam – contact with Brahman; 
+◈  atyantam – infinite; sukham – bliss; aśnute – enjoys.
 
 {eov}
 
@@ -44,10 +44,10 @@ sarvabhūtāni cātmani |
 īkṣate yogayuktātmā 
 sarvatra samadarśanaḥ ||
 
-sarva-bhūta-stham – abiding in all beings; ātmānam – the Self;
-sarva-bhūtāni – all beings; ca – and; ātmani – in the Self; 
-īkṣate – sees; yoga-yukta-ātmā – one whose self is united through Yoga; 
-sarvatra – everywhere; sama-darśanaḥ – seeing with an equal eye.
+◈  sarva-bhūta-stham – abiding in all beings; ātmānam – the Self;
+◈  sarva-bhūtāni – all beings; ca – and; ātmani – in the Self; 
+◈  īkṣate – sees; yoga-yukta-ātmā – one whose self is united through Yoga; 
+◈  sarvatra – everywhere; sama-darśanaḥ – seeing with an equal eye.
 
 {eov}
 

@@ -21,10 +21,10 @@ paramātmā samāhitaḥ |
 śītoṣṇasukhaduḥkheṣu 
 tathā mānāpamānayoḥ ||
 
-jita-ātmanaḥ – of the self-conquered; praśāntasya – of the serene; 
-parama-ātmā – the Supreme Self; samāhitaḥ – is steadily established; 
-śīta-uṣṇa – in cold and heat; sukha-duḥkheṣu – in pleasure and pain; 
-tathā – as also; māna-apamānayoḥ – in honor and dishonor.
+◈  jita-ātmanaḥ – of the self-conquered; praśāntasya – of the serene; 
+◈  parama-ātmā – the Supreme Self; samāhitaḥ – is steadily established; 
+◈  śīta-uṣṇa – in cold and heat; sukha-duḥkheṣu – in pleasure and pain; 
+◈  tathā – as also; māna-apamānayoḥ – in honor and dishonor.
 
 {eov}
 

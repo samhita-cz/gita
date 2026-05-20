@@ -21,10 +21,10 @@ yogaṃ taṃ viddhi pāṇḍava |
 na hyasaṃnyastasaṅkalpo 
 yogī bhavati kaścana ||
 
-yam – which; sannyāsam – renunciation; iti – thus; prāhuḥ – they call; 
-yogam – Yoga; tam – that; viddhi – know; pāṇḍava – O Pandava; 
-na – not; hi – indeed; asannyasta-saṅkalpaḥ – one who has not renounced worldly thoughts/desires; 
-yogī – a Yogi; bhavati – becomes; kaścana – anyone.
+◈  yam – which; sannyāsam – renunciation; iti – thus; prāhuḥ – they call; 
+◈  yogam – Yoga; tam – that; viddhi – know; pāṇḍava – O Pandava; 
+◈  na – not; hi – indeed; asannyasta-saṅkalpaḥ – one who has not renounced worldly thoughts/desires; 
+◈  yogī – a Yogi; bhavati – becomes; kaścana – anyone.
 
 {eov}
 

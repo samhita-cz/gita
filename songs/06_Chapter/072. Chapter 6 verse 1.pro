@@ -22,10 +22,10 @@ anāśritaḥ karmaphalaṃ
 kāryaṃ karma karoti yaḥ | 
 sa sannyāsī ca yogī ca na niragnirna cākriyaḥ ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-anāśritaḥ – not depending on; karma-phalam – the fruit of action; 
-kāryam – that which ought to be done (duty); karma – action; karoti – performs; yaḥ – who; 
-saḥ – he; sannyāsī – a renunciant; ca – and; yogī – a Yogi; ca – and; na – not; niragniḥ – one without fire (rituals); na – nor; ca – and; akriyaḥ – one without action.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  anāśritaḥ – not depending on; karma-phalam – the fruit of action; 
+◈  kāryam – that which ought to be done (duty); karma – action; karoti – performs; yaḥ – who; 
+◈  saḥ – he; sannyāsī – a renunciant; ca – and; yogī – a Yogi; ca – and; na – not; niragniḥ – one without fire (rituals); na – nor; ca – and; akriyaḥ – one without action.
 {eov}
 
 {sot}

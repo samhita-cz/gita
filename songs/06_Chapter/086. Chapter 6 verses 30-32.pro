@@ -21,10 +21,10 @@ sarvaṃ ca mayi paśyati |
 tasyāhaṃ na praṇaśyāmi 
 sa ca me na praṇaśyati ||
 
-yaḥ – who; mām – Me; paśyati – sees; sarvatra – everywhere; 
-sarvam – everything; ca – and; mayi – in Me; paśyati – sees; 
-tasya – for him; aham – I; na praṇaśyāmi – am not lost; 
-saḥ – he; ca – and; me – to Me; na praṇaśyati – is not lost.
+◈  yaḥ – who; mām – Me; paśyati – sees; sarvatra – everywhere; 
+◈  sarvam – everything; ca – and; mayi – in Me; paśyati – sees; 
+◈  tasya – for him; aham – I; na praṇaśyāmi – am not lost; 
+◈  saḥ – he; ca – and; me – to Me; na praṇaśyati – is not lost.
 
 {eov}
 
@@ -44,10 +44,10 @@ bhajatyekatvamāsthitaḥ |
 sarvathā vartamāno’pi 
 sa yogī mayi vartate ||
 
-sarva-bhūta-sthitam – dwelling in all beings; yaḥ – who; mām – Me; 
-bhajati – worships; ekatvam – unity; āsthitaḥ – established in; 
-sarvathā – in every way; vartamānaḥ – acting/living; api – even; 
-saḥ – that; yogī – Yogi; mayi – in Me; vartate – abides.
+◈  sarva-bhūta-sthitam – dwelling in all beings; yaḥ – who; mām – Me; 
+◈  bhajati – worships; ekatvam – unity; āsthitaḥ – established in; 
+◈  sarvathā – in every way; vartamānaḥ – acting/living; api – even; 
+◈  saḥ – that; yogī – Yogi; mayi – in Me; vartate – abides.
 
 {eov}
 

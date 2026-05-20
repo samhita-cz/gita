@@ -21,10 +21,10 @@ labhate paurva-dehikam |
 yatate ca tato bhūyaḥ 
 sansiddhau kuru-nandana ||
 
-tatra—there; tam—that; buddhi-sanyogam—reawaken their wisdom; 
-labhate—obtains; paurva-dehikam—from the previous lives; 
-yatate—strives; ca—and; tataḥ—thereafter; bhūyaḥ—again; 
-sansiddhau—for perfection; kuru-nandana—Arjun, descendant of the Kurus
+◈  tatra—there; tam—that; buddhi-sanyogam—reawaken their wisdom; 
+◈  labhate—obtains; paurva-dehikam—from the previous lives; 
+◈  yatate—strives; ca—and; tataḥ—thereafter; bhūyaḥ—again; 
+◈  sansiddhau—for perfection; kuru-nandana—Arjun, descendant of the Kurus
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ hriyate hyavaśho ’pi saḥ |
 jijñāsur api yogasya 
 śhabda-brahmātivartate ||
 
-pūrva—past; abhyāsena—discipline; tena—by that; eva—certainly; 
-hriyate—is attracted; hi—surely; avaśhaḥ—helplessly; api—although; saḥ—that person; 
-jijñāsuḥ—inquisitive; api—even; yogasya—about yog; 
-śhabda-brahma—fruitive portion of the Vedas; ativartate—transcends
+◈  pūrva—past; abhyāsena—discipline; tena—by that; eva—certainly; 
+◈  hriyate—is attracted; hi—surely; avaśhaḥ—helplessly; api—although; saḥ—that person; 
+◈  jijñāsuḥ—inquisitive; api—even; yogasya—about yog; 
+◈  śhabda-brahma—fruitive portion of the Vedas; ativartate—transcends
 {eov}
 
 {sot}
@@ -65,10 +65,10 @@ yogī sanśhuddha-kilbiṣhaḥ |
 aneka-janma-sansiddhas 
 tato yāti parāṁ gatim ||
 
-prayatnāt—with great effort; yatamānaḥ—endeavoring; tu—and; 
-yogī—a yogi; sanśhuddha—purified; kilbiṣhaḥ—from material desires; 
-aneka—after many, many; janma—births; sansiddhaḥ—attain perfection; 
-tataḥ—then; yāti—attains; parām—the highest; gatim—path
+◈  prayatnāt—with great effort; yatamānaḥ—endeavoring; tu—and; 
+◈  yogī—a yogi; sanśhuddha—purified; kilbiṣhaḥ—from material desires; 
+◈  aneka—after many, many; janma—births; sansiddhaḥ—attain perfection; 
+◈  tataḥ—then; yāti—attains; parām—the highest; gatim—path
 {eov}
 
 {sot}
@@ -89,10 +89,10 @@ jñānibhyo’pi mato’dhikaḥ |
 karmibhyoścādhiko yogī 
 tasmādyogī bhavārjuna || 
 
-tapasvibhyaḥ – than the ascetics; adhikaḥ – superior; yogī – the Yogi; 
-jñānibhyaḥ – than the scholars; api – even; mataḥ – is considered; adhikaḥ – superior; 
-karmibhyaḥ – than the ritualists; ca – and; yogī – the Yogi; 
-tasmāt – therefore; yogī bhava – become a Yogi; arjuna – O Arjuna; 
+◈  tapasvibhyaḥ – than the ascetics; adhikaḥ – superior; yogī – the Yogi; 
+◈  jñānibhyaḥ – than the scholars; api – even; mataḥ – is considered; adhikaḥ – superior; 
+◈  karmibhyaḥ – than the ritualists; ca – and; yogī – the Yogi; 
+◈  tasmāt – therefore; yogī bhava – become a Yogi; arjuna – O Arjuna; 
 
 {eov}
 
@@ -112,10 +112,10 @@ madgatenāntarātmanā |
 śraddhāvānbhajate yo māṃ 
 sa me yuktatamo mataḥ ||
 
-tapasvibhyaḥ – than the ascetics; adhikaḥ – superior; yogī – the Yogi; 
-jñānibhyaḥ – than the scholars; api – even; mataḥ – is considered; adhikaḥ – superior; 
-karmibhyaḥ – than the ritualists; ca – and; yogī – the Yogi; 
-tasmāt – therefore; yogī bhava – become a Yogi; arjuna – O Arjuna;
+◈  tapasvibhyaḥ – than the ascetics; adhikaḥ – superior; yogī – the Yogi; 
+◈  jñānibhyaḥ – than the scholars; api – even; mataḥ – is considered; adhikaḥ – superior; 
+◈  karmibhyaḥ – than the ritualists; ca – and; yogī – the Yogi; 
+◈  tasmāt – therefore; yogī bhava – become a Yogi; arjuna – O Arjuna;
 {eov}
 
 {sot}

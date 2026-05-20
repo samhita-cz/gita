@@ -45,10 +45,10 @@ yenātmaivātmanā jitaḥ |
 anātmanastu śatrutve 
 vartetātmaiva śatruvat ||
 
-bandhuḥ – friend; ātmā – the self; ātmanaḥ – of the self; tasya – of him; 
-yena – by whom; ātmā – the self; eva – alone; ātmanā – by the self; jitaḥ – is conquered; 
-anātmanaḥ – for the unconquered self; tu – but; śatrutve – in the state of an enemy; 
-varteta – would act; ātmā eva – the self alone; śatru-vat – like an enemy.
+◈  bandhuḥ – friend; ātmā – the self; ātmanaḥ – of the self; tasya – of him; 
+◈  yena – by whom; ātmā – the self; eva – alone; ātmanā – by the self; jitaḥ – is conquered; 
+◈  anātmanaḥ – for the unconquered self; tu – but; śatrutve – in the state of an enemy; 
+◈  varteta – would act; ātmā eva – the self alone; śatru-vat – like an enemy.
 {eov}
 
 {sot}

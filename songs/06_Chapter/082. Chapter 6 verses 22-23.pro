@@ -39,10 +39,10 @@ viyogaṃ yogasaṃjñitam |
 sa niścayena yoktavyo 
 yogo’nirviṇṇacetasā || 23 ||
 
-tam – that; vidyāt – know; duḥkha-saṃyoga-viyogam – the severance of union with sorrow; 
-yoga-saṃjñitam – known by the name of Yoga; 
-saḥ – that; niścayena – with determination; yoktavyaḥ – should be practiced;
-yogaḥ – Yoga; anirviṇṇa-cetasā – with an unwearied/undepressed mind.
+◈  tam – that; vidyāt – know; duḥkha-saṃyoga-viyogam – the severance of union with sorrow; 
+◈  yoga-saṃjñitam – known by the name of Yoga; 
+◈  saḥ – that; niścayena – with determination; yoktavyaḥ – should be practiced;
+◈  yogaḥ – Yoga; anirviṇṇa-cetasā – with an unwearied/undepressed mind.
 {eov}
 
 {sot}

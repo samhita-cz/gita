@@ -21,10 +21,10 @@ yogī niyatamānasaḥ |
 śāntiṃ nirvāṇaparamāṃ 
 matsaṃsthāmadhigacchati ||
 
-yuñjan – practicing; evam – thus; sadā – constantly; ātmānam – the self; 
-yogī – the Yogi; niyata-mānasaḥ – with controlled mind; 
-śāntim – peace; nirvāṇa-paramām – that culminates in Nirvana (liberation); 
-mat-saṃsthām – which abides in Me; adhigacchati – attains.
+◈  yuñjan – practicing; evam – thus; sadā – constantly; ātmānam – the self; 
+◈  yogī – the Yogi; niyata-mānasaḥ – with controlled mind; 
+◈  śāntim – peace; nirvāṇa-paramām – that culminates in Nirvana (liberation); 
+◈  mat-saṃsthām – which abides in Me; adhigacchati – attains.
 {eov}
 
 {sot}

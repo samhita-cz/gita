@@ -43,10 +43,10 @@ na karmasvanuṣajjate |
 sarvasaṅkalpasannyāsī 
 yogārūḍhastadocyate ||
 
-yadā – when; hi – indeed; na – not; indriya-artheṣu – in the objects of the senses; 
-na – not; karmasu – in actions; anuṣajjate – is attached; 
-sarva-saṅkalpa-sannyāsī – the renouncer of all worldly thoughts; 
-yoga-ārūḍhaḥ – established in Yoga; tadā – then; ucyate – is said to be.
+◈  yadā – when; hi – indeed; na – not; indriya-artheṣu – in the objects of the senses; 
+◈  na – not; karmasu – in actions; anuṣajjate – is attached; 
+◈  sarva-saṅkalpa-sannyāsī – the renouncer of all worldly thoughts; 
+◈  yoga-ārūḍhaḥ – established in Yoga; tadā – then; ucyate – is said to be.
 
 {eov}
 

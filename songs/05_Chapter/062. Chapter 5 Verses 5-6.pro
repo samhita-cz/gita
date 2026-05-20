@@ -21,10 +21,10 @@ tadyogairapi gamyate |
 ekaṃ sāṅkhyaṃ ca yogaṃ ca 
 yaḥ paśyati sa paśyati ||
 
-yat – what; sāṅkhyaiḥ – by the Sankhyas; prāpyate – is reached; sthānam – place/state; 
-tat – that; yogaiḥ – by the Yogis; api – also; gamyate – is reached; 
-ekam – one; sāṅkhyam – Sankhya; ca – and; yogam – Yoga; ca – and; 
-yaḥ – who; paśyati – sees; saḥ – he; paśyati – (truly) sees.
+◈  yat – what; sāṅkhyaiḥ – by the Sankhyas; prāpyate – is reached; sthānam – place/state; 
+◈  tat – that; yogaiḥ – by the Yogis; api – also; gamyate – is reached; 
+◈  ekam – one; sāṅkhyam – Sankhya; ca – and; yogam – Yoga; ca – and; 
+◈  yaḥ – who; paśyati – sees; saḥ – he; paśyati – (truly) sees.
 
 {eov}
 

@@ -23,11 +23,11 @@ sāmyena madhusūdana |
 etasyāhaṃ na paśyāmi 
 cañcalatvātsthitiṃ sthirām
 
-arjunaḥ uvāca – Arjuna said; 
-yaḥ ayam – this; yogaḥ – Yoga; tvayā – by You; proktaḥ – taught; 
-sāmyena – as equality/equanimity; madhusūdana – O Madhusudana; 
-etasya – of this; aham – I; na paśyāmi – do not see; 
-cañcalatvāt – because of restlessness; sthitim – foundation/steady state; sthirām – lasting; 
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  yaḥ ayam – this; yogaḥ – Yoga; tvayā – by You; proktaḥ – taught; 
+◈  sāmyena – as equality/equanimity; madhusūdana – O Madhusudana; 
+◈  etasya – of this; aham – I; na paśyāmi – do not see; 
+◈  cañcalatvāt – because of restlessness; sthitim – foundation/steady state; sthirām – lasting; 
 {eov}
 
 {sot}
@@ -46,10 +46,10 @@ pramāthi balavaddṛḍham |
 tasyāhaṃ nigrahaṃ manye 
 vāyoriva suduṣkaram  || 
 
-cañcalam – restless; hi – indeed; manaḥ – the mind; kṛṣṇa – O Krishna; 
-pramāthi – turbulent; balavat – strong; dṛḍham – stubborn; 
-tasya – of it; aham – I; nigraham – control; manye – think; 
-vāyoḥ iva – like the wind; su-duṣkaram – very difficult.
+◈  cañcalam – restless; hi – indeed; manaḥ – the mind; kṛṣṇa – O Krishna; 
+◈  pramāthi – turbulent; balavat – strong; dṛḍham – stubborn; 
+◈  tasya – of it; aham – I; nigraham – control; manye – think; 
+◈  vāyoḥ iva – like the wind; su-duṣkaram – very difficult.
 {eov}
 
 {sot}
@@ -69,11 +69,11 @@ mano durnigrahaṃ calam |
 abhyāsena tu kaunteya 
 vairāgyeṇa ca gṛhyate || 
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-asaṃśayam – without doubt; mahābāho – O mighty-armed; 
-manaḥ – the mind; durnigraham – difficult to curb; calam – restless; 
-abhyāsena – by practice; tu – but; kaunteya – O son of Kunti; 
-vairāgyeṇa – by dispassion/detachment; ca – and; gṛhyate – is restrained; 
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  asaṃśayam – without doubt; mahābāho – O mighty-armed; 
+◈  manaḥ – the mind; durnigraham – difficult to curb; calam – restless; 
+◈  abhyāsena – by practice; tu – but; kaunteya – O son of Kunti; 
+◈  vairāgyeṇa – by dispassion/detachment; ca – and; gṛhyate – is restrained; 
 
 {eov}
 
