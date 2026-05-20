@@ -164,14 +164,18 @@ def parse_pro_file(content):
         translation_match = re.search(r'{sot}(.*)', body, re.DOTALL)
         translation = translation_match.group(1).strip() if translation_match else ""
 
+        devanagari_html = devanagari.replace('|', '।').replace('\n', '<br>')
+        iast_html = iast.replace('\n', '<br>')
+        glossary_html = formatted_glossary.replace('\n', ' ')
+
         verse_classes = "verse-block first-verse" if idx == 0 else "verse-block"
 
         html_verses += f"""
         <div class="{verse_classes}">
             <div class="verse-number">{v_num}</div>
-            <div class="devanagari">{devanagari.replace('|', '।').replace('\n', '<br>')}</div>
-            <div class="iast">{iast.replace('\n', '<br>')}</div>
-            <div class="glossary">{formatted_glossary.replace('\n', ' ')}</div>
+            <div class="devanagari">{devanagari_html}</div>
+            <div class="iast">{iast_html}</div>
+            <div class="glossary">{glossary_html}</div>
             <div class="translation">{translation}</div>
         </div>
         """
