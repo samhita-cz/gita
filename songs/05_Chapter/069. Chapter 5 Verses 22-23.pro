@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 ये हि संस्पर्शजा भोगा दु:खयोनय एव ते |
 आद्यन्तवन्त: कौन्तेय न तेषु रमते बुध: || 22||
 
-ye hi sansparśha-jā bhogā duḥkha-yonaya eva te
-ādyantavantaḥ kaunteya na teṣhu ramate budhaḥ
+ye hi saṃsparśajā bhogā 
+duḥkhayonaya eva te | 
+ādyantavantaḥ kaunteya 
+na teṣu ramate budhaḥ ||
 
-ye—which; hi—verily; sansparśha-jāḥ—born of contact with the sense objects; bhogāḥ—pleasures; duḥkha—misery; yonayaḥ—source of; eva—verily; te—they are; ādya-antavantaḥ—having beginning and end; kaunteya—Arjun, the son of Kunti; na—never; teṣhu—in those; ramate—takes delight; budhaḥ—the wise
+◈  ye – which; hi – indeed; saṃsparśajāḥ – born of contact; bhogāḥ – enjoyments; 
+◈  duḥkha-yonayaḥ – sources of misery; eva – only; te – they; 
+◈  ādi-antavantaḥ – having a beginning and an end; kaunteya – O son of Kunti; 
+◈  na – not; teṣu – in those; ramate – rejoices; budhaḥ – the wise man.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 शक्नोतीहैव य: सोढुं प्राक्शरीरविमोक्षणात् |
 कामक्रोधोद्भवं वेगं स युक्त: स सुखी नर: || 23||
 
-śhaknotīhaiva yaḥ soḍhuṁ prāk śharīra-vimokṣhaṇāt
-kāma-krodhodbhavaṁ vegaṁ sa yuktaḥ sa sukhī naraḥ
+śaknotīhaiva yaḥ soḍhuṃ 
+prākśarīravimokṣaṇāt | 
+kāmakrodhodbhavaṃ vegaṃ 
+sa yuktaḥ sa sukhī naraḥ ||
 
-śhaknoti—is able; iha eva—in the present body; yaḥ—who; soḍhum—to withstand; prāk—before; śharīra—the body; vimokṣhaṇāt—giving up; kāma—desire; krodha—anger; udbhavam—generated from; vegam—forces; saḥ—that person; yuktaḥ—yogi; saḥ—that person; sukhī—happy; naraḥ—person
+◈  śaknoti – is able; iha eva – even here (in this life); yaḥ – who; soḍhum – to withstand/tolerate; 
+◈  prāk – before; śarīra-vimokṣaṇāt – liberation from the body (death); 
+◈  kāma-krodha-udbhavam – born of desire and anger; vegam – the urge/impulse; 
+◈  saḥ – he; yuktaḥ – is disciplined/a Yogi; saḥ – he; sukhī – happy; naraḥ – man.
+
 {eov}
 
 {sot}

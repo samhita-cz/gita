@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 ज्ञानेन तु तदज्ञानं येषां नाशितमात्मन: |
 तेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् || 16||
 
-jñānena tu tad ajñānaṁ yeṣhāṁ nāśhitam ātmanaḥ
-teṣhām āditya-vaj jñānaṁ prakāśhayati tat param
+jñānena tu tadajñānaṃ 
+yeṣāṃ nāśitamātmanaḥ | 
+teṣāmādityavajjñānaṃ 
+prakāśayati tatparam ||
 
-jñānena—by divine knowledge; tu—but; tat—that; ajñānam—ignorance; yeṣhām—whose; nāśhitam—has been destroyed; ātmanaḥ—of the self; teṣhām—their; āditya-vat—like the sun; jñānam—knowledge; prakāśhayati—illumines; tat—that; param—Supreme Entity
+◈  jñānena – by knowledge; tu – but; tat – that; ajñānam – ignorance; 
+◈  yeṣām – whose; nāśitam – is destroyed; ātmanaḥ – of the self; 
+◈  teṣām – their; ādityavat – like the sun; jñānam – knowledge; 
+◈  prakāśayati – reveals; tat param – That Supreme (Truth).
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणा: |
 गच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषा: || 17||
 
-tad-buddhayas tad-ātmānas tan-niṣhṭhās tat-parāyaṇāḥ
-gachchhantyapunar-āvṛittiṁ jñāna-nirdhūta-kalmaṣhāḥ
+tadbuddhayastadātmānas
+tanniṣṭhāstatparāyaṇāḥ | 
+gacchantyapunarāvṛttiṃ 
+jñānanirdhūtakalmaṣāḥ ||
 
-tat-buddhayaḥ—those whose intellect is directed toward God; tat-ātmānaḥ—those whose heart (mind and intellect) is solely absorbed in God; tat-niṣhṭhāḥ—those whose intellect has firm faith in God; tat-parāyaṇāḥ—those who strive for God as the supreme goal and refuge; gachchhanti—go; apunaḥ-āvṛittim—not returning; jñāna—by knowledge; nirdhūta—dispelled; kalmaṣhāḥ—sins
+◈  tad-buddhayaḥ – their intellect absorbed in That; tad-ātmānaḥ – their self absorbed in That; 
+◈  tad-niṣṭhāḥ – established in That; tat-parāyaṇāḥ – making That their supreme goal; 
+◈  gacchanti – they go; apunar-āvṛttim – to the state from which there is no return (liberation); 
+◈  jñāna-nirdhūta-kalmaṣāḥ – whose sins are shaken off by knowledge.
+
 
 {eov}
 

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-5-
 योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रिय: |
 सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते || 7||
 
-yoga-yukto viśhuddhātmā vijitātmā jitendriyaḥ
-sarva-bhūtātma-bhūtātmā kurvann api na lipyate
+yogayukto viśuddhātmā 
+vijitātmā jitendriyaḥ | 
+sarvabhūtātmabhūtātmā 
+kurvannapi na lipyate ||
 
-yoga-yuktaḥ—united in consciousness with God; viśhuddha-ātmā—one with purified intellect; vijita-ātmā—one who has conquered the mind; jita-indriyaḥ—having conquered the senses; sarva-bhūta-ātma-bhūta-ātmā—one who sees the Soul of all souls in every living being; kurvan—performing; api—although; na—never; lipyate—entangled
+◈  yoga-yuktaḥ – disciplined in Yoga; viśuddha-ātmā – of purified mind; 
+◈  vijita-ātmā – of controlled self; jita-indriyaḥ – of subdued senses; 
+◈  sarva-bhūta-ātma-bhūta-ātmā – whose self has become the self of all beings; 
+◈  kurvan api – even though acting; na lipyate – is not tainted.
 {eov}
 
 {sot}
@@ -32,15 +37,30 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-5-
 
 नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् |
 पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् || 8||
+
 प्रलपन्विसृजन्गृह्ण्न्नुन्मिषन्निमिषन्नपि |
 इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् || 9||
 
-naiva kiñchit karomīti yukto manyeta tattva-vit
-paśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan
-pralapan visṛijan gṛihṇann unmiṣhan nimiṣhann api
-indriyāṇīndriyārtheṣhu vartanta iti dhārayan
+naiva kiñcitkaromīti 
+yukto manyeta tattvavit | 
+paśyañśṛṇvanspṛśañjighrann
+aśnaṅgacchansvapañśvasan || 8 || 
 
-na—not; eva—certainly; kiñchit—anything; karomi—I do; iti—thus; yuktaḥ—steadfast in karm yog; manyeta—thinks; tattva-vit—one who knows the truth; paśhyan—seeing; śhṛiṇvan—hearing; spṛiśhan—touching; jighran—smelling; aśhnan—eating; gachchhan—moving; svapan—sleeping; śhvasan—breathing; pralapan—talking; visṛijan—giving up; gṛihṇan—accepting; unmiṣhan—opening (the eyes); nimiṣhan—closing (the eyes); api—although; indriyāṇi—the senses; indriya-artheṣhu—in sense-objects; vartante—moving; iti—thus; dhārayan—convinced
+pralapanvisṛjaṅgṛhṇann
+unmiṣannimiṣannapi | 
+indriyāṇīndriyāṛtheṣu 
+vartanta iti dhārayan || 9 ||
+
+◈  na eva – never; kiñcit – anything; karomi – I do; iti – thus; 
+◈  yuktaḥ – the disciplined; manyeta – thinks; tattva-vit – knower of Truth; 
+◈  paśyan – seeing; śṛṇvan – hearing; spṛśan – touching; jighran – smelling; 
+◈  aśnan – eating; gacchan – moving; svapan – sleeping; śvasan – breathing; 
+
+◈  pralapan – speaking; visṛjan – releasing; gṛhṇan – grasping; 
+◈  unmiṣan – opening the eyes; nimiṣan – closing the eyes; api – also; 
+◈  indriyāṇi – the senses; indriya-artheṣu – in the sense-objects; 
+◈  vartante – operate; iti – thus; dhārayan – convinced.
+
 {eov}
 
 {sot}
@@ -54,10 +74,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: |
 लिप्यते न स पापेन पद्मपत्रमिवाम्भसा || 10||
 
-brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ
-lipyate na sa pāpena padma-patram ivāmbhasā
+brahmaṇyādhāya karmāṇi 
+saṅgaṃ tyaktvā karoti yaḥ | 
+lipyate na sa pāpena 
+padmapatramivāmbhasā ||
 
-brahmaṇi—to God; ādhāya—dedicating; karmāṇi—all actions; saṅgam—attachment; tyaktvā—abandoning; karoti—performs; yaḥ—who; lipyate—is affected; na—never; saḥ—that person; pāpena—by sin; padma-patram—a lotus leaf; iva—like; ambhasā—by water
+◈  brahmaṇi – in Brahman; ādhāya – resigning/placing; karmāṇi – actions; 
+◈  saṅgam – attachment; tyaktvā – having abandoned; karoti – performs; yaḥ – who; 
+◈  lipyate – is tainted; na – not; saḥ – he; pāpena – by sin; 
+◈  padma-patram – lotus leaf; iva – as/like; ambhasā – by water.
+
 {eov}
 
 {sot}

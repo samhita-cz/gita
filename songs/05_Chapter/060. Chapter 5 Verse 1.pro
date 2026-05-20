@@ -17,11 +17,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-5-
 संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि |
 यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् || 1||
 
-arjuna uvācha
-sannyāsaṁ karmaṇāṁ kṛiṣhṇa punar yogaṁ cha śhansasi
-yach chhreya etayor ekaṁ tan me brūhi su-niśhchitam
+arjuna uvāca | 
+sannyāsaṃ karmaṇāṃ kṛṣṇa 
+punaryogaṃ ca śaṃsasi | 
+yacchreya etayorekaṃ tanme brūhi suniścitam ||
 
-arjunaḥ uvācha—Arjun said; sanyāsam—renunciation; karmaṇām—of actions; kṛiṣhṇa—Shree Krishna; punaḥ—again; yogam—about karm yog; cha—also; śhansasi—You praise; yat—which; śhreyaḥ—more beneficial; etayoḥ—of the two; ekam—one; tat—that; me—unto me; brūhi—please tell; su-niśhchitam—conclusively
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  sannyāsam – renunciation; karmaṇām – of actions; kṛṣṇa – O Krishna; 
+◈  punaḥ – again; yogam – Yoga (of action); ca – and; śaṃsasi – You praise; 
+◈  yat – which; śreyaḥ – better/superior; etayoḥ – of these two; ekam – one; tat – that; me – to me; brūhi – tell; suniścitam – decisively.
 {eov}
 
 {sot}

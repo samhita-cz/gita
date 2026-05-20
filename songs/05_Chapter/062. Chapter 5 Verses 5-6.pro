@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-5-
 यत्साङ्ख्यै: प्राप्यते स्थानं तद्योगैरपि गम्यते |
 एकं साङ्ख्यं च योगं च य: पश्यति स पश्यति || 5||
 
-yat sānkhyaiḥ prāpyate sthānaṁ tad yogair api gamyate
-ekaṁ sānkhyaṁ cha yogaṁ cha yaḥ paśhyati sa paśhyati
+yatsāṅkhyaiḥ prāpyate sthānaṃ 
+tadyogairapi gamyate | 
+ekaṃ sāṅkhyaṃ ca yogaṃ ca 
+yaḥ paśyati sa paśyati ||
 
-yat—what; sānkhyaiḥ—by means of karm sanyās; prāpyate—is attained; sthānam—place; tat—that; yogaiḥ—by working in devotion; api—also; gamyate—is attained; ekam—one; sānkhyam—renunciation of actions; cha—and; yogam—karm yog; cha—and; yaḥ—who; paśhyati—sees; saḥ—that person; paśhyati—actually sees
+yat – what; sāṅkhyaiḥ – by the Sankhyas; prāpyate – is reached; sthānam – place/state; 
+tat – that; yogaiḥ – by the Yogis; api – also; gamyate – is reached; 
+ekam – one; sāṅkhyam – Sankhya; ca – and; yogam – Yoga; ca – and; 
+yaḥ – who; paśyati – sees; saḥ – he; paśyati – (truly) sees.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-5-
 संन्यासस्तु महाबाहो दु:खमाप्तुमयोगत: |
 योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति || 6||
 
-sannyāsas tu mahā-bāho duḥkham āptum ayogataḥ
-yoga-yukto munir brahma na chireṇādhigachchhati
+sannyāsastu mahābāho 
+duḥkhamāptumayogataḥ | 
+yogayukto munirbrahma 
+nacireṇādhigacchati ||
 
-sanyāsaḥ—renunciation; tu—but; mahā-bāho—mighty-armed one; duḥkham—distress; āptum—attains; ayogataḥ—without karm-yog; yoga-yuktaḥ—one who is adept in karm-yog; muniḥ—a sage; brahma—Brahman; na chireṇa—quickly; adhigachchhati—goes
+◈  sannyāsaḥ – renunciation; tu – but; mahābāho – O mighty-armed; 
+◈  duḥkham – difficult; āptum – to attain; ayogataḥ – without Yoga; 
+◈  yoga-yuktaḥ – disciplined in Yoga; muniḥ – the sage; brahma – Brahman; 
+◈  na cireṇa – quickly (without long delay); adhigacchati – attains.
+
 {eov}
 
 {sot}

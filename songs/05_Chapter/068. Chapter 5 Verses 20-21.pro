@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् |
 स्थिरबुद्धिरसम्मूढो ब्रह्मविद् ब्रह्मणि स्थित: || 20||
 
-na prahṛiṣhyet priyaṁ prāpya nodvijet prāpya chāpriyam
-sthira-buddhir asammūḍho brahma-vid brahmaṇi sthitaḥ
+na prahṛṣyetpriyaṃ prāpya 
+nodvijetprāpya cāpriyam | 
+sthirabuddhirasammūḍho 
+brahmavidbrahmaṇi sthitaḥ ||
 
-na—neither; prahṛiṣhyet—rejoice; priyam—the pleasant; prāpya—obtaining; na—nor; udvijet—become disturbed; prāpya—attaining; cha—also; apriyam—the unpleasant; sthira-buddhiḥ—steady intellect; asammūḍhaḥ—firmly situated; brahma-vit—having a firm understanding of divine knowledge; brahmaṇi—established in God; sthitaḥ—situated
+◈  na prahṛṣyet – should not rejoice; priyam – the pleasant; prāpya – having obtained; 
+◈  na udvijet – should not be troubled; prāpya – having obtained; ca – and; apriyam – the unpleasant; 
+◈  sthira-buddhiḥ – of steady intellect; asammūḍhaḥ – undeluded; 
+◈  brahma-vit – the knower of Brahman; brahmaṇi – in Brahman; sthitaḥ – established.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् |
 स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते || 21||
 
-bāhya-sparśheṣhvasaktātmā vindatyātmani yat sukham
-sa brahma-yoga-yuktātmā sukham akṣhayam aśhnute
+bāhyasparśeṣvasaktātmā 
+vindatyātmani yatsukham | 
+sa brahmayogayuktātmā 
+sukhamakṣayamaśnute ||
 
-bāhya-sparśheṣhu—external sense pleasure; asakta-ātmā—those who are unattached; vindati—find; ātmani—in the self; yat—which; sukham—bliss; saḥ—that person; brahma-yoga yukta-ātmā—those who are united with God through yog; sukham—happiness; akṣhayam—unlimited; aśhnute—experiences
+◈  bāhya-sparśeṣu – in external contacts (sense objects); asakta-ātmā – one whose self is unattached; 
+◈  vindati – finds; ātmani – in the Self; yat – which; sukham – happiness; 
+◈  saḥ – he; brahma-yoga-yukta-ātmā – one whose self is united with Brahman through Yoga; 
+◈  sukham – happiness; akṣayam – eternal/undecaying; aśnute – enjoys.
+
 {eov}
 
 {sot}

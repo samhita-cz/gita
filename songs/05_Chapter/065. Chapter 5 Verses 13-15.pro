@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी |
 नवद्वारे पुरे देही नैव कुर्वन्न कारयन् || 13||
 
-sarva-karmāṇi manasā sannyasyāste sukhaṁ vaśhī
-nava-dvāre pure dehī naiva kurvan na kārayan
+sarvakarmāṇi manasā 
+sannyasyāste sukhaṃ vaśī | 
+navadvāre pure dehī 
+naiva kurvanna kārayan ||
 
-sarva—all; karmāṇi—activities; manasā—by the mind; sannyasya—having renounced; āste—remains; sukham—happily; vaśhī—the self-controlled; nava-dvāre—of nine gates; pure—in the city; dehī—the embodied being; na—never; eva—certainly; kurvan—doing anything; na—not; kārayan—causing to be done
+◈  sarva-karmāṇi – all actions; manasā – by the mind; 
+◈  sannyasya – having renounced; āste – rests; sukham – happily; vaśī – the self-controlled; 
+◈  nava-dvāre – nine-gated; pure – in the city; dehī – the embodied soul; 
+◈  na eva – neither; kurvan – acting; na – nor; kārayan – causing to act.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभु: |
 न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते || 14||
 
-na kartṛitvaṁ na karmāṇi lokasya sṛijati prabhuḥ
-na karma-phala-saṅyogaṁ svabhāvas tu pravartate
+na kartṛtvaṃ na karmāṇi 
+lokasya sṛjati prabhuḥ | 
+na karmaphalasaṃyogaṃ 
+svabhāvastu pravartate ||
 
-na—neither; kartṛitvam—sense of doership; na—nor; karmāṇi—actions; lokasya—of the people; sṛijati—creates; prabhuḥ—God; na—nor; karma-phala—fruits of actions; sanyogam—connection; svabhāvaḥ—one’s nature; tu—but; pravartate—is enacted
+◈  na – neither; kartṛtvam – agency/doership; na – nor; karmāṇi – actions; 
+◈  lokasya – of the world; sṛjati – creates; prabhuḥ – the Lord (Self); 
+◈  na – nor; karma-phala-saṃyogam – union with the fruit of action; 
+◈  svabhāvaḥ – nature; tu – but; pravartate – operates.
+
 {eov}
 
 {sot}
@@ -50,10 +62,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 नादत्ते कस्यचित्पापं न चैव सुकृतं विभु: |
 अज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तव: || 15||
 
-nādatte kasyachit pāpaṁ na chaiva sukṛitaṁ vibhuḥ
-ajñānenāvṛitaṁ jñānaṁ tena muhyanti jantavaḥ
+nādatte kasyacitpāpaṃ 
+na caiva sukṛtaṃ vibhuḥ | 
+ajñānenāvṛtaṃ jñānaṃ 
+tena muhyanti jantavaḥ ||
 
-na—not; ādatte—accepts; kasyachit—anyone’s; pāpam—sin; na—not; cha—and; eva—certainly; su-kṛitam—virtuous deeds; vibhuḥ—the omnipresent God; ajñānena—by ignorance; āvṛitam—covered; jñānam—knowledge; tena—by that; muhyanti—are deluded; jantavaḥ—the living entities
+◈  na ādatte – does not take; kasyacit – anyone's; pāpam – sin; 
+◈  na – nor; ca eva – and certainly; sukṛtam – merit/virtue; vibhuḥ – the All-pervading Lord; 
+◈  ajñānena – by ignorance; āvṛtam – is covered; jñānam – knowledge; 
+◈  tena – by that; muhyanti – are deluded; jantavaḥ – beings.
+
 {eov}
 
 {sot}

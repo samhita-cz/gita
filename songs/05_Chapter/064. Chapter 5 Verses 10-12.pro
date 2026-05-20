@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: |
 लिप्यते न स पापेन पद्मपत्रमिवाम्भसा || 10||
 
-brahmaṇyādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ
-lipyate na sa pāpena padma-patram ivāmbhasā
+brahmaṇyādhāya karmāṇi 
+saṅgaṃ tyaktvā karoti yaḥ | 
+lipyate na sa pāpena 
+padmapatramivāmbhasā ||
 
-brahmaṇi—to God; ādhāya—dedicating; karmāṇi—all actions; saṅgam—attachment; tyaktvā—abandoning; karoti—performs; yaḥ—who; lipyate—is affected; na—never; saḥ—that person; pāpena—by sin; padma-patram—a lotus leaf; iva—like; ambhasā—by water
+◈  brahmaṇi – in Brahman; ādhāya – resigning/placing; karmāṇi – actions; 
+◈  saṅgam – attachment; tyaktvā – having abandoned; karoti – performs; yaḥ – who; 
+◈  lipyate – is tainted; na – not; saḥ – he; pāpena – by sin; 
+◈  padma-patram – lotus leaf; iva – as/like; ambhasā – by water.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि |
 योगिन: कर्म कुर्वन्ति सङ्गं त्यक्त्वात्मशुद्धये || 11||
 
-kāyena manasā buddhyā kevalair indriyair api
-yoginaḥ karma kurvanti saṅgaṁ tyaktvātma-śhuddhaye
+kāyena manasā buddhyā 
+kevalairindriyairapi | 
+yoginaḥ karma kurvanti 
+saṅgaṃ tyaktvātmaśuddhaye ||
 
-kāyena—with the body; manasā—with the mind; buddhyā—with the intellect; kevalaiḥ—only; indriyaiḥ—with the senses; api—even; yoginaḥ—the yogis; karma—actions; kurvanti—perform; saṅgam—attachment; tyaktvā—giving up; ātma—of the self; śhuddhaye—for the purification
+◈  kāyena – by the body; manasā – by the mind; buddhyā – by the intellect; 
+◈  kevalaiḥ – only; indriyaiḥ – by the senses; api – even; 
+◈  yoginaḥ – the Yogis; karma – action; kurvanti – perform; 
+◈  saṅgam – attachment; tyaktvā – having abandoned; ātma-śuddhaye – for the purification of the self (mind).
+
 {eov}
 
 {sot}
@@ -51,10 +63,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-
 युक्त: कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् |
 अयुक्त: कामकारेण फले सक्तो निबध्यते || 12||
 
-yuktaḥ karma-phalaṁ tyaktvā śhāntim āpnoti naiṣhṭhikīm
-ayuktaḥ kāma-kāreṇa phale sakto nibadhyate
+yuktaḥ karmaphalaṃ tyaktvā 
+śāntimāpnoti naiṣṭhikīm | 
+ayuktaḥ kāmakāreṇa 
+phale sakto nibadhyate ||
 
-yuktaḥ—one who is united in consciousness with God; karma-phalam—the results of all activities; tyaktvā—giving up; śhāntim—peace; āpnoti—attains; naiṣhṭhikīm—everlasting; ayuktaḥ—one who is not united with God in consciousness; kāma-kāreṇa—impelled by desires; phale—in the result; saktaḥ—attached; nibadhyate—becomes entangled
+◈  yuktaḥ – the disciplined one; karma-phalam – fruit of action; tyaktvā – having abandoned; 
+◈  śāntim – peace; āpnoti – attains; naiṣṭhikīm – ultimate/lasting; 
+◈  ayuktaḥ – the undisciplined; kāma-kāreṇa – impelled by desire; 
+◈  phale – in the fruit; saktaḥ – attached; nibadhyate – is bound.
+
 {eov}
 
 {sot}
