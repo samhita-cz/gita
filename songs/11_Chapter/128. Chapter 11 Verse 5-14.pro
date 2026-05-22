@@ -102,7 +102,7 @@ Sanjaya said: Having spoken thus, Ο King, Hari, the great Lord of Yoga, reveale
 
 {sov: Verse 11.10-11}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-10-11.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-10-11.mp3 | 11.10-11
 
 अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् |
 अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् || 10||

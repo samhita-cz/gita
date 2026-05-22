@@ -11,7 +11,7 @@ https://open.spotify.com/episode/61EfwS3q9jEZgJiGCBsExY?si=1c0590d34f284a08
 
 {sov: Verse 12.13-14}
 
-https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-13-14.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-13-14.mp3 | 12.13-14
 
 अद्वेष्टा सर्वभूतानां मैत्र: करुण एव च |
 निर्ममो निरहङ्कार: समदु:खसुख: क्षमी || 13||

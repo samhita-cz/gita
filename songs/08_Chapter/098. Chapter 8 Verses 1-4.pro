@@ -11,7 +11,7 @@ https://open.spotify.com/episode/1gYCJuI7yNLCk8kqgXsAnI?si=1fc20856c3604def
 
 {sov: Verse 8.1-2}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-1-2.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-1-2.mp3 | 8.1-2
 
 अर्जुन उवाच |
 किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम |

@@ -11,7 +11,7 @@ https://open.spotify.com/episode/003rF1ZOK1XNqB0DObMiGg?si=ef7bc8d8f5144376
 
 {sov: Verse 8.8}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-8.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-8.mp3 | 8.9-10
 
 अभ्यासयोगयुक्तेन चेतसा नान्यगामिना |
 परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन् || 8||

@@ -11,7 +11,7 @@ https://open.spotify.com/episode/1OzAy7IThxSkBsMDkM3Oq7?si=73c0e03da1fd4f81
 
 {sov: Verse 13.15}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3 | 13.15-18
 
 सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् |
 असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च || 15||

@@ -28,7 +28,7 @@ Than practice (without discrimination) knowledge (derived from the study of the 
 
 {sov: Verse 12.13}
 
-https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-13-14.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-13-14.mp3 | 12.13-14
 
 अद्वेष्टा सर्वभूतानां मैत्र: करुण एव च |
 निर्ममो निरहङ्कार: समदु:खसुख: क्षमी || 13||

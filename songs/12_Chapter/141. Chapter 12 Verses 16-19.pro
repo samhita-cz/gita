@@ -45,7 +45,7 @@ Who is not elated, who does not hate, does not grieve, who has renounced both go
 
 {sov: Verse 12.18-19}
 
-https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-18-19.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-18-19.mp3 | 12.18-19
 
 सम: शत्रौ च मित्रे च तथा मानापमानयो: |
 शीतोष्णसुखदु:खेषु सम: सङ्गविवर्जित: || 18||

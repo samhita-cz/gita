@@ -11,7 +11,7 @@ https://open.spotify.com/episode/6uqzFafUlBzePThnJSCwT7?si=830f681c583345fa
 
 {sov: Verse 6.24}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-24-25.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-24-25.mp3 | 6.24-25
 
 सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषत: |
 मनसैवेन्द्रियग्रामं विनियम्य समन्तत: || 24||

@@ -76,30 +76,36 @@ vartate viditātmanām ||
 To the self-controlled sages who are free from desire and wrath, who have controlled their thoughts, who have realised the Self, absolute freedom exists on all sides.
 {eot}
 
-{sov: Verse 5.27-28}
+{sov: Verse 5.27}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-Verse-27-28.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-5-Verse-27-28.mp3 | 5.27-28
 
 स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: |
 प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ || 27||
-
-यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: |
-विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: || 28||
 
 sparśānkṛtvā bahirbāhyāṃś
 cakṣuścaivāntare bhruvoḥ | 
 prāṇāpānau samau kṛtvā 
 nāsābhyantaracāriṇau || 27 || 
 
-yatendriyamanobuddhir
-munirmokṣaparāyaṇas | 
-vigatecchābhayakrodho 
-yaḥ sadā mukta eva saḥ || 28 ||
-
 ◈  sparśān – external contacts/objects; kṛtvā – keeping; bahiḥ – outside; bāhyān—external;
 ◈  cakṣuḥ – eyes/gaze; ca – and; eva – also; antare bhruvoḥ – between the eyebrows; 
 ◈  prāṇa-apānau – the incoming and outgoing breaths; samau – equal; kṛtvā – making; 
 ◈  nāsa-abhyantara-cāriṇau – moving within the nostrils; 
+{eov}
+
+{sot}
+The sage who has turned away all external impressions, fixing his gaze in the centre of the brows, controlling the incoming and outgoing breath rhythmically, ...
+{eot}
+
+{sov: Verse 5.28}
+यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: |
+विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: || 28||
+
+yatendriyamanobuddhir
+munirmokṣaparāyaṇas | 
+vigatecchābhayakrodho 
+yaḥ sadā mukta eva saḥ || 28 ||
 
 ◈  yata-indriya-mana-buddhiḥ – with senses, mind and intellect controlled; 
 ◈  muniḥ – the sage; mokṣa-parāyaṇas – having liberation as the supreme goal; 
@@ -109,7 +115,7 @@ yaḥ sadā mukta eva saḥ || 28 ||
 {eov}
 
 {sot}
-The sage who has turned away all external impressions, fixing his gaze in the centre of the brows, controlling the incoming and outgoing breath rhythmically, keeping the senses, the mind and the intellect controlled, free from desire, fear and hatred, aspiring for the highest freedom indeed enjoys freedom always.
+... keeping the senses, the mind and the intellect controlled, free from desire, fear and hatred, aspiring for the highest freedom indeed enjoys freedom always.
 {eot}
 
 {sov: Verse 5.29}

@@ -160,7 +160,7 @@ Salutations to Thee before, salutations to Thee behind, salutations to Thee on e
 
 {sov: Verse 11.41-42}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-41-42.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-41-42.mp3 | 11.41-42
 
 सखेति मत्वा प्रसभं यदुक्तं
 हे कृष्ण हे यादव हे सखेति |

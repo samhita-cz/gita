@@ -11,7 +11,7 @@ https://open.spotify.com/episode/2R6oRyIUIe71rgGdot76mQ?si=cb329fd7541146ef
 
 {sov: Verse 11.26-27}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-26-27.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-26-27.mp3 | 11.26-27
 
 अमी च त्वां धृतराष्ट्रस्य पुत्रा:
 सर्वे सहैवावनिपालसङ्घै: |

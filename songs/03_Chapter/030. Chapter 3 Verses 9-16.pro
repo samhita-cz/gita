@@ -123,15 +123,12 @@ ye – who; pacanti – cook; ātma-kāraṇāt – for their own sake.
 The righteous who offer food to the Gods in sacrifice and eat the remnants are freed from all sins. But those who cook food to satisfy their own needs, are sinners and verily eat sin. 
 {eot}
 
-{sov: Verse 3.14-15}
+{sov: Verse 3.14}
 
-https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-Verse-14-and-15.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-Verse-14-and-15.mp3 | 3.14-15
 
 अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भव: |
 यज्ञाद्भवति पर्जन्यो यज्ञ: कर्मसमुद्भव: || 14||
-
-कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् |
-तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् || 15||
 
 annādbhavanti bhūtāni 
 parjanyādannasambhavaḥ |
@@ -142,6 +139,15 @@ annāt – from food; bhavanti – come forth; bhūtāni – living beings;
 parjanyāt – from rain; anna-sambhavaḥ – production of food; 
 yajñāt – from sacrifice; bhavati – comes; parjanyaḥ – rain; 
 yajñaḥ – sacrifice; karma-samudbhavaḥ – born of action.
+
+{sot}
+Beings are born of food, food is produced from rain, rain arises from yajna, yajna is born of action,
+{eot}
+
+{sov: Verse 3.15}
+
+कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् |
+तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् || 15||
 
 karma brahmodbhavaṃ viddhi 
 brahmākṣarasamudbhavam |
@@ -155,8 +161,6 @@ nityam – eternally; yajñe – in sacrifice; pratiṣṭhitam – established.
 {eov}
 
 {sot}
-Beings are born of food, food is produced from rain, rain arises from yajna, yajna is born of action, 
-
 action arises from Vedas, Vedas are born from the Imperishable Paramatma; therefore know that the Supreme Being is established in the yajna. 
 {eot}
 

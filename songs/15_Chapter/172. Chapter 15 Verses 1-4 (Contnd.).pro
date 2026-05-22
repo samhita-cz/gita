@@ -51,7 +51,7 @@ Above and below spread its branches, nourished by the gunas. Sense-objects are i
 
 {sov: Verse 15.3-4}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-15-Verse-3-4.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-15-Verse-3-4.mp3 | 15.3-4
 
 न रूपमस्येह तथोपलभ्यते
 नान्तो न चादिर्न च सम्प्रतिष्ठा |

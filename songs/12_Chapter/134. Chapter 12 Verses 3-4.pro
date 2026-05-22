@@ -11,7 +11,7 @@ https://open.spotify.com/episode/3ezgJcBqp7RDmNhO1nIdFC?si=a8f2fa03b2ad4aa1
 
 {sov: Verse 12.3-4}
 
-https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-3-4.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-3-4.mp3 | 12.3-4
 
 ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते |
 सर्वत्रगमचिन्त्यञ्च कूटस्थमचलन्ध्रुवम् || 3||

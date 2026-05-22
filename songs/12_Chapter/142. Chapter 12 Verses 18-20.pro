@@ -11,7 +11,7 @@ https://open.spotify.com/episode/3wuEnhIVBRsyoFcNaL25qM?si=f91049c41f1249c6
 
 {sov: Verse 12.18-19}
 
-https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-18-19.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-18-19.mp3 | 12.18-19
 
 सम: शत्रौ च मित्रे च तथा मानापमानयो: |
 शीतोष्णसुखदु:खेषु सम: सङ्गविवर्जित: || 18||

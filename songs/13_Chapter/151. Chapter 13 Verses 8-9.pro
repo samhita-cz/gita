@@ -11,7 +11,7 @@ https://open.spotify.com/episode/6EwXvyyz4VDqw20OMC7YnS?si=cd1cdad522f94dad
 
 {sov: Verse 13.8-9}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3 | 13.8-12
 
 अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् |
 आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रह: || 8||

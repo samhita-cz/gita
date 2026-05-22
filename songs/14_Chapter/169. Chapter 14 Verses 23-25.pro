@@ -11,7 +11,7 @@ https://open.spotify.com/episode/4ZOfC2FbiKOpcZL2Ar1wE7?si=48face1878894268
 
 {sov: Verse 14.23-25}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14-Verse-22-25.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14-Verse-22-25.mp3 | 14.22-25
 
 उदासीनवदासीनो गुणैर्यो न विचाल्यते |
 गुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते || 23||

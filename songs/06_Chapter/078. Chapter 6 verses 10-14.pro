@@ -33,7 +33,7 @@ Alone, stationed in a solitary place, self-controlled, free from desire, and not
 
 {sov: Verse 6.11}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-11-12.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-11-12.mp3 | 6.11-12
 
 शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मन: |
 नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् || 11||
@@ -74,7 +74,7 @@ There, being seated, having made the mind one-pointed, controlling the actions o
 
 {sov: Verse 6.13}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-13-14.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-13-14.mp3 | 6.13-14
 
 समं कायशिरोग्रीवं धारयन्नचलं स्थिर: |
 सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् || 13||

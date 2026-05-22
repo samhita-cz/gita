@@ -32,7 +32,7 @@ I will now briefly describe to you that state which those who know the Vedas cal
 
 {sov: Verse 8.12-13}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-12-13.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-12-13.mp3 | 8.12-13
 
 सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च |
 मूर्ध्न्याधायात्मन: प्राणमास्थितो योगधारणाम् || 12||

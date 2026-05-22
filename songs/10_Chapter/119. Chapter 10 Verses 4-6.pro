@@ -11,7 +11,7 @@ https://open.spotify.com/episode/58iwtEuf03WoynyohUpJqM?si=fb524ffa18094e62
 
 {sov: Verse 10.4-5}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-4-5.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-4-5.mp3 | 10.4-5
 
 बुद्धिर्ज्ञानमसम्मोह: क्षमा सत्यं दम: शम: |
 सुखं दु:खं भवोऽभावो भयं चाभयमेव च || 4||

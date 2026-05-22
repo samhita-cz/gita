@@ -84,7 +84,7 @@ O teacher, behold the great army of the sons of Pāndu arrayed by your talented 
 
 {sov: Verse 1.4}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-4-6.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-4-6.mp3 | 1.4-6
 
 अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । 
 युयुधानो विराटश्च द्रुपदश्च महारथः ॥ 4॥
@@ -169,7 +169,7 @@ O best of the twice-born, let me also recount to you the leaders of my own army,
 
 {sov: Verse 1.8}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-8-9.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-8-9.mp3 | 1.8-9
 
 भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । 
 अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥ ८ ॥
@@ -326,7 +326,7 @@ Whereupon Mādhava and Pāndava, seated in their magnificent chariot yoked to wh
 
 {sov: Verse 1.15}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-15-18.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-15-18.mp3 | 1.15-18
 
 पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जय: । 
 पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदर: ॥ १५ ॥
@@ -451,7 +451,7 @@ O King! Now seeing the Kauravas arrayed in battle order and the discharge of wea
 
 {sov: Verse 1.21}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-21-22.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-21-22.mp3 | 1.21-22
 
 हृषीकेशं तदा वाक्यमिदमाह महीपते । 
 अर्जुन उवाच । सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥ २१ ॥ 
@@ -517,7 +517,7 @@ I would observe these warriors assembled here for the battle wishing to please t
 
 {sov: Verse 1.24}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-24-25.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-24-25.mp3 | 1.24-25
 
 सञ्जय उवाच । 
 एवमुक्तो हृषीकेशो गुडाकेशेन भारत । 
@@ -611,7 +611,7 @@ Casting his eyes on all these kinsmen stationed on opposing sides, the son of Ku
 
 {sov: Verse 1.28}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-28-30.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-28-30.mp3 | 1.28-30
 
 अर्जुन उवाच । 
 दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥ २८ ॥ 
@@ -714,7 +714,7 @@ O Krishna! I do not desire victory or kingdom or pleasures. Of what avail are th
 
 {sov: Verse 1.33}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-33-34.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-33-34.mp3 | 1.33-34
 
 येषामर्थे काङ्क्षितं नो राज्यं भोगा: सुखानि च । 
 त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ॥ ३३ ॥
@@ -825,7 +825,7 @@ Therefore we ought not to kill our kinsmen, the sons of Dhritarāshtra; for, O M
 
 {sov: Verse 1.38}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-38-39.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-38-39.mp3 | 1.38-39
 
 यद्यप्येते न पश्यन्ति लोभोपहतचेतस: । 
 कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥ ३८ ॥
@@ -867,7 +867,7 @@ O Janārdana, how can we, who clearly foresee the fault (doṣa) arising from th
 
 {sov: Verse 1.40}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-40-42.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-40-42.mp3 | 1.40-42
 
 कुलक्षये प्रणश्यन्ति कुलधर्मा: सनातना: । 
 धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥ ४० ॥
@@ -925,7 +925,7 @@ This mixture leads into hell the family itself as well as those who destroy it; 
 
 {sov: Verse 1.43}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-43-44.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-43-44.mp3 | 1.43-44
 
 दोषैरेतै: कुलघ्नानां वर्णसङ्करकारकै: । 
 उत्साद्यन्ते जातिधर्मा: कुलधर्माश्च शाश्वता: ॥ ४३ ॥

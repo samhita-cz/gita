@@ -10,7 +10,7 @@ https://youtu.be/x7iug41bo9w?si=IYu0gfplB42gvETo
 https://open.spotify.com/episode/14MDDZCsWMED3xRZp1EPcX?si=92c51903e6fa4588
 
 {sov: Verse 6.22}
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-20-23.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-20-23.mp3 | 6.20-23
 
 यं लब्ध्वा चापरं लाभं मन्यते नाधिकं तत: |
 यस्मिन्स्थितो न दु:खेन गुरुणापि विचाल्यते || 22||

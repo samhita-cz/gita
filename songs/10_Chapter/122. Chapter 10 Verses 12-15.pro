@@ -11,7 +11,7 @@ https://open.spotify.com/episode/5zsNYPpKY4J8A1vDUBjelR?si=1fc331990cd64639
 
 {sov: Verse 10.12-13}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-12-13.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-12-13.mp3 | 10.12-13
 
 अर्जुन उवाच |
 परं ब्रह्म परं धाम पवित्रं परमं भवान् |

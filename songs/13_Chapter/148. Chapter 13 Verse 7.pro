@@ -11,7 +11,7 @@ https://open.spotify.com/episode/3SDdm9igKb1Hs3sh5jRlpM?si=75abcf07af7b40d1
 
 {sov: Verse 13.7}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3 | 13.6-7
 
 इच्छा द्वेष: सुखं दु:खं सङ्घातश्चेतना धृति: |
 एतत्क्षेत्रं समासेन सविकारमुदाहृतम् || 7||

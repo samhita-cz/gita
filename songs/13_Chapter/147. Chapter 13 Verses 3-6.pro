@@ -62,7 +62,7 @@ All this has been sung by sages in many and different ways, in various distincti
 
 {sov: Verse 13.6}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3 | 13.6-7
 
 महाभूतान्यङ्ककारो बुद्धिरव्यक्त मेव च |
 इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचरा: || 6||

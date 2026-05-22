@@ -30,7 +30,7 @@ Arjuna said: What are the marks, Ο Lord, of the man who has risen above the thr
 
 {sov: Verse 14.22}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14-Verse-22-25.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14-Verse-22-25.mp3 | 14.22-25
 
 श्रीभगवानुवाच |
 प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |

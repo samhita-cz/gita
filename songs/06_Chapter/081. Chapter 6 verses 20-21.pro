@@ -10,7 +10,7 @@ https://youtu.be/28VJr6TSkYo?si=weMLd1yLS-r9QpMM
 https://open.spotify.com/episode/0xYgAUTQwNMqAdVmmLwTtd?si=8f469de12f114580
 
 {sov: Verse 6.20}
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-20-23.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-20-23.mp3 | 6.20-23
 
 यत्रोपरमते चित्तं निरुद्धं योगसेवया |
 यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति ||20||

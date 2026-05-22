@@ -11,7 +11,7 @@ https://open.spotify.com/episode/0r6tk9Cpt4ax581Rg8c30w?si=41ea1a0502fa4aca
 
 {sov: Verse 13.11-12}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3 | 13.8-12
 
 मयि चानन्ययोगेन भक्तिरव्यभिचारिणी |
 विविक्तदेशसेवित्वमरतिर्जनसंसदि || 11||

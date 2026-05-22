@@ -28,7 +28,7 @@ Greater is the difficulty for those whose mind is set on the realisation of the 
 
 {sov: Verse 12.6-7}
 
-https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-6-7.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-6-7.mp3 | 12.6-7
 
 ये तु सर्वाणि कर्माणि मयि संन्न्यस्य मत्पर: |
 अनन्येनैव योगेन मां ध्यायन्त उपासते || 6||
