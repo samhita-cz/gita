@@ -75,15 +75,11 @@ tasya – his; prajñā – wisdom; pratiṣṭhitā – is established.
 Having restrained all the senses the harmonized should sit intent on me. His wisdom is steady whose senses are under control.
 {eot}
 
-{sov: Verse 2.62-63}
+{sov: Verse 2.62}
 
-https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-Verse-62-and-63.mp3
-
+https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-Verse-62-and-63.mp3 | 2.62-63
 ध्यायतो विषयान्पुंस: सङ्गस्तेषूपजायते |
 सङ्गात्सञ्जायते काम: कामात्क्रोधोऽभिजायते || 62||
-
-क्रोधाद्भवति सम्मोह: सम्मोहात्स्मृतिविभ्रम: |
-स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति || 63||
 
 dhyāyato viṣayānpuṃsaḥ 
 saṅgasteṣūpajāyate | 
@@ -94,6 +90,15 @@ dhyāyataḥ – dwelling upon; viṣayān – sense-objects; puṃsaḥ – of 
 saṅgaḥ – attachment; teṣu – in them; upajāyate – is born; 
 saṅgāt – from attachment; sañjāyate – arises; kāmaḥ – desire; 
 kāmāt – from desire; krodhaḥ – anger; abhijāyate – is born;
+
+{sot}
+As a man contemplates sense-objects, attachment for them arises, from attachment, desire for them will be born, from desire arises anger, ...
+{eot}
+
+{sov: Verse 2.63}
+
+क्रोधाद्भवति सम्मोह: सम्मोहात्स्मृतिविभ्रम: |
+स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति || 63||
 
 krodhādbhavati sammohaḥ 
 sammohātsmṛtivibhramaḥ | 
@@ -107,9 +112,7 @@ buddhināśātpraṇaśyati ||
 {eov}
 
 {sot}
-As a man contemplates sense-objects, attachment for them arises, from attachment, desire for them will be born, from desire arises anger, 
-
-from anger comes delusion, from delusion, comes loss of memory, from loss of memory, comes destruction of discrimination, and from destruction of discrimination he perishes.
+... from anger comes delusion, from delusion, comes loss of memory, from loss of memory, comes destruction of discrimination, and from destruction of discrimination he perishes.
 {eot}
 
 {start_of_analysis}

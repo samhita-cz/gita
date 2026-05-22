@@ -31,9 +31,9 @@ buddhayo’vyavasāyinām ||
 O Arjuna! There is only one faith and thought for those who practice this Karma Yoga. The minds of others are divided into various branches, and their thoughts and speculations are endless. 
 {eot}
 
-{sov: Verse 2.42-44}
+{sov: Verse 2.42}
 
-https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-Verse-424344-1.mp3
+https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-Verse-424344-1.mp3 | 2.42-44
 
 यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चित: |
 वेदवादरता: पार्थ नान्यदस्तीति वादिन: || 42||
@@ -52,7 +52,8 @@ nānyadastīti vādinaḥ ||
 O Arjuna! The unwise utter flowery speech, taking pleasure in the laudatory words of the Vedas, and say that there is nothing else but pleasures and enjoyments either here or in Heaven. 
 {eot}
 
-{sov}
+{sov: Verse 2.43}
+
 कामात्मान: स्वर्गपरा जन्मकर्मफलप्रदाम् |
 क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ||43||
 
@@ -71,7 +72,8 @@ bhogaiśvaryagatiṃ prati ||
 They are full of desire, with heaven as their highest goal, leading to new births as the effect of their own Karma, and they engage themselves in a multiplicity of specific works for the purpose of acquiring enjoyments and prosperity.
 {eot}
 
-{sov}
+{sov: Verse 2.44}
+
 भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम् |
 व्यवसायात्मिका बुद्धि: समाधौ न विधीयते || 44||
 
