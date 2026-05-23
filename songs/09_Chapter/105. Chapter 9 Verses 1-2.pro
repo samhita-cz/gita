@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे |
 ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् || 1||
 
-śhrī bhagavān uvācha
-idaṁ tu te guhyatamaṁ pravakṣhyāmyanasūyave
-jñānaṁ vijñāna-sahitaṁ yaj jñātvā mokṣhyase ’śhubhāt
+śrībhagavānuvāca | 
+idaṃ tu te guhyatamaṃ 
+pravakṣyāmyanasūyave | 
+jñānaṃ vijñānasahitaṃ 
+yajñātvā mokṣyase’śubhāt ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; idam—this; tu—but; te—to you; guhya-tamam—the most confidential; pravakṣhyāmi—I shall impart; anasūyave—nonenvious; jñānam—knowledge; vijñāna—realized knowledge; sahitam—with; yat—which; jñātvā—knowing; mokṣhyase—you will be released; aśhubhāt—miseries of material existence
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  idam – this; tu – indeed; te – to you; guhya-tamam – most secret; 
+◈  pravakṣyāmi – I shall declare; anasūyave – to one who is non-envious; 
+◈  jñānam – knowledge; vijñāna-sahitam – combined with realization; 
+◈  yat jñātvā – knowing which; mokṣyase – you shall be freed; aśubhāt – from evil/bondage.
 {eov}
 
 {sot}
@@ -35,10 +41,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् |
 प्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् || 2||
 
-rāja-vidyā rāja-guhyaṁ pavitram idam uttamam
-pratyakṣhāvagamaṁ dharmyaṁ su-sukhaṁ kartum avyayam
+rājavidyā rājaguhyaṃ 
+pavitramidamuttamam | 
+pratyakṣāvagamaṃ dharmyaṃ 
+susukhaṃ kartumavyayam ||
 
-rāja-vidyā—the king of sciences; rāja-guhyam—the most profound secret; pavitram—pure; idam—this; uttamam—highest; pratyakṣha—directly perceptible; avagamam—directly realizable; dharmyam—virtuous; su-sukham—easy; kartum—to practice; avyayam—everlasting
+◈  rāja-vidyā – the king of sciences; rāja-guhyam – the king of secrets; 
+◈  pavitram – purifier; idam – this; uttamam – supreme; 
+◈  pratyakṣa-avagamam – perceived by direct experience; dharmyam – according to Dharma; 
+◈  su-sukham – very easy; kartum – to practice; avyayam – imperishable.
 {eov}
 
 {sot}

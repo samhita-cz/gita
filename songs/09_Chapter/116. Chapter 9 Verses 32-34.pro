@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 मां हि पार्थ व्यपाश्रित्य येऽपि स्यु: पापयोनय: |
 स्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् || 32||
 
-māṁ hi pārtha vyapāśhritya ye ’pi syuḥ pāpa-yonayaḥ
-striyo vaiśhyās tathā śhūdrās te ’pi yānti parāṁ gatim
+māṃ hi pārtha vyapāśritya 
+ye’pi syuḥ pāpayonayaḥ | 
+striyo vaiśyāstathā śūdrās
+te’pi yānti parāṃ gatim ||
 
-mām—in Me; hi—certainly; pārtha—Arjun, the son of Pritha; vyapāśhritya—take refuge; ye—who; api—even; syuḥ—may be; pāpa yonayaḥ—of low birth; striyaḥ—women; vaiśhyāḥ—mercantile people; tathā—and; śhūdrāḥ—manual workers; te api—even they; yānti—go; parām—the supreme; gatim—destination
+◈  mām – Me; hi – indeed; pārtha – O Partha; vyapāśritya – taking refuge in; 
+◈  ye api – whoever; syuḥ – may be; pāpa-yonayaḥ – of low birth; 
+◈  striyaḥ – women; vaiśyāḥ – Vaishyas; tathā – as also; śūdrāḥ – Shudras; 
+◈  te api – they also; yānti – attain; parām gatim – the supreme goal.
 {eov}
 
 {sot}
@@ -30,13 +35,18 @@ For those who take refuge in Me, Ο Pārtha, though they be of sinful birth— w
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-Verse-33.mp3
 
-DEVAGIASTSLOकिं पुनर्ब्राह्मणा: पुण्या भक्ता राजर्षयस्तथा |
+किं पुनर्ब्राह्मणा: पुण्या भक्ता राजर्षयस्तथा |
 अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् || 33||
 
-kiṁ punar brāhmaṇāḥ puṇyā bhaktā rājarṣhayas tathā
-anityam asukhaṁ lokam imaṁ prāpya bhajasva mām
+kiṃ punarbrāhmaṇāḥ puṇyā 
+bhaktā rājarṣayastathā | 
+anityamasukhaṃ lokamimaṃ 
+prāpya bhajasva mām ||
 
-kim—what; punaḥ—then; brāhmaṇāḥ—sages; puṇyāḥ—meritorius; bhaktāḥ—devotees; rāja-ṛiṣhayaḥ—saintly kings; tathā—and; anityam—transient; asukham—joyless; lokam—world; imam—this; prāpya—having achieved; bhajasva—engage in devotion; mām—unto MeVNIK
+◈  kim punaḥ – how much more; brāhmaṇāḥ – Brahmins; puṇyāḥ – holy; 
+◈  bhaktāḥ – devotees; rāja-ṛṣayaḥ – royal sages; tathā – also; 
+◈  anityam – transient; asukham – joyless/miserable; lokam – world; imam – this; 
+◈  prāpya – having obtained; bhajasva – worship; mām – Me.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |
 मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: || 34||
 
-man-manā bhava mad-bhakto mad-yājī māṁ namaskuru
-mām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ
+manmanā bhava madbhakto 
+madyājī māṃ namaskuru | 
+māmevaiṣyasi yuktvaivam
+ātmānaṃ matparāyaṇaḥ ||
 
-mat-manāḥ—always think of Me; bhava—be; mat—My; bhaktaḥ—devotee; mat—My; yājī—worshipper; mām—to Me; namaskuru—offer obeisances; mām—to Me; eva—certainly; eṣhyasi—you will come; yuktvā—united with Me; evam—thus; ātmānam—your mind and body; mat-parāyaṇaḥ—having dedicated to Me
+◈  mat-manāḥ – mind fixed on Me; bhava – become; mat-bhaktaḥ – My devotee; 
+◈  mat-yājī – My worshipper; mām – to Me; namaskuru – bow down; 
+◈  mām – to Me; eva – alone; eṣyasi – you shall come; yuktvā – having united; evam – thus; 
+◈  ātmānam – the self; mat-parāyaṇaḥ – regarding Me as the supreme goal.
 {eov}
 
 {sot}

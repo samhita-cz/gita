@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम् |
 य: प्रयाति स मद्भावं याति नास्त्यत्र संशय: || 5||
 
-anta-kāle cha mām eva smaran muktvā kalevaram
-yaḥ prayāti sa mad-bhāvaṁ yāti nāstyatra sanśhayaḥ
+antakāle ca māmeva 
+smaranmuktvā kalevaram | 
+yaḥ prayāti sa madbhāvaṃ 
+yāti nāstyatra saṃśayaḥ ||
 
-anta-kāle—at the time of death; cha—and; mām—Me; eva—alone; smaran—remembering; muktvā—relinquish; kalevaram—the body; yaḥ—who; prayāti—goes; saḥ—he; mat-bhāvam—godlike nature; yāti—achieves; na—no; asti—there is; atra—here; sanśhayaḥ—doubt
+◈  anta-kāle – at the time of death; ca – and; mām eva – Me alone; 
+◈  smaran – remembering; muktvā – leaving; kalevaram – the body; 
+◈  yaḥ – who; prayāti – goes forth; saḥ – he; mat-bhāvam – My being; 
+◈  yāti – attains; na asti – there is no; atra – here; saṃśayaḥ – doubt.
+
 {eov}
 
 {sot}
@@ -33,10 +39,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् |
 तं तमेवैति कौन्तेय सदा तद्भावभावित: || 6||
 
-yaṁ yaṁ vāpi smaran bhāvaṁ tyajatyante kalevaram
-taṁ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ
+yaṃ yaṃ vāpi smaranbhāvaṃ 
+tyajatyante kalevaram | 
+taṃ tameveti kaunteya 
+sadā tadbhāvabhāvitaḥ ||
 
-yam yam—whatever; vā—or; api—even; smaran—remembering; bhāvam—remembrance; tyajati—gives up; ante—in the end; kalevaram—the body; tam—to that; tam—to that; eva—certainly; eti—gets; kaunteya—Arjun, the son of Kunti; sadā—always; tat—that; bhāva-bhāvitaḥ—absorbed in contemplation
+◈  yam yam vā api – whatever; smaran – remembering; bhāvam – state/object; 
+◈  tyajati – leaves; ante – at the end; kalevaram – the body; 
+◈  tam tam eva – to that very (state); eti – goes; kaunteya – O son of Kunti; 
+◈  sadā – always; tat-bhāva-bhāvitaḥ – absorbed in the thought of that.
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च |
 मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम् || 7||
 
-tasmāt sarveṣhu kāleṣhu mām anusmara yudhya cha
-mayyarpita-mano-buddhir mām evaiṣhyasyasanśhayam
+tasmātsarveṣu kāleṣu 
+māmanusmara yudhya ca | 
+mayyarpitamanobuddhir
+māmevaiṣyasyasaṃśayaḥ ||
 
-tasmāt—therefore; sarveṣhu—in all; kāleṣhu—times; mām—Me; anusmara—remember; yudhya—fight; cha—and; mayi—to Me; arpita—surrender; manaḥ—mind; buddhiḥ—intellect; mām—to Me; eva—surely; eṣhyasi—you shall attain; asanśhayaḥ—without a doubt
+◈  tasmāt – therefore; sarveṣu kāleṣu – at all times; 
+◈  mām – Me; anusmara – remember; yudhya – fight; ca – and; 
+◈  mayi – in Me; arpita – fixed/offered; manaḥ-buddhiḥ – mind and intellect; 
+◈  mām eva – to Me alone; eṣyasi – you shall come; asaṃśayaḥ – without doubt.
 {eov}
 
 {sot}

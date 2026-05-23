@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 अव्यक्तोऽक्षर इत्युक्तस्तमाहु: परमां गतिम् |
 यं प्राप्य न निवर्तन्ते तद्धाम परमं मम || 21||
 
-avyakto ’kṣhara ityuktas tam āhuḥ paramāṁ gatim
-yaṁ prāpya na nivartante tad dhāma paramaṁ mama
+avyakto’kṣara ityuktas
+tamāhuḥ paramāṃ gatim | 
+yaṃ prāpya na nivartante 
+taddhāma paramaṃ mama || 21 ||
 
-avyaktaḥ—unmanifest; akṣharaḥ—imperishable; iti—thus; uktaḥ—is said; tam—that; āhuḥ—is called; paramām—the supreme; gatim—destination; yam—which; prāpya—having reached; na—never; nivartante—come back; tat—that; dhāma—abode; paramam—the supreme; mama—My
+◈  avyaktaḥ – unmanifest; akṣaraḥ – imperishable; iti uktāḥ – is called; 
+◈  tam āhuḥ – that they call; paramām gatim – the supreme goal; 
+◈  yam prāpya – which having reached; na nivartante – they do not return; 
+◈  tat dhāma – that abode; paramam mama – My supreme; 
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 पुरुष: स पर: पार्थ भक्त्या लभ्यस्त्वनन्यया |
 यस्यान्त:स्थानि भूतानि येन सर्वमिदं ततम् || 22||
 
-puruṣhaḥ sa paraḥ pārtha bhaktyā labhyas tvananyayā
-yasyāntaḥ-sthāni bhūtāni yena sarvam idaṁ tatam
+puruṣaḥ sa paraḥ pārtha 
+bhaktyā labhyastvananyayā | 
+yasyāntaḥsthāni bhūtāṇi 
+yena sarvamidaṃ tatam || 22 ||
 
-puruṣhaḥ—the Supreme Divine Personality; saḥ—he; paraḥ—greatest; pārtha—Arjun, the son of Pritha; bhaktyā—through devotion; labhyaḥ—is attainable; tu—indeed; ananyayā—without another; yasya—of whom; antaḥ-sthāni—situated within; bhūtāni—beings; yena—by whom; sarvam—all; idam—this; tatam—is pervaded
+◈  puruṣaḥ – Person; saḥ paraḥ – that Supreme; pārtha – O Partha; 
+◈  bhaktyā – by devotion; labhyaḥ – attainable; tu – indeed; ananyayā – unswerving; 
+◈  yasya antaḥsthāni – within whom dwell; bhūtāni – beings; 
+◈  yena – by whom; sarvam idam – all this; tatam – is pervaded.
 {eov}
 
 {sot}

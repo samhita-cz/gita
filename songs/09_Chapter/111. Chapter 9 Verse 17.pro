@@ -16,14 +16,19 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 पिताहमस्य जगतो माता धाता पितामह: |
 वेद्यं पवित्रमोङ्कार ऋक्साम यजुरेव च || 17||
 
-pitāham asya jagato mātā dhātā pitāmahaḥ
-vedyaṁ pavitram oṁkāra ṛik sāma yajur eva cha
+pitāhamasya jagato 
+mātā dhātā pitāmahaḥ | 
+vedyaṃ pavitramoṃkāra 
+ṛksāma yajureva ca || 17 ||
 
-pitā—Father; aham—I; asya—of this; jagataḥ—universe; mātā—Mother; dhātā—Sustainer; pitāmahaḥ—Grandsire; vedyam—the goal of knowledge; pavitram—the purifier; om-kāra—the sacred syllable Om; ṛik—the Rig Veda; sāma—the Sama Veda; yajuḥ—the Yajur Veda; eva—also; cha—and
+◈  pitā – father; aham – I, myself; asya – of this; jagataḥ – of the world, of the universe;
+◈  mātā – mother; dhātā – sustainer; pitāmahaḥ – grandfather; 
+◈  vedyam – that which is to be known; pavitram – purifier; oṃkāraḥ – the syllable Om; 
+◈  ṛk-sāma-yajuḥ – the Rig, Sama, and Yajur Vedas; eva – also, even, only, indeed, just; ca – and.
 {eov}
 
 {sot}
-I am the Father of this universe, the Mother, the Sustainer, and the Grandsire. I am the knowable, the purifier, and the syllable Om. I am also the Rik, the Sāman, and the Yajus.
+ I am the father of this universe, the mother, the sustainer, and the grandfather. I am the object of knowledge, the purifier, the syllable Om (oṃkāra), and also the Ṛg, Sāma, and Yajur Vedas. 
 {eot}
 
 {start_of_analysis}

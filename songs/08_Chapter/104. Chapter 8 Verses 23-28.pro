@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिन: |
 प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ || 23||
 
-yatra kāle tvanāvṛittim āvṛittiṁ chaiva yoginaḥ
-prayātā yānti taṁ kālaṁ vakṣhyāmi bharatarṣhabha
+yatra kāle tvanāvṛttim
+āvṛttiṃ caiva yoginaḥ | 
+prayātā yānti taṃ kālaṃ 
+vakṣyāmi bharatarṣabha ||
 
-yatra—where; kāle—time; tu—certainly; anāvṛittim—no return; āvṛittim—return; cha—and; eva—certainly; yoginaḥ—a yogi; prayātāḥ—having departed; yānti—attain; tam—that; kālam—time; vakṣhyāmi—I shall describe; bharata-ṛiṣhabha—Arjun, the best of the Bharatas;
+◈  yatra kāle – at which time; tu – indeed; anāvṛttim – non-return; 
+◈  āvṛttim – return; ca – and; eva – also; yoginaḥ – Yogis; 
+◈  prayātāḥ – having departed; yānti – go to; tam kālam – that time; 
+◈  vakṣyāmi – I shall tell; bharata-ṛṣabha – O best of the Bharatas.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 अग्निर्ज्योतिरह: शुक्ल: षण्मासा उत्तरायणम् |
 तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जना: || 24||
 
-agnir jyotir ahaḥ śhuklaḥ ṣhaṇ-māsā uttarāyaṇam
-tatra prayātā gachchhanti brahma brahma-vido janāḥ
+agnirjyotirahaḥ śuklaḥ 
+ṣaṇmāsā uttarāyaṇam | 
+tatra prayātā gacchanti 
+brahma brahmavido janāḥ ||
 
-agniḥ—fire; jyotiḥ—light; ahaḥ—day; śhuklaḥ—the bright fortnight of the moon; ṣhaṭ-māsāḥ—six months; uttara-ayanam—the sun’s northern course; tatra—there; prayātāḥ—departed; gachchhanti—go; brahma—Brahman; brahma-vidaḥ—those who know the Brahman; janāḥ—persons;
+◈  agniḥ – fire; jyotiḥ – light; ahaḥ – day; śuklaḥ – the bright fortnight; 
+◈  ṣaṭ-māsāḥ – the six months; uttara-ayaṇam – the northern solstice; 
+◈  tatra – there/then; prayātāḥ – those who have departed; gacchanti – go to; 
+◈  brahma – Brahman; brahma-vidaḥ – knowers of Brahman; janāḥ – people.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 धूमो रात्रिस्तथा कृष्ण: षण्मासा दक्षिणायनम् |
 तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते || 25||
 
-dhūmo rātris tathā kṛiṣhṇaḥ ṣhaṇ-māsā dakṣhiṇāyanam
-tatra chāndramasaṁ jyotir yogī prāpya nivartate
+dhūmo rātristathā kṛṣṇaḥ 
+ṣaṇmāsā dakṣiṇāyanam | 
+tatra cāndramasaṃ jyotir
+yogī prāpya nivartate ||
 
-dhūmaḥ—smoke; rātriḥ—night; tathā—and; kṛiṣhṇaḥ—the dark fortnight of the moon; ṣhaṭ-māsāḥ—six months; dakṣhiṇa-ayanam—the sun’s southern course; tatra—there; chāndra-masam—lunar; jyotiḥ—light; yogī—a yogi; prāpya—attain; nivartate—comes back;
+◈  dhūmaḥ – smoke; rātriḥ – night; tathā – also; kṛṣṇaḥ – the dark fortnight; 
+◈  ṣaṭ-māsāḥ – the six months; dakṣiṇa-ayaṇam – the southern solstice; 
+◈  tatra – there; cāndramasam – lunar; jyotiḥ – light; 
+◈  yogī – the Yogi; prāpya – having attained; nivartate – returns.
 {eov}
 
 {sot}
@@ -67,10 +82,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 शुक्लकृष्णे गती ह्येते जगत: शाश्वते मते |
 एकया यात्यनावृत्तिमन्ययावर्तते पुन: || 26||
 
-śhukla-kṛiṣhṇe gatī hyete jagataḥ śhāśhvate mate
-ekayā yātyanāvṛittim anyayāvartate punaḥ
+śuklakṛṣṇe gatī hyete 
+jagataḥ śāśvate mate | 
+ekayā yātyanāvṛttim
+anyayāvartate punaḥ ||
 
-śhukla—bright; kṛiṣhṇe—dark; gatī—paths; hi—certainly; ete—these; jagataḥ—of the material world; śhāśhvate—eternal; mate—opinion; ekayā—by one; yāti—goes; anāvṛittim—to non return; anyayā—by the other; āvartate—comes back; punaḥ—again
+◈  śukla-kṛṣṇe – bright and dark; gatī – paths; hi – indeed; ete – these; 
+◈  jagataḥ – of the world; śāśvate – eternal; mate – are considered; 
+◈  ekayā – by one; yāti – one goes; anāvṛttim – to non-return; 
+◈  anyayā – by the other; āvartate – one returns; punaḥ – again.
 {eov}
 
 {sot}
@@ -84,10 +104,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 नैते सृती पार्थ जानन्योगी मुह्यति कश्चन |
 तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन || 27||
 
-naite sṛitī pārtha jānan yogī muhyati kaśhchana
-tasmāt sarveṣhu kāleṣhu yoga-yukto bhavārjuna
+naite sṛtī pārtha jānan
+yogī muhyati kaścana | 
+tasmātsarveṣu kāleṣu 
+yogayukto bhavārjuna ||
 
-na—never; ete—these two; sṛitī—paths; pārtha—Arjun, the son of Pritha; jānan—knowing; yogī—a yogi; muhyati—bewildered; kaśhchana—any; tasmāt—therefore; sarveṣhu kāleṣhu—always; yoga-yuktaḥ—situated in Yog; bhava—be; arjuna—Arjun
+◈  na – not; ete – these; sṛtī – paths; pārtha – O Partha; jānan – knowing; 
+◈  yogī – the Yogi; muhyati – is deluded; kaścana – any; 
+◈  tasmāt – therefore; sarveṣu kāleṣu – at all times; 
+◈  yoga-yuktaḥ – steadfast in Yoga; bhava – be; arjuna – O Arjuna.
 {eov}
 
 {sot}
@@ -103,12 +128,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 अत्येति तत्सर्वमिदं विदित्वा
 योगी परं स्थानमुपैति चाद्यम् || 28||
 
-vedeṣhu yajñeṣhu tapaḥsu chaiva
-dāneṣhu yat puṇya-phalaṁ pradiṣhṭam
-atyeti tat sarvam idaṁ viditvā
-yogī paraṁ sthānam upaiti chādyam
+vedeṣu yajñeṣu tapaḥsu caiva 
+dāneṣu yatpuṇyaphalaṃ pradiṣṭam | 
+atyeti tatsarvamidaṃ viditvā 
+yogī paraṃ sthānamupaiti cādyam ||
 
-vedeṣhu—in the study of the Vedas; yajñeṣhu—in performance of sacrifices; tapaḥsu—in austerities; cha—and; eva—certainly; dāneṣhu—in giving charities; yat—which; puṇya-phalam—fruit of merit; pradiṣhṭam—is gained; atyeti—surpasses; tat sarvam—all; idam—this; viditvā—having known; yogī—a yogi; param—Supreme; sthānam—Abode; upaiti—achieves; cha—and; ādyam—original
+◈  vedeṣu – in the Vedas; yajñeṣu – in sacrifices; tapaḥsu – in austerities; ca – and; eva – also; 
+◈  dāneṣu – in gifts/charity; yat – which; puṇya-phalam – fruit of merit; pradiṣṭam – is declared; 
+◈  atyeti – goes beyond/surpasses; tat sarvam – all that; idam – this; viditvā – having known; 
+◈  yogī – the Yogi; param – supreme; sthānam – state/abode; upaiti – reaches; ca – and; ādyam – primeval/original.
 {eov}
 
 {sot}

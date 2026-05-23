@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 अश्रद्दधाना: पुरुषा धर्मस्यास्य परन्तप |
 अप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि || 3||
 
-aśhraddadhānāḥ puruṣhā dharmasyāsya parantapa
-aprāpya māṁ nivartante mṛityu-samsāra-vartmani
+aśhraddadhānāḥ puruṣhā 
+dharmasyāsya parantapa |
+aprāpya māṁ nivartante 
+mṛityu-samsāra-vartmani ||
 
-aśhraddadhānāḥ—people without faith; puruṣhāḥ—(such) persons; dharmasya—of dharma; asya—this; parantapa—Arjun, conqueror the enemies; aprāpya—without attaining; mām—Me; nivartante—come back; mṛityu—death; samsāra—material existence; vartmani—in the path
+◈  aśhraddadhānāḥ—people without faith; puruṣhāḥ—(such) persons; 
+◈  dharmasya—of dharma; asya—this; parantapa—Arjun, conqueror the enemies; 
+◈  aprāpya—without attaining; mām—Me; nivartante—come back; 
+◈  mṛityu—death; samsāra—material existence; vartmani—in the path
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 मया ततमिदं सर्वं जगदव्यक्तमूर्तिना |
 मत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थित: || 4||
 
-mayā tatam idaṁ sarvaṁ jagad avyakta-mūrtinā
-mat-sthāni sarva-bhūtāni na chāhaṁ teṣhvavasthitaḥ
+mayā tatamidaṃ sarvaṃ 
+jagadavyaktamūrtinā | 
+matsthāni sarvabhūtāni 
+na cāhaṃ teṣvavasthitaḥ ||
 
-mayā—by Me; tatam—pervaded; idam—this; sarvam—entire; jagat—cosmic manifestation; avyakta-mūrtinā—the unmanifested form; mat-sthāni—in Me; sarva-bhūtāni—all living beings; na—not; cha—and; aham—I; teṣhu—in them; avasthitaḥ—dwell
+◈  mayā – by Me; tatam – pervaded; idam – this; sarvam – all; 
+◈  jagat – universe; avyakta-mūrtinā – in My unmanifest form; 
+◈  mat-sthāni – dwell in Me; sarva-bhūtāni – all beings; 
+◈  na – not; ca – and; aham – I; teṣu – in them; avasthitaḥ – dwell.
 {eov}
 
 {sot}

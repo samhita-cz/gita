@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् |
 भूतभृन्न च भूतस्थो ममात्मा भूतभावन: || 5||
 
-na cha mat-sthāni bhūtāni paśhya me yogam aiśhwaram
-bhūta-bhṛin na cha bhūta-stho mamātmā bhūta-bhāvanaḥ
+na ca matsthāni bhūtāni 
+paśya me yogamaiśvaram | 
+bhūtabhṛnna ca bhūtastho 
+mamātmā bhūtabhāvanaḥ ||
 
-na—never; cha—and; mat-sthāni—abide in Me; bhūtāni—all living beings; paśhya—behold; me—My; yogam aiśhwaram—divine energy; bhūta-bhṛit—the sustainer of all living beings; na—never; cha—yet; bhūta-sthaḥ—dwelling in; mama—My; ātmā—Self; bhūta-bhāvanaḥ—the Creator of all beings
+◈  na – not; ca – and; mat-sthāni – dwell in Me; bhūtāni – beings; 
+◈  paśya – behold; me – My; yogam-aiśvaram – divine mystery/Yoga; 
+◈  bhūta-bhṛt – sustainer of beings; na – not; ca – and; bhūta-sthaḥ – dwelling in beings; 
+◈  mama ātmā – My Self; bhūta-bhāvanaḥ – the creator of beings.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 यथाकाशस्थितो नित्यं वायु: सर्वत्रगो महान् |
 तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय || 6||
 
-yathākāśha-sthito nityaṁ vāyuḥ sarvatra-go mahān
-tathā sarvāṇi bhūtāni mat-sthānītyupadhāraya
+yathākāśasthito nityaṃ 
+vāyuḥ sarvatrago mahān | 
+tathā sarvāṇi bhūtāni 
+matsthānītyupadhāraya ||
 
-yathā—as; ākāśha-sthitaḥ—rests in the sky; nityam—always; vāyuḥ—the wind; sarvatra-gaḥ—blowing everywhere; mahān—mighty; tathā—likewise; sarvāṇi bhūtāni—all living beings; mat-sthāni—rest in Me; iti—thus; upadhāraya—know
+◈  yathā – as; ākāśa-sthitaḥ – staying in space; nityam – always; 
+◈  vāyuḥ – the wind; sarvatra-gaḥ – moving everywhere; mahān – mighty; 
+◈  tathā – so; sarvāṇi – all; bhūtāni – beings; 
+◈  mat-sthāni – dwell in Me; iti – thus; upadhāraya – know.
 {eov}
 
 {sot}
@@ -50,10 +60,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् |
 कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् || 7||
 
-sarva-bhūtāni kaunteya prakṛitiṁ yānti māmikām
-kalpa-kṣhaye punas tāni kalpādau visṛijāmyaham
+sarvabhūtāni kaunteya 
+prakṛtiṃ yānti māmikām | 
+kalpakṣaye punastāni 
+kalpādau visṛjāmyaham || 7 ||
 
-sarva-bhūtāni—all living beings; kaunteya—Arjun, the son of Kunti; prakṛitim—primordial material energy; yānti—merge; māmikām—my; kalpa-kṣhaye—at the end of a kalpa; punaḥ—again; tāni—them; kalpa-ādau—at the beginning of a kalpa; visṛijāmi—manifest; aham—I
+◈  sarva-bhūtāni – all beings; kaunteya – O son of Kunti; 
+◈  prakṛtim – nature; yānti – go to; māmikām – My; 
+◈  kalpa-kṣaye – at the end of a Kalpa; punaḥ – again; tāni – them; 
+◈  kalpa-ādau – at the beginning of a Kalpa; visṛjāmi – send forth; aham – I; 
+
 {eov}
 
 {sot}
@@ -67,10 +83,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 प्रकृतिं स्वामवष्टभ्य विसृजामि पुन: पुन: |
 भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् || 8||
 
-prakṛitiṁ svām avaṣhṭabhya visṛijāmi punaḥ punaḥ
-bhūta-grāmam imaṁ kṛitsnam avaśhaṁ prakṛiter vaśhāt
+prakṛtiṃ svāmavaṣṭabhya 
+visṛjāmi punaḥ punaḥ | 
+bhūtagrāmamimaṃ kṛtsnam
+avaśaṃ prakṛtervaśāt || 8 ||
 
-prakṛitim—the material energy; svām—my own; avaṣhṭabhya—presiding over; visṛijāmi—generate; punaḥ punaḥ—again and again; bhūta-grāmam—myriad forms; imam—these; kṛitsnam—all; avaśham—beyond their control; prakṛiteḥ—nature; vaśhāt—force
+◈  prakṛtim – nature; svām – My own; avaṣṭabhya – animating/controlling; 
+◈  visṛjāmi – I send forth; punaḥ punaḥ – again and again; 
+◈  bhūta-grāmam – multitude of beings; imam – this; kṛtsnam – whole; 
+◈  avaśam – helpless; prakṛteḥ vaśāt – by the force of nature.
 {eov}
 
 {sot}

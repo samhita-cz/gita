@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति |
 तदहं भक्त्युपहृतमश्नामि प्रयतात्मन: || 26||
 
-patraṁ puṣhpaṁ phalaṁ toyaṁ yo me bhaktyā prayachchhati
-tadahaṁ bhaktyupahṛitam aśhnāmi prayatātmanaḥ
+patraṃ puṣpaṃ phalaṃ toyaṃ 
+yo me bhaktyā prayacchati | 
+tadahaṃ bhaktyupahṛtam
+aśnāmi prayatātmanaḥ ||
 
-patram—a leaf; puṣhpam—a flower; phalam—a fruit; toyam—water; yaḥ—who; me—to Me; bhaktyā—with devotion; prayachchhati—offers; tat—that; aham—I; bhakti-upahṛitam—offered with devotion; aśhnāmi—partake; prayata-ātmanaḥ—one in pure consciousness
+◈  patram – a leaf; puṣpam – a flower; phalam – a fruit; toyam – water; 
+◈  yaḥ – who; me – to Me; bhaktyā – with devotion; prayacchati – offers; 
+◈  tat – that; aham – I; bhakti-upahṛtam – offered with devotion; 
+◈  aśnāmi – accept/eat; prayata-ātmanaḥ – of the pure-minded.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् |
 यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् || 27||
 
-yat karoṣhi yad aśhnāsi yaj juhoṣhi dadāsi yat
-yat tapasyasi kaunteya tat kuruṣhva mad-arpaṇam
+yatkaroṣi yadaśnāsi 
+yajjhuhoṣi dadāsi yat | 
+yattapasyasi kaunteya 
+tatkuruṣva madarpaṇam ||
 
-yat—whatever; karoṣhi—you do; yat—whatever; aśhnāsi—you eat; yat—whatever; juhoṣhi—offer to the sacred fire; dadāsi—bestow as a gift; yat—whatever; yat—whatever; tapasyasi—austerities you perform; kaunteya—Arjun, the son of Kunti; tat—them; kuruṣhva—do; mad arpaṇam—as an offering to Me
+◈  yat karoṣi – whatever you do; yat aśnāsi – whatever you eat; 
+◈  yat juhoṣi – whatever you offer (in sacrifice); yat dadāsi – whatever you give (in charity); 
+◈  yat tapasyasi – whatever austerity you perform; kaunteya – O son of Kunti; 
+◈  tat kuruṣva – do that; mat-arpaṇam – as an offering to Me.
 {eov}
 
 {sot}
@@ -50,10 +60,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनै: |
 संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि || 28||
 
-śhubhāśhubha-phalair evaṁ mokṣhyase karma-bandhanaiḥ
-sannyāsa-yoga-yuktātmā vimukto mām upaiṣhyasi
+śubhāśubhaphalairevaṃ 
+mokṣyase karmabandhanaiḥ | 
+saṃnyāsayogayuktātmā 
+vimukto māmupaiṣyasi ||
 
-śhubha aśhubha phalaiḥ—from good and bad results; evam—thus; mokṣhyase—you shall be freed; karma—work; bandhanaiḥ—from the bondage; sanyāsa-yoga—renunciation of selfishness; yukta-ātmā—having the mind attached to Me; vimuktaḥ—liberated; mām—to Me; upaiṣhyasi—you shall reach
+◈  śubha-aśubha-phalaiḥ – from good and evil fruits; evam – thus; 
+◈  mokṣyase – you shall be freed; karma-bandhanaiḥ – from the bonds of action; 
+◈  saṃnyāsa-yoga-yukta-ātmā – with the mind fixed on the Yoga of renunciation; 
+◈  vimuktaḥ – liberated; mām – to Me; upaiṣyasi – you shall come.
+
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 न च मां तानि कर्माणि निबध्नन्ति धनञ्जय |
 उदासीनवदासीनमसक्तं तेषु कर्मसु || 9||
 
-na cha māṁ tāni karmāṇi nibadhnanti dhanañjaya
-udāsīna-vad āsīnam asaktaṁ teṣhu karmasu
+na ca māṃ tāni karmāṇi 
+nibadnanti dhanañjaya | 
+udāsīnavadāsīnam
+asaktaṃ teṣu karmasu ||
 
-na—none; cha—as; mām—Me; tāni—those; karmāṇi—actions; nibadhnanti—bind; dhanañjaya—Arjun, conqueror of wealth; udāsīna-vat—as neutral; āsīnam—situated; asaktam—detached; teṣhu—those; karmasu—actions
+◈  na – not; ca – and; mām – Me; tāni – those; karmāni – actions; 
+◈  nibadnanti – bind; dhanañjaya – O Dhananjaya; 
+◈  udāsīna-vat – as one indifferent/neutral; āsīnam – sitting; 
+◈  asaktam – unattached; teṣu – in those; karmasu – actions.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 मयाध्यक्षेण प्रकृति: सूयते सचराचरम् |
 हेतुनानेन कौन्तेय जगद्विपरिवर्तते || 10||
 
-mayādhyakṣheṇa prakṛitiḥ sūyate sa-charācharam
-hetunānena kaunteya jagad viparivartate
+mayādhyakṣeṇa prakṛtiḥ 
+sūyate sacarācaram | 
+hetunānena kaunteya 
+jagadviparivartate ||
 
-mayā—by Me; adhyakṣheṇa—direction; prakṛitiḥ—material energy; sūyate—brings into being; sa—both; chara-acharam—the animate and the inanimate; hetunā—reason; anena—this; kaunteya—Arjun, the son of Kunti; jagat—the material world; viparivartate—undergoes the changes
+◈  mayā – by Me; adhyakṣeṇa – as supervisor/presiding witness; prakṛtiḥ – Nature; 
+◈  sūyate – produces; sa-cara-acaram – with the moving and the unmoving; 
+◈  hetunā – cause; anena – by this; kaunteya – O son of Kunti; 
+◈  jagat – the world; viparivartate – revolves.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् |
 परं भावमजानन्तो मम भूतमहेश्वरम् || 11||
 
-avajānanti māṁ mūḍhā mānuṣhīṁ tanum āśhritam
-paraṁ bhāvam ajānanto mama bhūta-maheśhvaram
+avajānanti māṃ mūḍhā 
+mānuṣīṃ tanumāśritam | 
+paraṃ bhāvamajānanto 
+mama bhūtamahaśvaram || 11 || 
 
-avajānanti—disregard; mām—Me; mūḍhāḥ—dim-witted; mānuṣhīm—human; tanum—form; āśhritam—take on; param—divine; bhāvam—personality; ajānantaḥ—not knowing; mama—My; bhūta—all beings; mahā-īśhvaram—the Supreme Lord
+◈  avajānanti – disregard/deride; mām – Me; mūḍhāḥ – the foolish; 
+◈  mānuṣīm – human; tanum – form; āśritam – assumed; 
+◈  param – supreme; bhāvam – nature; ajānantaḥ – not knowing; 
+◈  mama – My; bhūta-maha-īśvaram – the great Lord of all beings; mogha-āśāḥ – of vain hopes; 
 {eov}
 
 {sot}
@@ -67,10 +82,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 मोघाशा मोघकर्माणो मोघज्ञाना विचेतस: |
 राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिता: || 12||
 
-moghāśhā mogha-karmāṇo mogha-jñānā vichetasaḥ
-rākṣhasīm āsurīṁ chaiva prakṛitiṁ mohinīṁ śhritāḥ
+moghāśā moghakarmāṇo 
+moghajñānā vicetasaḥ | 
+rākṣasīmāsurīṃ caiva 
+prakṛtiṃ mohinīṃ śritāḥ || 12 ||
 
-mogha-āśhāḥ—of vain hopes; mogha-karmāṇaḥ—of vain actions; mogha-jñānāḥ—of baffled knowledge; vichetasaḥ—deluded; rākṣhasīm—demoniac; āsurīm—atheistic; cha—and; eva—certainly; prakṛitim—material energy; mohinīm—bewildered; śhritāḥ—take shelter
+◈  mogha-karmāṇaḥ – of vain actions; 
+◈  mogha-jñānāḥ – of vain knowledge; vicetasaḥ – senseless; 
+◈  rākṣasīm – demoniac; āsurīm – fiendish; ca – and; eva – also; 
+◈  prakṛtim – nature; mohinīm – delusive; śritāḥ – possessed of.
 {eov}
 
 {sot}
@@ -84,10 +104,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिता: |
 भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् || 13||
 
-mahātmānas tu māṁ pārtha daivīṁ prakṛitim āśhritāḥ
-bhajantyananya-manaso jñātvā bhūtādim avyayam
+mahātmānastu māṃ pārtha 
+daivīṃ prakṛtimāśritāḥ | 
+bhajantyananyamanaso 
+jñātvā bhūtādimavyayam || 13 || 
 
-mahā-ātmānaḥ—the great souls; tu—but; mām—Me; pārtha—Arjun, the son of Pritha; daivīm prakṛitim—divine energy; āśhritāḥ—take shelter of; bhajanti—engage in devotion; ananya-manasaḥ—with mind fixed exclusively; jñātvā—knowing; bhūta—all creation; ādim—the origin; avyayam—imperishable
+◈  mahā-ātmānaḥ – the great souls; tu – but; pārtha – O Partha; 
+◈  daivīm – divine; prakṛtim – nature; āśritāḥ – possessing; 
+◈  bhajanti – worship; ananya-manasaḥ – with mind fixed on no other; 
+◈  jñātvā – knowing; bhūta-ādim – the source of beings; avyayam – imperishable;
 {eov}
 
 {sot}

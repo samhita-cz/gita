@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 सततं कीर्तयन्तो मां यतन्तश्च दृढव्रता: |
 नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते || 14||
 
-satataṁ kīrtayanto māṁ yatantaśh cha dṛiḍha-vratāḥ
-namasyantaśh cha māṁ bhaktyā nitya-yuktā upāsate
+satataṃ kīrtayanto māṃ 
+yatantaśca dṛḍhavratāḥ | 
+namasyantaśca māṃ bhaktyā 
+nitya-yuktā upāsate || 14 ||
 
-satatam—always; kīrtayantaḥ—singing divine glories; mām—Me; yatantaḥ—striving; cha—and; dṛiḍha-vratāḥ—with great determination; namasyantaḥ—humbly bowing down; cha—and; mām—Me; bhaktyā—loving devotion; nitya-yuktāḥ—constantly united; upāsate—worship
+◈  satatam – always; kīrtayantaḥ – glorifying; mām – Me; 
+◈  yatantaḥ – striving; ca – and; dṛḍha-vratāḥ – with firm resolve; 
+◈  namasyantaḥ – bowing down; ca – and; mām – Me; bhaktyā – with devotion; 
+◈  nitya-yuktāḥ – ever-steadfast; upāsate – worship.
 {eov}
 
 {sot}

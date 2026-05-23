@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 गतिर्भर्ता प्रभु: साक्षी निवास: शरणं सुहृत् |
 प्रभव: प्रलय: स्थानं निधानं बीजमव्ययम् || 18||
 
-gatir bhartā prabhuḥ sākṣhī nivāsaḥ śharaṇaṁ suhṛit
-prabhavaḥ pralayaḥ sthānaṁ nidhānaṁ bījam avyayam
+gatirbhartā prabhuḥ sākṣī 
+nivāsaḥ śaraṇaṃ suhṛt | 
+prabhavaḥ pralayaḥ sthānaṃ 
+nidhānaṃ bījamavyayam || 18 || 
 
-gatiḥ—the supreme goal; bhartā—sustainer; prabhuḥ—master; sākṣhī—witness; nivāsaḥ—abode; śharaṇam—shelter; su-hṛit—friend; prabhavaḥ—the origin; pralayaḥ—dissolution; sthānam—repository; nidhānam—resting place; bījam—seed; avyayam—imperishable
+◈  gatiḥ – the goal; bhartā – the supporter; prabhuḥ – the Lord; sākṣī – the witness; 
+◈  nivāsaḥ – the abode; śaraṇam – the refuge; suhṛt – the friend; 
+◈  prabhavaḥ – the origin; pralayaḥ – the dissolution; sthānam – the foundation; 
+◈  nidhānam – the treasure-house; bījam avyayam – the imperishable seed; 
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 तपाम्यहमहं वर्षं निगृह्णम्युत्सृजामि च |
 अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन || 19||
 
-tapāmyaham ahaṁ varṣhaṁ nigṛihṇāmyutsṛijāmi cha
-amṛitaṁ chaiva mṛityuśh cha sad asach chāham arjuna
+tapāmyahamahaṃ varṣaṃ 
+nigṛhṇāmyutsṛjāmi ca | 
+amṛtaṃ caiva mṛtyuśca 
+sadasaccāhamarjuna || 19 ||
 
-tapāmi—radiate heat; aham—I; aham—I; varṣham—rain; nigṛihṇāmi—withhold; utsṛijāmi—send forth; cha—and; amṛitam—immortality; cha—and; eva—also; mṛityuḥ—death; cha—and; sat—eternal spirit; asat—temporary matter; cha—and; aham—I; arjuna—Arjun
+◈  tapāmi – give heat; varṣam – rain; 
+◈  nigṛhṇāmi – withhold; utsṛjāmi – send forth; 
+◈  amṛtam – immortality; mṛtyuḥ – death; 
+◈  sat – existence; asat – non-existence.
 {eov}
 
 {sot}
@@ -52,12 +62,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 ते पुण्यमासाद्य सुरेन्द्रलोक
 मश्नन्ति दिव्यान्दिवि देवभोगान् || 20||
 
-trai-vidyā māṁ soma-pāḥ pūta-pāpā
-yajñair iṣhṭvā svar-gatiṁ prārthayante
-te puṇyam āsādya surendra-lokam
-aśhnanti divyān divi deva-bhogān
+traividyā māṃ somapāḥ pūtapāpā 
+yajñairiṣṭvā svargatiṃ prārthayante | 
+te puṇyamāsādya surendralokam
+aśnanti divyāndivi devabhogān || 20 || 
 
-trai-vidyāḥ—the science of karm kāṇḍ (Vedic rituals); mām—Me; soma-pāḥ—drinkers of the Soma juice; pūta—purified; pāpāḥ—sins; yajñaiḥ—through sacrifices; iṣhṭvā—worship; svaḥ-gatim—way to the abode of the king of heaven; prārthayante—seek; te—they; puṇyam—pious; āsādya—attain; sura-indra—of Indra; lokam—abode; aśhnanti—enjoy; divyān—celestial; divi—in heaven; deva-bhogān—the pleasures of the celestial gods
+◈  trai-vidyāḥ – the knowers of the three Vedas; mām – Me; soma-pāḥ – drinkers of Soma; pūta-pāpāḥ – purified of sins; 
+◈  yajñaiḥ iṣṭvā – worshipping by sacrifices; svargatim – the way to heaven; prārthayante – pray for; 
+◈  te – they; puṇyam – merit; āsādya – reaching; sura-indra-lokam – the world of the Lord of gods (Indra); 
+◈  aśnanti – enjoy; divyān – celestial; divi – in heaven; deva-bhogān – the pleasures of the gods; 
 {eov}
 
 {sot}
@@ -73,12 +86,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 एवं त्रयीधर्ममनुप्रपन्ना
 गतागतं कामकामा लभन्ते || 21||
 
-te taṁ bhuktvā swarga-lokaṁ viśhālaṁ
-kṣhīṇe puṇye martya-lokaṁ viśhanti
-evaṁ trayī-dharmam anuprapannā
-gatāgataṁ kāma-kāmā labhante
+te taṃ bhuktvā svargalokaṃ viśālaṃ 
+kṣīṇe puṇye martyalokaṃ viśanti | 
+evaṃ trayīdharmamanuprapannā 
+gatāgataṃ kāmakāmā labhante || 21 ||
 
-te—they; tam—that; bhuktvā—having enjoyed; swarga-lokam—heaven; viśhālam—vast; kṣhīṇe—at the exhaustion of; puṇye—stock of merits; martya-lokam—to the earthly plane; viśhanti—return; evam—thus; trayī dharmam—the karm-kāṇḍ portion of the three Vedas; anuprapannāḥ—follow; gata-āgatam—repeated coming and going; kāma-kāmāḥ—desiring objects of enjoyments; labhante—attain
+◈  te—they; tam—that; bhuktvā – having enjoyed; svarga-lokam – the heavenly world; viśālam – vast; 
+◈  kṣīṇe puṇye – when merit is exhausted; martya-lokam – the world of mortals; viśanti – they enter; 
+◈  evam – thus; trayī-dharmam – the doctrine of the three Vedas; anuprapannāḥ – following; 
+◈  gata-āgatam – going and coming; kāma-kāmāḥ – desiring desires; labhante – obtain.
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-9-
 मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु |
 मामेवैष्यसि युक्त्वैवमात्मानं मत्परायण: || 34||
 
-man-manā bhava mad-bhakto mad-yājī māṁ namaskuru
-mām evaiṣhyasi yuktvaivam ātmānaṁ mat-parāyaṇaḥ
+manmanā bhava madbhakto 
+madyājī māṃ namaskuru | 
+māmevaiṣyasi yuktvaivam
+ātmānaṃ matparāyaṇaḥ ||
 
-mat-manāḥ—always think of Me; bhava—be; mat—My; bhaktaḥ—devotee; mat—My; yājī—worshipper; mām—to Me; namaskuru—offer obeisances; mām—to Me; eva—certainly; eṣhyasi—you will come; yuktvā—united with Me; evam—thus; ātmānam—your mind and body; mat-parāyaṇaḥ—having dedicated to Me
+◈  mat-manāḥ – mind fixed on Me; bhava – become; mat-bhaktaḥ – My devotee; 
+◈  mat-yājī – My worshipper; mām – to Me; namaskuru – bow down; 
+◈  mām – to Me; eva – alone; eṣyasi – you shall come; yuktvā – having united; evam – thus; 
+◈  ātmānam – the self; mat-parāyaṇaḥ – regarding Me as the supreme goal.
 {eov}
 
 {sot}

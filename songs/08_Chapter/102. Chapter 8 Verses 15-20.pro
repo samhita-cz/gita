@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 मामुपेत्य पुनर्जन्म दु:खालयमशाश्वतम् |
 नाप्नुवन्ति महात्मान: संसिद्धिं परमां गता: || 15||
 
-mām upetya punar janma duḥkhālayam aśhāśhvatam
-nāpnuvanti mahātmānaḥ sansiddhiṁ paramāṁ gatāḥ
+māmupetya punarjanma 
+duḥkhālayamaśāśvatam | 
+nāpnuvanti mahātmānaḥ 
+saṃsiddhiṃ paramāṃ gatāḥ ||
 
-mām—Me; upetya—having attained; punaḥ—again; janma—birth; duḥkha-ālayam—place full of miseries; aśhāśhvatam—temporary; na—never; āpnuvanti—attain; mahā-ātmānaḥ—the great souls; sansiddhim—perfection; paramām—highest; gatāḥ—having achieved
+◈  mām – Me; upetya – having reached; punaḥ-janma – rebirth; 
+◈  duḥkha-ālayam – the place of sorrow; aśāśvatam – non-eternal; 
+◈  na āpnuvanti – do not get; mahā-ātmānaḥ – the great souls; 
+◈  saṃsiddhim – perfection; paramām – supreme; gatāḥ – having reached.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 आब्रह्मभुवनाल्लोका: पुनरावर्तिनोऽर्जुन |
 मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते || 16||
 
-ā-brahma-bhuvanāl lokāḥ punar āvartino ’rjuna
-mām upetya tu kaunteya punar janma na vidyate
+ābrahmabhuvanāllokāḥ 
+punarāvartino’rjuna | 
+māmupetya tu kaunteya 
+punarjanma na vidyate ||
 
-ā-brahma-bhuvanāt—up to the abode of Brahma; lokāḥ—worlds; punaḥ āvartinaḥ—subject to rebirth; arjuna—Arjun; mām—Mine; upetya—having attained; tu—but; kaunteya—Arjun, the son of Kunti; punaḥ janma—rebirth; na—never; vidyate—is
+◈  ā-brahma-bhuvanāt – up to the world of Brahma; lokāḥ – the worlds; 
+◈  punaḥ-āvartinaḥ – subject to return; arjuna – O Arjuna; 
+◈  mām – Me; upetya – having reached; tu – but; kaunteya – O son of Kunti; 
+◈  punaḥ-janma – rebirth; na vidyate – is not.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदु: |
 रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जना: || 17||
 
-sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ
-rātriṁ yuga-sahasrāntāṁ te ’ho-rātra-vido janāḥ
+sahasrayugaparyantam
+aharyadbrahmaṇo viduḥ | 
+rātriṃ yugasahasrāntāṃ 
+te’horātravido janāḥ || 17 ||
 
-sahasra—one thousand; yuga—age; paryantam—until; ahaḥ—one day; yat—which; brahmaṇaḥ—of Brahma; viduḥ—know; rātrim—night; yuga-sahasra-antām—lasts one thousand yugas; te—they; ahaḥ-rātra-vidaḥ—those who know this day and night; janāḥ—people
+◈  sahasra-yuga-paryantam – ending in a thousand Yugas; 
+◈  ahaḥ – day; yat – which; brahmaṇaḥ – of Brahma; viduḥ – they know; 
+◈  rātrim – night; yuga-sahasra-antām – ending in a thousand Yugas; 
+◈  te – they; aho-rātra-vidaḥ – knowers of day and night; janāḥ – people; 
 {eov}
 
 {sot}
@@ -67,10 +82,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 अव्यक्ताद्व्यक्तय: सर्वा: प्रभवन्त्यहरागमे |
 रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसञ्ज्ञके || 18||
 
-avyaktād vyaktayaḥ sarvāḥ prabhavantyahar-āgame
-rātryāgame pralīyante tatraivāvyakta-sanjñake
+avyaktādvyaktayaḥ sarvāḥ 
+prabhavantyaharāgame | 
+rātryāgame pralīyante 
+tatraivāvyaktasaṃjñake || 18 ||
 
-avyaktāt—from the unmanifested; vyaktayaḥ—the manifested; sarvāḥ—all; prabhavanti—emanate; ahaḥ-āgame—at the advent of Brahma’s day; rātri-āgame—at the fall of Brahma’s night; pralīyante—they dissolve; tatra—into that; eva—certainly; avyakta-sanjñake—in that which is called the unmanifest
+◈  avyaktāt – from the unmanifest; vyaktayaḥ – the manifest; sarvāḥ – all; 
+◈  prabhavanti – proceed; ahaḥ-āgame – at the coming of day; 
+◈  rātri-āgame – at the coming of night; pralīyante – they dissolve; 
+◈  tatra eva – in that alone; avyakta-saṃjñake – called the unmanifest;
 {eov}
 
 {sot}
@@ -79,15 +99,20 @@ At the approach of the day all manifest objects come forth from the unmanifested
 
 {sov: Verse 8.19}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-Verse-19.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/07/Bhagavad-Gita-Chapter-8-Verse-19.mp3
 
 भूतग्राम: स एवायं भूत्वा भूत्वा प्रलीयते |
 रात्र्यागमेऽवश: पार्थ प्रभवत्यहरागमे || 19||
 
-bhūta-grāmaḥ sa evāyaṁ bhūtvā bhūtvā pralīyate
-rātryāgame ’vaśhaḥ pārtha prabhavatyahar-āgame
+bhūtagrāmaḥ sa evāyaṃ 
+bhūtvā bhūtvā pralīyate | 
+rātryāgame’vaśaḥ pārtha 
+prabhavatyaharāgame || 19 ||
 
-bhūta-grāmaḥ—the multitude of beings; saḥ—these; eva—certainly; ayam—this; bhūtvā bhūtvā—repeatedly taking birth; pralīyate—dissolves; rātri-āgame—with the advent of night; avaśhaḥ—helpless; pārtha—Arjun, the son of Pritha; prabhavati—become manifest; ahaḥ-āgame—with the advent of day
+◈  bhūta-grāmaḥ – the multitude of beings; saḥ eva ayam – this very same; 
+◈  bhūtvā bhūtvā – being born again and again; pralīyate – dissolves; 
+◈  rātri-āgame – at the coming of night; avaśaḥ – helpless; pārtha – O Partha; 
+◈  prabhavati – comes forth; ahaḥ-āgame – at the coming of day.
 {eov}
 
 {sot}
@@ -101,10 +126,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-8-
 परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातन: |
 य: स सर्वेषु भूतेषु नश्यत्सु न विनश्यति || 20||
 
-paras tasmāt tu bhāvo ’nyo ’vyakto ’vyaktāt sanātanaḥ
-yaḥ sa sarveṣhu bhūteṣhu naśhyatsu na vinaśhyati
+parastasmāttu bhāvo’nyo’
+vyakto’vyaktātsanātanaḥ | 
+yaḥ sa sarveṣu bhūteṣu 
+naśyatsu na vinaśyati || 20 || 
 
-paraḥ—transcendental; tasmāt—than that; tu—but; bhāvaḥ—creation; anyaḥ—another; avyaktaḥ—unmanifest; avyaktāt—to the unmanifest; sanātanaḥ—eternal; yaḥ—who; saḥ—that; sarveṣhu—all; bhūteṣhu—in beings; naśhyatsu—cease to exist; na—never; vinaśhyati—is annihilated
+◈  paraḥ – higher; tasmāt – than that; tu – but; bhāvaḥ – being/nature; anyaḥ – another; 
+◈  avyaktaḥ – unmanifest; avyaktāt – from the unmanifest; sanātanaḥ – eternal; 
+◈  yaḥ saḥ – which; sarveṣu bhūteṣu – in all beings; 
+◈  naśyatsu – perishing; na vinaśyati – does not perish; 
 {eov}
 
 {sot}
