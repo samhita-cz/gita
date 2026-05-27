@@ -1,7 +1,7 @@
 {title: 120. Chapter 10 Verses 7-9}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 10 — vibhūti yoga}
+{category: Chapter 10  —  vibhūti yoga}
 {tags: 10.7, 10.8, 10.9}
 {audio: https://samhita-cz.github.io/gita-audio/ch10/120.mp3 | Gaiea Sanskrit 10.7-9}
 
@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 एतां विभूतिं योगं च मम यो वेत्ति तत्त्वत: |
 सोऽविकम्पेन योगेन युज्यते नात्र संशय: || 7||
 
-etāṁ vibhūtiṁ yogaṁ cha mama yo vetti tattvataḥ
-so ’vikampena yogena yujyate nātra sanśhayaḥ
+etāṁ vibhūtiṁ yogaṁ ca 
+mama yo vetti tattvataḥ |
+so’vikampena yogena 
+yujyate nātra sanśhayaḥ || 7 ||
 
-etām—these; vibhūtim—glories; yogam—divine powers; cha—and; mama—my; yaḥ—those who; vetti—know; tattvataḥ—in truth; saḥ—they; avikalpena—unwavering; yogena—in bhakti yog; yujyate—becomes united; na—never; atra—here; sanśhayaḥ—doubt
+◈  etām — these; vibhūtim — glories; yogam — divine powers; ca — and; 
+◈  mama — my; yaḥ — those who; vetti — know; tattvataḥ — in truth; 
+◈  saḥ — they; avikalpena — unwavering; yogena — in bhakti yog; 
+◈  yujyate — becomes united; na — never; atra — here; sanśhayaḥ — doubt
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 अहं सर्वस्य प्रभवो मत्त: सर्वं प्रवर्तते |
 इति मत्वा भजन्ते मां बुधा भावसमन्विता: || 8||
 
-ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate
-iti matvā bhajante māṁ budhā bhāva-samanvitāḥ
+ahaṃ sarvasya prabhavo 
+mattaḥ sarvaṃ pravartate | 
+iti matvā bhajante māṃ 
+budhā bhāvasamanvitāḥ ||
 
-aham—I; sarvasya—of all creation; prabhavaḥ—the origin of; mattaḥ—from me; sarvam—everything; pravartate—proceeds; iti—thus; matvā—having known; bhajante—worship; mām—me; budhāḥ—the wise; bhāva-samanvitāḥ—endowed with great faith and devotion
+◈  aham – I; sarvasya – of all; prabhavaḥ – the source/origin; 
+◈  mattaḥ – from Me; sarvam – everything; pravartate – emanates/moves; 
+◈  iti – thus; matvā – knowing; bhajante – worship; mām – Me; 
+◈  budhāḥ – the wise; bhāva-samanvitāḥ – endowed with devotion.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 मच्चित्ता मद्गतप्राणा बोधयन्त: परस्परम् |
 कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च || 9||
 
-mach-chittā mad-gata-prāṇā bodhayantaḥ parasparam
-kathayantaśh cha māṁ nityaṁ tuṣhyanti cha ramanti cha
+maccittā madgataprāṇā 
+bodhayantaḥ parasparam | 
+kathayantaśca māṃ nityaṃ 
+tuṣyanti ca ramanti ca ||
+◈  mat-cittāḥ – with minds fixed on Me; mat-gata-prāṇāḥ – with lives surrendered to Me; 
+◈  bodhayantaḥ – enlightening; parasparam – each other; 
+◈  kathayantaḥ – talking; ca – and; mām – about Me; nityam – always; 
+◈  tuṣyanti – they are satisfied; ca – and; ramanti – they delight.
 
-mat-chittāḥ—those with minds fixed on me; mat-gata-prāṇāḥ—those who have surrendered their lives to me; bodhayantaḥ—enlightening (with divine knowledge of God); parasparam—one another; kathayantaḥ—speaking; cha—and; mām—about me; nityam—continously; tuṣhyanti—satisfaction; cha—and; ramanti—(they) delight; cha—also
 {eov}
 
 {sot}

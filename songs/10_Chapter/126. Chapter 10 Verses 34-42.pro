@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 मृत्यु: सर्वहरश्चाहमुद्भवश्च भविष्यताम् |
 कीर्ति: श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृति: क्षमा || 34||
 
-mṛityuḥ sarva-haraśh chāham udbhavaśh cha bhaviṣhyatām
-kīrtiḥ śhrīr vāk cha nārīṇāṁ smṛitir medhā dhṛitiḥ kṣhamā
+mṛtyuḥ sarvaharaścāham
+udbhavaśca bhaviṣyatām | 
+kīrtiḥ śrīrvākca nārīṇāṃ 
+smṛtirmedhā dhṛtiḥ kṣamā ||
 
-mṛityuḥ—death; sarva-haraḥ—all-devouring; cha—and; aham—I; udbhavaḥ—the origin; cha—and; bhaviṣhyatām—those things that are yet to be; kīrtiḥ—fame; śhrīḥ—opulence; vāk—fine speech; cha—and; nārīṇām—amongst feminine qualities; smṛitiḥ—memory; medhā—intelligence; dhṛitiḥ—courage; kṣhamā—forgiveness
+◈  mṛtyuḥ – death; sarva-haraḥ – all-devouring; ca – and; aham – I; 
+◈  udbhavaḥ – origin; ca – and; bhaviṣyatām – of future things; 
+◈  kīrtiḥ – fame; śrīḥ – fortune; vāk – speech; ca – and; nārīṇām – of women (qualities); 
+◈  smṛtiḥ – memory; medhā – intelligence; dhṛtiḥ – steadfastness; kṣamā – forgiveness.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 बृहत्साम तथा साम्नां गायत्री छन्दसामहम् |
 मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकर: || 35||
 
-bṛihat-sāma tathā sāmnāṁ gāyatrī chhandasām aham
-māsānāṁ mārga-śhīrṣho ’ham ṛitūnāṁ kusumākaraḥ
+bṛhatsāma tathā sāmnāṃ 
+gāyatrī chandasāmaham | 
+māsānāṃ mārgaśīrṣo’ham
+ṛtūnāṃ kusumākaraḥ ||
 
-bṛihat-sāma—the Brihatsama; tathā—also; sāmnām—amongst the hymns in the Sama Veda; gāyatrī—the Gayatri mantra; chhandasām—amongst poetic meters; aham—I; māsānām—of the twelve months; mārga-śhīrṣhaḥ—the month of November-December; aham—I; ṛitūnām—of all seasons; kusuma-ākaraḥ—spring
+◈  bṛhat-sāma – Brihat-saman; tathā – also; sāmnām – of the Sama hymns; 
+◈  gāyatrī – Gayatri; chandasām – of meters; aham – I; 
+◈  māsānām – of months; mārgaśīrṣaḥ – Margashirsha; aham – I; 
+◈  ṛtūnām – of seasons; kusumākaraḥ – spring.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम् |
 जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् || 36||
 
-dyūtaṁ chhalayatām asmi tejas tejasvinām aham
-jayo ’smi vyavasāyo ’smi sattvaṁ sattvavatām aham
+dyūtaṃ chalayatāmasmi 
+tejastejasvināmaham | 
+jayo’smi vyavasāyo’smi 
+sattvaṃ sattvavatāmaham ||
 
-dyūtam—gambling; chhalayatām—of all cheats; asmi—I am; tejaḥ—the splendor; tejasvinām—of the splendid; aham—I; jayaḥ—victory; asmi—I am; vyavasāyaḥ—firm resolve; asmi—I am; sattvam—virtue; sattva-vatām—of the virtuous; aham—I
+◈  dyūtam – gambling; chalayatām – of the fraudulent; asmi – I am; 
+◈  tejaḥ – splendor; tejasvinām – of the splendid; aham – I; 
+◈  jayaḥ – victory; asmi – I am; vyavasāyaḥ – resolve; asmi – I am; 
+◈  sattvam – goodness; sattvavatām – of the good; aham – I.
 {eov}
 
 {sot}
@@ -67,10 +82,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 DEVAGIAवृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जय: |
 मुनीनामप्यहं व्यास: कवीनामुशना कवि: || 37||
 
-vṛiṣhṇīnāṁ vāsudevo ’smi pāṇḍavānāṁ dhanañjayaḥ
-munīnām apyahaṁ vyāsaḥ kavīnām uśhanā kaviḥ
+vṛṣṇīnāṃ vāsudevo’smi 
+pāṇḍavānāṃ dhanañjayaḥ | 
+munīnāmapyahaṃ vyāsaḥ 
+kavīnāmuśanā kaviḥ ||
 
-vṛiṣhṇīnām—amongst the descendants of Vrishni; vāsudevaḥ—Krishna, the son of Vasudev; asmi—I am; pāṇḍavānām—amongst the Pandavas; dhanañjayaḥ—Arjun, the conqueror of wealth; munīnām—amongst the sages; api—also; aham—I; vyāsaḥ—Ved Vyas; kavīnām—amongst the great thinkers; uśhanā—Shukracharya; kaviḥ—the thinkerSTSLOVNIK
+◈  vṛṣṇīnām – of the Vrishnis; vāsudevaḥ – Vasudeva (Krishna); asmi – I am; 
+◈  pāṇḍavānām – of the Pandavas; dhanañjayaḥ – Dhananjaya (Arjuna); 
+◈  munīnām – of the sages; api – also; aham – I; vyāsaḥ – Vyasa; 
+◈  kavīnām – of the poets; uśanā – Ushana; kaviḥ – the poet.
+
 {eov}
 
 {sot}
@@ -84,10 +105,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् |
 मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् || 38||
 
-daṇḍo damayatām asmi nītir asmi jigīṣhatām
-maunaṁ chaivāsmi guhyānāṁ jñānaṁ jñānavatām aham
+daṇḍo damayatāmasmi 
+nītirasmi jigīṣatām | 
+maunaṃ caivāsmi guhyānāṃ 
+jñānaṃ jñānavatāmaham ||
 
-daṇḍaḥ—punishment; damayatām—amongst means of preventing lawlessness; asmi—I am; nītiḥ—proper conduct; asmi—I am; jigīṣhatām—amongst those who seek victory; maunam—silence; cha—and; eva—also; asmi—I am; guhyānām—amongst secrets; jñānam—wisdom; jñāna-vatām—in the wise; aham—I
+◈  daṇḍaḥ – the scepter; damayatām – of the punishers; asmi – I am; 
+◈  nītiḥ – statesmanship; asmi – I am; jigīṣatām – of those who seek victory; 
+◈  maunam – silence; ca – and; eva – also; asmi – I am; guhyānām – of secrets; 
+◈  jñānam – wisdom; jñānavatām – of the wise; aham – I.
+
 {eov}
 
 {sot}
@@ -101,10 +128,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 यच्चापि सर्वभूतानां बीजं तदहमर्जुन |
 न तदस्ति विना यत्स्यान्मया भूतं चराचरम् || 39||
 
-yach chāpi sarva-bhūtānāṁ bījaṁ tad aham arjuna
-na tad asti vinā yat syān mayā bhūtaṁ charācharam
+yaccāpi sarvabhūtānāṃ 
+bījaṃ tadahamarjuna | 
+na tadasti vinā yatsyān
+mayā bhūtaṃ carācaram ||
 
-yat—which; cha—and; api—also; sarva-bhūtānām—of all living beings; bījam—generating seed; tat—that; aham—I; arjuna—Arjun; na—not; tat—that; asti—is; vinā—without; yat—which; syāt—may exist; mayā—me; bhūtam—creature; chara-acharam—moving and nonmoving
+◈  yat – what; ca api – and also; sarva-bhūtānām – of all beings; 
+◈  bījam – seed; tat – that; aham – I; arjuna – O Arjuna; 
+◈  na – not; tat – that; asti – is; vinā – without; yat – which; syāt – may be; 
+◈  mayā – by Me; bhūtam – being; cara-acaram – moving or unmoving.
 {eov}
 
 {sot}
@@ -118,10 +150,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप |
 एष तूद्देशत: प्रोक्तो विभूतेर्विस्तरो मया || 40||
 
-nānto ’sti mama divyānāṁ vibhūtīnāṁ parantapa
-eṣha tūddeśhataḥ prokto vibhūter vistaro mayā
+nānto’sti mama divyānāṃ 
+vibhūtīnāṃ parantapa | 
+eṣa tūddeśataḥ prokto 
+vibhūtervistaro mayā ||
 
-na—not; antaḥ—end; asti—is; mama—my; divyānām—divine; vibhūtīnām—manifestations; parantapa—Arjun, the conqueror of the enemies; eṣhaḥ—this; tu—but; uddeśhataḥ—just one portion; proktaḥ—declared; vibhūteḥ—of (my) glories; vistaraḥ—the breath of the topic; mayā—by me
+◈  na – not; antaḥ – end; asti – is; mama – My; divyānām – of divine; 
+◈  vibhūtīnām – of glories; parantapa – O Scorcher of foes; 
+◈  eṣaḥ – this; tu – but; uddeśataḥ – in brief; proktaḥ – stated; 
+◈  ◈  vibhūteḥ – of glory; vistaraḥ – detail; mayā – by Me.
+
 {eov}
 
 {sot}
@@ -135,10 +173,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा |
 तत्देवावगच्छ त्वं मम तेजोंऽशसम्भवम् || 41||
 
-yad yad vibhūtimat sattvaṁ śhrīmad ūrjitam eva vā
-tat tad evāvagachchha tvaṁ mama tejo ’nśha-sambhavam
+yadyadvibhūtimatsattvaṃ 
+śrīmadūrjitameva vā | 
+tattadevāvagaccha tvaṃ 
+mama tejo’ṃśasambhavam ||
 
-yat yat—whatever; vibhūtimat—opulent; sattvam—being; śhrī-mat—beautiful; ūrjitam—glorious; eva—also; vā—or; tat tat—all that; eva—only; avagachchha—know; tvam—you; mama—my; tejaḥ—splendor; anśha—a part; sambhavam—born of
+◈  yat yat – whatever; vibhūti-mat – glorious; sattvam – being; 
+◈  śrī-mat – prosperous; ūrjitam – powerful; eva – certainly; vā – or; 
+◈  tat tat – that very; eva – certainly; avagaccha – know; tvam – you; 
+◈  mama – My; tejaḥ – splendor; aṃśa – fragment; sambhavam – born of.
 {eov}
 
 {sot}
@@ -152,10 +195,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 अथवा बहुनैतेन किं ज्ञातेन तवार्जुन |
 विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् || 42||
 
-atha vā bahunaitena kiṁ jñātena tavārjuna
-viṣhṭabhyāham idaṁ kṛitsnam ekānśhena sthito jagat
+athavā bahunaitena 
+kiṃ jñātena tavārjuna | 
+viṣṭabhyāhamidaṃ kṛtsnam
+ekāṃśena sthito jagat ||
 
-athavā—or; bahunā—detailed; etena—by this; kim—what; jñātena tava—can be known by you; arjuna—Arjun; viṣhṭabhya—pervade and support; aham—I; idam—this; kṛitsnam—entire; eka—by one; anśhena—fraction; sthitaḥ—am situated; jagat—creation
+◈  athavā – or; bahunā – manifold; etena – by this; 
+◈  kim – what; jñātena – by known; tava – of your; arjuna – O Arjuna; 
+◈  viṣṭabhya – pervading; aham – I; idam – this; kṛtsnam – entire; 
+◈  eka-aṃśena – with a single fragment; sthitaḥ – exist; jagat – universe.
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |
 ददामि बुद्धियोगं तं येन मामुपयान्ति ते || 10||
 
-teṣhāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam
-dadāmi buddhi-yogaṁ taṁ yena mām upayānti te
+teṣāṃ satatayuktānāṃ 
+bhajatāṃ prītipūrvakam | 
+dadāmi buddhiyogaṃ taṃ 
+yena māmupayānti te ||
 
-teṣhām—to them; satata-yuktānām—ever steadfast; bhajatām—who engage in devotion; prīti-pūrvakam—with love; dadāmi—I give; buddhi-yogam—divine knowledge; tam—that; yena—by which; mām—to me; upayānti—come; te—they
+◈  teṣām – to them; satata-yuktānām – of the ever-steadfast; 
+◈  bhajatām – who worship; prīti-pūrvakam – with love; 
+◈  dadāmi – I give; buddhi-yogam – the Yoga of discrimination/wisdom; tam – that; 
+◈  yena – by which; mām – to Me; upayānti – come; te – they.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 तेषामेवानुकम्पार्थमहमज्ञानजं तम: |
 नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता || 11||
 
-teṣhām evānukampārtham aham ajñāna-jaṁ tamaḥ
-nāśhayāmyātma-bhāva-stho jñāna-dīpena bhāsvatā
+teṣāmevānukampārtham
+ahamajñānajaṃ tamaḥ | 
+nāśayāmyātmabhāvastho 
+jñānadīpena bhāsvatā ||
 
-teṣhām—for them; eva—only; anukampā-artham—out of compassion; aham—I; ajñāna-jam—born of ignorance; tamaḥ—darkness; nāśhayāmi—destroy; ātma-bhāva—within their hearts; sthaḥ—dwelling; jñāna—of knowledge; dīpena—with the lamp; bhāsvatā—luminous
+◈  teṣām – for them; eva – only; anukampā-artham – out of compassion; 
+◈  aham – I; ajñāna-jam – born of ignorance; tamaḥ – darkness; 
+◈  nāśayāmi – destroy; ātma-bhāva-sthaḥ – dwelling in their hearts; 
+◈  jñāna-dīpena – with the lamp of knowledge; bhāsvatā – luminous.
 {eov}
 
 {sot}

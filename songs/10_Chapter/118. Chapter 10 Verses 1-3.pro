@@ -44,10 +44,10 @@ prabhavaṃ na maharṣayaḥ |
 ahamādirhi devānāṃ 
 maharṣīṇāṃ ca sarvaśaḥ ||
 
-◈   na – ne / ani; me – Můj; viduḥ – znají; sura-gaṇāḥ – zástupy polobohů; 
-◈   prabhavam – původ / zrození; na – ani; mahā-ṛṣayaḥ – velcí mudrci; 
-◈   aham – Já; ādiḥ – počátek; hi – neboť / vskutku; devānām – polobohů; 
-◈   maharṣīṇām – velkých mudrců; ca – a; sarvaśaḥ – v každém ohledu.
+◈  na – ne / ani; me – Můj; viduḥ – znají; sura-gaṇāḥ – zástupy polobohů; 
+◈  prabhavam – původ / zrození; na – ani; mahā-ṛṣayaḥ – velcí mudrci; 
+◈  aham – Já; ādiḥ – počátek; hi – neboť / vskutku; devānām – polobohů; 
+◈  maharṣīṇām – velkých mudrců; ca – a; sarvaśaḥ – v každém ohledu.
 
 {eov}
 
@@ -67,10 +67,10 @@ vetti lokamaheśvaram |
 asammūḍhaḥ sa martyeṣu 
 sarvapāpaiḥ pramucyate ||
 
-◈   yaḥ – kdo; mām – Mě; ajam – nezrozeného; anādim – bez počátku; ca – a; 
-◈   vetti – zná; loka-maheśvaram – Nejvyššího Pána světů;
-◈   asammūḍhaḥ – nezmatený / bez klamu; saḥ – on; martyeṣu – mezi smrtelníky; 
-◈   sarva-pāpaiḥ – od všech hříchů; pramucyate – je osvobozen.
+◈  yaḥ – kdo; mām – Mě; ajam – nezrozeného; anādim – bez počátku; ca – a; 
+◈  vetti – zná; loka-maheśvaram – Nejvyššího Pána světů;
+◈  asammūḍhaḥ – nezmatený / bez klamu; saḥ – on; martyeṣu – mezi smrtelníky; 
+◈  sarva-pāpaiḥ – od všech hříchů; pramucyate – je osvobozen.
 
 {eov}
 

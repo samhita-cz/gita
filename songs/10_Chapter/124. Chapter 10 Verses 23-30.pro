@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् |
 वसूनां पावकश्चास्मि मेरु: शिखरिणामहम् || 23||
 
-rudrāṇāṁ śhaṅkaraśh chāsmi vitteśho yakṣha-rakṣhasām
-vasūnāṁ pāvakaśh chāsmi meruḥ śhikhariṇām aham
+rudrāṇāṃ śaṅkaraścāsmi 
+vitteśo yakṣarakṣasām | 
+vasūnāṃ pāvakaścāsmi 
+meruḥ śikhariṇāmaham ||
 
-rudrāṇām—amongst the rudras; śhaṅkaraḥ—Lord Shiv; cha—and; asmi—I am; vitta-īśhaḥ—the god of wealth and the treasurer of the celestial gods; yakṣha—amongst the semi-celestial beings; rakṣhasām—amongst the demons; vasūnām—amongst the vasus; pāvakaḥ—Agni (fire); cha—and; asmi—I am; meruḥ—Mount Meru; śhikhariṇām—amongst the mountains; aham—I am
+◈  rudrāṇām – of the Rudras; śaṅkaraḥ – Shankara (Shiva); ca – and; asmi – (I) am; 
+◈  vitteśaḥ – the Lord of wealth (Kubera); yakṣa-rakṣasām – of the Yakshas and Rakshasas; 
+◈  vasūnām – of the Vasus; pāvakaḥ – fire; ca – and; asmi – (I) am; 
+◈  meruḥ – Meru; śikhariṇām – of the mountains; aham – I.
+
 {eov}
 
 {sot}
@@ -33,10 +39,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् |
 सेनानीनामहं स्कन्द: सरसामस्मि सागर: || 24||
 
-purodhasāṁ cha mukhyaṁ māṁ viddhi pārtha bṛihaspatim
-senānīnām ahaṁ skandaḥ sarasām asmi sāgaraḥ
+purodhasāṃ ca mukhyaṃ māṃ 
+viddhi pārtha bṛhaspatim | 
+senānīnāmahaṃ skandaḥ 
+sarasāmasmi sāgaraḥ ||
 
-purodhasām—amongst priests; cha—and; mukhyam—the chiefs; mām—me; viddhi—know; pārtha—Arjun, the son of Pritha; bṛihaspatim—Brihaspati; senānīnām—warrior chief; aham—I; skandaḥ—Kartikeya; sarasām—amongst reservoirs of water; asmi—I am; sāgaraḥ—the ocean
+◈  purodhasām – of the household priests; ca – and; mukhyam – the chief; mām – Me; 
+◈  viddhi – know; pārtha – O Partha; bṛhaspatim – Brihaspati; 
+◈  senānīnām – of generals; aham – I; skandaḥ – Skanda; 
+◈  sarasām – of reservoirs of water; asmi – (I) am; sāgaraḥ – the ocean.
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् |
 यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालय: || 25||
 
-maharṣhīṇāṁ bhṛigur ahaṁ girām asmyekam akṣharam
-yajñānāṁ japa-yajño ’smi sthāvarāṇāṁ himālayaḥ
+maharṣīṇāṃ bhṛgurahaṃ 
+girāmasmyekamakṣaram | 
+yajñānāṃ japayajño’smi 
+sthāvarāṇāṃ himālayaḥ ||
 
-mahā-ṛiṣhīṇām—among the great seers; bhṛiguḥ—Bhrigu; aham—I; girām—amongst chants; asmi—I am; ekam akṣharam—the syllable Om; yajñānām—of sacrifices; japa-yajñaḥ—sacrifice of the devotional repetition of the divine names of God; asmi—I am; sthāvarāṇām—amongst immovable things; himālayaḥ—the Himalayas
+◈  maha-ṛṣīṇām – of the great sages; bhṛguḥ – Bhrigu; aham – I; 
+◈  girām – of words; asmi – (I) am; ekam akṣaram – the monosyllable (OM); 
+◈  yajñānām – of sacrifices; japa-yajñaḥ – the sacrifice of silent repetition (Japa); asmi – (I) am;
+◈  sthāvarāṇām – of the immovable; himālayaḥ – the Himalayas.
 {eov}
 
 {sot}
@@ -67,10 +83,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 अश्वत्थ: सर्ववृक्षाणां देवर्षीणां च नारद: |
 गन्धर्वाणां चित्ररथ: सिद्धानां कपिलो मुनि: || 26||
 
-aśhvatthaḥ sarva-vṛikṣhāṇāṁ devarṣhīṇāṁ cha nāradaḥ
-gandharvāṇāṁ chitrarathaḥ siddhānāṁ kapilo muniḥ
+aśvatthaḥ sarvavṛkṣāṇāṃ 
+devarṣīṇāṃ ca nāradaḥ | 
+gandharvāṇāṃ citrarathaḥ 
+siddhānāṃ kapilo muniḥ ||
 
-aśhvatthaḥ—the peepul tree (sacred fig tree); sarva-vṛikṣhāṇām—amongst all trees; deva-ṛiṣhīṇām—amongst celestial sages; cha—and; nāradaḥ—Narad; gandharvāṇām—amongst the gandharvas; chitrarathaḥ—Chitrarath; siddhānām—of all those who are perfected; kapilaḥ muniḥ—sage Kapil
+◈  aśvatthaḥ – Ashvattha (sacred fig); sarva-vṛkṣāṇām – of all trees; 
+◈  deva-ṛṣīṇām – of the celestial sages; ca – and; nāradaḥ – Narada; 
+◈  gandharvāṇām – of the Gandharvas; citrarathaḥ – Chitraratha; 
+◈  siddhānām – of the perfected ones; kapilaḥ muniḥ – the sage Kapila.
 {eov}
 
 {sot}
@@ -84,10 +105,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 उच्चै:श्रवसमश्वानां विद्धि माममृतोद्भवम् |
 ऐरावतं गजेन्द्राणां नराणां च नराधिपम् || 27||
 
-uchchaiḥśhravasam aśhvānāṁ viddhi mām amṛitodbhavam
-airāvataṁ gajendrāṇāṁ narāṇāṁ cha narādhipam
+uccaiḥśravasamaśvānāṃ 
+viddhi māmāmṛtodbhavam | 
+airāvataṃ gajendrāṇāṃ 
+narāṇāṃ ca narādhipam ||
 
-uchchaiḥśhravasam—Uchchaihshrava; aśhvānām—amongst horses; viddhi—know; mām—me; amṛita-udbhavam—begotten from the churning of the ocean of nectar; airāvatam—Airavata; gaja-indrāṇām—amongst all lordly elephants; narāṇām—amongst humans; cha—and; nara-adhipam—the king
+◈  uccaiḥśravasam – Uchchaishravas; aśvānām – of horses; 
+◈  viddhi – know; mām – Me; amṛta-udbhavam – born of nectar; 
+◈  airāvatam – Airavata; gaja-indrāṇām – of lordly elephants; 
+◈  narāṇām – among men; ca – and; nara-adhipam – the king.
 {eov}
 
 {sot}
@@ -101,10 +127,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 आयुधानामहं वज्रं धेनूनामस्मि कामधुक् |
 प्रजनश्चास्मि कन्दर्प: सर्पाणामस्मि वासुकि: || 28||
 
-āyudhānām ahaṁ vajraṁ dhenūnām asmi kāmadhuk
-prajanaśh chāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ
+āyudhānāmahaṃ vajraṃ 
+dhenūnāmasmi kāmadhuk | 
+prajanaścāsmi kandarpaḥ 
+sarpāṇāmasmi vāsukiḥ ||
 
-āyudhānām—amongst weapons; aham—I; vajram—the Vajra (thunderbolt); dhenūnām—amongst cows; asmi—I am; kāma-dhuk—Kamdhenu; prajanaḥ—amongst causes for procreation; cha—and; asmi—I am; kandarpaḥ—Kaamdev, the god of love; sarpāṇām—amongst serpents; asmi—I am; vāsukiḥ—serpent Vasuki
+◈  āyudhānām – of weapons; aham – I; vajram – the thunderbolt; 
+◈  dhenūnām – of cows; asmi – I am; kāmadhuk – the wish-fulfilling cow; 
+◈  prajanaḥ – the cause of offspring; ca – and; asmi – I am; kandarpaḥ – Kandarpa (the god of love); 
+◈  sarpāṇām – of serpents; asmi – I am; vāsukiḥ – Vasuki.
 {eov}
 
 {sot}
@@ -118,10 +149,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 अनन्तश्चास्मि नागानां वरुणो यादसामहम् |
 पितृणामर्यमा चास्मि यम: संयमतामहम् || 29||
 
-anantaśh chāsmi nāgānāṁ varuṇo yādasām aham
-pitṝīṇām aryamā chāsmi yamaḥ sanyamatām aham
+anantaścāsmi nāgāṇāṃ 
+varuṇo yādasāmaham | 
+pitṝṇāmaryamā cāsmi 
+yamaḥ saṃyamatāmaham ||
 
-anantaḥ—Anant; cha—and; asmi—I am; nāgānām—amongst snakes; varuṇaḥ—the celestial god of the ocean; yādasām—amongst aquatics; aham—I; pitṝīṇām—amongst the departed ancestors; aryamā—Aryama; cha—and; asmi—am; yamaḥ—the celestial god of death; sanyamatām—amongst dispensers of law; aham—I
+◈  anantaḥ – Ananta; ca – and; asmi – I am; nāgāṇām – of Nagas; 
+◈  varuṇāḥ – Varuna; yādasām – of water-beings; aham – I; 
+◈  pitṝṇām – of ancestors; aryamā – Aryaman; ca – and; asmi – I am; 
+◈  yamaḥ – Yama; saṃyamatām – of the regulators; aham – I.
 {eov}
 
 {sot}
@@ -135,10 +171,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 प्रह्लादश्चास्मि दैत्यानां काल: कलयतामहम् |
 मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् || 30||
 
-prahlādaśh chāsmi daityānāṁ kālaḥ kalayatām aham
-mṛigāṇāṁ cha mṛigendro ’haṁ vainateyaśh cha pakṣhiṇām
+prahlādaścāsmi daityānāṃ 
+kālaḥ kalayatāmaham | 
+mṛgāṇāṃ ca mṛgendro’haṃ 
+vainateyaśca pakṣiṇām ||
 
-prahlādaḥ—Prahlad; cha—and; asmi—I am; daityānām—of the demons; kālaḥ—time; kalayatām—of all that controls; aham—I; mṛigāṇām—amongst animals; cha—and; mṛiga-indraḥ—the lion; aham—I; vainateyaḥ—Garud; cha—and; pakṣhiṇām—amongst birds
+◈  prahlādaḥ – Prahlada; ca – and; asmi – I am; daityānām – of the Daityas; 
+◈  kālaḥ – time; kalayatām – of the reckoners; aham – I; 
+◈  mṛgāṇām – of beasts; ca – and; mṛga-indraḥ – the king of beasts (Lion); aham – I; 
+◈  vainateyaḥ – Garuda; ca – and; pakṣiṇām – of birds.
 {eov}
 
 {sot}

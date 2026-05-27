@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 पवन: पवतामस्मि राम: शस्त्रभृतामहम् |
 झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी || 31||
 
-pavanaḥ pavatām asmi rāmaḥ śhastra-bhṛitām aham
-jhaṣhāṇāṁ makaraśh chāsmi srotasām asmi jāhnavī
+pavanaḥ pavatāmasmi 
+rāmaḥ śastrabhṛtāmaham | 
+jhaṣāṇāṃ makaraścāsmi 
+srotasāmasmi jāhnavī ||
 
-pavanaḥ—the wind; pavatām—of all that purifies; asmi—I am; rāmaḥ—Ram; śhastra-bhṛitām—of the carriers of weapons; aham—I am; jhaṣhāṇām—of all acquatics; makaraḥ—crocodile; cha—also; asmi—I am; srotasām—of flowing rivers; asmi—I am; jāhnavī—the Ganges
+◈  pavanaḥ – the wind; pavatām – of purifiers; asmi – I am; 
+◈  rāmaḥ – Rama; śastra-bhṛtām – of warriors; aham – I; 
+◈  jhaṣāṇām – of fishes; makaraḥ – the shark; ca – and; asmi – I am; 
+◈  srotasām – of rivers; asmi – I am; jāhnavī – the Ganges.
+
 {eov}
 
 {sot}
@@ -30,13 +36,18 @@ Of purifiers I am the wind; of warriors I am Rāma. Of fishes I am the shark, an
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-32.mp3
 
-DEVAGIAसर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |
+सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन |
 अध्यात्मविद्या विद्यानां वाद: प्रवदतामहम् || 32||
 
-sargāṇām ādir antaśh cha madhyaṁ chaivāham arjuna
-adhyātma-vidyā vidyānāṁ vādaḥ pravadatām aham
+sargāṇāmādirantaśca 
+madhyaṃ caivāhamarjuna | 
+adhyātmavidyā vidyānāṃ 
+vādaḥ pravadatāmaham ||
 
-sargāṇām—of all creations; ādiḥ—the beginning; antaḥ—end; cha—and; madhyam—middle; cha—and; eva—indeed; aham—I; arjuna—Arjun; adhyātma-vidyā—science of spirituality; vidyānām—amongst sciences; vādaḥ—the logical conclusion; pravadatām—of debates; aham—ISTSLOVNIK
+◈  sargāṇām – of creations; ādiḥ – beginning; antaḥ – end; ca – and; 
+◈  madhyam – middle; ca – and; eva – also; aham – I; arjuna – O Arjuna; 
+◈  adhyātma-vidyā – spiritual knowledge; vidyānām – of sciences; 
+◈  vādaḥ – logic; pravadatām – of orators.
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 अक्षराणामकारोऽस्मि द्वन्द्व: सामासिकस्य च |
 अहमेवाक्षय: कालो धाताहं विश्वतोमुख: || 33||
 
-akṣharāṇām a-kāro ’smi dvandvaḥ sāmāsikasya cha
-aham evākṣhayaḥ kālo dhātāhaṁ viśhvato-mukhaḥ
+akṣarāṇāmakāro’smi 
+dvandvaḥ sāmāsikasya ca | 
+ahamevākṣayaḥ kālo 
+dhātāhaṃ viśvatomukhaḥ ||
 
-akṣharāṇām—amongst all letters; a-kāraḥ—the beginning letter “A”; asmi—I am; dvandvaḥ—the dual; sāmāsikasya—amongst grammatical compounds; cha—and; aham—I; eva—only; akṣhayaḥ—endless; kālaḥ—time; dhātā—amongst the creators; aham—I; viśhwataḥ-mukhaḥ—Brahma
+◈  akṣarāṇām – of letters; akāraḥ – the letter A; asmi – I am; 
+◈  dvandvaḥ – the dual compound; sāmāsikasya – of compounds; ca – and; 
+◈  aham – I; eva – certainly; akṣayaḥ – eternal; kālaḥ – time; 
+◈  dhātā – sustainer; aham – I; viśvato-mukhaḥ – facing all sides.
 {eov}
 
 {sot}

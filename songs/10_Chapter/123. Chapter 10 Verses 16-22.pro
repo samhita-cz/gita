@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतय: |
 याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि || 16||
 
-vaktum arhasyaśheṣheṇa divyā hyātma-vibhūtayaḥ
-yābhir vibhūtibhir lokān imāṁs tvaṁ vyāpya tiṣhṭhasi
+vaktumarhasyaśeṣeṇa 
+divyā hyātmavibhūtayaḥ | 
+yābhirvibhūtibhirlokān
+imāṃstvaṃ vyāpyatiṣṭhasi ||
 
-vaktum—to describe; arhasi—please do; aśheṣheṇa—completely; divyāḥ—divine; hi—indeed; ātma—your own; vibhūtayaḥ—opulences; yābhiḥ—by which; vibhūtibhiḥ—opulences; lokān—all worlds; imān—these; tvam—you; vyāpya—pervade; tiṣhṭhasi—reside;
+◈  vaktum arhasi – (You) should tell; aśeṣeṇa – in detail/fully; 
+◈  divyāḥ – divine; hi – indeed; ātma-vibhūtayaḥ – Your own glories; 
+◈  yābhiḥ – by which; vibhūtibhiḥ – glories; lokān – worlds; 
+◈  imān – these; tvam – You; vyāpyatiṣṭhasi – remain pervading.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् |
 केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया || 17||
 
-kathaṁ vidyām ahaṁ yogins tvāṁ sadā parichintayan
-keṣhu keṣhu cha bhāveṣhu chintyo ’si bhagavan mayā
+kathaṃ vidyāmahaṃ yogiṃs
+tvāṃ sadā paricintayan | 
+keṣu keṣu ca bhāveṣu 
+cintyo’si bhagavanmayā ||
 
-katham—how; vidyām aham—shall I know; yogin—the Supreme Master of Yogmaya; tvām—you; sadā—always; parichintayan—meditating; keṣhu—in what; keṣhu—in what; cha—and; bhāveṣhu—forms; chintyaḥ asi—to be thought of; bhagavan—the Supreme Divine Personality; mayā—by me
+◈  katham – how; vidyām aham – shall I know; yogin – O Yogi; 
+◈  tvām – You; sadā – always; paricintayan – meditating; 
+◈  keṣu keṣu – in what various; ca – and; bhāveṣu – aspects/forms; 
+◈  cintyaḥ asi – are You to be thought of; bhagavan – O Lord; mayā – by me.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 विस्तरेणात्मनो योगं विभूतिं च जनार्दन |
 भूय: कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् || 18||
 
-vistareṇātmano yogaṁ vibhūtiṁ cha janārdana
-bhūyaḥ kathaya tṛiptir hi śhṛiṇvato nāsti me ’mṛitam
+vistareṇātmano yogaṃ 
+vibhūtiṃ ca janārdana | 
+bhūyaḥ kathaya tṛptirhi 
+śṛṇvato nāsti me’mṛtam ||
 
-vistareṇa—in detail; ātmanaḥ—your; yogam—divine glories; vibhūtim—opulences; cha—also; janaārdana—Shree Krishna, he who looks after the public; bhūyaḥ—again; kathaya—describe; tṛiptiḥ—satisfaction; hi—because; śhṛiṇvataḥ—hearing; na—not; asti—is; me—my; amṛitam—nectar
+◈  vistareṇa – in detail; ātmanaḥ – Your own; yogam – power of Yoga; 
+◈  vibhūtim – glory; ca – and; janārdana – O Janardana; 
+◈  bhūyaḥ – again; kathaya – tell; tṛptiḥ – satisfaction; hi – indeed; 
+◈  śṛṇvataḥ – of hearing; na asti – there is not; me – for me; amṛtam – nectar
 
 {eov}
 
@@ -69,11 +84,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतय: |
 प्राधान्यत: कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ||19||
 
-śhrī bhagavān uvācha
-hanta te kathayiṣhyāmi divyā hyātma-vibhūtayaḥ
-prādhānyataḥ kuru-śhreṣhṭha nāstyanto vistarasya me
+śrībhagavānuvāca | 
+hanta te kathayiṣyāmi 
+divyā hyātmavibhūtayaḥ | 
+prādhānyataḥ kuruśreṣṭha 
+nāstyanto vistarasya me ||
 
-śhrī-bhagavān uvācha—the Lord spoke; hanta—yes; te—to you; kathayiṣhyāmi—I shall describe; divyāḥ—divine; hi—certainly; ātma-vibhūtayaḥ—my divine glories; prādhānyataḥ—salient; kuru-śhreṣhṭha—best of the Kurus; na—not; asti—is; antaḥ—limit; vistarasya—extensive glories; me—my
+◈  hanta – yes/well; te – to you; kathayiṣyāmi – I will declare; 
+◈  divyāḥ – divine; hi – indeed; ātma-vibhūtayaḥ – My own glories; 
+◈  prādhānyataḥ – according to their prominence; kuru-śreṣṭha – O best of the Kurus; 
+◈  na asti – there is no; antaḥ – end; vistarasya – to the extent/detail; me – of Mine.
 {eov}
 
 {sot}
@@ -87,10 +107,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 अहमात्मा गुडाकेश सर्वभूताशयस्थित: |
 अहमादिश्च मध्यं च भूतानामन्त एव च || 20||
 
-aham ātmā guḍākeśha sarva-bhūtāśhaya-sthitaḥ
-aham ādiśh cha madhyaṁ cha bhūtānām anta eva cha
+ahamātmā guḍākeśa 
+sarvabhūtāśayasthitaḥ | 
+ahamādiśca madhyaṃ ca 
+bhūtāmanta eva ca ||
 
-aham—I; ātmā—soul; —Arjun, the conqueror of sleep; sarva-bhūta—of all living entities; āśhaya-sthitaḥ—seated in the heart; aham—I; ādiḥ—the beginning; cha—and; madhyam—middle; cha—and; bhūtānām—of all beings; antaḥ—end; eva—even; cha—also
+◈  aham – I; ātmā – the Self; guḍākeśa – O Arjuna (conqueror of sleep); 
+◈  sarva-bhūta – of all beings; āśaya-sthitaḥ – seated in the heart; 
+◈  aham – I (am); ādiḥ – the beginning; ca – and; madhyam – the middle; ca – and; 
+◈  bhūtānām – of beings; antaḥ – the end; eva – also; ca – and.
 {eov}
 
 {sot}
@@ -104,10 +129,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् |
 मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी || 21||
 
-ādityānām ahaṁ viṣhṇur jyotiṣhāṁ ravir anśhumān
-marīchir marutām asmi nakṣhatrāṇām ahaṁ śhaśhī
+ādityānāmahaṃ viṣṇur
+jyotiṣāṃ raviraṃśumān | 
+marīcirmarutāmasmi 
+nakṣatrāṇāmahaṃ śaśī ||
 
-ādityānām—amongst the twelve sons of Aditi; aham—I; viṣhṇuḥ—Lord Vishnu; jyotiṣhām—amongst luminous objects; raviḥ—the sun; anśhu-mān—radiant; marīchiḥ—Marichi; marutām—of the maruts; asmi—(I) am; nakṣhatrāṇām—amongst the stars; aham—I; śhaśhī—the moon
+◈  ādityānām – of the Adityas; aham – I; viṣṇuḥ – Vishnu;
+◈  jyotiṣām – of lights; raviḥ – the sun; aṃśumān – radiant; 
+◈  marīciḥ – Marichi; marutām – of the Maruts (wind-gods); asmi – (I) am; 
+◈  nakṣatrāṇām – of stars; aham – I; śaśī – the moon.
 {eov}
 
 {sot}
@@ -121,14 +151,19 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 वेदानां सामवेदोऽस्मि देवानामस्मि वासव: |
 इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना || 22||
 
-vedānāṁ sāma-vedo ’smi devānām asmi vāsavaḥ
-indriyāṇāṁ manaśh chāsmi bhūtānām asmi chetanā
+vedānāṃ sāmavedo’smi 
+devānāmasmi vāsavaḥ | 
+indriyāṇāṃ manaścāsmi 
+bhūtānāmasmi cetanā ||
 
-vedānām—amongst the Vedas; sāma-vedaḥ—the Sama Veda; asmi—I am; devānām—of all the celestial gods; asmi—I am; vāsavaḥ̣—Indra; indriyāṇām—amongst the senses; manaḥ—the mind; ca—and; asmi—I am; bhūtānām—amongst the living beings; asmi—I am; chetanā—consciousness
+◈  vedānām – of the Vedas; sāma-vedaḥ – the Sama Veda; asmi – (I) am; 
+◈  devānām – of the gods; asmi – (I) am; vāsavaḥ – Indra; 
+◈  indriyāṇām – of the senses; manaḥ – the mind; ca – and; asmi – (I) am; 
+◈  bhūtānām – of living beings; asmi – (I) am; cetanā – consciousness.
 {eov}
 
 {sot}
-TRANSOf the Vedas I am the Sāma Veda; of the gods I am Indra. Of the senses I am the mind, and in living beings I am intelligence.LATION
+Of the Vedas I am the Sāma Veda; of the gods I am Indra. Of the senses I am the mind, and in living beings I am intelligence.
 {eot}
 
 {start_of_analysis}
