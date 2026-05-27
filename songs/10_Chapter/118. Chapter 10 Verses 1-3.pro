@@ -17,11 +17,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 भूय एव महाबाहो शृणु मे परमं वच: |
 यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया || 1||
 
-śhrī bhagavān uvācha
-bhūya eva mahā-bāho śhṛiṇu me paramaṁ vachaḥ
-yatte ’haṁ prīyamāṇāya vakṣhyāmi hita-kāmyayā
+śrībhagavānuvāca | 
+bhūya eva mahābāho 
+śṛṇu me paramaṃ vacaḥ | 
+yatte’haṃ prīyamāṇāya vakṣyāmi hitakāmyayā ||
 
-śhrī-bhagavān uvācha—the Lord said; bhūyaḥ—again; eva—verily; mahā-bāho—mighty armed one; śhṛiṇu—hear; me—my; paramam—divine; vachaḥ—teachings; yat—which; te—to you; aham—I; prīyamāṇāya—you are my beloved confidant; vakṣhyāmi—say; hita-kāmyayā—desiring your welfare
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  bhūyaḥ – again; eva – certainly; mahā-bāho – O mighty-armed one; 
+◈  śṛṇu – listen; me – My; paramam – supreme; vacaḥ – word; 
+◈  yat – which; te – to you; aham – I; prīyamāṇāya – who are beloved/delighted; vakṣyāmi – will say; hita-kāmyayā – wishing your welfare.
 {eov}
 
 {sot}
@@ -35,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 न मे विदु: सुरगणा: प्रभवं न महर्षय: |
 अहमादिर्हि देवानां महर्षीणां च सर्वश: || 2||
 
-na me viduḥ sura-gaṇāḥ prabhavaṁ na maharṣhayaḥ
-aham ādir hi devānāṁ maharṣhīṇāṁ cha sarvaśhaḥ
+na me viduḥ suragaṇāḥ 
+prabhavaṃ na maharṣayaḥ |
+ahamādirhi devānāṃ 
+maharṣīṇāṃ ca sarvaśaḥ ||
 
-na—neither; me—my; viduḥ—know; sura-gaṇāḥ—the celestial gods; prabhavam—origin; na—nor; mahā-ṛiṣhayaḥ—the great sages; aham—I; ādiḥ—the source; hi—certainly; devānām—of the celestial gods; mahā-ṛiṣhīṇām—of the great seers; cha—also; sarvaśhaḥ—in every way
+◈   na – ne / ani; me – Můj; viduḥ – znají; sura-gaṇāḥ – zástupy polobohů; 
+◈   prabhavam – původ / zrození; na – ani; mahā-ṛṣayaḥ – velcí mudrci; 
+◈   aham – Já; ādiḥ – počátek; hi – neboť / vskutku; devānām – polobohů; 
+◈   maharṣīṇām – velkých mudrců; ca – a; sarvaśaḥ – v každém ohledu.
+
 {eov}
 
 {sot}
@@ -52,10 +62,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10
 यो मामजमनादिं च वेत्ति लोकमहेश्वरम् |
 असम्मूढ: स मर्त्येषु सर्वपापै: प्रमुच्यते || 3||
 
-yo māmajam anādiṁ cha vetti loka-maheśhvaram
-asammūḍhaḥ sa martyeṣhu sarva-pāpaiḥ pramuchyate
+yo māmajamānādiṃ ca 
+vetti lokamaheśvaram |
+asammūḍhaḥ sa martyeṣu 
+sarvapāpaiḥ pramucyate ||
 
-yaḥ—who; mām—me; ajam—unborn; anādim—beginningless; cha—and; vetti—know; loka—of the universe; mahā-īśhvaram—the Supreme Lord; asammūḍhaḥ—undeluded; saḥ—they; martyeṣhu—among mortals; sarva-pāpaiḥ—from all evils; pramuchyate—are free from
+◈   yaḥ – kdo; mām – Mě; ajam – nezrozeného; anādim – bez počátku; ca – a; 
+◈   vetti – zná; loka-maheśvaram – Nejvyššího Pána světů;
+◈   asammūḍhaḥ – nezmatený / bez klamu; saḥ – on; martyeṣu – mezi smrtelníky; 
+◈   sarva-pāpaiḥ – od všech hříchů; pramucyate – je osvobozen.
+
 {eov}
 
 {sot}
