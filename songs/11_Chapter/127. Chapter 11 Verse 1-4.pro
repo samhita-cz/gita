@@ -17,11 +17,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 मदनुग्रहाय परमं गुह्यमध्यात्मसञ्ज्ञितम् |
 यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम || 1||
 
-arjuna uvācha
-mad-anugrahāya paramaṁ guhyam adhyātma-sanjñitam
-yat tvayoktaṁ vachas tena moho ’yaṁ vigato mama
+arjuna uvāca | 
+madanugrahāya paramaṃ guhya-madhyātmasaṃjñitam | 
+yattvayoktaṃ vacastena 
+moho’yaṃ vigato mama ||
 
-arjunaḥ uvācha—Arjun said; mat-anugrahāya—out of compassion to me; paramam—supreme; guhyam—confidential; adhyātma-sanjñitam—about spiritual knowledge; yat—which; tvayā—by you; uktam—spoken; vachaḥ—words; tena—by that; mohaḥ—illusion; ayam—this; vigataḥ—is dispelled; mama—my
+◈  arjuna uvāca – Arjuna said; 
+◈  mat-anugrahāya – for my grace (to favor me); paramam – supreme; guhyam – secret; adhyātma-saṃjñitam – known as spiritual; 
+◈  yat – which; tvayā – by You; uktam – spoken; vacaḥ – word; tena – by that; 
+◈  mohaḥ – delusion; ayam – this; vigataḥ – is gone; mama – my.
 {eov}
 
 {sot}
@@ -35,10 +39,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 भवाप्ययौ हि भूतानां श्रुतौ विस्तरशो मया |
 त्वत्त: कमलपत्राक्ष माहात्म्यमपि चाव्ययम् || 2||
 
-bhavāpyayau hi bhūtānāṁ śhrutau vistaraśho mayā
-tvattaḥ kamala-patrākṣha māhātmyam api chāvyayam
+bhavāpyayau hi bhūtānāṃ 
+śrutau vistaraśo mayā | 
+tvattaḥ kamalapatrākṣa 
+māhātmyamapi cāvyayam ||
 
-bhava—appearance; apyayau—disappearance; hi—indeed; bhūtānām—of all living beings; śhrutau—have heard; vistaraśhaḥ—in detail; mayā—by me; tvattaḥ—from you; kamala-patra-akṣha—lotus-eyed one; māhātmyam—greatness; api—also; cha—and; avyayam—eternal
+◈  bhava-apyayau – the origin and dissolution; hi – indeed; 
+◈  bhūtānām – of beings; śrutau – have been heard; vistaraśaḥ – in detail; 
+◈  mayā – by me; tvattaḥ – from You; kamala-patra-akṣa – O lotus-eyed one; 
+◈  māhātmyam – greatness; api – also; ca – and; avyayam – inexhaustible/eternal.
 {eov}
 
 {sot}
@@ -52,10 +61,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 एवमेतद्यथात्थ त्वमात्मानं परमेश्वर |
 द्रष्टुमिच्छामि ते रूपमैश्वरं पुरुषोत्तम || 3||
 
-evam etad yathāttha tvam ātmānaṁ parameśhvara
-draṣhṭum ichchhāmi te rūpam aiśhwaraṁ puruṣhottama
+evametadyathāttha tvam
+ātmānaṃ parameśvara | 
+draṣṭumicchāmi te rūpam
+aiśvaraṃ puruṣottama ||
 
-evam—thus; etat—this; yathā—as; āttha—have spoken; tvam—you; ātmānam—yourself; parama-īśhvara—Supreme Lord; draṣhṭum—to see; ichchhāmi—I desire; te—your; rūpam—form; aiśhwaram—divine; puruṣha-uttama—Shree Krishna, the Supreme Divine Personality
+◈  evam – thus; etat – this; yathā – as; āttha – (You) have declared; tvam – You; 
+◈  ātmānam – Yourself; parameśvara – O Supreme Lord; 
+◈  draṣṭum – to see; icchāmi – I wish; te – Your; rūpam – form; 
+◈  aiśvaram – divine/sovereign; puruṣottama – O Supreme Person.
+
 {eov}
 
 {sot}
@@ -69,10 +84,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो |
 योगेश्वर ततो मे त्वं दर्शयात्मानमव्ययम् || 4||
 
-manyase yadi tach chhakyaṁ mayā draṣhṭum iti prabho
-yogeśhvara tato me tvaṁ darśhayātmānam avyayam
+manyase yadi tacchakyaṃ 
+mayā draṣṭumiti prabho | 
+yogeśvara tato me tvaṃ 
+darśayātmānamavyayam ||
 
-manyase—you think; yadi—if; tat—that; śhakyam—possible; mayā—by me; draṣhṭum—to behold; iti—thus; prabho—Lord; yoga-īśhvara—Lord of all mystic powers; tataḥ—then; me—to me; tvam—you; darśhaya—reveal; ātmānam—yourself; avyayam—imperishable
+◈  manyase – (You) think; yadi – if; tat – that; śakyam – possible; 
+◈  mayā – by me; draṣṭum – to be seen; iti – thus; prabho – O Lord; 
+◈  yogeśvara – O Lord of Yoga; tataḥ – then; me – to me; tvam – You; 
+◈  darśaya – show; ātmānam – Your Self; avyayam – eternal/imperishable.
 {eov}
 
 {sot}

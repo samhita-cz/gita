@@ -17,11 +17,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 पश्य मे पार्थ रूपाणि शतशोऽथ सहस्रश: |
 नानाविधानि दिव्यानि नानावर्णाकृतीनि च || 5||
 
-śhrī-bhagavān uvācha
-paśhya me pārtha rūpāṇi śhataśho ’tha sahasraśhaḥ
-nānā-vidhāni divyāni nānā-varṇākṛitīni cha
+rībhagavānuvāca | 
+paśya me pārtha rūpāṇi 
+śataśo’tha sahasraśaḥ | 
+nānāvidhāni divyāni 
+nānāvarṇākṛtīni ca ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; paśhya—behold; me—my; pārtha—Arjun, the son of Pritha; rūpāṇi—forms; śhataśhaḥ—by the hundreds; atha—and; sahasraśhaḥ—thousands; nānā-vidhāni—various; divyāni—divine; nānā—various; varṇa—colors; ākṛitīni—shapes; cha—and
+◈  śrī-bhagavān uvāca – the Blessed Lord said; 
+◈  paśya – behold; me – My; pārtha – O Partha; rūpāṇi – forms; śataśaḥ – by hundreds; atha – and; sahasraśaḥ – by thousands; 
+◈  nānā-vidhāni – of various kinds; divyāni – divine; 
+◈  nānā-varṇa-ākṛtīni – of various colors and shapes; ca – and.
 {eov}
 
 {sot}
@@ -35,10 +40,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 पश्यादित्यान्वसून् रुद्रानश्विनौ मरुतस्तथा |
 बहून्यदृष्टपूर्वाणि पश्याश्चर्याणि भारत || 6||
 
-paśhyādityān vasūn rudrān aśhvinau marutas tathā
-bahūny adṛiṣhṭa-pūrvāṇi paśhyāśhcharyāṇi bhārata
+paśyādityānvasūnrudrān
+aśvinau marutastathā | 
+bahūnyadṛṣṭapūrvāṇi 
+paśyāścaryāṇi bhārata ||
 
-paśhya—behold; ādityān—the (twelve) sons of Aditi; vasūn—the (eight) vasus; rudrān—the (eleven) rudras; aśhvinau—the (twin) Ashvini Kumars; marutaḥ—the (forty-nine) maruts; tathā—and; bahūni—many; adṛiṣhṭa—never revealed; pūrvāṇi—before; paśhya—behold; āśhcharyāṇi—marvels; bhārata—Arjun, scion of the Bharatas
+◈  paśya – behold; ādityān – the Adityas; vasūn – the Vasus; rudrān – the Rudras; 
+◈  aśvinau – the two Ashwins; marutaḥ – the Maruts; tathā – as also; 
+◈  bahūni – many; adṛṣṭa-pūrvāṇi – never seen before; 
+◈  paśya – see; āścaryāṇi – wonders; bhārata – O descendant of Bharata.
 
 {eov}
 
@@ -53,10 +63,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् |
 मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि || 7||
 
-ihaika-sthaṁ jagat kṛitsnaṁ paśhyādya sa-charācharam
-mama dehe guḍākeśha yach chānyad draṣhṭum ichchhasi
+ihaikasthaṃ jagatkṛtsnaṃ 
+paśyādya sacarācaram | 
+mama dehe guḍākeśa 
+yaccānyaddraṣṭumicchasi ||
 
-iha—here; eka-stham—assembled together; jagat—the universe; kṛitsnam—entire; paśhya—behold; adya—now; sa—with; chara—the moving; acharam—the non- moving; mama—my; dehe—in this form; guḍākeśha—Arjun, the conqueror of sleep; yat—whatever; cha—also; anyat—else; draṣhṭum—to see; ichchhasi—you wish
+◈  iha – here; eka-stham – centered in one; jagat – universe; kṛtsnam – entire; 
+◈  paśya – see; adya – now; sa-cara-acaram – with the moving and the unmoving; 
+◈  mama – My; dehe – in body; guḍākeśa – O Arjuna; 
+◈  yat – which; ca – and; anyat – other; draṣṭum – to see; icchasi – you wish.
 {eov}
 
 {sot}
@@ -70,10 +85,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 न तु मां शक्यसे द्रष्टुमनेनैव स्वचक्षुषा |
 दिव्यं ददामि ते चक्षु: पश्य मे योगमैश्वरम् || 8||
 
-na tu māṁ śhakyase draṣhṭum anenaiva sva-chakṣhuṣhā
-divyaṁ dadāmi te chakṣhuḥ paśhya me yogam aiśhwaram
+na tu māṃ śakyase draṣṭum
+anenaiva svacakṣuṣā | 
+divyaṃ dadāmi te cakṣuḥ 
+paśya me yogamaiśvaram ||
 
-na—not; tu—but; mām—me; śhakyase—you can; draṣhṭum—to see; anena—with these; eva—even; sva-chakṣhuṣhā—with your physical eyes; divyam—divine; dadāmi—I give; te—to you; chakṣhuḥ—eyes; paśhya—behold; me—my; yogam aiśhwaram—majestic opulence
+◈  na – not; tu – but; mām – Me; śakyase – you are able; draṣṭum – to see; 
+◈  anena – with this; eva – alone; sva-cakṣuṣā – with your own eye; 
+◈  divyam – divine; dadāmi – I give; te – to you; cakṣuḥ – eye; 
+◈  paśya – behold; me – My; yogam aiśvaram – divine power of Yoga.
 {eov}
 
 {sot}
@@ -89,36 +109,64 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 एवमुक्त्वा ततो राजन्महायोगेश्वरो हरि: |
 दर्शयामास पार्थाय परमं रूपमैश्वरम् || 9||
 
-sañjaya uvācha
-evam uktvā tato rājan mahā-yogeśhvaro hariḥ
-darśhayām āsa pārthāya paramaṁ rūpam aiśhwaram
+sañjaya uvāca | 
+evamuktvā tato rājan
+mahāyogeśvaro hariḥ | 
+darśayāmāsa pārthāya 
+paramaṃ rūpamaiśvaram ||
 
-sañjayaḥ uvācha—Sanjay said; evam—thus; uktvā—having spoken; tataḥ—then; rājan—king; mahā-yoga-īśhvaraḥ—the Supreme Lord of Yog; hariḥ—Shree Krishna; darśhayām āsa—displayed; pārthāya—to Arjun; paramam—divine; rūpam aiśhwaram—opulent form
+◈  sañjaya uvāca – Sanjaya said; 
+◈  evam – thus; uktvā – having spoken; tataḥ – then; rājan – O King; 
+◈  mahā-yoga-īśvaraḥ – the great Lord of Yoga; hariḥ – Hari (Krishna); 
+◈  darśayāmāsa – showed; pārthāya – to Partha (Arjuna); 
+◈  paramam – the supreme; rūpam aiśvaram – divine/sovereign form.
 {eov}
 
 {sot}
 Sanjaya said: Having spoken thus, Ο King, Hari, the great Lord of Yoga, revealed to Arjuna His supreme form as Iśvara:
 {eot}
 
-{sov: Verse 11.10-11}
+{sov: Verse 11.10}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-10-11.mp3 | 11.10-11
 
 अनेकवक्त्रनयनमनेकाद्भुतदर्शनम् |
 अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम् || 10||
-दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् |
-सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् || 11||
 
-aneka-vaktra-nayanam anekādbhuta-darśhanam
-aneka-divyābharaṇaṁ divyānekodyatāyudham
-divya-mālyāmbara-dharaṁ divya-gandhānulepanam
-sarvāśhcharya-mayaṁ devam anantaṁ viśhvato-mukham
+anekavaktranayanam
+anekādbhutadarśanam | 
+anekadivyābharaṇaṃ 
+divyānekodyatāyudham ||
 
-aneka—many; vaktra—faces; nayanam—eyes; aneka—many; adbhuta—wonderful; darśhanam—had a vision of; aneka—many; divya—divine; ābharaṇam—ornaments; divya—divine; aneka—many; udyata—uplifted; āyudham—weapons; divya—divine; mālya—garlands; āmbara—garments; dharam—wearing; divya—divine; gandha—fragrances; anulepanam—anointed with; sarva—all; āśhcharya-mayam—wonderful; devam—Lord; anantam—unlimited; viśhwataḥ—all sides; mukham—face
+◈  aneka – many; vaktra – mouths; nayanam – eyes; 
+◈  aneka – many; adbhuta – wonderful; darśanam – sights; 
+◈  aneka – many; divya – divine; ābharaṇam – ornaments; 
+◈  divya – divine; aneka – many; udyata – uplifted; āyudham – weapons.
 {eov}
 
 {sot}
-With many faces and eyes, presenting many wondrous sights, bedecked with many celestial ornaments, armed with many divine uplifted weapons; wearing celestial garlands and vestments, anointed with divine perfumes, all-wonderful, resplendent, boundless, and with faces on all sides.
+With many mouths and eyes, with many wonderful sights, with many divine ornaments and with many divine weapons uplifted.
+{eot}
+
+{sov: Verse 11.11}
+
+दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम् |
+सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम् || 11||
+
+divyamālyāmbaradharaṃ 
+divyagandhānulepanam | 
+sarvāścaryamayaṃ devam
+anantaṃ viśvatomukham ||
+
+◈  divya – divine; mālya – garlands; ambara – garments; dharam – wearing; 
+◈  divya – divine; gandha – fragrances; anulepanam – smeared with; 
+◈  sarva – all; āścarya-mayam – full of wonders; devam – the resplendent Deity; 
+◈  anantam – infinite; viśvato-mukham – with faces on all sides.
+
+{eov}
+
+{sot}
+Wearing divine garlands and garments, anointed with divine fragrances, full of all wonders, resplendent, infinite and with faces on all sides.
 {eot}
 
 {sov: Verse 11.12}
@@ -128,10 +176,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता |
 यदि भा: सदृशी सा स्याद्भासस्तस्य महात्मन: || 12||
 
-divi sūrya-sahasrasya bhaved yugapad utthitā
-yadi bhāḥ sadṛiśhī sā syād bhāsas tasya mahātmanaḥ
+divi sūryasahasrasya 
+bhavedyugapadutthitā | 
+yadi bhāḥ sadṛśī sā syād
+bhāsastasya mahātmanaḥ ||
 
-divi—in the sky; sūrya—suns; sahasrasya—thousand; bhavet—were; yugapat—simultaneously; utthitā—rising; yadi—if; bhāḥ—splendor; sadṛiśhī—like; sā—that; syāt—would be; bhāsaḥ—splendor; tasya—of them; mahā-ātmanaḥ—the great personality
+◈  divi – in the sky; sūrya-sahasrasya – of a thousand suns; 
+◈  bhavet – were to be; yugapat – at once; utthitā – risen; 
+◈  yadi – if; bhāḥ – radiance; sadṛśī – like; sā – that; syāt – would be; 
+◈  bhāsaḥ – the splendor; tasya – of that; mahā-ātmanaḥ – of the Great Soul (Universal Form).
 {eov}
 
 {sot}
@@ -145,10 +198,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा |
 अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा || 13||
 
-tatraika-sthaṁ jagat kṛitsnaṁ pravibhaktam anekadhā
-apaśhyad deva-devasya śharīre pāṇḍavas tadā
+tatraikasthaṃ jagatkṛtsnaṃ 
+pravibhaktamanekadhā | 
+apaśyaddevadevasya 
+śarīre pāṇḍavastadā ||
 
-tatra—there; eka-stham—established in one place; jagat—the universe; kṛitsnam—entire; pravibhaktam—divided; anekadhā—many; apaśhyat—could see; deva-devasya—of the God of gods; śharīre—in the body; pāṇḍavaḥ—Arjun; tadā—at that time
+◈  tatra – there; eka-stham – centered in one; jagat – universe; kṛtsnam – whole; 
+◈  pravibhaktam – divided; anekadhā – into many parts; 
+◈  apaśyat – saw; deva-devasya – of the God of gods; 
+◈  śarīre – in the body; pāṇḍavaḥ – the son of Pandu (Arjuna); tadā – then.
 {eov}
 
 {sot}
@@ -162,10 +220,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तत: स विस्मयाविष्टो हृष्टरोमा धनञ्जय: |
 प्रणम्य शिरसा देवं कृताञ्जलिरभाषत || 14||
 
-tataḥ sa vismayāviṣhṭo hṛiṣhṭa-romā dhanañjayaḥ
-praṇamya śhirasā devaṁ kṛitāñjalir abhāṣhata
+tataḥ sa vismayāviṣṭo 
+hṛṣṭaromā dhanañjayaḥ | 
+praṇamya śirasā devaṃ 
+kṛtāñjalirabhāṣata ||
 
-tataḥ—then; saḥ—he; vismaya-āviṣhṭaḥ—full of wonder; hṛiṣhṭa-romā—with hair standing on end; dhanañjayaḥ—Arjun, the conqueror of wealth; praṇamya—bow down; śhirasā—with (his) head; devam—the Lord; kṛita-añjaliḥ—with folded hands; abhāṣhata—he addressed
+◈  tataḥ – then; saḥ – he; vismaya-āviṣṭaḥ – filled with amazement; 
+◈  hṛṣṭa-romā – with hair standing on end; dhanañjayaḥ – Dhananjaya (Arjuna); 
+◈  praṇamya – bowing down; śirasā – with the head; devam – to the Deity; 
+◈  kṛta-añjaliḥ – with folded hands; abhāṣata – spoke.
 {eov}
 
 {sot}

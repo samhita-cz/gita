@@ -9,7 +9,7 @@ https://youtu.be/b60sR_F5wmA?si=YE8E3azSKqrCt2MF
 
 https://open.spotify.com/episode/2R6oRyIUIe71rgGdot76mQ?si=cb329fd7541146ef
 
-{sov: Verse 11.26-27}
+{sov: Verse 11.26}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-26-27.mp3 | 11.26-27
 
@@ -17,25 +17,42 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 सर्वे सहैवावनिपालसङ्घै: |
 भीष्मो द्रोण: सूतपुत्रस्तथासौ
 सहास्मदीयैरपि योधमुख्यै: || 26||
+
+amī ca tvāṃ dhṛtarāṣṭrasya putrāḥ 
+sarve sahaivāvanipālasaṅghaiḥ | 
+bhīṣmo droṇaḥ sūtaputrastathāsau 
+sahāsmadīyairapi yodhamukhyaiḥ || 26 || 
+
+◈  amī – these; ca – and; tvām – You; dhṛtarāṣṭrasya – of Dhritarashtra; putrāḥ – sons; 
+◈  sarve – all; saha – with; eva – even; avanipāla-saṅghaiḥ – hosts of kings; 
+◈  bhīṣmaḥ – Bhishma; droṇaḥ – Drona; sūta-putraḥ – Karna (the charioteer's son); tathā – also; asau – that; 
+◈  saha – with; asmadīyaiḥ – our; api – also; yodha-mukhyaiḥ – chief warriors; 
+
+{sot}
+And all these sons of Dhritarashtra, along with the hosts of kings, as well as Bhishma, Drona, that son of Suta (Karna), and also our own chief warriors. 
+{eot}
+
+{sov: Verse 11.27}
+
 वक्त्राणि ते त्वरमाणा विशन्ति
 दंष्ट्राकरालानि भयानकानि |
 केचिद्विलग्ना दशनान्तरेषु
 सन्दृश्यन्ते चूर्णितैरुत्तमाङ्गै: || 27||
 
-amī cha tvāṁ dhṛitarāśhtrasya putrāḥ
-sarve sahaivāvani-pāla-saṅghaiḥ
-bhīṣhmo droṇaḥ sūta-putras tathāsau
-sahāsmadīyair api yodha-mukhyaiḥ
-vaktrāṇi te tvaramāṇā viśhanti
-danṣhṭrā-karālāni bhayānakāni
-kechid vilagnā daśhanāntareṣhu
-sandṛiśhyante chūrṇitair uttamāṅgaiḥ
+vaktrāṇi te tvaramāṇā viśanti 
+daṃṣṭrākarālāni bhayānakāni | 
+kecidvilagnā daśanāntareṣu 
+saṃdṛśyante cūrṇitairuttamāṅgaiḥ || 27 ||
 
-amī—these; cha—and; tvām—you; dhṛitarāśhtrasya—of Dhritarashtra; putrāḥ—sons; sarve—all; saha—with; eva—even; avani-pāla—their allied kings; sanghaiḥ—assembly; bhīṣhmaḥ—Bheeshma; droṇaḥ—Dronacharya; sūta-putraḥ—Karna; tathā—and also; asau—this; saha—with; asmadīyaiḥ—from our side; api—also; yodha-mukhyaiḥ—generals; vaktrāṇi—mouths; te—your; tvaramāṇāḥ—rushing; viśhanti—enter; danṣhṭrā—teeth; karālāni—terrible; bhayānakāni—fearsome; kechit—some; vilagnāḥ—getting stuck; daśhana-antareṣhu—between the teeth; sandṛiśhyante—are seen; chūrṇitaiḥ—getting smashed; uttama-aṅgaiḥ—heads
+◈  vaktrāṇi – mouths; te – Your; tvaramāṇāḥ – hurrying; viśanti – enter; 
+◈  daṃṣṭrā-karālāni – terrible with tusks; bhayānakāni – fearful; 
+◈  kecit – some; vilagnāḥ – stuck; daśana-antareṣu – between the teeth; 
+◈  saṃdṛśyante – are seen; cūrṇitaiḥ – with crushed; uttama-aṅgaiḥ – heads.
+
 {eov}
 
 {sot}
-All these sons of Dhritarāshtra, together with the hosts of monarchs, and Bhishma, Drona, and Karna, and the warrior chiefs of our side as well, enter precipitately Thy tusked and terrible mouths, frightful to behold. Some are seen caught between Thy teeth, their heads crushed to powder.
+Rushing swiftly, they enter Your mouths, which are terrible with fangs and frightful. Some are seen trapped between Your teeth, with their heads crushed.
 {eot}
 
 {sov: Verse 11.28}
@@ -47,12 +64,14 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तथा तवामी नरलोकवीरा
 विशन्ति वक्त्राण्यभिविज्वलन्ति || 28||
 
-yathā nadīnāṁ bahavo ’mbu-vegāḥ
-samudram evābhimukhā dravanti
-tathā tavāmī nara-loka-vīrā
-viśhanti vaktrāṇy abhivijvalanti
+yyathā nadīnāṃ bahavo’mbuvegāḥ samudramevābhimukhā dravanti | 
+tathā tavāmī naralokavīrā 
+viśanti vaktrāṇyabhivijvalanti ||
 
-yathā—as; nadīnām—of the rivers; bahavaḥ—many; ambu-vegāḥ—water waves; samudram—the ocean; eva—indeed; abhimukhāḥ—toward; dravanti—flowing rapidly; tathā—similarly; tava—your; amī—these; nara-loka-vīrāḥ—kings of human society; viśhanti—enter; vaktrāṇi—mouths; abhivijvalanti—blazing;
+◈  yathā – as; nadīnām – of rivers; bahavaḥ – many; ambu-vegāḥ – torrents of water; 
+◈  samudram – the ocean; eva – verily; abhimukhāḥ – towards; dravanti – flow; 
+◈  tathā – so; tava – Your; amī – these; nara-loka-vīrāḥ – heroes of the world of men; 
+◈  viśanti – enter; vaktrāṇi – mouths; abhivijvalanti – blazing on all sides.
 {eov}
 
 {sot}
@@ -68,12 +87,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तथैव नाशाय विशन्ति लोका-
 स्तवापि वक्त्राणि समृद्धवेगा: || 29||
 
-yathā pradīptaṁ jvalanaṁ pataṅgā
-viśhanti nāśhāya samṛiddha-vegāḥ
-tathaiva nāśhāya viśhanti lokās
-tavāpi vaktrāṇi samṛiddha-vegāḥ
+yathā pradīptaṃ jvalanaṃ pataṅgā 
+viśanti nāśāya samṛddhavegāḥ | 
+tathaiva nāśāya viśanti lokās
+tavāpi vaktrāṇi samṛddhavegāḥ ||
 
-yathā—as; pradīptam—blazing; jvalanam—fire; pataṅgāḥ—moths; viśhanti—enter; nāśhāya—to be perished; samṛiddha vegāḥ—with great speed; tathā eva—similarly; nāśhāya—to be perished; viśhanti—enter; lokāḥ—these people; tava—your; api—also; vaktrāṇi—mouths; samṛiddha-vegāḥ—with great speed
+◈  yathā – as; pradīptam – blazing; jvalanam – fire; pataṅgāḥ – moths; 
+◈  viśanti – enter; nāśāya – for destruction; samṛddha-vegāḥ – with accelerated speed; 
+◈  tathā eva – even so; nāśāya – for destruction; viśanti – enter; lokāḥ – people/worlds; 
+◈  tava – Your; api – also; vaktrāṇi – mouths; samṛddha-vegāḥ – with accelerated speed.
 {eov}
 
 {sot}
@@ -90,11 +112,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 भासस्तवोग्रा: प्रतपन्ति विष्णो || 30||
 
 lelihyase grasamānaḥ samantāl
-lokān samagrān vadanair jvaladbhiḥ
-tejobhir āpūrya jagat samagraṁ
-bhāsas tavogrāḥ pratapanti viṣhṇo
+lokānsamagrānvadanairjvalad bhiḥ | 
+tejobhirāpūrya jagatsamagraṃ 
+bhāsastavogrāḥ pratapanti viṣṇo ||
 
-lelihyase—you are licking; grasamānaḥ—devouring; samantāt—on all sides; lokān—worlds; samagrān—all; vadanaiḥ—with mouths; jvaladbhiḥ—blazing; tejobhiḥ—by effulgence; āpūrya—filled with; jagat—the universe; samagram—all; bhāsaḥ—rays; tava—your; ugrāḥ—fierce; pratapanti—scorching; viṣhṇo—Lord Vishnu
+◈  lelihyase – You lick; grasamānaḥ – swallowing; samantāt – on all sides; 
+◈  lokān – the worlds; samagrān – all; vadanaiḥ – with mouths; jvalad-bhiḥ – flaming; 
+◈  tejobhiḥ – with radiance; āpūrya – filling; jagat – the universe; samagram – entire; 
+◈  bhāsaḥ – rays/splendor; tava – Your; ugrāḥ – terrible; pratapanti – burn; viṣṇo – O Vishnu.
+
 {eov}
 
 {sot}
@@ -110,12 +136,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 विज्ञातुमिच्छामि भवन्तमाद्यं
 न हि प्रजानामि तव प्रवृत्तिम् || 31||
 
-ākhyāhi me ko bhavān ugra-rūpo
-namo ’stu te deva-vara prasīda
-vijñātum ichchhāmi bhavantam ādyaṁ
-na hi prajānāmi tava pravṛittim
+ākhyāhi me ko bhavānugrarūpo 
+namo’stu te devavara prasīda | 
+vijñātumicchāmi bhavantamādyaṃ 
+na hi prajānāmi tava pravṛttim ||
 
-ākhyāhi—tell; me—me; kaḥ—who; bhavān—you; ugra-rūpaḥ—fierce form; namaḥ astu—I bow; te—to you; deva-vara—God of gods; prasīda—be merciful; vijñātum—to know; ichchhāmi—I wish; bhavantam—you; ādyam—the primeval; na—not; hi—because; prajānāmi—comprehend; tava—your; pravṛittim—workings
+◈  ākhyāhi – tell; me – to me; kaḥ – who; bhavān – You (are); ugra-rūpaḥ – of terrible form; 
+◈  namaḥ astu – salutations be; te – to You; deva-vara – O Supreme God; prasīda – be gracious; 
+◈  vijñātum – to know; icchāmi – I wish; bhavantam – You; ādyam – the Primal One; 
+◈  na – not; hi – indeed; prajānāmi – I understand; tava – Your; pravṛttim – purpose/working.
 {eov}
 
 {sot}
@@ -132,13 +161,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 ऋतेऽपि त्वां न भविष्यन्ति सर्वे
 येऽवस्थिता: प्रत्यनीकेषु योधा: || 32||
 
-śhrī-bhagavān uvācha
-kālo ’smi loka-kṣhaya-kṛit pravṛiddho
-lokān samāhartum iha pravṛittaḥ
-ṛite ’pi tvāṁ na bhaviṣhyanti sarve
-ye ’vasthitāḥ pratyanīkeṣhu yodhāḥ
+śrībhagavānuvāca | 
+kālo’smi lokakṣayakṛtpravṛddho 
+lokānsamāhartumiha pravṛttaḥ | 
+ṛte’pi tvāṃ na bhaviṣyanti sarve 
+ye’vasthitāḥ pratyanīkeṣu yodhāḥ ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; kālaḥ—time; asmi—I am; loka-kṣhaya-kṛit—the source of destruction of the worlds; pravṛiddhaḥ—mighty; lokān—the worlds; samāhartum—annihilation; iha—this world; pravṛittaḥ—participation; ṛite—without; api—even; tvām—you; na bhaviṣhyanti—shall cease to exist; sarve—all; ye—who; avasthitāḥ—arrayed; prati-anīkeṣhu—in the opposing army; yodhāḥ—the warriors
+◈  śrī-bhagavān uvāca – the Blessed Lord said; 
+◈  kālaḥ – Time; asmi – I am; loka-kṣaya-kṛt – the destroyer of worlds; pravṛddhaḥ – mighty/matured; 
+◈  lokān – the worlds; samāhartum – to annihilate; iha – here; pravṛttaḥ – engaged; 
+◈  ṛte – without; api – even; tvām – you; na bhaviṣyanti – shall not live; sarve – all; 
+◈  ye – who; avasthitāḥ – arrayed; prati-anīkeṣu – in the opposing armies; yodhāḥ – warriors.
 {eov}
 
 {sot}
@@ -154,12 +187,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 मयैवैते निहता: पूर्वमेव
 निमित्तमात्रं भव सव्यसाचिन् || 33||
 
-tasmāt tvam uttiṣhṭha yaśho labhasva
-jitvā śhatrūn bhuṅkṣhva rājyaṁ samṛiddham
-mayaivaite nihatāḥ pūrvam eva
-nimitta-mātraṁ bhava savya-sāchin
+tasmāttvamuttiṣṭha yaśo labhasva 
+jitvā śatrūnbhuṅkṣva rājyaṃ samṛddham | 
+mayaivaite nihatāḥ pūrvameva 
+nimittamātraṃ bhava savyasācin ||
 
-tasmāt—therefore; tvam—you; uttiṣhṭha—arise; yaśhaḥ—honor; labhasva—attain; jitvā—conquer; śhatrūn—foes; bhuṅkṣhva—enjoy; rājyam—kingdom; samṛiddham—prosperous; mayā—by me; eva—indeed; ete—these; nihatāḥ—slain; pūrvam—already; eva nimitta-mātram—only an instrument; bhava—become; savya-sāchin—Arjun, the one who can shoot arrows with both hands
+◈  tasmāt – therefore; tvam – you; uttiṣṭha – stand up; yaśaḥ – glory; labhasva – win; 
+◈  jitvā – conquering; śatrūn – enemies; bhuṅkṣva – enjoy; rājyam – kingdom; samṛddham – prosperous; 
+◈  mayā – by Me; eva – alone; ete – these; nihatāḥ – slain; pūrvam eva – already; 
+◈  nimitta-mātram – a mere instrument; bhava – be; savyasācin – O Savyasachin (Arjuna, the ambidextrous archer).
 {eov}
 
 {sot}

@@ -19,13 +19,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तेजोमयं विश्वमनन्तमाद्यं
 यन्मे त्वदन्येन न दृष्टपूर्वम् || 47||
 
-śhrī-bhagavān uvācha
-mayā prasannena tavārjunedaṁ
-rūpaṁ paraṁ darśhitam ātma-yogāt
-tejo-mayaṁ viśhvam anantam ādyaṁ
-yan me tvad anyena na dṛiṣhṭa-pūrvam
+śrībhagavānuvāca | 
+mayā prasannena tavārjunedaṃ 
+rūpaṃ paraṃ darśitamātmayogāt | 
+tejomayaṃ viśvamanantamādyaṃ 
+yanme tvadanyena na dṛṣṭapūrvam ||
 
-śhrī-bhagavān uvācha—the Lord said; mayā—by me; prasannena—being pleased; tava—with you; arjuna—Arjun; idam—this; rūpam—form; param—divine; darśhitam—shown; ātma-yogāt—by my Yogmaya power; tejaḥ-mayam—resplendent; viśhwam—cosmic; anantam—unlimited; ādyam—primeval; yat—which; me—my; tvat anyena—other than you; na dṛiṣhṭa-pūrvam—no one has ever seen
+◈  śrī-bhagavān uvāca – the Blessed Lord said; 
+◈  mayā – by Me; prasannena – being pleased; tava – to you; arjuna – O Arjuna; idam – this; 
+◈  rūpam – form; param – supreme; darśitam – shown; ātma-yogāt – through My own power of Yoga;
+◈  tejaḥ-mayam – full of splendor; viśvam – universal; anantam – infinite; ādyam – primal; 
+◈  yat – which; me – My; tvat-anyena – by anyone other than you; na dṛṣṭa-pūrvam – has not been seen before.
+
 {eov}
 
 {sot}
@@ -41,12 +46,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 एवंरूप: शक्य अहं नृलोके
 द्रष्टुं त्वदन्येन कुरुप्रवीर || 48||
 
-na veda-yajñādhyayanair na dānair
-na cha kriyābhir na tapobhir ugraiḥ
-evaṁ-rūpaḥ śhakya ahaṁ nṛi-loke
-draṣhṭuṁ tvad anyena kuru-pravīra
+na vedayajñādhyayanairna dānair
+na ca kriyābhirna tapobhirugraiḥ | 
+evaṃrūpaḥ śakya ahaṃ nṛloke 
+draṣṭuṃ tvadanyena kurupravīra ||
 
-na—not; veda-yajña—by performance of sacrifice; adhyayanaiḥ—by study of the Vedas; na—nor; dānaiḥ—by charity; na—nor; cha—and; kriyābhiḥ—by rituals; na—not; tapobhiḥ—by austerities; ugraiḥ—severe; evam-rūpaḥ—in this form; śhakyaḥ—possible; aham—I; nṛi-loke—in the world of the mortals; draṣhṭum—to be seen; tvat—than you; anyena—by another; kuru-pravīra—the best of the Kuru warriors
+◈  na – not; veda-yajña-adhyayanaiḥ – by study of the Vedas and sacrifices; na dānaiḥ – not by gifts; 
+◈  na ca kriyābhiḥ – nor by rituals; na tapobhiḥ ugraiḥ – nor by severe penances; 
+◈  evam-rūpaḥ – in this form; śakyaḥ – possible; aham – I (am); nṛ-loke – in the world of men; 
+◈  draṣṭum – to be seen; tvat-anyena – by anyone other than you; kuru-pravīra – O great hero of the Kurus.
 {eov}
 
 {sot}
@@ -62,12 +70,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 व्यपेतभी: प्रीतमना: पुनस्त्वं
 तदेव मे रूपमिदं प्रपश्य || 49||
 
-mā te vyathā mā cha vimūḍha-bhāvo
-dṛiṣhṭvā rūpaṁ ghoram īdṛiṅ mamedam
-vyapeta-bhīḥ prīta-manāḥ punas tvaṁ
-tad eva me rūpam idaṁ prapaśhya
+mā te vyathā mā ca vimūḍhabhāvo 
+dṛṣṭvā rūpaṃ ghoramīdṛṅmamedam | 
+vyapetabhīḥ prītamanāḥ punastvaṃ 
+tadeva me rūpamidaṃ prapaśya ||
 
-mā te—you should not be; vyathā—afraid; mā—not; cha—and; vimūḍha-bhāvaḥ—bewildered state; dṛiṣhṭvā—on seeing; rūpam—form; ghoram—terrible; īdṛik—such; mama—of mine; idam—this; vyapeta-bhīḥ—free from fear; prīta-manāḥ—cheerful mind; punaḥ—again; tvam—you; tat eva—that very; me—my; rūpam—form; idam—this; prapaśhya—behold
+◈  mā – not; te – to you; vyathā – fear/pain; mā – not; ca – and; vimūḍha-bhāvaḥ – bewilderment; 
+◈  dṛṣṭvā – having seen; rūpam – form; ghoram – terrible; īdṛk – such; mama – My; idam – this; 
+◈  vyapeta-bhīḥ – free from fear; prīta-manāḥ – with a pleased mind; punaḥ – again; tvam – you; 
+◈  tat eva – that very; me – My; rūpam – form; idam – this; prapaśya – behold.
 {eov}
 
 {sot}
@@ -84,13 +95,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 आश्वासयामास च भीतमेनं
 भूत्वा पुन: सौम्यवपुर्महात्मा || 50||
 
-sañjaya uvācha
-ity arjunaṁ vāsudevas tathoktvā
-svakaṁ rūpaṁ darśhayām āsa bhūyaḥ
-āśhvāsayām āsa cha bhītam enaṁ
-bhūtvā punaḥ saumya-vapur mahātmā
+sañjaya uvāca | 
+ityarjunaṃ vāsudevastathoktvā 
+svakaṃ rūpaṃ darśayāmāsa bhūyaḥ | 
+āśvāsayāmāsa ca bhītamenanaṃ 
+bhūtvā punaḥ saumyavapurmahātmā ||
 
-sañjayaḥ uvācha—Sanjay said; iti—thus; arjunam—to Arjun; vāsudevaḥ—Krishna, the son of Vasudev; tathā—in that way; uktvā—having spoken; svakam—his personal; rūpam—form; darśhayām āsa—displayed; bhūyaḥ—again; āśhvāsayām āsa—consoled; cha—and; bhītam—frightened; enam—him; bhūtvā—becoming; punaḥ—again; saumya-vapuḥ—the gentle (two-armed) form; mahā-ātmā—the compassionate
+◈  sañjaya uvāca – Sanjaya said; 
+◈  iti – thus; arjunam – to Arjuna; vāsudevaḥ – Vasudeva (Krishna); tathā – so; uktvā – having spoken; 
+◈  svakam – His own; rūpam – form; darśayāmāsa – showed; bhūyaḥ – again; 
+◈  āśvāsayāmāsa – consoled; ca – and; bhītam – the terrified; enam – this one (Arjuna); 
+◈  bhūtvā – becoming; punaḥ – again; saumya-vapuḥ – of gentle form; mahā-ātmā – the Great Soul.
 {eov}
 
 {sot}
@@ -104,11 +119,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 दृष्ट्वेदं मानुषं रूपं तव सौम्यं जनार्दन |
 इदानीमस्मि संवृत्त: सचेता: प्रकृतिं गत: || 51||
 
-arjuna uvācha
-dṛiṣhṭvedaṁ mānuṣhaṁ rūpaṁ tava saumyaṁ janārdana
-idānīm asmi saṁvṛittaḥ sa-chetāḥ prakṛitiṁ gataḥ
+arjuna uvāca | 
+dṛṣṭvedaṃ mānuṣaṃ rūpaṃ 
+tava saumyaṃ janārdana | 
+idānīmasmi saṃvṛttaḥ 
+sacetāḥ prakṛtiṃ gataḥ ||
 
-arjunaḥ uvācha—Arjun said; dṛiṣhṭvā—seeing; idam—this; mānuṣham—human; rūpam—form; tava—your; saumyam—gentle; janārdana—he who looks after the public, Krishna; idānīm—now; asmi—I am; saṁvṛittaḥ—composed; sa-chetāḥ—in my mind; prakṛitim—to normality; gataḥ—have become
+◈  arjuna uvāca – Arjuna said; 
+◈  dṛṣṭvā – having seen; idam – this; mānuṣam – human; rūpam – form; 
+◈  tava – Your; saumyam – gentle; janārdana – O Janardana; 
+◈  idānīm – now; asmi – I am; saṃvṛttaḥ – settled/composed; 
+◈  sa-cetāḥ – with my mind; prakṛtim – to my normal nature; gataḥ – returned.
 {eov}
 
 {sot}
@@ -123,11 +144,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 सुदुर्दर्शमिदं रूपं दृष्टवानसि यन्मम |
 देवा अप्यस्य रूपस्य नित्यं दर्शनकाङ्क्षिण: || 52||
 
-śhrī-bhagavān uvācha
-su-durdarśham idaṁ rūpaṁ dṛiṣhṭavān asi yan mama
-devā apy asya rūpasya nityaṁ darśhana-kāṅkṣhiṇaḥ
+śrībhagavānuvāca | 
+sudurdarśamidaṃ rūpaṃ 
+dṛṣṭavānasi yanmama | 
+devā apyasya rūpasya 
+nityaṃ darśanakāṅkṣiṇaḥ ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; su-durdarśham—exceedingly difficult to behold; idam—this; rūpam—form; dṛiṣhṭavān asi—that you are seeing; yat—which; mama—of mine; devāḥ—the celestial gods; api—even; asya—this; rūpasya—form; nityam—eternally; darśhana-kāṅkṣhiṇaḥ—aspiring to see;
+◈  śrī-bhagavān uvāca – the Blessed Lord said; 
+◈  su-durdarśam – very hard to see; idam – this; rūpam – form; 
+◈  dṛṣṭavān asi – you have seen; yat – which; mama – My; 
+◈  devāḥ – the gods; api – even; asya – of this; rūpasya – form; 
+◈  nityam – constantly; darśana-kāṅkṣiṇaḥ – are longing to see.
+
 {eov}
 
 {sot}
@@ -140,10 +168,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 नाहं वेदैर्न तपसा न दानेन न चेज्यया |
 शक्य एवंविधो द्रष्टुं दृष्टवानसि मां यथा || 53||
 
-nāhaṁ vedair na tapasā na dānena na chejyayā
-śhakya evaṁ-vidho draṣhṭuṁ dṛiṣhṭavān asi māṁ yathā
+nāhaṃ vedairna tapasā 
+na dānena na cejyayā | 
+śakya evaṃvidho draṣṭuṃ 
+dṛṣṭavānasi māṃ yathā ||
 
-na—never; aham—I; vedaiḥ—by study of the Vedas; na—never; tapasā—by serious penances; na—never; dānena—by charity; na—never; cha—also; ijyayā—by worship; śhakyaḥ—it is possible; evam-vidhaḥ—like this; draṣhṭum—to see; dṛiṣhṭavān—seeing; asi—you are; mām—me; yathā—as
+◈  na – not; aham – I; vedaiḥ – by the Vedas; na tapasā – not by penance; 
+◈  na dānena – not by charity; na ca ijyayā – nor by sacrifice; 
+◈  śakyaḥ – possible; evaṃ-vidhaḥ – in this way; draṣṭum – to be seen; 
+◈  dṛṣṭavān asi – you have seen; mām – Me; yathā – as.
+
 {eov}
 
 {sot}
@@ -153,13 +187,18 @@ Neither by the Vedas, nor by penances, nor by alms-giving, nor yet by sacrifice,
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-54.mp3
 
-DEVAGIASTSLOVभक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |
+भक्त्या त्वनन्यया शक्य अहमेवंविधोऽर्जुन |
 ज्ञातुं द्रष्टुं च तत्त्वेन प्रवेष्टुं च परन्तप || 54||
 
-bhaktyā tv ananyayā śhakya aham evaṁ-vidho ’rjuna
-jñātuṁ draṣhṭuṁ cha tattvena praveṣhṭuṁ cha parantapa
+bbhaktyā tvananyayā śakya 
+ahamevaṃvidho’rjuna | 
+jñātuṃ draṣṭuṃ ca tattvena 
+praveṣṭuṃ ca parantapa ||
 
-bhaktyā—by devotion; tu—alone; ananyayā—unalloyed; śhakyaḥ—possible; aham—I; evam-vidhaḥ—like this; arjuna—Arjun; jñātum—to be known; draṣhṭum—to be seen; cha—and; tattvena—truly; praveṣhṭum—to enter into (union with me); cha—and; parantapa—scorcher of foesNIK
+◈  bhaktyā – by devotion; tu – but; ananyayā – unswerving/undivided; śakyaḥ – possible; 
+◈  aham – I; evam-vidhaḥ – in this way; arjuna – O Arjuna; 
+◈  jñātum – to be known; draṣṭum – to be seen; ca – and; tattvena – in reality; 
+◈  praveṣṭum – to be entered; ca – and; parantapa – O scorcher of foes.
 {eov}
 
 {sot}
@@ -173,10 +212,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 मत्कर्मकृन्मत्परमो मद्भक्त: सङ्गवर्जित: |
 निर्वैर: सर्वभूतेषु य: स मामेति पाण्डव || 55||
 
-mat-karma-kṛin mat-paramo mad-bhaktaḥ saṅga-varjitaḥ
-nirvairaḥ sarva-bhūteṣhu yaḥ sa mām eti pāṇḍava
+matkarmakṛnmatparamo 
+madbhaktaḥ saṅgavarijitaḥ | 
+nirvairaḥ sarvabhūteṣu 
+yaḥ sa māmeti pāṇḍava ||
 
-mat-karma-kṛit—perform duties for my sake; mat-paramaḥ—considering me the Supreme; mat-bhaktaḥ—devoted to me; saṅga-varjitaḥ—free from attachment; nirvairaḥ—without malice; sarva-bhūteṣhu—toward all entities; yaḥ—who; saḥ—he; mām—to me; eti—comes; pāṇḍava—Arjun, the son of Pandu
+◈  mat-karma-kṛt – he who performs actions for Me; mat-paramaḥ – he who looks upon Me as the Supreme; 
+◈  mat-bhaktaḥ – he who is My devotee; saṅga-varjitaḥ – free from attachment; 
+◈  nirvairaḥ – free from enmity; sarva-bhūteṣu – towards all beings; 
+◈  yaḥ – who; saḥ – he; mām – to Me; eti – comes; pāṇḍava – O son of Pandu.
 {eov}
 
 {sot}

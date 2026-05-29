@@ -18,12 +18,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 मया हतांस्त्वं जहि मा व्यथिष्ठा
 युध्यस्व जेतासि रणे सपत्नान् || 34||
 
-droṇaṁ cha bhīṣhmaṁ cha jayadrathaṁ cha
-karṇaṁ tathānyān api yodha-vīrān
-mayā hatāṁs tvaṁ jahi mā vyathiṣhṭhā
-yudhyasva jetāsi raṇe sapatnān
+droṇaṃ ca bhīṣmaṃ ca jayadrathaṃ ca 
+karṇaṃ tathānyānapi yodhavīrān | 
+mayā hatāṃstvaṃ jahi mā vyathiṣṭhā 
+yudhyasva jetāsi raṇe sapatnān ||
 
-droṇam—Dronacharya; cha—and; bhīṣhmam—Bheeshma; cha—and; jayadratham—Jayadratha; cha—and; karṇam—Karn; tathā—also; anyān—others; api—also; yodha-vīrān—brave warriors; mayā—by me; hatān—already killed; tvam—you; jahi—slay; mā—not; vyathiṣhṭhāḥ—be disturbed; yudhyasva—fight; jetā asi—you shall be victorious; raṇe—in battle; sapatnān—enemies
+◈  droṇam – Drona; ca – and; bhīṣmam – Bhishma; ca – and; jayadratham – Jayadratha; ca – and; 
+◈  karṇam – Karna; tathā – also; anyān – others; api – also; yodha-vīrān – warrior heroes; 
+◈  mayā – by Me; hatān – slain; tvam – you; jahi – kill; mā – not; vyathiṣṭhāḥ – be distressed; 
+◈  yudhyasva – fight; jetāsi – you shall conquer; raṇe – in battle; sapatnān – the enemies.
 {eov}
 
 {sot}
@@ -40,13 +43,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 नमस्कृत्वा भूय एवाह कृष्णं
 सगद्गदं भीतभीत: प्रणम्य || 35||
 
-sañjaya uvācha
-etach chhrutvā vachanaṁ keśhavasya
-kṛitāñjalir vepamānaḥ kirīṭī
-namaskṛitvā bhūya evāha kṛiṣhṇaṁ
-sa-gadgadaṁ bhīta-bhītaḥ praṇamya
+sañjaya uvāca | 
+etacchrutvā vacanaṃ keśavasya 
+kṛtāñjalirvepamānaḥ kirīṭī | 
+namaskṛtvā bhūya evāha kṛṣṇaṃ 
+sagad gadaṃ bhītabhītaḥ praṇamya ||
 
-sañjayaḥ uvācha—Sanjay said; etat—thus; śhrutvā—hearing; vachanam—words; keśhavasya—of Shree Krishna; kṛita-añjaliḥ—with joined palms; vepamānaḥ—trembling; kirītī—the crowned one, Arjun; namaskṛitvā—with palms joined; bhūyaḥ—again; eva—indeed; āha—spoke; kṛiṣhṇam—to Shree Krishna; sa-gadgadam—in a faltering voice; bhīta-bhītaḥ—overwhelmed with fear; praṇamya—bowed down
+◈  sañjaya uvāca – Sanjaya said; 
+◈  etat – this; śrutvā – hearing; vacanam – speech; keśavasya – of Keshava; 
+◈  kṛta-añjaliḥ – with folded hands; vepamānaḥ – trembling; kirīṭī – the crowned one (Arjuna); 
+◈  namaskṛtvā – bowing down; bhūyaḥ – again; eva – even; āha – said; kṛṣṇam – to Krishna; 
+◈  sa-gadgadam – with a faltering voice; bhīta-bhītaḥ – overwhelmed by fear; praṇamya – prostrating.
+
 {eov}
 
 {sot}
@@ -63,13 +71,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 रक्षांसि भीतानि दिशो द्रवन्ति
 सर्वे नमस्यन्ति च सिद्धसङ्घा: || 36||
 
-arjuna uvācha
-sthāne hṛiṣhīkeśha tava prakīrtyā
-jagat prahṛiṣhyaty anurajyate cha
-rakṣhānsi bhītāni diśho dravanti
-sarve namasyanti cha siddha-saṅghāḥ
+arjuna uvāca | 
+sthāne hṛṣīkeśa tava prakīrtyā jagatprahṛṣyatyanurajyate ca | 
+rakṣāṃsi bhītāni diśo dravanti 
+sarve namasyanti ca siddhasaṅghāḥ ||
 
-arjunaḥ uvācha—Arjun said; sthāne—it is but apt; hṛiṣhīka-īśha—Shree Krishna, the master of the senses; tava—your; prakīrtyā—in praise; jagat—the universe; prahṛiṣhyati—rejoices; anurajyate—be enamored; cha—and; rakṣhānsi—the demons; bhītāni—fearfully; diśhaḥ—in all directions; dravanti—flee; sarve—all; namasyanti—bow down; cha—and; siddha-saṅghāḥ—hosts of perfected saints
+◈  arjuna uvāca – Arjuna said; 
+◈  sthāne – rightly; hṛṣīkeśa – O Lord of the senses; tava – Your; prakīrtyā – by the praise; 
+◈  jagat – the world; prahṛṣyati – rejoices; anurajyate – is attached/loves; ca – and; 
+◈  rakṣāṃsi – the demons; bhītāni – terrified; diśaḥ – in all directions; dravanti – flee; 
+◈  sarve – all; namasyanti – bow down; ca – and; siddha-saṅghāḥ – hosts of perfected ones.
 {eov}
 
 {sot}
@@ -85,12 +96,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 अनन्त देवेश जगन्निवास
 त्वमक्षरं सदसतत्परं यत् || 37||
 
-kasmāch cha te na nameran mahātman
-garīyase brahmaṇo ’py ādi-kartre
-ananta deveśha jagan-nivāsa
-tvam akṣharaṁ sad-asat tat paraṁ yat
+kasmācca te na nameranmahātman 
+garīyase brahmaṇo’pyādikartre | 
+ananta deveśa jagannivāsa 
+tvamakṣaraṃ sadasattatparaṃ yat ||
 
-kasmāt—why; cha—and; te—you; na nameran—should they not bow down; mahā-ātman—The Great one; garīyase—who are greater; brahmaṇaḥ—than Brahma; api—even; ādi-kartre—to the original creator; ananta—The limitless One; deva-īśha—Lord of the devatās; jagat-nivāsa—Refuge of the universe; tvam—you; akṣharam—the imperishable; sat-asat—manifest and non-manifest; tat—that; param—beyond; yat—which
+◈  kasmāt – why; ca – and; te – to You; na nameran – should they not bow; mahā-ātman – O Great Soul; 
+◈  garīyase – greater; brahmaṇaḥ – than Brahma; api – even; ādi-kartre – to the primal creator; 
+◈  ananta – O Infinite One; deva-īśa – O Lord of gods; jagat-nivāsa – O Abode of the universe; 
+◈  tvam – You (are); akṣaram – the Imperishable; sat-asat – the being and non-being; tat-param – beyond that; yat – which.
 {eov}
 
 {sot}
@@ -106,12 +120,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 वेत्तासि वेद्यं च परं च धाम
 त्वया ततं विश्वमनन्तरूप || 38||
 
-tvam ādi-devaḥ puruṣhaḥ purāṇas
-tvam asya viśhvasya paraṁ nidhānam
-vettāsi vedyaṁ cha paraṁ cha dhāma
-tvayā tataṁ viśhvam ananta-rūpa
+tvamādidevaḥ puruṣaḥ purāṇas
+tvamasya viśvasya paraṃ nidhānam | 
+vettāsi vedyaṃ ca paraṃ ca dhāma 
+tvayā tataṃ viśvamanantarūpa ||
 
-tvam—you; ādi-devaḥ—the original Divine God; puruṣhaḥ—personality; purāṇaḥ—primeval; tvam—you; asya—of (this); viśhwasya—universe; param—supreme; nidhānam—resting place; vettā—the knower; asi—you are; vedyam—the object of knowledge; cha—and; param—supreme; cha—and; dhāma—abode; tvayā—by you; tatam—pervaded; viśhwam—universe; ananta-rūpa—posessor of infinite forms
+◈  tvam – You (are); ādi-devaḥ – the Primal God; puruṣaḥ purāṇaḥ – the Ancient Person; 
+◈  tvam – You (are); asya – of this; viśvasya – universe; param nidhānam – the supreme refuge; 
+◈  vettā – the knower; asi – You are; vedyam – the to-be-known; ca – and; param – the supreme; ca – and; dhāma – abode; 
+◈  tvayā – by You; tatam – pervaded; viśvam – the universe; ananta-rūpa – O Being of infinite forms.
 {eov}
 
 {sot}
@@ -126,12 +143,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 नमो नमस्तेऽस्तु सहस्रकृत्व:
 पुनश्च भूयोऽपि नमो नमस्ते || 39||
 
-vāyur yamo ’gnir varuṇaḥ śhaśhāṅkaḥ
-prajāpatis tvaṁ prapitāmahaśh cha
-namo namas te ’stu sahasra-kṛitvaḥ
-punaśh cha bhūyo ’pi namo namas te
+vāyuryamo’gnirvaruṇaḥ śaśāṅkaḥ 
+prajāpatistvaṃ prapitāmahaśca | 
+namo namaste’stu sahasrakṛtvaḥ 
+punaśca bhūyo’pi namo namaste ||
 
-vāyuḥ—the god of wind; yamaḥ—the god of death; agniḥ—the god of fire; varuṇaḥ—the god of water; śhaśha-aṅkaḥ—the moon-God; prajāpatiḥ—Brahma; tvam—you; prapitāmahaḥ—the great-grandfather; cha—and; namaḥ—my salutations; namaḥ—my salutations; te—unto you; astu—let there be; sahasra-kṛitvaḥ—a thousand times; punaḥ cha—and again; bhūyaḥ—again; api—also; namaḥ—(offering) my salutations; namaḥ te—offering my salutations unto you
+◈  vāyuḥ – Wind; yamaḥ – Yama (Death); agniḥ – Fire; varuṇaḥ – Varuna (Water); śaśāṅkaḥ – the Moon; 
+◈  prajāpatiḥ – Brahma; tvam – You (are); prapitāmahaḥ – the Great-grandfather; ca – and; 
+◈  namaḥ – salutations; namaste – salutations to You; astu – be; sahasra-kṛtvaḥ – a thousand times; 
+◈  punaḥ – again; ca – and; bhūyaḥ api – and yet again; namaḥ namaste – salutations, salutations to You.
+
 {eov}
 
 {sot}
@@ -146,19 +167,21 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 अनन्तवीर्यामितविक्रमस्त्वं
 सर्वं समाप्नोषि ततोऽसि सर्व: || 40||
 
-namaḥ purastād atha pṛiṣhṭhatas te
-namo ’stu te sarvata eva sarva
-ananta-vīryāmita-vikramas tvaṁ
-sarvaṁ samāpnoṣhi tato ’si sarvaḥ
+namaḥ purastādatha pṛṣṭhataste 
+namo’stu te sarvata eva sarva | anantavīryāmitavikramastvaṃ 
+sarvaṃ samāpnoṣi tato’si sarvaḥ ||
 
-namaḥ—offering salutations; purastāt—from the front; atha—and; pṛiṣhṭhataḥ—the rear; te—to you; namaḥ astu—I offer my salutations; te—to you; sarvataḥ—from all sides; eva—indeed; sarva—all; ananta-vīrya—infinite power; amita-vikramaḥ—infinite valor and might; tvam—you; sarvam—everything; samāpnoṣhi—pervade; tataḥ—thus; asi—(you) are; sarvaḥ—everything
+◈  namaḥ – salutations; purastāt – from the front; atha – and; pṛṣṭhataḥ – from behind; te – to You; 
+◈  namaḥ astu – salutations be; te – to You; sarvataḥ – from all sides; eva – indeed; sarva – O All; 
+◈  ananta-vīrya – of infinite power; amita-vikramaḥ – of immeasurable might; tvam – You; 
+◈  sarvam – all; samāpnoṣi – pervade; tataḥ – therefore; asi – (You) are; sarvaḥ – everything.
 {eov}
 
 {sot}
 Salutations to Thee before, salutations to Thee behind, salutations to Thee on every side, Ο All! Infinite in might and immeasurable in strength, Thou pervadest all and therefore Thou art all.
 {eot}
 
-{sov: Verse 11.41-42}
+{sov: Verse 11.41}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11-Verse-41-42.mp3 | 11.41-42
 
@@ -166,25 +189,41 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 हे कृष्ण हे यादव हे सखेति |
 अजानता महिमानं तवेदं
 मया प्रमादात्प्रणयेन वापि || 41||
+
+sakheti matvā prasabhaṃ yaduktaṃ 
+he kṛṣṇa he yādava he sakheti | 
+ajānatā mahimānaṃ tavedaṃ 
+mayā pramādātpraṇayena vāpi || 41 || 
+
+◈  sakhā – friend; iti – as; matvā – thinking; prasabham – presumptuously/rashly; yat – whatever; uktam – said; 
+◈  he kṛṣṇa – O Krishna; he yādava – O Yadava; he sakhe – O friend; iti – thus; 
+◈  ajānatā – being ignorant; mahimānam – majesty; tava – Your; idam – this; 
+◈  mayā – by me; pramādāt – out of carelessness; praṇayena – out of love; vā api – or even; 
+
+{sot}
+Thinking of You as a friend, whatever I may have impetuously uttered - 'O Kṛṣṇa, O Yādava, O friend' - was done by me, not knowing this greatness of Yours, either through carelessness or even out of affection. 
+{eot}
+
+{sov: Verse 11.42}
+
 यच्चावहासार्थमसत्कृतोऽसि
 विहारशय्यासनभोजनेषु |
 एकोऽथवाप्यच्युत तत्समक्षं
 तत्क्षामये त्वामहमप्रमेयम् || 42||
 
-sakheti matvā prasabhaṁ yad uktaṁ
-he kṛiṣhṇa he yādava he sakheti
-ajānatā mahimānaṁ tavedaṁ
-mayā pramādāt praṇayena vāpi
-yach chāvahāsārtham asat-kṛito ’si
-vihāra-śhayyāsana-bhojaneṣhu
-eko ’tha vāpy achyuta tat-samakṣhaṁ
-tat kṣhāmaye tvām aham aprameyam
+yaccāvahāsārthamasatkṛto’si 
+vihāraśayyāsanabhojaneṣu | 
+eko’thavāpyacyuta tatsamakṣaṃ 
+tatkṣāmaye tvāmahamaprameyam || 42 ||
 
-sakhā—friend; iti—as; matvā—thinking; prasabham—presumptuously; yat—whatever; uktam—addressed; he kṛiṣhṇa—O Shree Krishna; he yādava—O Shree Krishna, who was born in the Yadu clan; he sakhe—O my dear friend; iti—thus; ajānatā—in ignorance; mahimānam—majesty; tava—your; idam—this; mayā—by me; pramādāt—out of negligence; praṇayena—out of affection; vā api—or else; yat—whatever; cha—also; avahāsa-artham—humorously; asat-kṛitaḥ—disrespectfully; asi—you were; vihāra—while at play; śhayyā—while resting; āsana—while sitting; bhojaneṣhu—while eating; ekaḥ—(when) alone; athavā—or; api—even; achyuta—Krishna, the infallible one; tat-samakṣham—before others; tat—all that; kṣhāmaye—beg for forgiveness; tvām—from you; aham—I; aprameyam—immeasurable
+◈  yat – whatever; ca – and; avahāsa-artham – for the sake of fun; asat-kṛtaḥ – disrespected; asi – You have been; 
+◈  vihāra – while playing; śayyā – resting; āsana – sitting; bhojaneṣu – while eating; 
+◈  ekaḥ – alone; athavā – or; api – even; acyuta – O Infallible One; tat-samakṣam – in the presence of others; 
+◈  tat – that; kṣāmaye – I beg forgiveness; tvām – You; aham – I; aprameyam – the Immeasurable.
 {eov}
 
 {sot}
-Whatever I have rashly said from inadvertence or love, addressing Thee as “O Krishna,” “O Yādava,” or “O Friend,” regarding Thee merely as a friend, unaware of Thy greatness; and in whatever other ways I may have shown disrespect to Thee while playing or resting, while sitting or eating, while alone, Ο Eternal Lord, or in the presence of others— all that I implore Thee, Ο Immeasurable, to forgive.
+And whatever disrespect I showed You for the purpose of jest (avahāsārtham) - whether during recreation, while resting on a bed, seated, or at meals - alone, or, O Acyuta, in the presence of others - for all that, I seek forgiveness from You, the immeasurable (aprameyam) one.
 {eot}
 
 {sov: Verse 11.43}
@@ -196,12 +235,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 न त्वत्समोऽस्त्यभ्यधिक: कुतोऽन्यो
 लोकत्रयेऽप्यप्रतिमप्रभाव || 43||
 
-pitāsi lokasya charācharasya
-tvam asya pūjyaśh cha gurur garīyān
-na tvat-samo ’sty abhyadhikaḥ kuto ’nyo
-loka-traye ’py apratima-prabhāva
+pitāsi lokasya carācarasya 
+tvamasya pūjyaśca gururgarīyān | 
+na tvatsamo’styabhyadhikaḥ kuto’nyo
+lokatraye’pyapratimaprabhāva ||
 
-pitā—the father; asi—you are; lokasya—of the entire universe; chara—moving; acharasya—nonmoving; tvam—you; asya—of this; pūjyaḥ—worshipable; cha—and; guruḥ—spiritual master; garīyān—glorious; na—not; tvat-samaḥ—equal to you; asti—is; abhyadhikaḥ—greater; kutaḥ—who is; anyaḥ—other; loka-traye—in the three worlds; api—even; apratima-prabhāva—possessor of incomparable power
+◈  pitā – the father; asi – You are; lokasya – of the world; cara-acarasya – of the moving and unmoving; 
+◈  tvam – You (are); asya – of this; pūjyaḥ – object of worship; ca – and; guruḥ – teacher; garīyān – greatest; 
+◈  na – not; tvat-samaḥ – equal to You; asti – is; abhyadhikaḥ – superior; kutaḥ – how; anyaḥ – other; 
+◈  loka-traye – in the three worlds; api – even; apratima-prabhāva – O Being of unequaled power.
 {eov}
 
 {sot}
@@ -216,12 +258,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 पितेव पुत्रस्य सखेव सख्यु:
 प्रिय: प्रियायार्हसि देव सोढुम् || 44||
 
-tasmāt praṇamya praṇidhāya kāyaṁ
-prasādaye tvām aham īśham īḍyam
-piteva putrasya sakheva sakhyuḥ
-priyaḥ priyāyārhasi deva soḍhum
+tasmātpraṇamya praṇidhāya kāyaṃ 
+prasādaye tvāmahamīśamīḍyam | 
+piteva putrasya sakheva sakhyuḥ 
+priyaḥ priyāyārhasi deva soḍhum ||
 
-tasmāt—therefore; praṇamya—bowing down; praṇidhāya—prostrating; kāyam—the body; prasādaye—to implore grace; tvām—your; aham—I; īśham—the Supreme Lord; īḍyam—adorable; pitā—father; iva—as; putrasya—with a son; sakhā—friend; iva—as; sakhyuḥ—with a friend; priyaḥ—a lover; priyāyāḥ—with the beloved; arhasi—you should; deva—Lord; soḍhum—forgive
+◈  tasmāt – therefore; praṇamya – bowing down; praṇidhāya – prostrating; kāyam – body; 
+◈  prasādaye – I seek grace; tvām – Your; aham – I; īśam – the Lord; īḍyam – adorable; 
+◈  pitā iva – as a father; putrasya – of a son; sakhā iva – as a friend; sakhyuḥ – of a friend; 
+◈  priyaḥ – a lover; priyāyai – of the beloved; arhasi – You should; deva – O God; soḍhum – to bear/forgive.
+
 {eov}
 
 {sot}
@@ -236,12 +282,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तदेव मे दर्शय देवरूपं
 प्रसीद देवेश जगन्निवास || 45||
 
-adṛiṣhṭa-pūrvaṁ hṛiṣhito ’smi dṛiṣhṭvā
-bhayena cha pravyathitaṁ mano me
-tad eva me darśhaya deva rūpaṁ
-prasīda deveśha jagan-nivāsa
+adṛṣṭapūrvaṃ hṛṣito’smi dṛṣṭvā 
+bhayena ca pravyathitaṃ mano me | 
+tadeva me darśaya deva rūpaṃ 
+prasīda deveśa jagannivāsa ||
 
-adṛiṣhṭa-pūrvam—that which has not been seen before; hṛiṣhitaḥ—great joy; asmi—I am; dṛiṣhṭvā—having seen; bhayena—with fear; cha—yet; pravyathitam—trembles; manaḥ—mind; me—my; tat—that; eva—certainly; me—to me; darśhaya—show; deva—Lord; rūpam—form; prasīda—please have mercy; deva-īśha—God of gods; jagat-nivāsa—abode of the universe
+◈  adṛṣṭa-pūrvam – never seen before; hṛṣitaḥ – rejoiced; asmi – I am; dṛṣṭvā – having seen; 
+◈  bhayena – with fear; ca – and; pravyathitam – is distressed; manaḥ – mind; me – my; 
+◈  tat – that; eva – alone; me – to me; darśaya – show; deva – O God; rūpam – form; 
+◈  prasīda – have mercy; deva-īśa – O Lord of gods; jagat-nivāsa – O Abode of the universe.
 {eov}
 
 {sot}
@@ -256,12 +305,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 तेनैव रूपेण चतुर्भुजेन
 सहस्रबाहो भव विश्वमूर्ते || 46||
 
-kirīṭinaṁ gadinaṁ chakra-hastam
-ichchhāmi tvāṁ draṣhṭum ahaṁ tathaiva
-tenaiva rūpeṇa chatur-bhujena
-sahasra-bāho bhava viśhva-mūrte
+kirīṭinaṃ gadinaṃ cakahastam
+icchāmi tvāṃ draṣṭumahaṃ tathaiva | 
+tenaiva rūpeṇa caturbhujena 
+sahasrabāho bhava viśvamūrte ||
 
-kirīṭinam—wearing the crown; gadinam—carrying the mace; chakra-hastam—disc in hand; ichchhāmi—I wish; tvām—you; draṣhṭum—to see; aham—I; tathā eva—similarly; tena eva—in that; rūpeṇa—form; chatuḥ-bhujena—four-armed; sahasra-bāho—thousand-armed one; bhava—be; viśhwa-mūrte—universal form
+◈  kirīṭinam – wearing a crown; gadinam – with a mace; cakra-hastam – with a discus in hand; 
+◈  icchāmi – I wish; tvām – You; draṣṭum – to see; aham – I; tathā eva – in that same way; 
+◈  tena eva – in that; rūpeṇa – with the form; catuḥ-bhujena – with four arms; 
+◈  sahasra-bāho – O thousand-armed one; bhava – become; viśva-mūrte – O Universal Form.
+
 {eov}
 
 {sot}

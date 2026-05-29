@@ -19,13 +19,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 ब्रह्माणमीशं कमलासनस्थ-
 मृषींश्च सर्वानुरगांश्च दिव्यान् || 15||
 
-arjuna uvācha
-paśhyāmi devāns tava deva dehe
-sarvāns tathā bhūta-viśheṣha-saṅghān
-brahmāṇam īśhaṁ kamalāsana-stham
-ṛiṣhīnśh cha sarvān uragānśh cha divyān
+arjuna uvāca | 
+paśyāmi devāṃstava deva dehe
+sarvāṃstathā bhūtaviśeṣasaṅghān | 
+brahmāṇamīśaṃ kamalāsanastham
+ṛṣīṃśca sarvānuragāṃśca divyān ||
 
-arjunaḥ uvācha—Arjun said; paśhyāmi—I behold; devān—all the gods; tava—your; deva—Lord; dehe—within the body; sarvān—all; tathā—as well as; bhūta viśheṣha-saṅghān—hosts of different beings; brahmāṇam—Lord Brahma; īśham—Shiv; kamala-āsana-stham—seated on the lotus flower; ṛiṣhīn—sages; cha—and; sarvān—all; uragān—serpents; cha—and; divyān—divine
+◈  arjuna uvāca – Arjuna said; 
+◈  paśyāmi – I see; devān – the gods; tava – Your; deva – O God; dehe – in the body; 
+◈  sarvān – all; tathā – as also; bhūta-viśeṣa-saṅghān – groups of various beings; 
+◈  brahmāṇam – Brahma; īśam – Lord (Shiva); kamala-āsana-stham – seated on the lotus; 
+◈  ṛṣīn – sages; ca – and; sarvān – all; uragān – serpents; ca – and; divyān – divine.
+
 {eov}
 
 {sot}
@@ -41,12 +46,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 नान्तं न मध्यं न पुनस्तवादिं
 पश्यामि विश्वेश्वर विश्वरूप || 16||
 
-aneka-bāhūdara-vaktra-netraṁ
-paśhyāmi tvāṁ sarvato ’nanta-rūpam
-nāntaṁ na madhyaṁ na punas tavādiṁ
-paśhyāmi viśhveśhvara viśhva-rūpa
+anekabāhūdaravaktranetraṃ 
+paśyāmi tvāṃ sarvato’nantarūpam | 
+nāntaṃ na madhyaṃ na punastavādiṃ 
+paśyāmi viśveśvara viśvarūpa ||
 
-aneka—infinite; bāhu—arms; udara—stomachs; vaktra—faces; netram—eyes; paśhyāmi—I see; tvām—you; sarvataḥ—in every direction; ananta-rūpam—inifinite forms; na antam—without end; na—not; madhyam—middle; na—no; punaḥ—again; tava—your; ādim—beginning; paśhyāmi—I see; viśhwa-īśhwara—The Lord of the universe; viśhwa-rūpa—universal form
+◈  aneka – many; bāhu – arms; udara – bellies; vaktra – mouths; netram – eyes; 
+◈  paśyāmi – I see; tvām – You; sarvataḥ – everywhere; ananta-rūpam – of infinite forms; 
+◈  na antam – no end; na madhyam – no middle; na punaḥ – nor again; tava – Your; ādim – beginning; 
+◈  paśyāmi – I see; viśva-īśvara – O Lord of the universe; viśva-rūpa – O Universal Form.
 {eov}
 
 {sot}
@@ -62,12 +70,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 पश्यामि त्वां दुर्निरीक्ष्यं समन्ताद्
 दीप्तानलार्कद्युतिमप्रमेयम् || 17||
 
-kirīṭinaṁ gadinaṁ chakriṇaṁ cha
-tejo-rāśhiṁ sarvato dīptimantam
-paśhyāmi tvāṁ durnirīkṣhyaṁ samantād
-dīptānalārka-dyutim aprameyam
+kirīṭinaṃ gadinaṃ cakriṇaṃ ca 
+tejorāśiṃ sarvato dīptimantam | 
+paśyāmi tvāṃ durnirīkṣyaṃ samantād
+dīptānalārkadyutimaprameyam ||
 
-kirīṭinam—adorned with a crown; gadinam—with club; chakriṇam—with discs; cha—and; tejaḥ-rāśhim—abode of splendor; sarvataḥ—everywhere; dīpti-mantam—shining; paśhyāmi—I see; tvām—you; durnirīkṣhyam—difficult to look upon; samantāt—in all directions; dīpta-anala—blazing fire; arka—like the sun; dyutim—effulgence; aprameyam—immeasurable
+◈  kirīṭinam – wearing a crown; gadinam – with a mace; cakriṇam – with a discus; ca – and; 
+◈  tejaḥ-rāśim – a mass of radiance; sarvataḥ – on all sides; dīptimantam – glowing; 
+◈  paśyāmi – I see; tvām – You; durnirīkṣyam – difficult to look at; samantāt – everywhere; 
+◈  dīpta-anala-arka-dyutim – with the radiance of blazing fire and the sun; aprameyam – immeasurable.
+
 {eov}
 
 {sot}
@@ -83,12 +95,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 त्वमव्यय: शाश्वतधर्मगोप्ता
 सनातनस्त्वं पुरुषो मतो मे || 18||
 
-tvam akṣharaṁ paramaṁ veditavyaṁ
-tvam asya viśhvasya paraṁ nidhānam
-tvam avyayaḥ śhāśhvata-dharma-goptā
-sanātanas tvaṁ puruṣho mato me
+tvamakṣaraṃ paramaṃ veditavyaṃ 
+tvamasya viśvasya paraṃ nidhānam | 
+tvamavyayaḥ śāśvatadharmagoptā 
+sanātanastvaṃ puruṣo mato me ||
 
-tvam—you; akṣharam—the imperishable; paramam—the supreme being; veditavyam—worthy of being known; tvam—you; asya—of this; viśhwasya—of the creation; param—supreme; nidhānam—support; tvam—you; avyayaḥ—eternal; śhāśhvata-dharma-goptā—protector of the eternal religion; sanātanaḥ—everlasting; tvam—you; puruṣhaḥ—the Supreme Divine Person; mataḥ me—my opinion
+◈  tvam – You (are); akṣaram – the Imperishable; paramam – the Supreme; veditavyam – to be known; 
+◈  tvam – You (are); asya – of this; viśvasya – universe; param nidhānam – the supreme refuge; 
+◈  tvam – You (are); avyayaḥ – inexhaustible; śāśvata-dharma-goptā – protector of the eternal Dharma; 
+◈  sanātanaḥ – eternal; tvam – You (are); puruṣaḥ – the Person; mataḥ me – my opinion/realization.
+
 {eov}
 
 {sot}
@@ -104,12 +120,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 पश्यामि त्वां दीप्तहुताशवक्त्रं-
 स्वतेजसा विश्वमिदं तपन्तम् || 19||
 
-anādi-madhyāntam ananta-vīryam
-ananta-bāhuṁ śhaśhi-sūrya-netram
-paśhyāmi tvāṁ dīpta-hutāśha-vaktraṁ
-sva-tejasā viśhvam idaṁ tapantam
+anādimadhyāntamanantavīryam
+anantabāhuṃ śaśisūryanetram | 
+paśyāmi tvāṃ dīptahutāśavaktraṃ 
+svatejasā viśvamidaṃ tapantam ||
 
-anādi-madhya-antam—without beginning, middle, or end; ananta—infinite; vīryam—power; ananta—unlimited; bāhum—arms; śhaśhi—the moon; sūrya—the sun; netram—eyes; paśhyāmi—I see; tvām—you; dīpta—blazing; hutāśha—emanating from; vaktram—your mouth; sva-tejasā—by your radiance; viśhwam—universe; idam—this; tapantam—warming
+◈  anādi-madhya-antam – without beginning, middle or end; 
+◈  ananta-vīryam – of infinite power; ananta-bāhum – of infinite arms; śaśi-sūrya-netram – having the sun and moon as eyes; 
+◈  paśyāmi – I see; tvām – You; dīpta-hutāśa-vaktram – with mouths of blazing fire; 
+◈  sva-tejasā – by Your own radiance; viśvam – the universe; idam – this; tapantam – heating.
+
 {eov}
 
 {sot}
@@ -125,12 +145,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 दृष्ट्वाद्भुतं रूपमुग्रं तवेदं
 लोकत्रयं प्रव्यथितं महात्मन् || 20||
 
-dyāv ā-pṛithivyor idam antaraṁ hi
-vyāptaṁ tvayaikena diśhaśh cha sarvāḥ
-dṛiṣhṭvādbhutaṁ rūpam ugraṁ tavedaṁ
-loka-trayaṁ pravyathitaṁ mahātman
+dyāvāpṛthivyoridamanantaraṃ hi 
+vyāptaṃ tvayaikena diśaśca sarvāḥ | 
+dṛṣṭvādbhutaṃ rūpamugraṃ tavedaṃ 
+lokatrayaṃ pravyathitaṃ mahātman ||
 
-dyau-ā-pṛithivyoḥ—between heaven and earth; idam—this; antaram—space between; hi—indeed; vyāptam—pervaded; tvayā—by you; ekena—alone; diśhaḥ—directions; cha—and; sarvāḥ—all; dṛiṣhṭvā—seeing; adbhutam—wondrous; rūpam—form; ugram—terrible; tava—your; idam—this; loka—worlds; trayam—three; pravyathitam—trembling; mahā-ātman—The greatest of all beings
+◈  dyāvā-pṛthivyoḥ – of heaven and earth; idam – this; antaram – space/between; hi – indeed; 
+◈  vyāptam – pervaded; tvayā ekena – by You alone; diśaḥ – directions; ca – and; sarvāḥ – all; 
+◈  dṛṣṭvā – seeing; adbhutam – wonderful; rūpam – form; ugram – terrible; tava – Your; idam – this; 
+◈  loka-trayam – the three worlds; pravyathitam – tremble with fear; mahā-ātman – O Great Soul.
+
 {eov}
 
 {sot}
@@ -146,12 +170,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घा:
 स्तुवन्ति त्वां स्तुतिभि: पुष्कलाभि: || 21||
 
-amī hi tvāṁ sura-saṅghā viśhanti
-kechid bhītāḥ prāñjalayo gṛiṇanti
-svastīty uktvā maharṣhi-siddha-saṅghāḥ
-stuvanti tvāṁ stutibhiḥ puṣhkalābhiḥ
+amī hi tvāṃ surasaṅghā viśanti 
+kecid bhītāḥ prāñjalayo gṛṇanti | 
+svastītyuktvā maharṣisiddhasaṅghāḥ 
+stuvanti tvāṃ stutibhiḥ puṣkalābhiḥ ||
 
-amī—these; hi—indeed; tvām—you; sura-saṅghāḥ—assembly of celestial gods; viśhanti—are entering; kechit—some; bhītāḥ—in fear; prāñjalayaḥ—with folded hands; gṛiṇanti—praise; svasti—auspicious; iti—thus; uktvā—reciting; mahā-ṛiṣhi—great sages; siddha-saṅghāḥ—perfect beings; stuvanti—are extolling; tvām—you; stutibhiḥ—with prayers; puṣhkalābhiḥ—hymns
+◈  amī – these; hi – indeed; tvām – You; sura-saṅghāḥ – hosts of gods; viśanti – enter; 
+◈  kecit – some; bhītāḥ – terrified; prāñjalayaḥ – with folded hands; gṛṇanti – praise/invoke; 
+◈  svasti – "May it be well!"; iti – thus; uktvā – saying; maharṣi-siddha-saṅghāḥ – hosts of great sages and perfected ones; 
+◈  stuvanti – praise; tvām – You; stutibhiḥ – with hymns; puṣkalābhiḥ – glorious/complete
 {eov}
 
 {sot}
@@ -167,12 +194,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 गन्धर्वयक्षासुरसिद्धसङ्घा
 वीक्षन्ते त्वां विस्मिताश्चैव सर्वे || 22||
 
-rudrādityā vasavo ye cha sādhyā
-viśhve ’śhvinau marutaśh choṣhmapāśh cha
-gandharva-yakṣhāsura-siddha-saṅghā
-vīkṣhante tvāṁ vismitāśh chaiva sarve
+rudrādityā vasavo ye ca sādhyā 
+viśve’śvinau marutaścoṣmapāśca |
+gandharvayakṣāsurasiddhasaṅghā 
+vīkṣante tvāṃ vismitāścaiva sarve ||
 
-rudra—a form of Lord Shiv; ādityāḥ—the adityas; vasavaḥ—the vasus; ye—these; cha—and; sādhyāḥ—the sadhyas; viśhve—the vishvadevas; aśhvinau—the Ashvini Kumars; marutaḥ—the maruts; cha—and; uṣhma-pāḥ—the ancestors; cha—and; gandharva—gandharvas; yakṣha—the yakshas; asura—the demons; siddha—the perfected beings; saṅghāḥ—the assemblies; vīkṣhante—are beholding; tvām—you; vismitāḥ—in wonder; cha—and; eva—verily; sarve—all
+◈  rudra-ādityāḥ – the Rudras and Adityas; vasavaḥ – the Vasus; ye – who; ca – and; sādhyāḥ – the Sadhyas; 
+◈  viśve – the Vishvedevas; aśvinau – the two Ashvins; marutaḥ – the Maruts; ca – and; uṣmapāḥ – the Ushmapas; ca – and; 
+◈  gandharva-yakṣa-asura-siddha-saṅghāḥ – hosts of Gandharvas, Yakshas, Asuras and Siddhas; 
+◈  vīkṣante – gaze; tvām – at You; vismitāḥ – amazed; ca – and; eva – certainly; sarve – all.
+
 {eov}
 
 {sot}
@@ -188,12 +219,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 बहूदरं बहुदंष्ट्राकरालं
 दृष्ट्वा लोका: प्रव्यथितास्तथाहम् || 23||
 
-rūpaṁ mahat te bahu-vaktra-netraṁ
-mahā-bāho bahu-bāhūru-pādam
-bahūdaraṁ bahu-danṣhṭrā-karālaṁ
-dṛiṣhṭvā lokāḥ pravyathitās tathāham
+rūpaṃ mahatte bahuvaktranetraṃ 
+mahābāho bahubāhūrupādam | 
+bahūdaraṃ bahudaṃṣṭrākarālaṃ 
+dṛṣṭvā lokāḥ pravyathitāstathāham ||
 
-rūpam—form; mahat—magnificent; te—your; bahu—many; vaktra—mouths; netram—eyes; mahā-bāho—mighty-armed Lord; bahu—many; bāhu—arms; ūru—thighs; pādam—legs; bahu-udaram—many stomachs; bahu-danṣhṭrā—many teeth; karālam—terrifying; dṛiṣhṭvā—seeing; lokāḥ—all the worlds; pravyathitāḥ—terror-stricken; tathā—so also; aham—I
+◈  rūpam – form; mahat – mighty/vast; te – Your; bahu-vaktra-netram – with many mouths and eyes; 
+◈  mahā-bāho – O mighty-armed one; bahu-bāhu-ūru-pādam – with many arms, thighs and feet; 
+◈  bahu-udaram – with many bellies; bahu-daṃṣṭrā-karālam – terrible with many tusks; 
+◈  dṛṣṭvā – seeing; lokāḥ – the worlds; pravyathitāḥ – are terrified; tathā – as also; aham – I.
 {eov}
 
 {sot}
@@ -209,12 +243,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा
 धृतिं न विन्दामि शमं च विष्णो || 24||
 
-nabhaḥ-spṛiśhaṁ dīptam aneka-varṇaṁ
-vyāttānanaṁ dīpta-viśhāla-netram
-dṛiṣhṭvā hi tvāṁ pravyathitāntar-ātmā
-dhṛitiṁ na vindāmi śhamaṁ cha viṣhṇo
+nabhaḥspṛśaṃ dīptamanekavarṇaṃ 
+vyāttānanaṃ dīptaviśālanetram | 
+dṛṣṭvā hi tvāṃ pravyathitāntarātmā 
+dhṛtiṃ na vindāmi śamaṃ ca viṣṇo ||
 
-nabhaḥ-spṛiśham—touching the sky; dīptam—effulgent; aneka—many; varṇam—colors; vyātta—open; ānanam—mouths; dīpta—blazing; viśhāla—enormous; netram—eyes; dṛiṣhṭvā—seeing; hi—indeed; tvām—you; pravyathitāntar-ātmā—my heart is trembling with fear; dhṛitim—firmness; na—not; vindāmi—I find; śhamam—mental peace; cha—and; viṣhṇo—Lord Vishnu
+◈  nabhaḥ-spṛśam – touching the sky; dīptam – glowing; aneka-varṇam – of many colors; 
+◈  vyātta-ānanam – with mouths wide open; dīpta-viśāla-netram – with large glowing eyes; 
+◈  dṛṣṭvā – seeing; hi – indeed; tvām – You; pravyathita-antarātmā – terrified in the core of my being; 
+◈  dhṛtim – courage; na vindāmi – I find not; śamam – peace; ca – and; viṣṇo – O Vishnu.
 {eov}
 
 {sot}
@@ -230,12 +267,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-11
 दिशो न जाने न लभे च शर्म
 प्रसीद देवेश जगन्निवास || 25||
 
-danṣhṭrā-karālāni cha te mukhāni
-dṛiṣhṭvaiva kālānala-sannibhāni
-diśho na jāne na labhe cha śharma
-prasīda deveśha jagan-nivāsa
+daṃṣṭrākarālāni ca te mukhāni 
+dṛṣṭvaiva kālānalasannibhāni | 
+diśo na jāne na labhe ca śarma 
+prasīda deveśa jagannivāsa ||
 
-danṣhṭrā—teeth; karālāni—terrible; cha—and; te—your; mukhāni—mouths; dṛiṣhṭvā—having seen; eva—indeed; kāla-anala—the fire of annihilation; sannibhāni—resembling; diśhaḥ—the directions; na—not; jāne—know; na—not; labhe—I obtain; cha—and; śharma—peace; prasīda—have mercy; deva-īśha—The Lord of lords; jagat-nivāsa—The shelter of the universe
+◈  daṃṣṭrā-karālāni – terrible with tusks; ca – and; te – Your; mukhāni – mouths; 
+◈  dṛṣṭvā – seeing; eva – only; kāla-anala-sannibhāni – resembling the fire of cosmic destruction; 
+◈  diśaḥ – directions; na jāne – I know not; na labhe – I find not; ca – and; śarma – happiness/rest; 
+◈  prasīda – have mercy; deva-īśa – O Lord of gods; jagat-nivāsa – O Abode of the universe.
 {eov}
 
 {sot}
