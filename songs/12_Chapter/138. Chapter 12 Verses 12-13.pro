@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते |
 ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् || 12||
 
-śhreyo hi jñānam abhyāsāj jñānād dhyānaṁ viśhiṣhyate
-dhyānāt karma-phala-tyāgas tyāgāch chhāntir anantaram
+śreyo hi jñānamabhyāsāj
+jñānāddhyānaṃ viśiṣyate | 
+dhyānātkarmaphalatyāgas
+tyāgācchāntiranantaram ||
 
-śhreyaḥ—better; hi—for; jñānam—knowledge; abhyāsāt—than (mechanical) practice; jñānāt—than knowledge; dhyānam—meditation; viśhiṣhyate—better; dhyānāt—than meditation; karma-phala-tyāgaḥ—renunciation of the fruits of actions; tyāgāt—renunciation; śhāntiḥ—peace; anantaram—immediately
+◈  śreyaḥ – better; hi – indeed; jñānam – knowledge; abhyāsāt – than practice; 
+◈  jñānāt – than knowledge; dhyānam – meditation; viśiṣyate – is superior; 
+◈  dhyānāt – than meditation; karma-phala-tyāgaḥ – renunciation of the fruits of action; 
+◈  tyāgāt – from renunciation; śāntiḥ – peace; anantaram – immediately.
 {eov}
 
 {sot}
@@ -33,14 +38,19 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 अद्वेष्टा सर्वभूतानां मैत्र: करुण एव च |
 निर्ममो निरहङ्कार: समदु:खसुख: क्षमी || 13||
 
-adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha
-nirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī 
+adveṣṭā sarvabhūtānāṃ 
+maitraḥ karuṇa eva ca | 
+nirmamo nirahaṅkāraḥ 
+samaduḥkhasukhaḥ kṣamī || 13 ||  
 
-adveṣhṭā—free from malice; sarva-bhūtānām—toward all living beings; maitraḥ—friendly; karuṇaḥ—compassionate; eva—indeed; cha—and; nirmamaḥ—free from attachment to possession; nirahankāraḥ—free from egoism; sama—equipoised; duḥkha—distress; sukhaḥ—happiness; kṣhamī—forgiving; 
+◈  adveṣṭā – non-envious; sarva-bhūtānām – toward all living beings; 
+◈  maitraḥ – friendly; karuṇaḥ – compassionate; eva – indeed; ca – and; 
+◈  nirmamaḥ – without a sense of "mine"; nirahaṅkāraḥ – without ego; 
+◈  sama-duḥkha-sukhaḥ – equal in pain and pleasure; kṣamī – forgiving;  
 {eov}
 
 {sot}
-Who does not hate any being, who is friendly and compassionate, who is free from attachment and egoism, who is equal-minded in sorrow and happiness, who is forgiving, ...
+One who bears no ill-will towards any living creature, who is friendly and compassionate, free from possessiveness and ego (ahaṅkāra), equipoised in sorrow and joy, and forgiving....
 {eot}
 
 {start_of_analysis}

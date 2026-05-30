@@ -9,25 +9,46 @@ https://youtu.be/ZIaUNiRWjGg?si=XUGj7nliJn5j1Ol8
 
 https://open.spotify.com/episode/3wuEnhIVBRsyoFcNaL25qM?si=f91049c41f1249c6
 
-{sov: Verse 12.18-19}
+{sov: Verse 12.18}
 
 https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-18-19.mp3 | 12.18-19
 
 सम: शत्रौ च मित्रे च तथा मानापमानयो: |
 शीतोष्णसुखदु:खेषु सम: सङ्गविवर्जित: || 18||
+
+samaḥ śatrau ca mitre ca 
+tathā mānāpamānayoḥ | 
+śītoṣṇasukhaduḥkheṣu 
+samaḥ saṅgavivarjitaḥ || 18 || 
+
+◈  samaḥ – equal; śatrau – to enemy; ca – and; mitre – to friend; ca – and; 
+◈  tathā – also; māna-apamānayoḥ – in honor and dishonor; 
+◈  śīta-uṣṇa – in cold and heat; sukha-duḥkheṣu – in pleasure and pain; 
+◈  saṅga-vivarjitaḥ – free from attachment; 
+
+
+{sot}
+Impartial towards enemies and friends, equally so in honor and dishonor, in cold, heat, pleasure, and pain, and free from attachment.
+{eot}
+
+{sov: Verse 12.19}
+
 तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |
 अनिकेत: स्थिरमतिर्भक्तिमान्मे प्रियो नर: || 19||
 
-samaḥ śhatrau cha mitre cha tathā mānāpamānayoḥ
-śhītoṣhṇa-sukha-duḥkheṣhu samaḥ saṅga-vivarjitaḥ
-tulya-nindā-stutir maunī santuṣhṭo yena kenachit
-aniketaḥ sthira-matir bhaktimān me priyo naraḥ
+tulyanindāstutirmaunī 
+santuṣṭo yena kenacit | 
+aniketaḥ sthiramatir
+bhaktimānme priyo naraḥ || 19 ||
 
-samaḥ—alike; śhatrau—to a foe; cha—and; mitre—to a friend; cha tathā—as well as; māna-apamānayoḥ—in honor and dishonor; śhīta-uṣhṇa—in cold and heat; sukha-duḥkheṣhu—in joy and sorrow; samaḥ—equipoised; saṅga-vivarjitaḥ—free from all unfavorable association; tulya—alike; nindā-stutiḥ—reproach and praise; maunī—silent contemplation; santuṣhṭaḥ—content; yena kenachit—with anything; aniketaḥ—without attachment to the place of residence; sthira—firmly fixed; matiḥ—intellect; bhakti-mān—full of devotion; me—to Me; priyaḥ—very dear; naraḥ—a person
+◈  tulya-nindā-stutiḥ – regarding blame and praise as equal; maunī – silent/contemplative; 
+◈  santuṣṭaḥ – content; yena kenacit – with anything; 
+◈  aniketaḥ – without a home (unattached to a fixed place); sthira-matiḥ – steady-minded; 
+◈  bhaktimān – full of devotion; me – to Me; priyaḥ – is dear; naraḥ – that person.
 {eov}
 
 {sot}
-Who is equal-minded towards friends and enemies, in honour and disgrace, in heat and cold, and pleasure and pain, who is free from attachment (desire and selfishness), who is silent (meditating), who is satisfied with what-so-ever he gets, who has no particular home, who is decided in mind, who is devoted to Me, such a man is dear to Me.
+A person who treats praise and blame equally, is silent, content with whatever he receives, without a fixed dwelling, steady in intellect, and full of devotion (bhakti), is dear to Me.
 {eot}
 
 {sov: Verse 12.20}
@@ -37,10 +58,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते |
 श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रिया: || 20||
 
-ye tu dharmyāmṛitam idaṁ yathoktaṁ paryupāsate
-śhraddadhānā mat-paramā bhaktās te ’tīva me priyāḥ
+ye tu dharmyāmṛtamidaṃ 
+yathoktaṃ paryupāsate | 
+śraddadhānā matparamā 
+bhaktāste’tīva me priyāḥ ||
 
-ye—who; tu—indeed; dharma—wisdom; amṛitam—nectar; idam—this; yathā—as; uktam—declared; paryupāsate—exclusive devotion; śhraddadhānāḥ—with faith; mat-paramāḥ—intent on Me as the supreme goal; bhaktāḥ—devotees; te—they; atīva—exceedingly; me—to Me; priyāḥ—dear
+◈  ye – who; tu – but; dharmya-amṛtam – nectar of Dharma; idam – this; 
+◈  yathā-uktam – as described; paryupāsate – follow/worship; 
+◈  śraddadhānāḥ – endowed with faith; mat-paramāḥ – regarding Me as Supreme; 
+◈  bhaktāḥ – devotees; te – they; atīva – exceedingly; me – to Me; priyāḥ – are dear.
+
 {eov}
 
 {sot}

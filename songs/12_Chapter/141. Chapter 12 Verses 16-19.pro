@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 अनपेक्ष: शुचिर्दक्ष उदासीनो गतव्यथ: |
 सर्वारम्भपरित्यागी यो मद्भक्त: स मे प्रिय: || 16||
 
-anapekṣhaḥ śhuchir dakṣha udāsīno gata-vyathaḥ
-sarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ
+anapekṣaḥ śucirdakṣa 
+udāsīno gatavyathaḥ | 
+sarvārambhaparityāgī 
+yo madbhaktaḥ sa me priyaḥ ||
 
-anapekṣhaḥ—indifferent to worldly gain; śhuchiḥ—pure; dakṣhaḥ—skillful; udāsīnaḥ—without cares; gata-vyathaḥ—untroubled; sarva-ārambha—of all undertakings; parityāgī—renouncer; saḥ—who; mad-bhaktaḥ—my devotees; saḥ—he; me—to Me; priyaḥ—very dear
+◈  anapekṣaḥ – free from expectations; śuciḥ – pure; dakṣaḥ – expert/skilful; 
+◈  udāsīnaḥ – indifferent/neutral; gata-vyathaḥ – free from distress; 
+◈  sarva-ārambha-parityāgī – renouncing all initiative (sense of doership); 
+◈  yaḥ – who; mat-bhaktaḥ – My devotee; saḥ – he; me – to Me; priyaḥ – is dear.
 {eov}
 
 {sot}
@@ -33,35 +38,61 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 यो न हृष्यति न द्वेष्टि न शोचति न काङ् क्षति |
 शुभाशुभपरित्यागी भक्तिमान्य: स मे प्रिय: || 17||
 
-yo na hṛiṣhyati na dveṣhṭi na śhochati na kāṅkṣhati
-śhubhāśhubha-parityāgī bhaktimān yaḥ sa me priyaḥ
+yo na hṛṣyati na dveṣṭi 
+na śocati na kāṅkṣati | 
+śubhāśubhaparityāgī 
+bhaktimānyaḥ sa me priyaḥ ||
 
-yaḥ—who; na—neither; hṛiṣhyati—rejoice; na—nor; dveṣhṭi—despair; na—neither; śhochati—lament; na—nor; kāṅkṣhati—hanker for gain; śhubha-aśhubha-parityāgī—who renounce both good and evil deeds; bhakti-mān—full of devotion; yaḥ—who; saḥ—that person; me—to Me; priyaḥ—very dear
+◈  yaḥ – who; na hṛṣyati – neither rejoices; na dveṣṭi – nor hates; 
+◈  na śocati – nor grieves; na kāṅkṣati – nor desires; 
+◈  śubha-aśubha-parityāgī – renouncing both good and evil; 
+◈  bhaktimān – full of devotion; yaḥ – who; saḥ – he; me – to Me; priyaḥ – is dear.
 {eov}
 
 {sot}
 Who is not elated, who does not hate, does not grieve, who has renounced both good and bad, he, My devotee is dear to Me.
 {eot}
 
-{sov: Verse 12.18-19}
+{sov: Verse 12.18}
 
 https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-18-19.mp3 | 12.18-19
 
 सम: शत्रौ च मित्रे च तथा मानापमानयो: |
 शीतोष्णसुखदु:खेषु सम: सङ्गविवर्जित: || 18||
+
+samaḥ śatrau ca mitre ca 
+tathā mānāpamānayoḥ | 
+śītoṣṇasukhaduḥkheṣu 
+samaḥ saṅgavivarjitaḥ || 18 || 
+
+◈  samaḥ – equal; śatrau – to enemy; ca – and; mitre – to friend; ca – and; 
+◈  tathā – also; māna-apamānayoḥ – in honor and dishonor; 
+◈  śīta-uṣṇa – in cold and heat; sukha-duḥkheṣu – in pleasure and pain; 
+◈  saṅga-vivarjitaḥ – free from attachment; 
+
+
+{sot}
+Impartial towards enemies and friends, equally so in honor and dishonor, in cold, heat, pleasure, and pain, and free from attachment.
+{eot}
+
+{sov: Verse 12.19}
+
 तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् |
 अनिकेत: स्थिरमतिर्भक्तिमान्मे प्रियो नर: || 19||
 
-samaḥ śhatrau cha mitre cha tathā mānāpamānayoḥ
-śhītoṣhṇa-sukha-duḥkheṣhu samaḥ saṅga-vivarjitaḥ
-tulya-nindā-stutir maunī santuṣhṭo yena kenachit
-aniketaḥ sthira-matir bhaktimān me priyo naraḥ
+tulyanindāstutirmaunī 
+santuṣṭo yena kenacit | 
+aniketaḥ sthiramatir
+bhaktimānme priyo naraḥ || 19 ||
 
-samaḥ—alike; śhatrau—to a foe; cha—and; mitre—to a friend; cha tathā—as well as; māna-apamānayoḥ—in honor and dishonor; śhīta-uṣhṇa—in cold and heat; sukha-duḥkheṣhu—in joy and sorrow; samaḥ—equipoised; saṅga-vivarjitaḥ—free from all unfavorable association; tulya—alike; nindā-stutiḥ—reproach and praise; maunī—silent contemplation; santuṣhṭaḥ—content; yena kenachit—with anything; aniketaḥ—without attachment to the place of residence; sthira—firmly fixed; matiḥ—intellect; bhakti-mān—full of devotion; me—to Me; priyaḥ—very dear; naraḥ—a person
+◈  tulya-nindā-stutiḥ – regarding blame and praise as equal; maunī – silent/contemplative; 
+◈  santuṣṭaḥ – content; yena kenacit – with anything; 
+◈  aniketaḥ – without a home (unattached to a fixed place); sthira-matiḥ – steady-minded; 
+◈  bhaktimān – full of devotion; me – to Me; priyaḥ – is dear; naraḥ – that person.
 {eov}
 
 {sot}
-Who is equal-minded towards friends and enemies, in honour and disgrace, in heat and cold, and pleasure and pain, who is free from attachment (desire and selfishness), who is silent (meditating), who is satisfied with what-so-ever he gets, who has no particular home, who is decided in mind, who is devoted to Me, such a man is dear to Me.
+A person who treats praise and blame equally, is silent, content with whatever he receives, without a fixed dwelling, steady in intellect, and full of devotion (bhakti), is dear to Me.
 {eot}
 
 {start_of_analysis}

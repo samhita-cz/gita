@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/07/Bhagavad-Gita-Chapter-12
 अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् |
 अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय || 9||
 
-atha chittaṁ samādhātuṁ na śhaknoṣhi mayi sthiram
-abhyāsa-yogena tato mām ichchhāptuṁ dhanañjaya
+atha cittaṃ samādhātuṃ 
+na śaknoṣi mayi sthiram | 
+abhyāsayogena tato 
+māmicchāptuṃ dhanañjaya ||
 
-atha—if; chittam—mind; samādhātum—to fix; na śhaknoṣhi—(you) are unable; mayi—on Me; sthiram—steadily; abhyāsa-yogena—by uniting with God through repeated practice; tataḥ—then; mām—me; ichchhā—desire; āptum—to attain; dhanañjaya—Arjun, the conqueror of wealth
+◈  atha – if, however; cittam – the mind; samādhātum – to fix; 
+◈  na śaknoṣi – you are not able; mayi – on Me; sthiram – steadily; 
+◈  abhyāsa-yogena – by the Yoga of constant practice; tataḥ – then; 
+◈  mām – Me; iccha – seek; āptum – to reach; dhanañjaya – O Dhananjaya (Arjuna).
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/07/Bhagavad-Gita-Chapter-12
 अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव |
 मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि || 10||
 
-abhyāse ’py asamartho ’si mat-karma-paramo bhava
-mad-artham api karmāṇi kurvan siddhim avāpsyasi
+abhyāse’pyasamartho’si 
+matkarmaparamo bhava | 
+madarthamapi karmāṇi 
+kurvansiddhimavāpsyasi ||
 
-abhyāse—in practice; api—if; asamarthaḥ—unable; asi—you; mat-karma paramaḥ—devotedly work for Me; bhava—be; mat-artham—for My sake; api—also; karmāṇi—work; kurvan—performing; siddhim—perfection; avāpsyasi—you shall achieve
+◈  abhyāse – in practice; api – also; asamarthaḥ – unable; asi – you are; 
+◈  mat-karma-paramaḥ – dedicated to performing My work; bhava – be; 
+◈  mat-artham – for My sake; api – even; karmāṇi – actions; 
+◈  kurvan – performing; siddhim – perfection; avāpsyasi – you shall attain.
 {eov}
 
 {sot}
@@ -45,15 +55,20 @@ Even if you are not capable of practice, do work for My sake; By doing work for 
 
 {sov: Verse 12.11}
 
-https://media.vivekavani.com/wp-content/uploads/2022/07/Bhagavad-Gita-Chapter-12-Verse-11.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-11.mp3
 
 अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रित: |
 सर्वकर्मफलत्यागं तत: कुरु यतात्मवान् || 11||
 
-athaitad apy aśhakto ’si kartuṁ mad-yogam āśhritaḥ
-sarva-karma-phala-tyāgaṁ tataḥ kuru yatātmavān
+athaitadapyāśakto’si 
+kartuṃ madyogamāśritaḥ | 
+sarvakarmaphalatyāgaṃ 
+tataḥ kuru yatātmavān ||
 
-atha—if; etat—this; api—even; aśhaktaḥ—unable; asi—you are; kartum—to work; mad-yogam—with devotion to Me; āśhritaḥ—taking refuge; sarva-karma—of all actions; phala-tyāgam—to renounce the fruits; tataḥ—then; kuru—do; yata-ātma-vān—be situated in the self
+◈  atha – if; etat – this; api – even; aśaktaḥ – unable; asi – you are; 
+◈  kartum – to do; mat-yogam – My Yoga; āśritaḥ – taking refuge in; 
+◈  sarva-karma-phala-tyāgam – renunciation of the fruits of all actions; 
+◈  tataḥ – then; kuru – perform; yata-ātmavān – self-controlled.
 {eov}
 
 {sot}

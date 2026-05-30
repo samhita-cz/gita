@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |
 निवसिष्यसि मय्येव अत ऊर्ध्वं न संशय: || 8||
 
-mayy eva mana ādhatsva mayi buddhiṁ niveśhaya
-nivasiṣhyasi mayy eva ata ūrdhvaṁ na sanśhayaḥ
+mayyeva mana ādhatsva 
+mayi buddhiṃ niveśaya | 
+nivasiṣyasi mayyeva 
+ata ūrdhvaṃ na saṃśayaḥ ||
 
-mayi—on Me; eva—alone; manaḥ—mind; ādhatsva—fix; mayi—on Me; buddhim—intellect; niveśhaya—surrender; nivasiṣhyasi—you shall always live; mayi—in Me; eva—alone; ataḥ ūrdhvam—thereafter; na—not; sanśhayaḥ—doubt
+◈  mayi – on Me; eva – alone; manaḥ – the mind; ādhatsva – fix; 
+◈  mayi – on Me; buddhim – the intellect; niveśaya – cause to enter; 
+◈  nivasiṣyasi – you shall dwell; mayi – in Me; eva – alone; 
+◈  ataḥ ūrdhvam – hereafter; na – no; saṃśayaḥ – doubt.
 {eov}
 
 {sot}

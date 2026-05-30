@@ -17,11 +17,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते |
 ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमा: || 1||
 
-arjuna uvācha
-evaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate
-ye chāpy akṣharam avyaktaṁ teṣhāṁ ke yoga-vittamāḥ
+arjuna uvāca | 
+evaṃ satatayuktā ye 
+bhaktāstvāṃ paryupāsate | 
+ye cāpyakṣaramavyaktaṃ 
+teṣāṃ ke yogavittamāḥ ||
 
-arjunaḥ uvācha—Arjun said; evam—thus; satata—steadfastly; yuktāḥ—devoted; ye—those; bhaktāḥ—devotees; tvām—you; paryupāsate—worship; ye—those; cha—and; api—also; akṣharam—the imperishable; avyaktam—the formless Brahman; teṣhām—of them; ke—who; yoga-vit-tamāḥ—more perfect in Yog
+◈  arjuna uvāca – Arjuna said; 
+◈  evam – thus; satata-yuktāḥ – ever steadfast; ye – who; 
+◈  bhaktāḥ – devotees; tvām – You; paryupāsate – worship; 
+◈  ye – those who; ca – and; api – also; akṣaram – the Imperishable; avyaktam – the Unmanifested; 
+◈  teṣām – of them; ke – who; yoga-vittamāḥ – are best versed in Yoga.
+
 {eov}
 
 {sot}
@@ -36,11 +43,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते |
 श्रद्धया परयोपेतास्ते मे युक्ततमा मता: || 2||
 
-śhrī-bhagavān uvācha
-mayy āveśhya mano ye māṁ nitya-yuktā upāsate
-śhraddhayā parayopetās te me yuktatamā matāḥ
+śrībhagavānuvāca | 
+mayyāveśya mano ye māṃ 
+nityayuktā upāsate | 
+śraddhayā parayopetās
+te me yuktatamā matāḥ ||
 
-śhrī-bhagavān uvācha—the Lord said; mayi—on Me; āveśhya—fix; manaḥ—the mind; ye—those; mām—Me; nitya yuktāḥ—always engaged; upāsate—worship; śhraddhayā—with faith; parayā—best; upetāḥ—endowed; te—they; me—by Me; yukta-tamāḥ—situated highest in Yog; matāḥ—I consider
+◈  śrī-bhagavān uvāca – the Blessed Lord said; 
+◈  mayi – on Me; āveśya – fixing; manaḥ – the mind; ye – who; mām – Me; 
+◈  nitya-yuktāḥ – ever steadfast; upāsate – worship; 
+◈  śraddhayā – with faith; parayā – supreme; upetāḥ – endowed; 
+◈  te – they; me – by Me; yukta-tamāḥ – best in Yoga; matāḥ – are considered.
+
 {eov}
 
 {sot}

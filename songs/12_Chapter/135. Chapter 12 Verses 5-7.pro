@@ -16,35 +16,62 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ||
 अव्यक्ता हि गतिर्दु:खं देहवद्भिरवाप्यते || 5||
 
-kleśho ’dhikataras teṣhām avyaktāsakta-chetasām
-avyaktā hi gatir duḥkhaṁ dehavadbhir avāpyate
+kleśo’dhikatarasteṣām
+avyaktāsaktacetasām | 
+avyaktā hi gatirduḥkhaṃ 
+dehavadbhiravāpyate ||
 
-kleśhaḥ—tribulations; adhika-taraḥ—full of; teṣhām—of those; avyakta—to the unmanifest; āsakta—attached; chetasām—whose minds; avyaktā—the unmanifest; hi—indeed; gatiḥ—path; duḥkham—exceedingly difficult; deha-vadbhiḥ—for the embodied; avāpyate—is reached
+◈  kleśaḥ – difficulty/strain; adhikataraḥ – greater; teṣām – of those; 
+◈  avyakta-āsakta-cetasām – whose minds are set on the Unmanifested; 
+◈  avyaktā – the Unmanifested; hi – for; gatiḥ – goal/path; duḥkham – with pain/difficulty; 
+◈  dehavadbhiḥ – by the embodied; avāpyate – is reached.
 {eov}
 
 {sot}
 Greater is the difficulty for those whose mind is set on the realisation of the unmanifest (Nirguna Brahman), because the unmanifested is reached with difficulty by embodied beings.
 {eot}
 
-{sov: Verse 12.6-7}
+{sov: Verse 12.6}
 
 https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-6-7.mp3 | 12.6-7
 
 ये तु सर्वाणि कर्माणि मयि संन्न्यस्य मत्पर: |
 अनन्येनैव योगेन मां ध्यायन्त उपासते || 6||
-तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |
-भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् || 7||
 
-ye tu sarvāṇi karmāṇi mayi sannyasya mat-paraḥ
-ananyenaiva yogena māṁ dhyāyanta upāsate
-teṣhām ahaṁ samuddhartā mṛityu-saṁsāra-sāgarāt
-bhavāmi na chirāt pārtha mayy āveśhita-chetasām
+ye tu sarvāṇi karmāṇi 
+mayi saṃnyasya matparāḥ | 
+ananyenaiva yogena 
+māṃ dhyāyanta upāsate || 6 || 
 
-ye—who; tu—but; sarvāṇi—all; karmāṇi—actions; mayi—to Me; sannyasya—dedicating; mat-paraḥ—regarding Me as the Supreme goal; ananyena—exclusively; eva—certainly; yogena—with devotion; mām—Me; dhyāyantaḥ—meditating; upāsate—worship; teṣhām—of those; aham—I; samuddhartā—the deliverer; mṛityu-saṁsāra-sāgarāt—from the ocean of birth and death; bhavāmi—(I) become; na—not; chirāt—after a long time; pārtha—Arjun, the son of Pritha; mayi—with Me; āveśhita chetasām—of those whose consciousness is united
+◈  ye – who; tu – but; sarvāṇi – all; karmāṇi – actions; 
+◈  mayi – in Me; saṃnyasya – renouncing; mat-parāḥ – regarding Me as the Supreme; 
+◈  ananyena – with undivided; eva – indeed; yogena – through Yoga; 
+◈  mām – Me; dhyāyantaḥ – meditating on; upāsate – worship; 
 {eov}
 
 {sot}
-O Arjuna! Those verily who renounce all actions in Me, think of Me as the only refuge and worship Me with single-minded devotion and Dhyana, to them I become the saviour and quickly lift them up from the ocean of death and ‘samsara’. 
+But those who, with Me as their supreme goal, dedicating all actions (karma) to Me, and meditating on Me through exclusive spiritual discipline (yoga), worship Me. 
+{eot}
+
+{sov: Verse 12.7}
+
+तेषामहं समुद्धर्ता मृत्युसंसारसागरात् |
+भवामि नचिरात्पार्थ मय्यावेशितचेतसाम् || 7||
+
+teṣāmahaṃ samuddhartā 
+mṛtyusaṃsārasāgarāt | 
+bhavāmi nacirātpārtha 
+mayyāveśitacetasām || 7 ||
+
+◈  teṣām – for them; aham – I (am); samuddhartā – the deliverer; 
+◈  mṛtyu-saṃsāra-sāgarāt – from the ocean of the death-bound existence; 
+◈  bhavāmi – I become; na cirāt – soon; pārtha – O Arjuna; 
+◈  mayi – on Me; āveśita-cetasām – whose minds are fixed.
+
+{eov}
+
+{sot}
+O Pārtha (Arjuna), for those whose minds are fixed on Me, I swiftly become their deliverer from the ocean of death and rebirth (saṃsāra).
 {eot}
 
 {start_of_analysis}

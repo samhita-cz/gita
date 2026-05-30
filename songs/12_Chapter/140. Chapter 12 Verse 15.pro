@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12
 यस्मान्नोद्विजते लोको लोकान्नोद्विजते च य: |
 हर्षामर्षभयोद्वेगैर्मुक्तो य: स च मे प्रिय: || 15||
 
-yasmān nodvijate loko lokān nodvijate cha yaḥ
-harṣhāmarṣha-bhayodvegair mukto yaḥ sa cha me priyaḥ
+yasmānnodvijate loko 
+lokānnodvijate ca yaḥ | 
+harṣāmarṣabhayodvegair
+mukto yaḥ sa ca me priyaḥ ||
 
-yasmāt—by whom; na—not; udvijate—are agitated; lokaḥ—people; lokāt—from people; na—not; udvijate—are disturbed; cha—and; yaḥ—who; harṣha—pleasure; amarṣha—pain; bhaya—fear; udvegaiḥ—anxiety; muktaḥ—free; yaḥ—who; saḥ—they; cha—and; me—to Me; priyaḥ—very dear
+◈  yasmāt – by whom; na udvijate – is not agitated; lokaḥ – the world; 
+◈  lokāt – from the world; na udvijate – is not agitated; ca – and; yaḥ – who; 
+◈  harṣa-amarṣa-bhaya-udvegaiḥ – from joy, envy, fear and anxiety; 
+◈  muktaḥ – free; yaḥ – who; saḥ – he; ca – and; me – to Me; priyaḥ – is dear.
 {eov}
 
 {sot}

@@ -9,21 +9,42 @@ https://youtu.be/nQFFIwWWr38?si=L3wsRFJZxqsME1kj
 
 https://open.spotify.com/episode/61EfwS3q9jEZgJiGCBsExY?si=1c0590d34f284a08
 
-{sov: Verse 12.13-14}
+{sov: Verse 12.13}
 
 https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-13-14.mp3 | 12.13-14
 
 अद्वेष्टा सर्वभूतानां मैत्र: करुण एव च |
 निर्ममो निरहङ्कार: समदु:खसुख: क्षमी || 13||
+
+adveṣṭā sarvabhūtānāṃ 
+maitraḥ karuṇa eva ca | 
+nirmamo nirahaṅkāraḥ 
+samaduḥkhasukhaḥ kṣamī || 13 ||  
+
+◈  adveṣṭā – non-envious; sarva-bhūtānām – toward all living beings; 
+◈  maitraḥ – friendly; karuṇaḥ – compassionate; eva – indeed; ca – and; 
+◈  nirmamaḥ – without a sense of "mine"; nirahaṅkāraḥ – without ego; 
+◈  sama-duḥkha-sukhaḥ – equal in pain and pleasure; kṣamī – forgiving;
+
+{sot}
+One who bears no ill-will towards any living creature, who is friendly and compassionate, free from possessiveness and ego (ahaṅkāra), equipoised in sorrow and joy, and forgiving.
+{eot}
+
+{sov: Verse 12.14}
+
 सन्तुष्ट: सततं योगी यतात्मा दृढनिश्चय: |
 मय्यर्पितमनोबुद्धिर्यो मद्भक्त: स मे प्रिय: || 14||
 
-adveṣhṭā sarva-bhūtānāṁ maitraḥ karuṇa eva cha
-nirmamo nirahankāraḥ sama-duḥkha-sukhaḥ kṣhamī
-santuṣhṭaḥ satataṁ yogī yatātmā dṛiḍha-niśhchayaḥ
-mayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ
+santuṣṭaḥ satataṃ yogī 
+yatātmā dṛḍhaniścayaḥ | 
+mayyarpitamanobuddhir
+yomadbhaktaḥ sa me priyaḥ || 14 ||
 
-adveṣhṭā—free from malice; sarva-bhūtānām—toward all living beings; maitraḥ—friendly; karuṇaḥ—compassionate; eva—indeed; cha—and; nirmamaḥ—free from attachment to possession; nirahankāraḥ—free from egoism; sama—equipoised; duḥkha—distress; sukhaḥ—happiness; kṣhamī—forgiving; santuṣhṭaḥ—content; satatam—steadily; yogī—united in devotion; yata-ātmā—self-controlled; dṛiḍha-niśhchayaḥ—firm resolve; mayi—to me; arpita—dedicated; manaḥ—mind; buddhiḥ—intellect; yaḥ—who; mat-bhaktaḥ—My devotees; saḥ—they; me—to Me; priyaḥ—very dear
+◈  santuṣṭaḥ – satisfied; satatam – always; yogī – united with God; 
+◈  yata-ātmā – self-controlled; dṛḍha-niścayaḥ – with firm resolve; 
+◈  mayi-arpita – dedicated to Me; manaḥ-buddhiḥ – mind and intellect; 
+◈  yaḥ – who; mat-bhaktaḥ – My devotee; saḥ – he; me – to Me; priyaḥ – is dear.
+
 {eov}
 
 {sot}
