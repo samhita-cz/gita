@@ -2909,8 +2909,8 @@
     "audio": [
       {
         "url": "https://samhita-cz.github.io/gita-audio/ch13/143.mp3",
-        "label": "Gaiea Sanskrit 13.1-2",
-        "title": "Gaiea Sanskrit 13.1-2"
+        "label": "Gaiea Sanskrit 13.1*, 13.1-2",
+        "title": "Gaiea Sanskrit 13.1*, 13.1-2"
       }
     ],
     "tags": [
@@ -2919,7 +2919,7 @@
     ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
-    "analysis": "https://vivekavani.com/b13v1/\n\nhttps://vivekavani.com/b13v2/"
+    "analysis": "https://vivekavani.com/b13v1/ ---> 13.1*\n\nhttps://vivekavani.com/b13v2/ ---> 13.1\n\nhttps://vivekavani.com/b13v3/ ---> 13.2"
   },
   {
     "name": "144. Chapter 13 Verse 2 (Cont'd)",
@@ -2937,7 +2937,7 @@
     ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
-    "analysis": "https://vivekavani.com/b13v2/"
+    "analysis": "https://vivekavani.com/b13v3/"
   },
   {
     "name": "145. Chapter 13 Verse 2 (Cont'd)",
@@ -2955,7 +2955,7 @@
     ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
-    "analysis": "https://vivekavani.com/b13v2/"
+    "analysis": "https://vivekavani.com/b13v3/"
   },
   {
     "name": "146. Chapter 13 Verse 2 (Cont'd)",
@@ -2973,7 +2973,7 @@
     ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
-    "analysis": "https://vivekavani.com/b13v2/"
+    "analysis": "https://vivekavani.com/b13v3/"
   },
   {
     "name": "147. Chapter 13 Verses 3-6",
