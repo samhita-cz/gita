@@ -11,78 +11,97 @@ https://open.spotify.com/episode/5i0BwX1FeBtFx4R3029tS0?si=59b9bfdf42be4f03
 
 {sov: Verse 13.3}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-3.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-4.mp3
 
-क्षेत्रज्ञं चापि मां विद्धि सर्वक्षेत्रेषु भारत |
-क्षेत्रक्षेत्रज्ञयोर्ज्ञानं यत्तज्ज्ञानं मतं मम || 3||
+तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् । 
+स च यो यत्प्रभावश्च तत्समासेन मे शृणु || 3||
 
-kṣhetra-jñaṁ chāpi māṁ viddhi sarva-kṣhetreṣhu bhārata
-kṣhetra-kṣhetrajñayor jñānaṁ yat taj jñānaṁ mataṁ mama
+tatkṣetraṃ yacca yādṛkca 
+yadvikāri yataśca yat | 
+sa ca yo yatprabhāvaśca 
+tatsamāsena me śṛṇu ||
 
-kṣhetra-jñam—the knower of the field; cha—also; api—only; mām—me; viddhi—know; sarva—all; kṣhetreṣhu—in individual fields of activities; bhārata—scion of Bharat; kṣhetra—the field of activities; kṣhetra-jñayoḥ—of the knower of the field; jñānam—understanding of; yat—which; tat—that; jñānam—knowledge; matam—opinion; mama—my
+◈  tat – that; kṣetram – field; yat – what; ca – and; yādṛk – what like; ca – and; 
+◈  yat-vikāri – what its modifications; yataḥ – whence; ca – and; yat – what; 
+◈  saḥ – He (the Knower); ca – and; yaḥ – who; yat-prabhāvaḥ – what His powers; ca – and; 
+◈  tat – that; samāsena – in brief; me – from Me; śṛṇu – hear.
+
 {eov}
 
 {sot}
-O Arjuna! Know Me as the kshetrajna (Knower) in all the kshetras (bodies); Knowledge of the kshetra and kshetrajna is real Knowledge, according to My opinion.
+What that Field is, of what nature, what its modifications are, whence it comes, as also who that Knower is and what His powers are—hear all that from Me in brief.
 {eot}
 
 {sov: Verse 13.4}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-4.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-5.mp3
 
-तत्क्षेत्रं यच्च यादृक्च यद्विकारि यतश्च यत् |
-स च यो यत्प्रभावश्च तत्समासेन मे शृणु || 4||
+ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधैः पृथक् ।
+ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितैः || 4||
 
-tat kṣhetraṁ yach cha yādṛik cha yad-vikāri yataśh cha yat
-sa cha yo yat-prabhāvaśh cha tat samāsena me śhṛiṇu
+ṛṣibhirbahudhā gītaṁ 
+chandobhirvividhaiḥ pṛthak |
+brahmasūtrapadaiścaiva 
+hetumadbhirviniścitaiḥ ||
 
-tat—that; kṣhetram—field of activities; yat—what; cha—and; yādṛik—its nature; cha—and; yat-vikāri—how change takes place in it; yataḥ—from what; cha—also; yat—what; saḥ—he; cha—also; yaḥ—who; yat-prabhāvaḥ—what his powers are; cha—and; tat—that; samāsena—in summary; me—from me; śhṛiṇu—listen
+◈  ṛṣibhiḥ — by great sages; bahudhā — in manifold ways; gītam — sung; 
+◈  chandobhiḥ — in Vedic hymns; vividhaiḥ — various; pṛthak—various; 
+◈  brahma-sūtra — the Brahma Sūtra; padaiḥ — by the hymns; cha — and; eva — especially; 
+◈  hetu-madbhiḥ — with logic; viniśhchitaiḥ — conclusive evidence
 {eov}
 
 {sot}
-Hear briefly from Me what the Field is, what its nature is, what its modifications are, whence it comes, who its Knower is, and what His powers are.
+This has been described (gīta) by sages in many ways, distinctly in various Vedic hymns (chandas), and certainly by the reasoned and conclusive aphorisms of the Brahma-sūtras. 
 {eot}
 
 {sov: Verse 13.5}
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3 | 13.5-6
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-5.mp3
+महाभूतान्यहंकारो बुद्धिरव्यक्तमेव च ।
+इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः || 5 ||
 
-ऋषिभिर्बहुधा गीतं छन्दोभिर्विविधै: पृथक् |
-ब्रह्मसूत्रपदैश्चैव हेतुमद्भिर्विनिश्चितै: || 5 ||
+mahābhūtānyahaṅkāro 
+buddhiravyaktameva ca | 
+indriyāṇi daśaikaṃ ca 
+pañca cendriyagocarāḥ || 5 || 
 
-ṛiṣhibhir bahudhā gītaṁ chhandobhir vividhaiḥ pṛithak
-brahma-sūtra-padaiśh chaiva hetumadbhir viniśhchitaiḥ
+◈  mahā-bhūtāni – the great elements (Earth, Water, Fire, Air, Ether); ahaṅkāraḥ – ego; 
+◈  buddhiḥ – intellect; avyaktam – the unmanifested (nature); 
+◈  indriyāṇi – the senses; daśa ekam – ten and one (mind); 
+◈  pañca – five; indriya-gocarāḥ – objects of the senses; 
 
-ṛiṣhibhiḥ—by great sages; bahudhā—in manifold ways; gītam—sung; chhandobhiḥ—in Vedic hymns; vividhaiḥ—various; pṛithak—various; brahma-sūtra—the Brahma Sūtra; padaiḥ—by the hymns; cha—and; eva—especially; hetu-madbhiḥ—with logic; viniśhchitaiḥ—conclusive evidence
 {eov}
 
 {sot}
-All this has been sung by sages in many and different ways, in various distinctive hymns, and also in well reasoned and convincing passages indicative of Brahman.
+The great elements, the ego (ahaṅkāra), the intellect (buddhi), and also the unmanifest (avyakta); the ten senses and the mind (which is the eleventh), and the five objects of the senses - all these constitute the field (kṣetra).
 {eot}
 
 {sov: Verse 13.6}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3 | 13.6-7
+इच्छा द्वेषः सुखं दुःखं संघातश्चेतना धृतिः ।
+एतत्क्षेत्रं समासेन सविकारमुदाहृतम् || 6||
 
-महाभूतान्यङ्ककारो बुद्धिरव्यक्त मेव च |
-इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचरा: || 6||
+icchā dveṣaḥ sukhaṃ duḥkhaṃ 
+saṅghātaścetanā dhṛtiḥ | 
+etatkṣetraṃ samāsena 
+savikāramudāhṛtam || 6 ||
 
-mahā-bhūtāny ahankāro buddhir avyaktam eva cha
-indriyāṇi daśhaikaṁ cha pañcha chendriya-gocharāḥ
-
-mahā-bhūtāni—the (five) great elements; ahankāraḥ—the ego; buddhiḥ—the intellect; avyaktam—the unmanifested primordial matter; eva—indeed; cha—and; indriyāṇi—the senses; daśha-ekam—eleven; cha—and; pañcha—five; cha—and; indriya-go-charāḥ—the (five) objects of the senses
+◈  icchā – desire; dveṣaḥ – hatred; sukham – pleasure; duḥkham – pain; 
+◈  saṅghātaḥ – the body/combination; cetanā – consciousness (manifested in the body); dhṛtiḥ – fortitude.
+◈  etat – this; kṣetram – field; samāsena – in brief; 
+◈  sa-vikāra-mudāhṛtam – described with modifications.
 {eov}
 
 {sot}
-The great elements, I-consciousness, understanding, and the unmanifested; the ten senses, the mind, the five objects of the senses;
+Desire, aversion, pleasure, pain, the aggregate (of the body and senses), consciousness, and fortitude - this field (kṣetra), along with its modifications, has been concisely declared.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v3/
+https://vivekavani.com/b13v4/ ---> 13.3
 
-https://vivekavani.com/b13v4/
+https://vivekavani.com/b13v5/ ---> 13.4
 
-https://vivekavani.com/b13v5/
+https://vivekavani.com/b13v6/ ---> 13.5
 
-https://vivekavani.com/b13v6/
+https://vivekavani.com/b13v7/ ---> 13.6
 {end_of_analysis}

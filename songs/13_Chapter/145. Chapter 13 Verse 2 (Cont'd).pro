@@ -32,5 +32,5 @@ Know Me also as the Knower of the Field in all Fields, O Bharata. The knowledge 
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v3/
+https://vivekavani.com/b13v3/ ---> 13.2
 {end_of_analysis}
