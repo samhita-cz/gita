@@ -11,41 +11,53 @@ https://open.spotify.com/episode/4ICWJtC4mr1PppaK02a7CJ?si=37b6d693fc444f1b
 
 {sov: Verse 13.24}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-24.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-25.mp3
 
-य एवं वेत्ति पुरुषं प्रकृतिं च गुणै: सह |
-सर्वथा वर्तमानोऽपि न स भूयोऽभिजायते || 24||
+ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना । 
+अन्ये साङ्ख्येन योगेन कर्मयोगेन चापरे ॥ २४ ॥
 
-ya evaṁ vetti puruṣhaṁ prakṛitiṁ cha guṇaiḥ saha
-sarvathā vartamāno ’pi na sa bhūyo ’bhijāyate
+dhyānenātmani paśyanti 
+kecidātmānamātmanā | 
+anye sāṅkhyena yogena 
+karmayogena cāpare || 24 ||
 
-yaḥ—who; evam—thus; vetti—understand; puruṣham—Puruṣh; prakṛitim—the material nature; cha—and; guṇaiḥ—the three modes of nature; saha—with; sarvathā—in every way; vartamānaḥ—situated; api—although; na—not; saḥ—they; bhūyaḥ—again; abhijāyate—take birth
+◈  dhyānena – by meditation; ātmani – in the self; paśyanti – see; 
+◈  kecit – some; ātmānam – the Self; ātmanā – by the self; 
+◈  anye – others; sāṅkhyena yogena – by the Yoga of Knowledge; 
+◈  karma-yogena – by the Yoga of Action; ca – and; apare – others.
+
 
 {eov}
 
 {sot}
-He who thus knows Purusha and Prakriti, along with the gunas, is not born again. He will be liberated regardless of his present condition.
+Some perceive the Self in the self by the self through meditation; others by the Yoga of Knowledge, and still others by the Yoga of Action.
 {eot}
 
 {sov: Verse 13.25}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-25.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-26.mp3
 
-ध्यानेनात्मनि पश्यन्ति केचिदात्मानमात्मना |
-अन्ये साङ् ख्येन योगेन कर्मयोगेन चापरे || 25||
+ध्अन्ये त्वेवमजानन्तः श्रुत्वान्येभ्य उपासते । 
+तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणाः ॥ २५ ॥
 
-dhyānenātmani paśhyanti kechid ātmānam ātmanā
-anye sānkhyena yogena karma-yogena chāpare
+anye tvevamajānantaḥ 
+śrutvānyebhya upāsate | 
+te’pi cātitarantyeva 
+mṛtyuṃ śrutiparāyaṇāḥ ||
 
-dhyānena—through meditation; ātmani—within one’s heart; paśhyanti—perceive; kechit—some; ātmānam—the Supreme soul; ātmanā—by the mind; anye—others; sānkhyena—through cultivation of knowledge; yogena—the yog system; karma-yogena—union with God with through path of action; cha—and; apare—others
+◈  anye – others; tu – but; evam – thus; ajānantaḥ – not knowing; 
+◈  śrutvā – hearing; anyebhyaḥ – from others; upāsate – worship; 
+◈  te – they; api – also; ca – and; atitaranti – cross over; eva – indeed; 
+◈  mṛtyum – death; śruti-parāyaṇāḥ – devoted to what they have heard.
+
 {eov}
 
 {sot}
-Some by meditation perceive the Self in themselves through the mind, some by devotion to knowledge, and some by devotion to work.
+Others again, not knowing this, worship having heard it from others; they too cross over death, being devoted to what they have heard (the scriptures/teachings).
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v24/
+https://vivekavani.com/b13v25/ --> 13.24
 
-https://vivekavani.com/b13v25/
+https://vivekavani.com/b13v26/ --> 13.25
 {end_of_analysis}

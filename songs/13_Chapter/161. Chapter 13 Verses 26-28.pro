@@ -11,54 +11,75 @@ https://open.spotify.com/episode/6Br1h2z4THtJ5jlsdXorGw?si=5cd8747d22484c89
 
 {sov: Verse 13.26}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-26.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-27.mp3
 
-अन्ये त्वेवमजानन्त: श्रुत्वान्येभ्य उपासते |
-तेऽपि चातितरन्त्येव मृत्युं श्रुतिपरायणा: || 26||
+यावत्सञ्जायते किञ्चित्सत्त्वं स्थावरजङ्गअमम् । 
+क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ ॥ २६ ॥
 
-anye tv evam ajānantaḥ śhrutvānyebhya upāsate
-te ’pi chātitaranty eva mṛityuṁ śhruti-parāyaṇāḥ
+yāvatsañjāyate kiñcit
+sattvaṃ sthāvarajaṅgamam | 
+kṣetrakṣetrajñasaṃyogāt
+tadviddhi bharatarṣabha || 26 ||
 
-anye—others; tu—still; evam—thus; ajānantaḥ—those who are unaware (of spiritual paths); śhrutvā—by hearing; anyebhyaḥ—from others; upāsate—begin to worship; te—they; api—also; cha—and; atitaranti—cross over; eva—even; mṛityum—death; śhruti-parāyaṇāḥ—devotion to hearing (from saints)
+◈  yāvat – whatever; sañjāyate – is born; kiñcit – any; 
+◈  sattvam – being; sthāvara-jaṅgamam – unmoving or moving; 
+◈  kṣetra-kṣetrajña-saṃyogāt – from the union of the Field and the Knower of the Field; 
+◈  tat – that; viddhi – know; bharata-ṛṣabha – O best of the Bharatas.
+
 {eov}
 
 {sot}
-And there are yet some who do not know It by these means. They hear of It from others and worship. They too pass beyond death through their devotion to what they have heard.
+Whatever being is born, whether unmoving or moving, know that it is from the union of the Field and the Knower of the Field, O best of the Bharatas.
 {eot}
 
 {sov: Verse 13.27}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-27.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-28.mp3
 
-यावत्सञ्जायते किञ्चित्सत्वं स्थावरजङ्गमम् |
-क्षेत्रक्षेत्रज्ञसंयोगात्तद्विद्धि भरतर्षभ || 27||
+समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् । विनश्यत्स्वविनश्यन्तं यः पश्यति स पश्यति ॥ २७ ॥
 
-yāvat sañjāyate kiñchit sattvaṁ sthāvara-jaṅgamam
-kṣhetra-kṣhetrajña-sanyogāt tad viddhi bharatarṣhabha
+samaṃ sarveṣu bhūteṣu 
+tiṣṭhantaṃ parameśvaram | 
+vinaśyatsvavinaśyantaṃ 
+yaḥ paśyati sa paśyati || 27 ||
 
-yāvat—whatever; sañjāyate—manifesting; kiñchit—anything; sattvam—being; sthāvara—unmoving; jaṅgamam—moving; kṣhetra—field of activities; kṣhetra-jña—knower of the field; sanyogāt—combination of; tat—that; viddhi—know; bharata-ṛiṣhabha—best of the Bharatas
+◈  samam – equally; sarveṣu – in all; bhūteṣu – beings; 
+◈  tiṣṭhantam – dwelling; parama-īśvaram – the Supreme Lord; 
+◈  vinaśyatsu – in the perishing; avinaśyantam – the unperishing; 
+◈  yaḥ – who; paśyati – sees; saḥ – he; paśyati – (truly) sees.
+
 {eov}
 
 {sot}
-Whatever is born— whether animate or inanimate— know, Ο Bhārata prince, that it is through union of the Field and the Knower of the Field.
+He who sees the Supreme Lord dwelling equally in all beings—the Unperishing within the perishing—he alone truly sees.
 {eot}
 
 {sov: Verse 13.28}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-28.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-29.mp3
 
-समं सर्वेषु भूतेषु तिष्ठन्तं परमेश्वरम् |
-विनश्यत्स्वविनश्यन्तं य: पश्यति स पश्यति || 28||
+समं पश्यन्हि सर्वत्र समवस्थितमीश्वरम् । 
+न हिनस्त्यात्मनात्मानं ततो याति परां गतिम् ॥ २८ ॥
 
-samaṁ sarveṣhu bhūteṣhu tiṣhṭhantaṁ parameśhvaram
-vinaśhyatsv avinaśhyantaṁ yaḥ paśhyati sa paśhyati
+samaṃ paśyanhi sarvatra 
+samavasthitamīśvaram | 
+na hinastyātmanātmānaṃ 
+tato yāti parāṃ gatim || 28 ||
 
-samam—equally; sarveṣhu—in all; bhūteṣhu—beings; tiṣhṭhan-tam—accompanying; parama-īśhvaram—Supreme Soul; vinaśhyatsu—amongst the perishable; avinaśhyantam—the imperishable; yaḥ—who; paśhyati—see; saḥ—they; paśhyati—perceive
+◈  samam – equally; paśyan – seeing; hi – indeed; sarvatra – everywhere; 
+◈  samavasthitam – equally dwelling; īśvaram – the Lord; 
+◈  na hinasti – does not destroy; ātmanā – by the self; ātmānam – the Self; 
+◈  tataḥ – then; yāti – reaches; parām – the supreme; gatim – goal.
+
 {eov}
 
 {sot}
-He who sees the Supreme Lord abiding alike in all beings, and not perishing when they perish— verily he alone sees.
+Seeing the same Lord dwelling equally everywhere, he does not destroy the Self by the self (does not fall into ignorance); therefore he reaches the supreme goal.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b13v27/ --> 13.26
+
+https://vivekavani.com/b13v28/ --> 13.27
+
+https://vivekavani.com/b13v29/ --> 13.28
