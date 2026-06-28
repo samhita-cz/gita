@@ -5,7 +5,11 @@
 {tags: 13.3, 13.4, 13.5, 13.6}
 {audio: https://samhita-cz.github.io/gita-audio/ch13/147.mp3 | Gaiea Sanskrit 13.3-6}
 
-https://www.youtu.be/qErsel70RS8?si=A6yIfHu4cInCvpk1
+https://www.youtu.be/qErsel70RS8?
+
+https://www.youtube.com/live/qErsel70RS8?si=RDEFaS30WMA81zqA
+
+https://www.youtube.com/live/qErsel70RS8?si=gavmAknZ3PfBVDDo
 
 https://open.spotify.com/episode/5i0BwX1FeBtFx4R3029tS0?si=59b9bfdf42be4f03
 

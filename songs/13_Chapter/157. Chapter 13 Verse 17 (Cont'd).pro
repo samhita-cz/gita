@@ -11,21 +11,27 @@ https://open.spotify.com/episode/50F39HTDICEaFFdTySWSKO?si=e04de318e5154947
 
 {sov: Verse 13.17}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3 | 13.14-17
 
-अविभक्तं च भूतेषु विभक्तमिव च स्थितम् |
-भूतभर्तृ च तज्ज्ञेयं ग्रसिष्णु प्रभविष्णु च || 17||
+ज्योतिषामपि तज्ज्योतिस्तमसः परमुच्यते । 
+ज्ञानं ज्ञेयं ज्ञानगम्यं हृदि सर्वस्य विष्ठितम् ॥ १७ ॥
 
-avibhaktaṁ cha bhūteṣhu vibhaktam iva cha sthitam
-bhūta-bhartṛi cha taj jñeyaṁ grasiṣhṇu prabhaviṣhṇu cha
+jyotiṣāmapi tajjyotis
+tamasaḥ paramucyate | 
+jñānaṃ jñeyaṃ jñānagamyaṃ 
+hṛdi sarvasya viṣṭhitam || 17 ||
 
-avibhaktam—indivisible; cha—although; bhūteṣhu—amongst living beings; vibhaktam—divided; iva—apparently; cha—yet; sthitam—situated; bhūta-bhartṛi—the Sustainer of all beings; cha—also; tat—that; jñeyam—to be known; grasiṣhṇu—the Annihilator; prabhaviṣhṇu—the Creator; cha—and; 
+◈  jyotiṣām – of lights; api – even; tat – that; jyotiḥ – the light; 
+◈  tamasaḥ – darkness; param – beyond; ucyate – is called; 
+◈  jñānam – knowledge; jñeyam – the object of knowledge; jñāna-gamyam – the goal of knowledge; 
+◈  hṛdi – in the heart; sarvasya – of all; viṣṭhitam – seated.
+
 {eov}
 
 {sot}
-It is indivisible, and yet It is, as it were, divided among beings. That Knowable Brahman is the Sustainer of all beings, and also their Devourer and Generator.
+It is the Light of all lights, and is said to be beyond darkness. It is Knowledge, the Object of Knowledge, and the Goal of Knowledge, seated in the hearts of all.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v15/
+https://vivekavani.com/b13v15/ --> 13.14 - 17
 {end_of_analysis}

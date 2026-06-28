@@ -32,5 +32,5 @@ sthairyamātmavinigrahaḥ ||
 Humility, sincerity, non-violence (ahiṃsā), patience, straightforwardness, service to the spiritual teacher (guru), purity, steadfastness, and self-control (ātman-vinigrahaḥ). {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v8/
+https://vivekavani.com/b13v8/ ---> 13.7
 {end_of_analysis}

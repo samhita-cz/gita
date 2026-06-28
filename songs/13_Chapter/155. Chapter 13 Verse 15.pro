@@ -11,20 +11,26 @@ https://open.spotify.com/episode/1OzAy7IThxSkBsMDkM3Oq7?si=73c0e03da1fd4f81
 
 {sov: Verse 13.15}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3 | 13.15-18
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3 | 13.14-17
 
-सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् |
-असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च || 15||
+बहिरन्तश्च भूतानामचरं चरमेव च । 
+सूक्ष्मत्वात्तदविज्ञेयं दूरस्थं चान्तिके च तत् ॥ १५ ॥
 
-sarvendriya-guṇābhāsaṁ sarvendriya-vivarjitam
-asaktaṁ sarva-bhṛich chaiva nirguṇaṁ guṇa-bhoktṛi cha
+bahirantaśca bhūtānām
+acaraṃ carameva ca | 
+sūkṣmatvāttadavijñeyaṃ 
+dūrasthaṃ cāntike ca tat || 15 ||
 
-sarva—all; indriya—senses; guṇa—sense-objects; ābhāsam—the perciever; sarva—all; indriya—senses; vivarjitam—devoid of; asaktam—unattached; sarva-bhṛit—the sustainer of all; cha—yet; eva—indeed; nirguṇam—beyond the three modes of material nature; guṇa-bhoktṛi—the enjoyer of the three modes of material nature; cha—although;
+◈  bahiḥ – outside; antaḥ – inside; ca – and; bhūtānām – of all beings; 
+◈  acaram – the unmoving; caram – the moving; eva – also; ca – and; 
+◈  sūkṣmatvāt – because of its subtlety; tat – that; avijñeyam – unknowable; 
+◈  dūra-stham – far away; ca – and; antike – near; ca – and; tat – that.
+
 {eov}
 
 {sot}
-It shines through the functions of all the senses, and yet It is devoid of senses. It is unattached, and yet It sustains all. It is devoid of gunas, and yet It enjoys them.
+It exists without and within all beings; It is the unmoving as also the moving. Because of Its subtlety, It is incomprehensible; It is very far, and yet very near.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v15/
+https://vivekavani.com/b13v15/ --> 13.14 - 17

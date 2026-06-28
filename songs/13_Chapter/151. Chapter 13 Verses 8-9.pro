@@ -9,27 +9,49 @@ https://www.youtu.be/N8TZrM3uLgs?si=bLbpqLTAOUXaAak4
 
 https://open.spotify.com/episode/6EwXvyyz4VDqw20OMC7YnS?si=cd1cdad522f94dad
 
-{sov: Verse 13.8-9}
+{sov: Verse 13.8}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3 | 13.8-12
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3 | 13.7-11
 
-अमानित्वमदम्भित्वमहिंसा क्षान्तिरार्जवम् |
-आचार्योपासनं शौचं स्थैर्यमात्मविनिग्रह: || 8||
-इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च |
-जन्ममृत्युजराव्याधिदु:खदोषानुदर्शनम् || 9||
+इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च । जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम् ॥ ८ ॥
 
-amānitvam adambhitvam ahinsā kṣhāntir ārjavam
-āchāryopāsanaṁ śhauchaṁ sthairyam ātma-vinigrahaḥ
-indriyārtheṣhu vairāgyam anahankāra eva cha
-janma-mṛityu-jarā-vyādhi-duḥkha-doṣhānudarśhanam
+indriyārtheṣu vairāgyam
+anahaṅkāra eva ca | 
+janmamṛtyujarāvyādhi
+duḥkhadoṣānudarśanam || 8 ||
 
-amānitvam—humbleness; adambhitvam—freedom from hypocrisy; ahinsā—non-violence; kṣhāntiḥ—forgiveness; ārjavam—simplicity; āchārya-upāsanam—service of the Guru; śhaucham—cleanliness of body and mind; sthairyam—steadfastness; ātma-vinigrahaḥ—self-control; indriya-artheṣhu—toward objects of the senses; vairāgyam—dispassion; anahankāraḥ—absence of egotism; eva cha—and also; janma—of birth; mṛityu—death; jarā—old age; vyādhi—disease; duḥkha—evils; doṣha—faults; anudarśhanam—perception;
+◈  indriya-artheṣu – in the objects of the senses; vairāgyam – dispassion/detachment; 
+◈  anahaṅkāraḥ – absence of egoism; eva – even; ca – and; 
+◈  janma-mṛtyu-jarā-vyādhi – birth, death, old age, and disease; 
+◈  duḥkha-doṣa-anudarśanam – perceiving the evil of pain and suffering.
+
 {eov}
 
 {sot}
-Humbleness; freedom from hypocrisy; non-violence; forgiveness; simplicity; service of the Guru; cleanliness of body and mind; steadfastness; and self-control; dispassion toward the objects of the senses; absence of egotism; keeping in mind the evils of birth, disease, old age, and death;
+Dispassion toward the objects of the senses, and also absence of egoism; perception of the evil in birth, death, old age, and disease (realizing they are full of suffering).
+{eot}
+
+{sov: Verse 13.9}
+
+असक्तिरनभिष्वङ्गः पुत्रदारगृहादिषु । 
+नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु ॥ ९ ॥
+
+asaktiranabhiṣvaṅgaḥ 
+putradāragṛhādiṣu | 
+nityaṃ ca  samacittatvam
+iṣṭāniṣṭopapattiṣu || 9 ||
+
+◈  asaktiḥ – non-attachment; anabhiṣvaṅgaḥ – absence of intense attachment/clinging; 
+◈  putra-dāra-gṛha-ādiṣu – toward son, wife, home, and the rest; 
+◈  nityam – constantly; ca – and; sama-cittatvam – even-mindedness; 
+◈  iṣṭa-aniṣṭa-upapattiṣu – on the attainment of the desirable and the undesirable.
+
+{eov}
+
+{sot}
+Non-attachment and absence of clinging to son, wife, home and the like; and constant even-mindedness on the attainment of the desirable and the undesirable.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v8/
+https://vivekavani.com/b13v8/ ---> 13.7-11
 {end_of_analysis}

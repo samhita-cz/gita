@@ -11,21 +11,26 @@ SPOThttps://open.spotify.com/episode/2qat32iXQYkm0jMWes3Yym?si=2d6fb08e8da2411dI
 
 {sov: Verse 13.10}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3 | 13.8-12
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3 | 13.7-11
 
-असक्तिरनभिष्वङ्ग: पुत्रदारगृहादिषु |
-नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु || 10||
+मयि चानन्ययोगेन भक्तिरव्यभिचारिणी । विविक्तदेशसेवित्वमरतिर्जनसंसदि ॥ १० ॥
 
-asaktir anabhiṣhvaṅgaḥ putra-dāra-gṛihādiṣhu
-nityaṁ cha sama-chittatvam iṣhṭāniṣhṭopapattiṣhu
+mayi cānanyayogena 
+bhaktiravyabhicāriṇī | 
+viviktadeśasevitvam
+aratirjanasaṃsadi || 10 ||
 
-asaktiḥ—non-attachment; anabhiṣhvaṅgaḥ—absence of craving; putra—children; dāra—spouse; gṛiha-ādiṣhu—home, etc; nityam—constant; cha—and; sama-chittatvam—even-mindedness; iṣhṭa—the desirable; aniṣhṭa—undesirable; upapattiṣhu—having obtained;
+◈  mayi – to Me; ca – and; ananya-yogena – by the Yoga of undivided devotion; 
+◈  bhaktiḥ – devotion; avyabhicāriṇī – unswerving/constant; 
+◈  vivikta-deśa-sevitvam – resorting to solitary places; 
+◈  aratiḥ – distaste; jana-saṃsadi – for the society of worldly-minded people.
+
 {eov}
 
 {sot}
-non-attachment; absence of clinging to spouse, children, home, and so on; even-mindedness amidst desired and undesired events in life;
+Unswerving devotion to Me through the Yoga of exclusive meditation; resorting to secluded and holy places, and a distaste for the society of worldly people.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v10/
+https://vivekavani.com/b13v8/ ---> 13.7-11
 {end_of_analysis}

@@ -11,59 +11,77 @@ https://open.spotify.com/episode/5gTAphH4fSiP7g0nv2I0UP?si=afac592a23704564
 
 {sov: Verse 13.19}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-19.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-20.mp3
 
-इति क्षेत्रं तथा ज्ञानं ज्ञेयं चोक्तं समासत: |
-मद्भक्त एतद्विज्ञाय मद्भावायोपपद्यते || 19||
+प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि । 
+विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् ॥ १९ ॥
 
-iti kṣhetraṁ tathā jñānaṁ jñeyaṁ choktaṁ samāsataḥ
-mad-bhakta etad vijñāya mad-bhāvāyopapadyate
+prakṛtiṃ puruṣaṃ caiva 
+viddhyanādī ubhāvapi | 
+vikārāṃśca guṇāṃścaiva 
+viddhi prakṛtisambhavān || 19 ||
 
-iti—thus; kṣhetram—the nature of the field; tathā—and; jñānam—the meaning of knowledge; jñeyam—the object of knowledge; cha—and; uktam—revealed; samāsataḥ—in summary; mad-bhaktaḥ—my devotees; etat—this; vijñāya—having understood; mad-bhāvāya—my divine nature; upapadyate—attain
+◈  prakṛtim – Nature; puruṣam – Spirit; ca – and; eva – even; 
+◈  viddhi – know; anādī – beginningless; ubhau – both; api – also; 
+◈  vikārān – modifications; ca – and; guṇān – qualities (gunas); ca – and; eva – even; 
+◈  viddhi – know; prakṛti-sambhavān – born of Nature.
+
 {eov}
 
 {sot}
-Thus briefly have been set forth the Field and also knowledge and the object of knowledge. My devotee who understands this becomes worthy of My state.
+Know that Nature (Prakriti) and Spirit (Purusha) are both beginningless; and know also that all modifications and qualities (gunas) are born of Nature.
 {eot}
 
 {sov: Verse 13.20}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-20.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-21.mp3
 
-प्रकृतिं पुरुषं चैव विद्ध्यनादी उभावपि |
-विकारांश्च गुणांश्चैव विद्धि प्रकृतिसम्भवान् || 20||
+कार्यकरणकर्तृत्वे हेतुः प्रकृतिरुच्यते । 
+पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते ॥ २० ॥
 
-prakṛitiṁ puruṣhaṁ chaiva viddhy anādī ubhāv api
-vikārānśh cha guṇānśh chaiva viddhi prakṛiti-sambhavān
+kāryakaraṇakartṛtve 
+hetuḥ prakṛtirucyate | 
+puruṣaḥ sukhaduḥkhānāṃ 
+bhoktṛtve heturucyate || 20 ||
 
-prakṛitim—material nature; puruṣham—the individual souls; cha—and; eva—indeed; viddhi—know; anādī—beginningless; ubhau—both; api—and; vikārān—transformations (of the body); cha—also; guṇān—the three modes of nature; cha—and; eva—indeed; viddhi—know; prakṛiti—material energy; sambhavān—produced by
+◈  kārya – effect; karaṇa – cause/instruments; kartṛtve – in the matter of being the doer; 
+◈  hetuḥ – the cause; prakṛtiḥ – Nature; ucyate – is said to be; 
+◈  puruṣaḥ – the Spirit; sukha-duḥkhānām – of pleasure and pain; 
+◈  bhoktṛtve – in the matter of experiencing; hetuḥ – the cause; ucyate – is said to be.
+
 {eov}
 
 {sot}
-Know that Prakriti and Purusha are both without beginning; and know, too, that all forms and gunas are born of Prakriti.
+Nature is said to be the cause of generating the cause and the effect (the body and senses); while the Spirit is said to be the cause of experiencing pleasure and pain.
 {eot}
 
 {sov: Verse 13.21}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-21.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-22.mp3
 
-कार्यकारणकर्तृत्वे हेतु: प्रकृतिरुच्यते |
-पुरुष: सुखदु:खानां भोक्तृत्वे हेतुरुच्यते || 21||
+पुरुषः प्रकृतिस्थो हि भुङ्क्ते प्रकृतिजान्गुणान् । 
+कारणं गुणसङ्गोऽस्य सदसद्योनिजन्मसु ॥ २१ ॥
 
-kārya-kāraṇa-kartṛitve hetuḥ prakṛitir uchyate
-puruṣhaḥ sukha-duḥkhānāṁ bhoktṛitve hetur uchyate
+puruṣaḥ prakṛtistho hi 
+bhuṅkte prakṛtijānguṇān | 
+kāraṇaṃ guṇasaṅgo’sya 
+sadasadyonijanmasu || 21 ||
 
-kārya—effect; kāraṇa—cause; kartṛitve—in the matter of creation; hetuḥ—the medium; prakṛitiḥ—the material energy; uchyate—is said to be; puruṣhaḥ—the individual soul; sukha-duḥkhānām—of happiness and distress; bhoktṛitve—in experiencing; hetuḥ—is responsible; uchyate—is said to be
+◈  puruṣaḥ – the Spirit; prakṛti-sthaḥ – seated in Nature; hi – indeed; 
+◈  bhuṅkte – experiences; prakṛti-jān – born of Nature; guṇān – qualities; 
+◈  kāraṇam – the cause; guṇa-saṅgaḥ – attachment to the qualities; asya – of his; 
+◈  sat-asat-yoni-janmasu – of birth in good and evil wombs.
+
 {eov}
 
 {sot}
-Prakriti is said to be the cause of the generation of the body and the organs, and Purusha is said to be the cause of the experience of pleasure and pain.
+The Spirit seated in Nature experiences the qualities (gunas) born of Nature; attachment to these qualities is the cause of his birth in good and evil wombs.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v19/
+https://vivekavani.com/b13v20/ -- > 13.19
 
-https://vivekavani.com/b13v20/
+https://vivekavani.com/b13v21/ -- > 13.20
 
-https://vivekavani.com/b13v21/
+https://vivekavani.com/b13v22/ -- > 13.21
 {end_of_analysis}

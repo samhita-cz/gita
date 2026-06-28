@@ -33,5 +33,5 @@ Humility, sincerity, non-violence (ahiṃsā), patience, straightforwardness, se
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v8/
+https://vivekavani.com/b13v8/ ---> 13.7
 {end_of_analysis}

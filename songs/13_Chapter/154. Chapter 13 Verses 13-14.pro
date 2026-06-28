@@ -13,39 +13,51 @@ https://open.spotify.com/episode/4EN1c7YlN5wIh3jb9H7yjA?si=da81931c54c64af0
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-13.mp3
 
-ज्ञेयं यत्तत्प्रवक्ष्यामि यज्ज्ञात्वामृतमश्रुते |
-अनादिमत्परं ब्रह्म न सत्तन्नासदुच्यते || 13||
+सर्वतः पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् । 
+सर्वतः श्रुतिमल्लोके सर्वमावृत्य तिष्ठति ॥ १३ ॥
 
-jñeyaṁ yat tat pravakṣhyāmi yaj jñātvāmṛitam aśhnute
-anādi mat-paraṁ brahma na sat tan nāsad uchyate
+sarvataḥ pāṇipādaṃ tat
+sarvato’kṣiśiromukham | 
+sarvataḥ śrutimalloke 
+sarvamāvṛtya tiṣṭhati || 13 ||
 
-jñeyam—ought to be known; yat—which; tat—that; pravakṣhyāmi—I shall now reveal; yat—which; jñātvā—knowing; amṛitam—immortality; aśhnute—one achieves; anādi—beginningless; mat-param—subordinate to Me; brahma—Brahman; na—not; sat—existent; tat—that; na—not; asat—non-existent; uchyate—is called
+◈  sarvataḥ – everywhere; pāṇi-pādam – hands and feet; tat – that (Brahman); 
+◈  sarvataḥ – everywhere; akṣi-śiraḥ-mukham – eyes, heads and mouths; 
+◈  sarvataḥ – everywhere; śrutimat – having ears; loke – in the world; 
+◈  sarvam – all; āvṛtya – pervading; tiṣṭhati – exists.
+
 {eov}
 
 {sot}
-I will now describe that which ought to be known, through the knowing of which one attains Immortality. It is the Supreme Brahman, which is without beginning and is said to be neither being nor non-being.
+It has hands and feet everywhere, eyes, heads and mouths everywhere, and ears everywhere in the universe; It exists pervading all.
 {eot}
 
 {sov: Verse 13.14}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-14.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-15-18.mp3 | 13.14-17
 
-सर्वत: पाणिपादं तत्सर्वतोऽक्षिशिरोमुखम् |
-सर्वत: श्रुतिमल्लोके सर्वमावृत्य तिष्ठति || 14||
+सर्वेन्द्रियगुणाभासं सर्वेन्द्रियविवर्जितम् । 
+असक्तं सर्वभृच्चैव निर्गुणं गुणभोक्तृ च ॥ १४ ॥
 
-sarvataḥ pāṇi-pādaṁ tat sarvato ’kṣhi-śhiro-mukham
-sarvataḥ śhrutimal loke sarvam āvṛitya tiṣhṭhati
+sarvendriyaguṇābhāsaṃ 
+sarvendriyavivarjitam | 
+asaktaṃ sarvabhṛccaiva 
+nirguṇaṃ guṇabhoktṛ ca || 14 ||
 
-sarvataḥ—everywhere; pāṇi—hands; pādam—feet; tat—that; sarvataḥ—everywhere; akṣhi—eyes; śhiraḥ—heads; mukham—faces; sarvataḥ—everywhere; śhruti-mat—having ears; loke—in the universe; sarvam—everything; āvṛitya—pervades; tiṣhṭhati—exists
+◈  sarva-indriya-guṇa-ābhāsam – shining by the functions of all senses; 
+◈  sarva-indriya-vivarjitam – yet without any senses; 
+◈  asaktam – unattached; sarva-bhṛt – the sustainer of all; ca – and; eva – indeed; 
+◈  nirguṇam – devoid of qualities (gunas); guṇa-bhoktṛ – the experiencer of qualities; ca – and.
+
 {eov}
 
 {sot}
-Its hands and feet are everywhere; Its eyes, heads, and faces are everywhere; Its ears are everywhere; Its existence envelops all.
+It perceives all sense-objects, yet is without any senses; It is unattached, yet sustains all; It is devoid of qualities (gunas), yet experiences them.
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b13v13/
+https://vivekavani.com/b13v14/ --> 13.13
 
-https://vivekavani.com/b13v14/
+https://vivekavani.com/b13v15/ --> 13.14 - 17
 
 {end_of_analysis}
