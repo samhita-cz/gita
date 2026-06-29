@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 कैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो |
 किमाचार: कथं चैतांस्त्रीन्गुणानतिवर्तते || 21||
 
-arjuna uvācha
-kair liṅgais trīn guṇān etān atīto bhavati prabho
-kim āchāraḥ kathaṁ chaitāns trīn guṇān ativartate
+arjuna uvāca |
+kair liṅgais trīn guṇān etān 
+atīto bhavati prabho |
+kim ācāraḥ kathaṁ caitāns 
+trīn guṇān ativartate || 21 ||
 
-arjunaḥ uvācha—Arjun inquired; kaiḥ—by what; liṅgaiḥ—symptoms; trīn—three; guṇān—modes of material nature; etān—these; atītaḥ—having transcended; bhavati—is; prabho—Lord; kim—what; āchāraḥ—conduct; katham—how; cha—and; etān—these; trīn—three; guṇān—modes of material nature; ativartate—transcend
+◈  arjunaḥ uvāca—Arjun inquired; 
+◈  kaiḥ—by what; liṅgaiḥ—symptoms; trīn—three; guṇān—modes of material nature; etān—these; 
+◈  atītaḥ—having transcended; bhavati—is; prabho—Lord; 
+◈  kim—what; ācāraḥ—conduct; katham—how; ca—and; etān—these; 
+◈  trīn—three; guṇān—modes of material nature; ativartate—transcend
 {eov}
 
 {sot}
@@ -36,11 +42,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 प्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |
 न द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ् क्षति || 22||
 
-śhrī-bhagavān uvācha
-prakāśhaṁ cha pravṛittiṁ cha moham eva cha pāṇḍava
-na dveṣhṭi sampravṛittāni na nivṛittāni kāṅkṣhati
+śhrī-bhagavān uvāca |
+prakāśhaṁ ca pravṛittiṁ ca 
+moham eva ca pāṇḍava |
+na dveṣhṭi sampravṛittāni 
+na nivṛittāni kāṅkṣhati || 22 ||
 
-śhrī-bhagavān uvācha—the Supreme Divine Personality said; prakāśham—illumination; cha—and; pravṛittim—activity; cha—and; moham—delusion; eva—even; cha—and; pāṇḍava—Arjun, the son of Pandu; na dveṣhṭi—do not hate; sampravṛittāni—when present; na—nor; nivṛittāni—when absent; kāṅkṣhati—longs;
+◈  hrī-bhagavān uvāca—the Supreme Divine Personality said; 
+◈  prakāśham—illumination; ca—and; pravṛittim—activity; ca—and; 
+◈  moham—delusion; eva—even; ca—and; pāṇḍava—Arjun, the son of Pandu; 
+◈  na dveṣhṭi—do not hate; sampravṛittāni—when present; 
+◈  na—nor; nivṛittāni—when absent; kāṅkṣhati—longs;
 {eov}
 
 {sot}

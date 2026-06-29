@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |
 सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ || 6||
 
-tatra sattvaṁ nirmalatvāt prakāśhakam anāmayam
-sukha-saṅgena badhnāti jñāna-saṅgena chānagha
+tatra sattvaṁ nirmalatvāt 
+prakāśhakam anāmayam |
+sukha-saṅgena badhnāti 
+jñāna-saṅgena cānagha || 6 ||
 
-tatra—amongst these; sattvam—mode of goodness; nirmalatvāt—being purest; prakāśhakam—illuminating; anāmayam—healthy and full of well-being; sukha—happiness; saṅgena—attachment; badhnāti—binds; jñāna—knowledge; saṅgena—attachment; cha—also; anagha—Arjun, the sinless one
+◈  tatra—amongst these; sattvam—mode of goodness; nirmalatvāt—being purest; 
+◈  prakāśhakam—illuminating; anāmayam—healthy and full of well-being; 
+◈  sukha—happiness; saṅgena—attachment; badhnāti—binds; 
+◈  jñāna—knowledge; saṅgena—attachment; ca—also; anagha—Arjun, the sinless one
 {eov}
 
 {sot}

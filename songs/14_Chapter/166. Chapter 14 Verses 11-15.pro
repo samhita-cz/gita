@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते |
 ज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत || 11||
 
-sarva-dvāreṣhu dehe ’smin prakāśha upajāyate
-jñānaṁ yadā tadā vidyād vivṛiddhaṁ sattvam ity uta
+sarva-dvāreṣhu dehe ’smin 
+prakāśha upajāyate |
+jñānaṁ yadā tadā vidyād 
+vivṛiddhaṁ sattvam ity uta || 11 ||
 
-sarva—all; dvāreṣhu—through the gates; dehe—body; asmin—in this; prakāśhaḥ—illumination; upajāyate—manifest; jñānam—knowledge; yadā—when; tadā—then; vidyāt—know; vivṛiddham—predominates; sattvam—mode of goodness; iti—thus; uta—certainly;
+◈  sarva—all; dvāreṣhu—through the gates; dehe—body; asmin—in this; 
+◈  prakāśhaḥ—illumination; upajāyate—manifest; 
+◈  jñānam—knowledge; yadā—when; tadā—then; vidyāt—know; 
+◈  vivṛiddham—predominates; sattvam—mode of goodness; iti—thus; uta—certainly;
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 लोभ: प्रवृत्तिरारम्भ: कर्मणामशम: स्पृहा |
 रजस्येतानि जायन्ते विवृद्धे भरतर्षभ || 12||
 
-lobhaḥ pravṛittir ārambhaḥ karmaṇām aśhamaḥ spṛihā
-rajasy etāni jāyante vivṛiddhe bharatarṣhabha
+lobhaḥ pravṛittir ārambhaḥ 
+karmaṇām aśhamaḥ spṛihā |
+rajasy etāni jāyante 
+vivṛiddhe bharatarṣhabha || 12 ||
 
-lobhaḥ—greed; pravṛittiḥ—activity; ārambhaḥ—exertion; karmaṇām—for fruitive actions; aśhamaḥ—restlessness; spṛihā—craving; rajasi—of the mode of passion; etāni—these; jāyante—develop; vivṛiddhe—when predominates; bharata-ṛiṣhabha—the best of the Bharatas, Arjun;
+◈  lobhaḥ—greed; pravṛittiḥ—activity; ārambhaḥ—exertion; 
+◈  karmaṇām—for fruitive actions; aśhamaḥ—restlessness; spṛihā—craving; 
+◈  rajasi—of the mode of passion; etāni—these; jāyante—develop; 
+◈  vivṛiddhe—when predominates; bharata-ṛiṣhabha—the best of the Bharatas, Arjun;
 
 {eov}
 
@@ -48,10 +58,18 @@ Greed, activity, enterprise, unrest, longing— these arise, Ο lord of the Bhā
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14-Verse-13.mp3
 
-aprakāśho ’pravṛittiśh cha pramādo moha eva cha
-tamasy etāni jāyante vivṛiddhe kuru-nandana
+अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च । 
+तमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ॥ १३ ॥
 
-aprakāśhaḥ—nescience; apravṛittiḥ—inertia; cha—and; pramādaḥ—negligence; mohaḥ—delusion; eva—indeed; cha—also; tamasi—mode of ignorance; etāni—these; jāyante—manifest; vivṛiddhe—when dominates; kuru-nandana—the joy of the Kurus, Arjun
+aprakāśho ’pravṛittiśh ca 
+pramādo moha eva ca |
+tamasy etāni jāyante 
+vivṛiddhe kuru-nandana || 13 ||
+
+◈  aprakāśhaḥ—nescience; apravṛittiḥ—inertia; ca—and; 
+◈  pramādaḥ—negligence; mohaḥ—delusion; eva—indeed; ca—also; 
+◈  tamasi—mode of ignorance; etāni—these; jāyante—manifest; 
+◈  vivṛiddhe—when dominates; kuru-nandana—the joy of the Kurus, Arjun
 {eov}
 
 {sot}
@@ -65,10 +83,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |
 तदोत्तमविदां लोकानमलान्प्रतिपद्यते || 14||
 
-yadā sattve pravṛiddhe tu pralayaṁ yāti deha-bhṛit
-tadottama-vidāṁ lokān amalān pratipadyate
+yadā sattve pravṛiddhe tu 
+pralayaṁ yāti deha-bhṛit |
+tadottama-vidāṁ lokān 
+amalān pratipadyate || 14 ||
 
-yadā—when; sattve—in the mode of goodness; pravṛiddhe—when premodinates; tu—indeed; pralayam—death; yāti—reach; deha-bhṛit—the embodied; tadā—then; uttama-vidām—of the learned; lokān—abodes; amalān—pure; pratipadyate—attains;
+◈  yadā—when; sattve—in the mode of goodness; pravṛiddhe—when predominates; tu—indeed; 
+◈  pralayam—death; yāti—reach; deha-bhṛit—the embodied; 
+◈  tadā—then; uttama-vidām—of the learned; lokān—abodes; 
+◈  amalān—pure; pratipadyate—attains;
 {eov}
 
 {sot}
@@ -82,10 +105,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |
 तथा प्रलीनस्तमसि मूढयोनिषु जायते || 15||
 
-rajasi pralayaṁ gatvā karma-saṅgiṣhu jāyate
-tathā pralīnas tamasi mūḍha-yoniṣhu jāyate
+rajasi pralayaṁ gatvā 
+karma-saṅgiṣhu jāyate |
+tathā pralīnas tamasi 
+mūḍha-yoniṣhu jāyate || 15 ||
 
-rajasi—in the mode of passion; pralayam—death; gatvā—attaining; karma-saṅgiṣhu—among people driven by work; jāyate—are born; tathā—likewise; pralīnaḥ—dying; tamasi—in the mode of ignorance; mūḍha-yoniṣhu—in the animal kingdom; jāyate—takes birth
+◈  rajasi—in the mode of passion; pralayam—death; gatvā—attaining; 
+◈  karma-saṅgiṣhu—among people driven by work; jāyate—are born; 
+◈  tathā—likewise; pralīnaḥ—dying; tamasi—in the mode of ignorance; 
+◈  mūḍha-yoniṣhu—in the animal kingdom; jāyate—takes birth
 {eov}
 
 {sot}

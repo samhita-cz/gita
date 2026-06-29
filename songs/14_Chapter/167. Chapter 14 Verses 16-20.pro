@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 कर्मण: सुकृतस्याहु: सात्त्विकं निर्मलं फलम् |
 रजसस्तु फलं दु:खमज्ञानं तमस: फलम् || 16||
 
-karmaṇaḥ sukṛitasyāhuḥ sāttvikaṁ nirmalaṁ phalam
-rajasas tu phalaṁ duḥkham ajñānaṁ tamasaḥ phalam
+karmaṇaḥ sukṛitasyāhuḥ 
+sāttvikaṁ nirmalaṁ phalam |
+rajasas tu phalaṁ duḥkham 
+ajñānaṁ tamasaḥ phalam || 16 ||
 
-karmaṇaḥ—of action; su-kṛitasya—pure; āhuḥ—is said; sāttvikam—mode of goodness; nirmalam—pure; phalam—result; rajasaḥ—mode of passion; tu—indeed; phalam—result; duḥkham—pain; ajñānam—ignorance; tamasaḥ—mode of ignorance; phalam—result
+◈  karmaṇaḥ—of action; su-kṛitasya—pure; āhuḥ—is said; 
+◈  sāttvikam—mode of goodness; nirmalam—pure; phalam—result; 
+◈  rajasaḥ—mode of passion; tu—indeed; phalam—result; duḥkham—pain; 
+◈  ajñānam—ignorance; tamasaḥ—mode of ignorance; phalam—result
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |
 प्रमादमोहौ तमसो भवतोऽज्ञानमेव च || 17||
 
-sattvāt sañjāyate jñānaṁ rajaso lobha eva cha
-pramāda-mohau tamaso bhavato ’jñānam eva cha
+sattvāt sañjāyate jñānaṁ 
+rajaso lobha eva ca |
+pramāda-mohau tamaso 
+bhavato ’jñānam eva ca|| 17 ||
 
-sattvāt—from the mode of goodness; sañjāyate—arises; jñānam—knowledge; rajasaḥ—from the mode of passion; lobhaḥ—greed; eva—indeed; cha—and; pramāda—negligence; mohau—delusion; tamasaḥ—from the mode of ignorance; bhavataḥ—arise; ajñānam—ignorance; eva—indeed; cha—and
+◈  sattvāt—from the mode of goodness; sañjāyate—arises; jñānam—knowledge; 
+◈  rajasaḥ—from the mode of passion; lobhaḥ—greed; eva—indeed; ca—and; 
+◈  pramāda—negligence; mohau—delusion; tamasaḥ—from the mode of ignorance; 
+◈  bhavataḥ—arise; ajñānam—ignorance; eva—indeed; ca—and
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसा: |
 जघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसा: || 18||
 
-ūrdhvaṁ gachchhanti sattva-sthā madhye tiṣhṭhanti rājasāḥ
-jaghanya-guṇa-vṛitti-sthā adho gachchhanti tāmasāḥ
+ūrdhvaṁ gacchhanti sattva-sthā 
+madhye tiṣhṭhanti rājasāḥ
+jaghanya-guṇa-vṛitti-sthā 
+adho gacchhanti tāmasāḥ
 
-ūrdhvam—upward; gachchhanti—rise; sattva-sthāḥ—those situated in the mode of goodness; madhye—in the middle; tiṣhṭhanti—stay; rājasāḥ—those in the mode of passion; jaghanya—abominable; guṇa—quality; vṛitti-sthāḥ—engaged in activities; adhaḥ—down; gachchhanti—go; tāmasāḥ—those in the mode of ignorance
+◈  ūrdhvam—upward; gacchhanti—rise; sattva-sthāḥ—those situated in the mode of goodness; 
+◈  madhye—in the middle; tiṣhṭhanti—stay; rājasāḥ—those in the mode of passion; 
+◈  jaghanya—abominable; guṇa—quality; vṛitti-sthāḥ—engaged in activities; 
+◈  adhaḥ—down; gacchhanti—go; tāmasāḥ—those in the mode of ignorance
 
 {eov}
 
@@ -68,10 +83,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 नान्यं गुणेभ्य: कर्तारं यदा द्रष्टानुपश्यति |
 गुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति || 19||
 
-nānyaṁ guṇebhyaḥ kartāraṁ yadā draṣhṭānupaśhyati
-guṇebhyaśh cha paraṁ vetti mad-bhāvaṁ so ’dhigachchhati
+nānyaṁ guṇebhyaḥ kartāraṁ 
+yadā draṣhṭānupaśhyati |
+guṇebhyaśh ca paraṁ vetti 
+mad-bhāvaṁ so ’dhigacchhati || 19||
 
-na—no; anyam—other; guṇebhyaḥ—of the guṇas; kartāram—agents of action; yadā—when; draṣhṭā—the seer; anupaśhyati—see; guṇebhyaḥ—to the modes of nature; cha—and; param—transcendental; vetti—know; mad-bhāvam—my divine nature; saḥ—they; adhigachchhati—attain
+◈  na—no; anyam—other; guṇebhyaḥ—of the guṇas; kartāram—agents of action; 
+◈  yadā—when; draṣhṭā—the seer; anupaśhyati—see; 
+◈  guṇebhyaḥ—to the modes of nature; ca—and; param—transcendental; vetti—know; 
+◈  mad-bhāvam—my divine nature; saḥ—they; adhigacchhati—attain
 {eov}
 
 {sot}
@@ -85,10 +105,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |
 जन्ममृत्युजरादु:खैर्विमुक्तोऽमृतमश्रुते || 20||
 
-guṇān etān atītya trīn dehī deha-samudbhavān
-janma-mṛityu-jarā-duḥkhair vimukto ’mṛitam aśhnute
+guṇān etān atītya trīn 
+dehī deha-samudbhavān |
+janma-mṛityu-jarā-duḥkhair 
+vimukto ’mṛitam aśhnute || 20 ||
 
-guṇān—the three modes of material nature; etān—these; atītya—transcending; trīn—three; dehī—the embodied; deha—body; samudbhavān—produced of; janma—birth; mṛityu—death; jarā—old age; duḥkhaiḥ—misery; vimuktaḥ—free from; amṛitam—immortality; aśhnute—attains
+◈  guṇān—the three modes of material nature; etān—these; atītya—transcending; trīn—three; 
+◈  dehī—the embodied; deha—body; samudbhavān—produced of; 
+◈  janma—birth; mṛityu—death; jarā—old age; duḥkhaiḥ—misery; 
+◈  vimuktaḥ—free from; amṛitam—immortality; aśhnute—attains
 {eov}
 
 {sot}

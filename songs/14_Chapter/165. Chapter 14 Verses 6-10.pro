@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |
 सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ || 6||
 
-tatra sattvaṁ nirmalatvāt prakāśhakam anāmayam
-sukha-saṅgena badhnāti jñāna-saṅgena chānagha
+tatra sattvaṁ nirmalatvāt 
+prakāśhakam anāmayam |
+sukha-saṅgena badhnāti 
+jñāna-saṅgena cānagha || 6 ||
 
-tatra—amongst these; sattvam—mode of goodness; nirmalatvāt—being purest; prakāśhakam—illuminating; anāmayam—healthy and full of well-being; sukha—happiness; saṅgena—attachment; badhnāti—binds; jñāna—knowledge; saṅgena—attachment; cha—also; anagha—Arjun, the sinless one
+◈  tatra—amongst these; sattvam—mode of goodness; nirmalatvāt—being purest; 
+◈  prakāśhakam—illuminating; anāmayam—healthy and full of well-being; 
+◈  sukha—happiness; saṅgena—attachment; badhnāti—binds; 
+◈  jñāna—knowledge; saṅgena—attachment; ca—also; anagha—Arjun, the sinless one
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् |
 तन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् || 7||
 
-rajo rāgātmakaṁ viddhi tṛiṣhṇā-saṅga-samudbhavam
-tan nibadhnāti kaunteya karma-saṅgena dehinam
+rajo rāgātmakaṁ viddhi 
+tṛiṣhṇā-saṅga-samudbhavam |
+tan nibadhnāti kaunteya 
+karma-saṅgena dehinam|| 7 ||
 
-rajaḥ—mode of passion; rāga-ātmakam—of the nature of passion; viddhi—know; tṛiṣhṇā—desires; saṅga—association; samudbhavam—arises from; tat—that; nibadhnāti—binds; kaunteya—Arjun, the son of Kunti; karma-saṅgena—through attachment to fruitive actions; dehinam—the embodied soul
+◈  rajaḥ—mode of passion; rāga-ātmakam—of the nature of passion; viddhi—know; 
+◈  tṛiṣhṇā—desires; saṅga—association; samudbhavam—arises from; 
+◈  tat—that; nibadhnāti—binds; kaunteya—Arjun, the son of Kunti; 
+◈  karma-saṅgena—through attachment to fruitive actions; dehinam—the embodied soul
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |
 प्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत || 8||
 
-tamas tv ajñāna-jaṁ viddhi mohanaṁ sarva-dehinām
-pramādālasya-nidrābhis tan nibadhnāti bhārata
+tamas tv ajñāna-jaṁ viddhi 
+mohanaṁ sarva-dehinām |
+pramādālasya-nidrābhis 
+tan nibadhnāti bhārata || 8 ||
 
-tamaḥ—mode of ignorance; tu—but; ajñāna-jam—born of ignorance; viddhi—know; mohanam—illusion; sarva-dehinām—for all the embodied souls; pramāda—negligence; ālasya—laziness; nidrābhiḥ—sleep; tat—that; nibadhnāti—binds; bhārata—Arjun, the son of Bharat
+◈  tamaḥ—mode of ignorance; tu—but; ajñāna-jam—born of ignorance; viddhi—know; 
+◈  mohanam—illusion; sarva-dehinām—for all the embodied souls; 
+◈  pramāda—negligence; ālasya—laziness; nidrābhiḥ—sleep; 
+◈  tat—that; nibadhnāti—binds; bhārata—Arjun, the son of Bharat
 {eov}
 
 {sot}
@@ -67,10 +82,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 सत्त्वं सुखे सञ्जयति रज: कर्मणि भारत |
 ज्ञानमावृत्य तु तम: प्रमादे सञ्जयत्युत || 9||
 
-sattvaṁ sukhe sañjayati rajaḥ karmaṇi bhārata
-jñānam āvṛitya tu tamaḥ pramāde sañjayaty uta
+sattvaṁ sukhe sañjayati 
+rajaḥ karmaṇi bhārata |
+jñānam āvṛitya tu tamaḥ 
+pramāde sañjayaty uta || 9 ||
 
-sattvam—mode of goodness; sukhe—to happiness; sañjayati—binds; rajaḥ—mode of passion; karmaṇi—toward actions; bhārata—Arjun, the son of Bharat; jñānam—wisdom; āvṛitya—clouds; tu—but; tamaḥ—mode of ignorance; pramāde—to delusion; sañjayati—binds; uta—indeed
+◈  sattvam—mode of goodness; sukhe—to happiness; sañjayati—binds; 
+◈  rajaḥ—mode of passion; karmaṇi—toward actions; bhārata—Arjun, the son of Bharat; 
+◈  jñānam—wisdom; āvṛitya—clouds; tu—but; tamaḥ—mode of ignorance; 
+◈  pramāde—to delusion; sañjayati—binds; uta—indeed
 {eov}
 
 {sot}
@@ -84,10 +104,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 रजस्तमश्चाभिभूय सत्त्वं भवति भारत |
 रज: सत्त्वं तमश्चैव तम: सत्त्वं रजस्तथा || 10||
 
-rajas tamaśh chābhibhūya sattvaṁ bhavati bhārata
-rajaḥ sattvaṁ tamaśh chaiva tamaḥ sattvaṁ rajas tathā
+rajas tamaśh cābhibhūya 
+sattvaṁ bhavati bhārata |
+rajaḥ sattvaṁ tamaśh caiva 
+tamaḥ sattvaṁ rajas tathā || 10 ||
 
-rajaḥ—mode of passion; tamaḥ—mode of ignorance; cha—and; abhibhūya—prevails; sattvam—mode of goodness; bhavati—becomes; bhārata—Arjun, the son of Bharat; rajaḥ—mode of passion; sattvam—mode of goodness; tamaḥ—mode of ignorance; cha—and; eva—indeed; tamaḥ—mode of ignorance; sattvam—mode of goodness; rajaḥ—mode of passion; tathā—also
+◈  rajaḥ—mode of passion; tamaḥ—mode of ignorance; ca—and; abhibhūya—prevails; 
+◈  sattvam—mode of goodness; bhavati—becomes; bhārata—Arjun, the son of Bharat; 
+◈  rajaḥ—mode of passion; sattvam—mode of goodness; tamaḥ—mode of ignorance; ca—and; eva—indeed; 
+◈  tamaḥ—mode of ignorance; sattvam—mode of goodness; rajaḥ—mode of passion; tathā—also
 {eov}
 
 {sot}

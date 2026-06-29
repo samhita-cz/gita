@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 परं भूय: प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् |
 यज्ज्ञात्वा मुनय: सर्वे परां सिद्धिमितो गता: || 1||
 
-śhrī-bhagavān uvācha
-paraṁ bhūyaḥ pravakṣhyāmi jñānānāṁ jñānam uttamam
-yaj jñātvā munayaḥ sarve parāṁ siddhim ito gatāḥ
+śhrī-bhagavān uvāca |
+paraṁ bhūyaḥ pravakṣhyāmi 
+jñānānāṁ jñānam uttamam |
+yaj jñātvā munayaḥ sarve 
+parāṁ siddhim ito gatāḥ || 1 ||
 
-śhrī-bhagavān uvācha—the Divine Lord said; param—supreme; bhūyaḥ—again; pravakṣhyāmi—I shall explain; jñānānām—of all knowledge; jñānam uttamam—the supreme wisdom; yat—which; jñātvā—knowing; munayaḥ—saints; sarve—all; parām—highest; siddhim—perfection; itaḥ—through this; gatāḥ—attained
+◈  śhrī-bhagavān uvāca—the Divine Lord said; 
+◈  param—supreme; bhūyaḥ—again; pravakṣhyāmi—I shall explain;
+◈  jñānānām—of all knowledge; jñānam uttamam—the supreme wisdom; 
+◈  yat—which; jñātvā—knowing; munayaḥ—saints; sarve—all;
+parām—highest; siddhim—perfection; itaḥ—through this; gatāḥ—attained
 {eov}
 
 {sot}
@@ -35,10 +41,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागता: |
 सर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च || 2||
 
-idaṁ jñānam upāśhritya mama sādharmyam āgatāḥ
-sarge ’pi nopajāyante pralaye na vyathanti cha
+idaṁ jñānam upāśhritya 
+mama sādharmyam āgatāḥ |
+sarge ’pi nopajāyante 
+pralaye na vyathanti ca || 2 ||
 
-idam—this; jñānam—wisdom; upāśhritya—take refuge in; mama—mine; sādharmyam—of similar nature; āgatāḥ—having attained; sarge—at the time of creation; api—even; na—not; upajāyante—are born; pralaye—at the time of dissolution; na-vyathanti—they will not experience misery; cha—and
+◈  idam—this; jñānam—wisdom; upāśhritya—take refuge in; 
+◈  mama—mine; sādharmyam—of similar nature; āgatāḥ—having attained; 
+◈  sarge—at the time of creation; api—even; na—not; upajāyante—are born; 
+◈  pralaye—at the time of dissolution; na-vyathanti—they will not experience misery; ca—and
 {eov}
 
 {sot}
@@ -52,10 +63,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् |
 सम्भव: सर्वभूतानां ततो भवति भारत || 3||
 
-mama yonir mahad brahma tasmin garbhaṁ dadhāmy aham
-sambhavaḥ sarva-bhūtānāṁ tato bhavati bhārata
+mama yonir mahad brahma 
+tasmin garbhaṁ dadhāmy aham |
+sambhavaḥ sarva-bhūtānāṁ 
+tato bhavati bhārata || 3 ||
 
-mama—my; yoniḥ—womb; mahat brahma—the total material substance, prakṛiti; tasmin—in that; garbham—womb; dadhāmi—impregnate; aham—I; sambhavaḥ—birth; sarva-bhūtānām—of all living beings; tataḥ—thereby; bhavati—becomes; bhārata—Arjun, the son of Bharat;
+◈  mama—my; yoniḥ—womb; mahat brahma—the total material substance, prakṛiti; 
+◈  tasmin—in that; garbham—womb; dadhāmi—impregnate; aham—I; 
+◈  sambhavaḥ—birth; sarva-bhūtānām—of all living beings; 
+◈  tataḥ—thereby; bhavati—becomes; bhārata—Arjun, the son of Bharat;
 
 {eov}
 
@@ -70,10 +86,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 सर्वयोनिषु कौन्तेय मूर्तय: सम्भवन्ति या: |
 तासां ब्रह्म महद्योनिरहं बीजप्रद: पिता || 4||
 
-sarva-yoniṣhu kaunteya mūrtayaḥ sambhavanti yāḥ
-tāsāṁ brahma mahad yonir ahaṁ bīja-pradaḥ pitā
+sarva-yoniṣhu kaunteya 
+mūrtayaḥ sambhavanti yāḥ |
+tāsāṁ brahma mahad yonir 
+ahaṁ bīja-pradaḥ pitā || 4 ||
 
-sarva—all; yoniṣhu—species of life; kaunteya—Arjun, the son of Kunti; mūrtayaḥ—forms; sambhavanti—are produced; yāḥ—which; tāsām—of all of them; brahma-mahat—great material nature; yoniḥ—womb; aham—I; bīja-pradaḥ—seed-giving; pitā—Father
+◈  sarva—all; yoniṣhu—species of life; kaunteya—Arjun, the son of Kunti; 
+◈  mūrtayaḥ—forms; sambhavanti—are produced; yāḥ—which; 
+◈  tāsām—of all of them; brahma-mahat—great material nature; yoniḥ—womb; 
+◈  aham—I; bīja-pradaḥ—seed-giving; pitā—Father
 {eov}
 
 {sot}
@@ -87,10 +108,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14
 सत्त्वं रजस्तम इति गुणा: प्रकृतिसम्भवा: |
 निबध्नन्ति महाबाहो देहे देहिनमव्ययम् || 5||
 
-sattvaṁ rajas tama iti guṇāḥ prakṛiti-sambhavāḥ
-nibadhnanti mahā-bāho dehe dehinam avyayam
+sattvaṁ rajas tama iti 
+guṇāḥ prakṛiti-sambhavāḥ |
+nibadhnanti mahā-bāho 
+dehe dehinam avyayam || 5 ||
 
-sattvam—mode of goodness; rajaḥ—mode of passion; tamaḥ—mode of ignorance; iti—thus; guṇāḥ—modes; prakṛiti—material nature; sambhavāḥ—consists of; nibadhnanti—bind; mahā-bāho—mighty-armed one; dehe—in the body; dehinam—the embodied soul; avyayam—eternal
+◈  sattvam—mode of goodness; rajaḥ—mode of passion; tamaḥ—mode of ignorance; iti—thus; 
+◈  guṇāḥ—modes; prakṛiti—material nature; sambhavāḥ—consists of; 
+◈  nibadhnanti—bind; mahā-bāho—mighty-armed one; 
+◈  dehe—in the body; dehinam—the embodied soul; avyayam—eternal
 {eov}
 
 {sot}
